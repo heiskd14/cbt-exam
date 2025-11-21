@@ -60,12 +60,23 @@ Then access it at the provided URL in the webview panel.
 - **S**: Submit exam
 
 ## Recent Changes
-- 2025-11-21: Converted from Tkinter desktop app to Flask web application
-  - Created Flask backend with routes for registration, exam, results, and correction
+- 2025-11-21: Complete web app conversion and mobile optimization
+  - Converted from Tkinter desktop app to Flask web application
   - Built responsive web interface with HTML/CSS/JavaScript
   - Implemented real-time timer and calculator features
   - Configured to run on port 5000 with webview
+  - **PWA Ready**: Installable as app on Android/iOS home screen
+  - **Service Worker**: Offline support and caching
+  - **Deployment Ready**: Published with autoscale on Replit
+  - Mobile-optimized interface with touch support
   - Maintains all original features (keyboard shortcuts, question navigation, scoring)
+
+## Deployment & Access
+- **Published URL**: Use Replit's Publish button to get public URL
+- **PWA Installation**: 
+  - Android: Chrome menu → "Install app"
+  - iOS: Safari → Share → "Add to Home Screen"
+- **Direct URL**: Can be accessed from any browser on desktop/mobile
 
 ## User Preferences
 None specified yet.
