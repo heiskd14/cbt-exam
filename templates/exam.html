@@ -31,7 +31,8 @@
         
         <form id="answer-form">
             <div class="options">
-                {% for idx, option in enumerate(question.options) %}
+                {% for option in question.options %}
+                {% set idx = loop.index0 %}
                 <label class="option {% if answers[current_question] == idx %}selected{% endif %}">
                     <input type="radio" 
                            name="option" 
