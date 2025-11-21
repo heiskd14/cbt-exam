@@ -77,14 +77,14 @@ function calcEquals() {
 
 document.addEventListener('keydown', function(e) {
     if (e.key === 'ArrowLeft') {
-        const prevBtn = document.querySelector('button[type="submit"][name*="prev"]');
+        const prevBtn = document.getElementById('prev-btn');
         if (prevBtn && !prevBtn.disabled) {
-            prevBtn.closest('form').submit();
+            document.getElementById('prev-form').submit();
         }
     } else if (e.key === 'ArrowRight') {
-        const nextBtn = document.querySelector('button[type="submit"][name*="next"]');
+        const nextBtn = document.getElementById('next-btn');
         if (nextBtn && !nextBtn.disabled) {
-            nextBtn.closest('form').submit();
+            document.getElementById('next-form').submit();
         }
     } else if (['a', 'A'].includes(e.key)) {
         const option = document.querySelector('input[name="option"][value="0"]');
@@ -111,9 +111,9 @@ document.addEventListener('keydown', function(e) {
             submitAnswer(3);
         }
     } else if (['s', 'S'].includes(e.key)) {
-        const submitBtn = document.querySelector('form[action*="submit"] button');
-        if (submitBtn && confirm('Do you want to submit all subjects and continue?')) {
-            submitBtn.closest('form').submit();
+        const submitForm = document.getElementById('submit-form');
+        if (submitForm && confirm('Do you want to submit all subjects and continue?')) {
+            submitForm.submit();
         }
     }
 });

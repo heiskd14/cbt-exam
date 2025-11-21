@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, session, redirect, url_for, jsonify
+from flask_session import Session
 import json
 import random
 import time
@@ -7,6 +8,10 @@ from datetime import datetime
 
 app = Flask(__name__)
 app.secret_key = 'jamb-cbt-secret-key-2025'
+app.config['SESSION_TYPE'] = 'filesystem'
+app.config['SESSION_FILE_DIR'] = '/tmp/flask_session'
+app.config['SESSION_PERMANENT'] = False
+Session(app)
 
 def load_questions(filename):
     with open(filename, "r", encoding="utf-8") as f:

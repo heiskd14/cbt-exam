@@ -44,6 +44,10 @@ Thumbs.db
 scores.json
 results.csv
 
+# Flask session files
+/tmp/flask_session/
+flask_session/
+
 # Replit
 .replit
 .upm/
