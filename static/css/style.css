@@ -1,0 +1,508 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.registration-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #137a13 0%, #065c06 100%);
+}
+
+.registration-box {
+    background: white;
+    padding: 60px 80px;
+    border-radius: 10px;
+    box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 500px;
+}
+
+.registration-title {
+    color: #137a13;
+    font-size: 32px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.form-input {
+    width: 100%;
+    padding: 15px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    transition: border-color 0.3s;
+}
+
+.form-input:focus {
+    outline: none;
+    border-color: #137a13;
+}
+
+.error-message {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #f5c6cb;
+}
+
+.btn {
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn-primary {
+    background-color: #137a13;
+    color: white;
+    width: 100%;
+}
+
+.btn-primary:hover {
+    background-color: #065c06;
+}
+
+.btn-secondary {
+    background-color: #2f89d6;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: #1e6db8;
+}
+
+.btn-submit {
+    background-color: #e67300;
+    color: white;
+    margin-top: 30px;
+}
+
+.btn-submit:hover {
+    background-color: #c55f00;
+}
+
+.exam-header {
+    background-color: #137a13;
+    padding: 15px 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.subject-tabs {
+    display: flex;
+    gap: 10px;
+}
+
+.subject-tab {
+    background-color: #137a13;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.subject-tab:hover {
+    background-color: #0f6610;
+}
+
+.subject-tab.active {
+    background-color: #065c06;
+}
+
+.exam-info {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.timer {
+    color: #fff200;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.question-info {
+    color: white;
+    font-size: 13px;
+}
+
+.student-info {
+    color: white;
+    font-size: 14px;
+}
+
+.calculator-btn {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.exam-body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.question-section {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.question-number {
+    color: #137a13;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.question-text {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.options {
+    margin-bottom: 30px;
+}
+
+.option {
+    display: block;
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    background-color: #f8f9fa;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.option:hover {
+    background-color: #e9ecef;
+    border-color: #137a13;
+}
+
+.option.selected {
+    background-color: #d4edda;
+    border-color: #137a13;
+}
+
+.option input[type="radio"] {
+    margin-right: 10px;
+}
+
+.option-text {
+    font-size: 16px;
+    color: #333;
+}
+
+.navigation-buttons {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.btn-nav {
+    background-color: #2f89d6;
+    color: white;
+    padding: 12px 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn-nav:hover:not(:disabled) {
+    background-color: #1e6db8;
+}
+
+.btn-nav:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.question-grid {
+    display: grid;
+    grid-template-columns: repeat(15, 1fr);
+    gap: 8px;
+    margin-bottom: 30px;
+}
+
+.question-number-btn {
+    padding: 10px;
+    background-color: #d9d9d9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.question-number-btn:hover {
+    background-color: #bbb;
+}
+
+.question-number-btn.answered {
+    background-color: #dc3545;
+}
+
+.calculator {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 10px 50px rgba(0, 0, 0, 0.3);
+    width: 350px;
+    z-index: 1000;
+}
+
+.calculator-header {
+    background-color: #137a13;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.close-btn {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 28px;
+    cursor: pointer;
+    line-height: 1;
+}
+
+.calc-display {
+    width: 100%;
+    padding: 20px;
+    font-size: 28px;
+    text-align: right;
+    border: none;
+    background-color: #f8f9fa;
+}
+
+.calc-buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background-color: #ddd;
+    padding: 1px;
+}
+
+.calc-buttons button {
+    padding: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.calc-buttons button:hover {
+    background-color: #e9ecef;
+}
+
+.calc-equals {
+    background-color: #137a13 !important;
+    color: white;
+}
+
+.calc-equals:hover {
+    background-color: #065c06 !important;
+}
+
+.results-header {
+    background-color: #137a13;
+    padding: 20px 40px;
+    color: white;
+}
+
+.results-header h1 {
+    font-size: 32px;
+}
+
+.results-body {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 40px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.results-title {
+    color: #137a13;
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.student-name {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 40px;
+}
+
+.results-list {
+    margin-bottom: 40px;
+}
+
+.result-item {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-left: 5px solid #137a13;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subject-name {
+    font-size: 20px;
+    color: #137a13;
+    font-weight: bold;
+}
+
+.score {
+    font-size: 18px;
+    color: #333;
+}
+
+.percentage {
+    font-size: 16px;
+    color: #666;
+}
+
+.results-actions {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.correction-body {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 40px 20px;
+}
+
+.correction-question {
+    background: white;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.correction-question-title {
+    color: #137a13;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.correction-options {
+    margin-top: 15px;
+}
+
+.correction-option {
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.correction-option.correct {
+    background-color: #d4edda;
+    border: 2px solid #28a745;
+}
+
+.correction-option.wrong {
+    background-color: #f8d7da;
+    border: 2px solid #dc3545;
+}
+
+.badge {
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.correct-badge {
+    background-color: #28a745;
+    color: white;
+}
+
+.wrong-badge {
+    background-color: #dc3545;
+    color: white;
+}
+
+.correction-actions {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+@media (max-width: 768px) {
+    .question-grid {
+        grid-template-columns: repeat(10, 1fr);
+    }
+    
+    .exam-header {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .registration-box {
+        padding: 40px 30px;
+        margin: 20px;
+    }
+}

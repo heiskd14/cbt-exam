@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block title %}Answer Correction{% endblock %}
+
+{% block content %}
+<div class="exam-header">
+    <div class="subject-tabs">
+        {% for subject in subjects %}
+        <a href="{{ url_for('correction', subject=subject) }}" 
+           class="subject-tab {% if subject == current_subject %}active{% endif %}">
+            {{ subject }}
+        </a>
+        {% endfor %}
+    </div>
+    
+    <div class="exam-info">
+        <span class="student-info">{{ student_info.name }} ({{ student_info.regno }})</span>
+    </div>
+</div>
+
+<div class="correction-body">
+    {% for q in questions %}
+    <div class="correction-question">
+        <h3 class="correction-question-title">Q{{ q.number }}: {{ q.question }}</h3>
+        
+        <div class="correction-options">
+            {% for opt in q.options %}
+            <div class="correction-option {% if opt.is_correct %}correct{% elif opt.is_user_choice %}wrong{% endif %}">
+                {{ 'ABCD'[loop.index0] }}. {{ opt.text }}
+                {% if opt.is_correct %}
+                <span class="badge correct-badge">✓ Correct</span>
+                {% elif opt.is_user_choice %}
+                <span class="badge wrong-badge">✗ Your Answer</span>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+    
+    <div class="correction-actions">
+        <a href="{{ url_for('results') }}" class="btn btn-secondary">Back to Results</a>
+        <a href="{{ url_for('index') }}" class="btn btn-primary">Return to Registration</a>
+    </div>
+</div>
+{% endblock %}
