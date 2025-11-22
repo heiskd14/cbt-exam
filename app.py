@@ -144,7 +144,7 @@ def exam():
     if 'student_info' not in session:
         return redirect(url_for('index'))
     
-    current_subject = session.get('current_subject', 'English')
+    current_subject = session.get('current_subject', 'Use of English')
     current_question = session.get('current_question', 0)
     
     subject_questions = session['subject_questions']
@@ -261,7 +261,7 @@ def correction():
     if 'student_info' not in session or 'results' not in session:
         return redirect(url_for('index'))
     
-    current_subject = request.args.get('subject', 'English')
+    current_subject = request.args.get('subject', 'Use of English')
     
     questions = session['subject_questions'][current_subject]
     answers = session['subject_answers'][current_subject]
