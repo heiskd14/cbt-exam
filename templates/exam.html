@@ -4,9 +4,9 @@
 
 {% block content %}
 <div class="exam-header">
-    <div class="subject-tabs">
+    <div class="subject-tabs" id="subject-tabs">
         {% for subject in subjects %}
-        <form method="POST" action="{{ url_for('navigate') }}" style="display: inline;">
+        <form method="POST" action="{{ url_for('navigate') }}" style="display: inline; margin: 0;">
             <input type="hidden" name="action" value="switch_subject">
             <input type="hidden" name="subject" value="{{ subject }}">
             <button type="submit" class="subject-tab {% if subject == current_subject %}active{% endif %}">
@@ -19,7 +19,7 @@
     <div class="exam-info">
         <span class="timer" id="timer">Time Left: --:--</span>
         <span class="question-info">Answered: {{ answered_count }} / {{ total_questions }}</span>
-        <button type="button" class="calculator-btn" onclick="toggleCalculator()" title="Calculator">🖩</button>
+        <button type="button" class="calculator-btn" onclick="toggleCalculator()" title="Calculator">🖩 Calc</button>
         <span class="student-info">{{ student_info.name }} ({{ student_info.regno }})</span>
     </div>
 </div>

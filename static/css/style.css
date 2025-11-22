@@ -124,13 +124,15 @@ html, body {
     display: flex;
     gap: 8px;
     overflow-x: auto;
-    overflow-y: hidden;
-    padding: 8px 0;
+    overflow-y: visible;
+    padding: 10px 0;
     flex: 1;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: thin;
     scroll-behavior: smooth;
     min-width: 0;
+    width: 100%;
+    max-width: calc(100vw - 200px);
 }
 
 .subject-tab {
@@ -181,18 +183,22 @@ html, body {
 }
 
 .calculator-btn {
-    background: none;
-    border: 2px solid white;
+    background: rgba(255, 255, 255, 0.2);
+    border: 2px solid #fff;
     color: white;
-    font-size: 20px;
+    font-size: 16px;
+    font-weight: bold;
     cursor: pointer;
-    padding: 6px 10px;
-    border-radius: 5px;
+    padding: 8px 12px;
+    border-radius: 6px;
     transition: all 0.3s;
+    white-space: nowrap;
+    flex-shrink: 0;
 }
 
 .calculator-btn:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
 }
 
 .exam-body {
