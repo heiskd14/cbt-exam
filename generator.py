@@ -400,11 +400,7 @@ def generate_questions(subject_data, count=300):
     
     for i in range(count):
         base_q = template_questions[i % len(template_questions)]
-        # Create variation for questions beyond templates
-        if i >= len(template_questions):
-            question_text = f"{base_q[0]} (Variant {i // len(template_questions)})"
-        else:
-            question_text = base_q[0]
+        question_text = base_q[0]
         
         questions.append({
             "question": question_text,

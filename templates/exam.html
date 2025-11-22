@@ -19,7 +19,7 @@
     <div class="exam-info">
         <span class="timer" id="timer">Time Left: --:--</span>
         <span class="question-info">Answered: {{ answered_count }} / {{ total_questions }}</span>
-        <button type="button" class="calculator-btn" onclick="toggleCalculator()">🖩</button>
+        <button type="button" class="calculator-btn" onclick="toggleCalculator()" title="Calculator">🖩</button>
         <span class="student-info">{{ student_info.name }} ({{ student_info.regno }})</span>
     </div>
 </div>
@@ -66,7 +66,7 @@
             <form method="POST" action="{{ url_for('navigate') }}" style="display: inline;">
                 <input type="hidden" name="action" value="goto">
                 <input type="hidden" name="question_num" value="{{ i }}">
-                <button type="submit" class="question-number-btn {% if answers[i] is not none %}answered{% endif %}">
+                <button type="submit" class="question-number-btn {% if answers[i] is not none %}answered{% endif %}{% if i == current_question %} current{% endif %}">
                     {{ i + 1 }}
                 </button>
             </form>
