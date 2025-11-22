@@ -175,9 +175,12 @@ body {
 }
 
 .exam-body {
-    max-width: 1200px;
+    max-width: 100%;
+    width: 100%;
     margin: 0 auto;
     padding: 40px 20px;
+    box-sizing: border-box;
+    overflow-x: hidden;
 }
 
 .question-section {
@@ -185,6 +188,9 @@ body {
     padding: 40px;
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    box-sizing: border-box;
+    overflow: visible;
 }
 
 .question-number {

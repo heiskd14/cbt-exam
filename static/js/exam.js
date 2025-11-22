@@ -118,6 +118,26 @@ document.addEventListener('keydown', function(e) {
     }
 });
 
+// Auto-submit on page refresh
+window.addEventListener('beforeunload', function() {
+    sessionStorage.setItem('exam_session_id', Date.now());
+});
+
+// Check if this is a page reload/refresh
+window.addEventListener('load', function() {
+    const lastSessionId = sessionStorage.getItem('exam_session_id');
+    if (lastSessionId && Date.now() - parseInt(lastSessionId) < 500) {
+        // This is a refresh - auto submit
+        setTimeout(function() {
+            const submitForm = document.getElementById('submit-form');
+            if (submitForm) {
+                console.log('Auto-submitting exam due to page refresh...');
+                submitForm.submit();
+            }
+        }, 100);
+    }
+});
+
 if (document.getElementById('timer')) {
     updateTimer();
 }
