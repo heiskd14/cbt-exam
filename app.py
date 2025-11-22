@@ -58,12 +58,9 @@ def subject_selection():
     
     all_subjects = [
         "Use of English", "Mathematics", "Literature in English",
-        "History", "Government", "Economics", "Commerce",
-        "Geography", "Physics", "Chemistry", "Biology",
-        "Agriculture", "Principles of Accounts", "Physical and Health Education", "Music",
-        "Art", "French", "Arabic", "Hausa",
-        "Yoruba", "Igbo", "Christian Religious Studies", "Islamic Studies",
-        "Home Economics"
+        "Government", "Economics", "Commerce",
+        "Physics", "Chemistry", "Biology",
+        "Principles of Accounts", "Christian Religious Studies"
     ]
     return render_template('subject_selection.html', subjects=all_subjects)
 
@@ -81,12 +78,9 @@ def select_subjects():
     if len(selected_subjects) < 1:
         all_subjects = [
             "Use of English", "Mathematics", "Literature in English",
-            "History", "Government", "Economics", "Commerce",
-            "Geography", "Physics", "Chemistry", "Biology",
-            "Agriculture", "Principles of Accounts", "Physical and Health Education", "Music",
-            "Art", "French", "Arabic", "Hausa",
-            "Yoruba", "Igbo", "Christian Religious Studies", "Islamic Studies",
-            "Home Economics"
+            "Government", "Economics", "Commerce",
+            "Physics", "Chemistry", "Biology",
+            "Principles of Accounts", "Christian Religious Studies"
         ]
         error = "Please select at least 1 subject"
         return render_template('subject_selection.html', subjects=all_subjects, error=error)
@@ -95,27 +89,14 @@ def select_subjects():
         "Use of English": "use_of_english.json",
         "Mathematics": "mathematics.json",
         "Literature in English": "literature_in_english.json",
-        "History": "history.json",
         "Government": "government.json",
         "Economics": "economics.json",
         "Commerce": "commerce.json",
-        "Geography": "geography.json",
         "Physics": "physics.json",
         "Chemistry": "chemistry.json",
         "Biology": "biology.json",
-        "Agriculture": "agriculture.json",
         "Principles of Accounts": "principles_of_accounts.json",
-        "Physical and Health Education": "physical_and_health_education.json",
-        "Music": "music.json",
-        "Art": "art.json",
-        "French": "french.json",
-        "Arabic": "arabic.json",
-        "Hausa": "hausa.json",
-        "Yoruba": "yoruba.json",
-        "Igbo": "igbo.json",
-        "Christian Religious Studies": "christian_religious_studies.json",
-        "Islamic Studies": "islamic_studies.json",
-        "Home Economics": "home_economics.json"
+        "Christian Religious Studies": "christian_religious_studies.json"
     }
     
     subject_questions = {}
