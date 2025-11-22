@@ -56,7 +56,15 @@ def subject_selection():
     if 'student_info' not in session:
         return redirect(url_for('index'))
     
-    all_subjects = ["English", "Mathematics", "Chemistry", "Physics", "Biology"]
+    all_subjects = [
+        "Use of English", "Mathematics", "English Language", "Literature in English",
+        "History", "Government", "Economics", "Commerce",
+        "Geography", "Physics", "Chemistry", "Biology",
+        "Agriculture", "Principles of Accounts", "Physical and Health Education", "Music",
+        "Art", "French", "Arabic", "Hausa",
+        "Yoruba", "Igbo", "Christian Religious Studies", "Islamic Studies",
+        "Home Economics"
+    ]
     return render_template('subject_selection.html', subjects=all_subjects)
 
 @app.route('/select_subjects', methods=['POST'])
@@ -66,17 +74,49 @@ def select_subjects():
     
     selected_subjects = request.form.getlist('subjects')
     
+    # Make Use of English compulsory
+    if "Use of English" not in selected_subjects:
+        selected_subjects.append("Use of English")
+    
     if len(selected_subjects) < 1:
-        all_subjects = ["English", "Mathematics", "Chemistry", "Physics", "Biology"]
+        all_subjects = [
+            "Use of English", "Mathematics", "English Language", "Literature in English",
+            "History", "Government", "Economics", "Commerce",
+            "Geography", "Physics", "Chemistry", "Biology",
+            "Agriculture", "Principles of Accounts", "Physical and Health Education", "Music",
+            "Art", "French", "Arabic", "Hausa",
+            "Yoruba", "Igbo", "Christian Religious Studies", "Islamic Studies",
+            "Home Economics"
+        ]
         error = "Please select at least 1 subject"
         return render_template('subject_selection.html', subjects=all_subjects, error=error)
     
     subject_files = {
-        "English": "english.json",
-        "Mathematics": "maths.json",
-        "Chemistry": "chemistry.json",
+        "Use of English": "use_of_english.json",
+        "Mathematics": "mathematics.json",
+        "English Language": "english_language.json",
+        "Literature in English": "literature_in_english.json",
+        "History": "history.json",
+        "Government": "government.json",
+        "Economics": "economics.json",
+        "Commerce": "commerce.json",
+        "Geography": "geography.json",
         "Physics": "physics.json",
-        "Biology": "biology.json"
+        "Chemistry": "chemistry.json",
+        "Biology": "biology.json",
+        "Agriculture": "agriculture.json",
+        "Principles of Accounts": "principles_of_accounts.json",
+        "Physical and Health Education": "physical_and_health_education.json",
+        "Music": "music.json",
+        "Art": "art.json",
+        "French": "french.json",
+        "Arabic": "arabic.json",
+        "Hausa": "hausa.json",
+        "Yoruba": "yoruba.json",
+        "Igbo": "igbo.json",
+        "Christian Religious Studies": "christian_religious_studies.json",
+        "Islamic Studies": "islamic_studies.json",
+        "Home Economics": "home_economics.json"
     }
     
     subject_questions = {}
@@ -86,8 +126,8 @@ def select_subjects():
         file = subject_files.get(subj)
         if file and os.path.exists(file):
             qs = load_questions(file)
-            # 60 questions for English, 40 for others
-            num_questions = 60 if subj == "English" else 40
+            # 60 questions for Use of English, 40 for others
+            num_questions = 60 if subj == "Use of English" else 40
             subject_questions[subj] = random.sample(qs, min(num_questions, len(qs)))
             subject_answers[subj] = [None] * len(subject_questions[subj])
     
