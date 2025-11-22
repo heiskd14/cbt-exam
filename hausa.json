@@ -1,86 +1,166 @@
 [
   {
-    "question": "What role does hausa play?",
+    "question": "What is the definition",
     "options": [
-      "Minimal",
-      "None",
-      "Primary",
-      "Secondary"
+      "Bad",
+      "Incorrect",
+      "Wrong",
+      "Right"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Wrong",
+      "Incorrect",
+      "Bad"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
     ],
     "answer": 2
   },
   {
-    "question": "What is result of hausa?",
+    "question": "Identify the key concept",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Option D",
+      "Option B",
+      "Correct",
+      "Option A"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
-    "question": "What role does hausa play?",
+    "question": "State the principle",
     "options": [
-      "Primary",
-      "None",
-      "Minimal",
-      "Secondary"
+      "True",
+      "False",
+      "Correct",
+      "Maybe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Wrong",
+      "Incorrect",
+      "Bad"
     ],
     "answer": 0
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "What is the definition",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Incorrect",
+      "Wrong",
+      "Right",
+      "Bad"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "What is the definition",
     "options": [
-      "Correct definition",
+      "Bad",
       "Incorrect",
-      "Partial",
+      "Right",
       "Wrong"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
-    "question": "Which statement about hausa is true?",
+    "question": "What is the definition",
     "options": [
-      "Partially true",
+      "Bad",
+      "Incorrect",
+      "Wrong",
+      "Right"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "State the principle",
+    "options": [
       "Correct",
+      "Maybe",
       "True",
       "False"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
-    "question": "Identify example in hausa.",
+    "question": "What is the definition",
     "options": [
-      "Invalid",
-      "Correct example",
-      "Incorrect",
-      "Wrong"
+      "Right",
+      "Bad",
+      "Wrong",
+      "Incorrect"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Correct",
+      "Maybe",
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Correct",
+      "True",
+      "Maybe",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
     ],
     "answer": 1
   },
   {
-    "question": "What role does hausa play?",
-    "options": [
-      "Minimal",
-      "Primary",
-      "Secondary",
-      "None"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "State the principle of hausa.",
+    "question": "Identify the example",
     "options": [
       "C",
       "D",
@@ -90,147 +170,167 @@
     "answer": 0
   },
   {
-    "question": "What role does hausa play?",
+    "question": "Identify the key concept",
     "options": [
-      "None",
-      "Secondary",
-      "Primary",
-      "Minimal"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Partial",
-      "Wrong",
-      "Incorrect",
-      "Correct definition"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Primary",
-      "None",
-      "Secondary",
-      "Minimal"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "True",
+      "Option A",
       "Correct",
-      "False",
-      "Partially true"
+      "Option B",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
     ],
     "answer": 0
   },
   {
-    "question": "What role does hausa play?",
+    "question": "Identify the example",
     "options": [
-      "Minimal",
-      "Secondary",
-      "Primary",
-      "None"
+      "D",
+      "C",
+      "B",
+      "A"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "Identify the key concept",
     "options": [
-      "Correct concept",
+      "Option B",
       "Option D",
       "Option A",
-      "Option B"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "None",
-      "Secondary",
-      "Primary",
-      "Minimal"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Wrong",
-      "Correct example",
-      "Incorrect",
-      "Invalid"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Correct",
-      "False",
-      "Partially true",
-      "True"
+      "Correct"
     ],
     "answer": 3
   },
   {
-    "question": "What role does hausa play?",
+    "question": "State the principle",
     "options": [
-      "Secondary",
-      "Primary",
-      "None",
-      "Minimal"
+      "Maybe",
+      "True",
+      "False",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
     ],
     "answer": 1
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "Maybe",
+      "False",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the example",
     "options": [
       "C",
       "D",
-      "B",
-      "A"
+      "A",
+      "B"
     ],
     "answer": 0
   },
   {
-    "question": "What is result of hausa?",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "State the principle of hausa.",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
       "B",
       "A",
@@ -240,597 +340,737 @@
     "answer": 3
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "What is the definition",
     "options": [
       "Wrong",
-      "Correct definition",
-      "Partial",
+      "Right",
+      "Bad",
       "Incorrect"
     ],
     "answer": 1
   },
   {
-    "question": "What role does hausa play?",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
-      "Primary",
-      "Minimal",
-      "None",
-      "Secondary"
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Incorrect",
+      "Bad",
+      "Wrong"
     ],
     "answer": 0
   },
   {
-    "question": "Identify example in hausa.",
+    "question": "Identify the key concept",
     "options": [
-      "Invalid",
-      "Correct example",
-      "Wrong",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Correct example",
-      "Invalid",
-      "Wrong",
-      "Incorrect"
+      "Correct",
+      "Option D",
+      "Option A",
+      "Option B"
     ],
     "answer": 0
   },
   {
-    "question": "Which statement about hausa is true?",
+    "question": "State the principle",
     "options": [
       "True",
-      "Partially true",
+      "Maybe",
       "False",
       "Correct"
     ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
     "answer": 0
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "State the principle",
     "options": [
+      "Correct",
+      "Maybe",
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Maybe",
+      "Correct",
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Right",
+      "Bad",
+      "Wrong"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
       "Option A",
       "Option B",
-      "Correct concept",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "Maybe",
+      "True",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "Correct",
+      "True",
+      "Maybe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "False",
+      "Correct",
+      "Maybe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Maybe",
+      "True",
+      "Correct",
+      "False"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Correct",
+      "Maybe",
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "False",
+      "Maybe",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option D",
+      "Correct",
+      "Option B",
+      "Option A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Bad",
+      "Wrong",
+      "Incorrect"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "Correct",
+      "True",
+      "Maybe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Wrong",
+      "Incorrect",
+      "Right"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option A",
+      "Option D",
+      "Option B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Bad",
+      "Right",
+      "Wrong"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Wrong",
+      "Right",
+      "Incorrect"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option B",
+      "Option A",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Correct",
+      "Option A",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Correct",
+      "Option A",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option A",
+      "Correct",
       "Option D"
     ],
     "answer": 2
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "State the principle",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Correct concept",
-      "Option A",
-      "Option D",
-      "Option B"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option A",
-      "Option D",
-      "Correct concept",
-      "Option B"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Incorrect",
-      "Wrong",
-      "Correct characteristic"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Incorrect",
-      "Correct example",
-      "Wrong",
-      "Invalid"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Incorrect",
-      "Correct definition",
-      "Partial",
-      "Wrong"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "None",
-      "Minimal",
-      "Primary",
-      "Secondary"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Correct example",
-      "Wrong",
-      "Invalid",
-      "Incorrect"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Correct example",
-      "Wrong",
-      "Invalid",
-      "Incorrect"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option A",
-      "Option D",
-      "Option B",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Invalid",
-      "Wrong",
-      "Incorrect",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Invalid",
-      "Incorrect",
-      "Correct example",
-      "Wrong"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Invalid",
-      "Incorrect",
-      "Wrong",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Partially true",
-      "True",
       "Correct",
-      "False"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "None",
-      "Secondary",
-      "Primary",
-      "Minimal"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Secondary",
-      "Primary",
-      "None",
-      "Minimal"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "None",
-      "Minimal",
-      "Primary",
-      "Secondary"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Wrong",
-      "Correct definition",
-      "Incorrect",
-      "Partial"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Correct characteristic",
+      "Maybe",
       "False",
-      "Incorrect",
-      "Wrong"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Incorrect",
-      "Correct definition",
-      "Partial",
-      "Wrong"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Incorrect",
-      "Wrong",
-      "Correct definition",
-      "Partial"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Wrong",
-      "Partial",
-      "Correct definition",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Partially true",
-      "False",
-      "Correct",
       "True"
     ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option D",
+      "Option B",
+      "Option A",
+      "Correct"
+    ],
     "answer": 3
   },
   {
-    "question": "What role does hausa play?",
+    "question": "Identify the key concept",
     "options": [
-      "Secondary",
-      "Primary",
-      "Minimal",
-      "None"
+      "Correct",
+      "Option A",
+      "Option D",
+      "Option B"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option D",
+      "Option B",
+      "Option A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the key concept",
     "options": [
       "Option B",
-      "Correct concept",
+      "Correct",
       "Option D",
       "Option A"
     ],
     "answer": 1
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "Identify the example",
     "options": [
-      "Option A",
-      "Correct concept",
-      "Option D",
-      "Option B"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "D",
       "C",
-      "A",
-      "B"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "A",
       "B",
       "D",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Partial",
-      "Wrong",
-      "Correct definition",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "False",
-      "Incorrect",
-      "Correct characteristic"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "D",
-      "B",
-      "C",
       "A"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Incorrect",
-      "Correct characteristic",
-      "False"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Incorrect",
-      "Partial",
-      "Wrong",
-      "Correct definition"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "Identify the key concept",
     "options": [
       "Option A",
       "Option B",
-      "Option D",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Correct example",
-      "Invalid",
-      "Wrong",
-      "Incorrect"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Primary",
-      "None",
-      "Secondary",
-      "Minimal"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "True",
       "Correct",
-      "Partially true",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Correct",
+      "True",
+      "Maybe",
       "False"
     ],
     "answer": 0
   },
   {
-    "question": "What is result of hausa?",
+    "question": "State the principle",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Incorrect",
-      "Wrong",
-      "Correct characteristic",
-      "False"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Primary",
-      "Minimal",
-      "None",
-      "Secondary"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Correct characteristic",
+      "Correct",
       "False",
-      "Incorrect"
+      "True",
+      "Maybe"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "What is the definition",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Right",
+      "Wrong",
+      "Incorrect",
+      "Bad"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option D",
+      "Option A",
+      "Correct"
     ],
     "answer": 3
   },
   {
-    "question": "Identify example in hausa.",
+    "question": "What is the definition",
     "options": [
-      "Correct example",
-      "Invalid",
-      "Wrong",
-      "Incorrect"
+      "Bad",
+      "Right",
+      "Incorrect",
+      "Wrong"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
-    "question": "What is result of hausa?",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
       "C",
-      "B",
       "A",
-      "D"
+      "D",
+      "B"
     ],
     "answer": 0
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "Identify the key concept",
     "options": [
-      "Correct concept",
-      "Option B",
       "Option D",
+      "Correct",
+      "Option B",
       "Option A"
     ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option A",
+      "Correct",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "True",
+      "Correct",
+      "Maybe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Incorrect",
+      "Wrong",
+      "Bad"
+    ],
     "answer": 0
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option A",
+      "Option D",
+      "Correct",
+      "Option B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option A",
+      "Correct",
+      "Option D",
+      "Option B"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Right",
+      "Incorrect",
+      "Bad"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "False",
+      "Maybe",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Right",
+      "Incorrect",
+      "Wrong"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "Correct",
+      "True",
+      "Maybe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
     "options": [
       "C",
       "D",
@@ -840,1039 +1080,539 @@
     "answer": 0
   },
   {
-    "question": "What role does hausa play?",
+    "question": "Identify the key concept",
     "options": [
-      "Minimal",
-      "Secondary",
-      "Primary",
-      "None"
+      "Option B",
+      "Option A",
+      "Correct",
+      "Option D"
     ],
     "answer": 2
   },
   {
-    "question": "What role does hausa play?",
+    "question": "What is the definition",
     "options": [
-      "Secondary",
-      "None",
-      "Minimal",
-      "Primary"
+      "Incorrect",
+      "Wrong",
+      "Right",
+      "Bad"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
     ],
     "answer": 3
   },
   {
-    "question": "What role does hausa play?",
+    "question": "Identify the example",
     "options": [
-      "Primary",
-      "Secondary",
-      "None",
-      "Minimal"
+      "C",
+      "B",
+      "D",
+      "A"
     ],
     "answer": 0
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "State the principle",
     "options": [
-      "Partial",
-      "Wrong",
-      "Incorrect",
-      "Correct definition"
+      "Correct",
+      "False",
+      "True",
+      "Maybe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
     ],
     "answer": 3
   },
   {
-    "question": "Which statement about hausa is true?",
+    "question": "Identify the example",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "False",
+      "Correct",
+      "Maybe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
     "options": [
       "True",
       "Correct",
-      "Partially true",
+      "Maybe",
       "False"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Bad",
+      "Incorrect",
+      "Wrong"
     ],
     "answer": 0
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "Identify the key concept",
     "options": [
-      "Wrong",
-      "Incorrect",
-      "Correct definition",
-      "Partial"
+      "Option A",
+      "Option B",
+      "Option D",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option A",
+      "Correct",
+      "Option D",
+      "Option B"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option D",
+      "Correct",
+      "Option A"
     ],
     "answer": 2
   },
   {
-    "question": "Which statement about hausa is true?",
+    "question": "State the principle",
     "options": [
-      "Partially true",
+      "Maybe",
+      "Correct",
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "False",
+      "Maybe",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option D",
+      "Option B",
+      "Correct",
+      "Option A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Incorrect",
+      "Right",
+      "Bad"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option D",
+      "Option A",
+      "Option B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Correct",
+      "False",
+      "Maybe",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option A",
+      "Correct",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Incorrect",
+      "Right",
+      "Wrong"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Wrong",
+      "Right",
+      "Incorrect"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Maybe",
+      "Correct",
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Maybe",
+      "Correct",
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "Maybe",
+      "False",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "Correct",
+      "False",
+      "Maybe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Maybe",
+      "Correct",
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option D",
+      "Option A",
+      "Option B",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option A",
+      "Option D",
+      "Option B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "Maybe",
+      "True",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Wrong",
+      "Right",
+      "Bad"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Wrong",
+      "Right",
+      "Incorrect"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "Maybe",
+      "True",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Maybe",
       "True",
       "False",
       "Correct"
     ],
-    "answer": 1
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Correct characteristic",
-      "Incorrect",
-      "False"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Invalid",
-      "Wrong",
-      "Incorrect",
-      "Correct example"
-    ],
     "answer": 3
   },
   {
-    "question": "What is result of hausa?",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Secondary",
-      "Minimal",
-      "Primary",
-      "None"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Wrong",
-      "Invalid",
-      "Correct example",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option D",
-      "Option B",
-      "Option A",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Incorrect",
-      "Correct characteristic",
-      "False"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Correct example",
-      "Invalid",
-      "Incorrect",
-      "Wrong"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Incorrect",
-      "Wrong",
-      "False",
-      "Correct characteristic"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which statement about hausa is true?",
+    "question": "State the principle",
     "options": [
       "Correct",
-      "True",
-      "Partially true",
-      "False"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Partially true",
       "False",
-      "Correct",
+      "Maybe",
       "True"
     ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Bad",
+      "Wrong",
+      "Right"
+    ],
     "answer": 3
   },
   {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option D",
-      "Option A",
-      "Correct concept",
-      "Option B"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Wrong",
-      "Partial",
-      "Correct definition",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Partially true",
-      "Correct",
-      "True",
-      "False"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "State the principle of hausa.",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
       "A",
-      "B",
       "D",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option D",
-      "Correct concept",
-      "Option A",
-      "Option B"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Incorrect",
-      "Correct characteristic",
-      "Wrong",
-      "False"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option D",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Minimal",
-      "Secondary",
-      "Primary",
-      "None"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Wrong",
-      "Correct example",
-      "Invalid",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Correct concept",
-      "Option A",
-      "Option D",
-      "Option B"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "False",
-      "Correct",
-      "Partially true",
-      "True"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Wrong",
-      "Correct definition",
-      "Partial",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Correct",
-      "False",
-      "True",
-      "Partially true"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Invalid",
-      "Incorrect",
-      "Wrong",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Wrong",
-      "Incorrect",
-      "Correct characteristic"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option D",
-      "Option B",
-      "Option A",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Correct concept",
-      "Option D",
-      "Option A",
-      "Option B"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "False",
-      "Correct",
-      "True",
-      "Partially true"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option B",
-      "Option A",
-      "Option D",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Correct concept",
-      "Option B",
-      "Option A",
-      "Option D"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "True",
-      "Correct",
-      "False",
-      "Partially true"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "False",
-      "Partially true",
-      "True",
-      "Correct"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Correct definition",
-      "Wrong",
-      "Incorrect",
-      "Partial"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option D",
-      "Option B",
-      "Option A",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Wrong",
-      "Correct characteristic",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Correct characteristic",
-      "Wrong",
-      "False",
-      "Incorrect"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Incorrect",
-      "Wrong",
-      "Correct example",
-      "Invalid"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Correct characteristic",
-      "Incorrect",
-      "False"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Correct definition",
-      "Wrong",
-      "Partial",
-      "Incorrect"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "False",
-      "True",
-      "Correct",
-      "Partially true"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Invalid",
-      "Wrong",
-      "Incorrect",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Correct",
-      "False",
-      "True",
-      "Partially true"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Wrong",
-      "Incorrect",
-      "Correct definition",
-      "Partial"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Partial",
-      "Wrong",
-      "Correct definition",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Correct concept",
-      "Option B",
-      "Option A",
-      "Option D"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Wrong",
-      "Incorrect",
-      "Correct example",
-      "Invalid"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Wrong",
-      "Correct example",
-      "Invalid",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Invalid",
-      "Wrong",
-      "Incorrect",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Correct characteristic",
-      "False",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Incorrect",
-      "False",
-      "Wrong",
-      "Correct characteristic"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Wrong",
-      "Correct example",
-      "Invalid",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option D",
-      "Option A",
-      "Option B",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Correct characteristic",
-      "Wrong",
-      "Incorrect",
-      "False"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "D",
-      "A",
       "B",
       "C"
     ],
     "answer": 3
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "Identify the key concept",
     "options": [
-      "Correct definition",
-      "Partial",
-      "Wrong",
-      "Incorrect"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Wrong",
-      "Partial",
-      "Incorrect",
-      "Correct definition"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Secondary",
-      "Primary",
-      "Minimal",
-      "None"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Correct definition",
-      "Incorrect",
-      "Partial",
-      "Wrong"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Correct concept",
-      "Option A",
-      "Option D",
-      "Option B"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "True",
-      "Correct",
-      "False",
-      "Partially true"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Minimal",
-      "Primary",
-      "None",
-      "Secondary"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Incorrect",
-      "Wrong",
-      "Partial",
-      "Correct definition"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Invalid",
-      "Wrong",
-      "Incorrect",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Correct concept",
-      "Option A",
-      "Option D",
-      "Option B"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Incorrect",
-      "Invalid",
-      "Correct example",
-      "Wrong"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "True",
-      "Correct",
-      "False",
-      "Partially true"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option A",
       "Option B",
-      "Correct concept",
-      "Option D"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Wrong",
-      "Incorrect",
-      "Partial",
-      "Correct definition"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option A",
       "Option D",
-      "Option B",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
       "Correct",
-      "Partially true",
-      "False",
-      "True"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Incorrect",
-      "Correct characteristic",
-      "False"
+      "Option A"
     ],
     "answer": 2
   },
   {
-    "question": "Which statement about hausa is true?",
+    "question": "Identify the key concept",
     "options": [
       "Correct",
-      "True",
-      "False",
-      "Partially true"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Secondary",
-      "Primary",
-      "Minimal",
-      "None"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Incorrect",
-      "Wrong",
-      "Correct definition",
-      "Partial"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Wrong",
-      "Correct definition",
-      "Partial",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Correct example",
-      "Incorrect",
-      "Wrong",
-      "Invalid"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Correct concept",
       "Option B",
       "Option D",
       "Option A"
@@ -1880,207 +1620,287 @@
     "answer": 0
   },
   {
-    "question": "What role does hausa play?",
-    "options": [
-      "None",
-      "Minimal",
-      "Secondary",
-      "Primary"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
+    "question": "What is the definition",
     "options": [
       "Wrong",
-      "Incorrect",
-      "Invalid",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Incorrect",
-      "Wrong",
-      "Invalid",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "None",
-      "Secondary",
-      "Minimal",
-      "Primary"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Wrong",
-      "Invalid",
-      "Incorrect",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Wrong",
-      "Correct characteristic",
+      "Right",
+      "Bad",
       "Incorrect"
     ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Bad",
+      "Right",
+      "Wrong"
+    ],
     "answer": 2
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "Identify the example",
     "options": [
-      "Correct definition",
-      "Incorrect",
-      "Wrong",
-      "Partial"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Correct",
-      "False",
-      "Partially true",
-      "True"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "D",
+      "B",
       "C",
-      "B",
-      "A"
+      "A",
+      "D"
     ],
     "answer": 1
   },
   {
-    "question": "What role does hausa play?",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
-      "Minimal",
-      "Secondary",
-      "None",
-      "Primary"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Correct characteristic",
-      "Incorrect",
-      "False"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "None",
-      "Minimal",
-      "Secondary",
-      "Primary"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Invalid",
-      "Correct example",
-      "Incorrect",
-      "Wrong"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Correct",
-      "True",
-      "Partially true",
-      "False"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "B",
       "D",
+      "B",
       "A",
       "C"
     ],
     "answer": 3
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "Identify the key concept",
     "options": [
-      "Partial",
-      "Incorrect",
-      "Correct definition",
-      "Wrong"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option A",
       "Option D",
       "Option B",
-      "Correct concept"
+      "Option A",
+      "Correct"
     ],
     "answer": 3
   },
   {
-    "question": "What is result of hausa?",
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Right",
+      "Bad",
+      "Incorrect"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
     "options": [
       "C",
-      "B",
+      "A",
       "D",
+      "B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Correct",
+      "Option D",
+      "Option A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "C",
+      "D",
+      "B",
       "A"
     ],
     "answer": 0
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "Identify the key concept",
+    "options": [
+      "Option D",
+      "Correct",
+      "Option B",
+      "Option A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Bad",
+      "Right",
+      "Incorrect"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Correct",
+      "Option D",
+      "Option A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Right",
+      "Bad",
+      "Incorrect"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Wrong",
+      "Bad",
+      "Right"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Right",
+      "Incorrect",
+      "Wrong"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Incorrect",
+      "Bad",
+      "Right"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
     "options": [
       "C",
       "D",
@@ -2090,37 +1910,47 @@
     "answer": 0
   },
   {
-    "question": "Which statement about hausa is true?",
+    "question": "State the principle",
+    "options": [
+      "Maybe",
+      "True",
+      "Correct",
+      "False"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
     "options": [
       "Correct",
-      "Partially true",
       "False",
-      "True"
+      "True",
+      "Maybe"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
-    "question": "Identify example in hausa.",
+    "question": "State the principle",
     "options": [
-      "Wrong",
-      "Correct example",
-      "Incorrect",
-      "Invalid"
+      "True",
+      "Maybe",
+      "Correct",
+      "False"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "State the principle",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "True",
+      "Maybe",
+      "Correct",
+      "False"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
-    "question": "What is result of hausa?",
+    "question": "Identify the example",
     "options": [
       "C",
       "B",
@@ -2130,277 +1960,67 @@
     "answer": 0
   },
   {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Correct concept",
-      "Option D",
-      "Option A",
-      "Option B"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Correct characteristic",
-      "Wrong",
-      "False",
-      "Incorrect"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Incorrect",
-      "False",
-      "Correct characteristic"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Incorrect",
-      "Wrong",
-      "Partial",
-      "Correct definition"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Correct",
-      "False",
-      "True",
-      "Partially true"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Partially true",
-      "True",
-      "Correct",
-      "False"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Partial",
-      "Wrong",
-      "Correct definition",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "State the principle of hausa.",
+    "question": "Identify the example",
     "options": [
       "B",
       "A",
-      "C",
-      "D"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option D",
-      "Option A",
-      "Correct concept",
-      "Option B"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Correct example",
-      "Invalid",
-      "Incorrect",
-      "Wrong"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Wrong",
-      "Incorrect",
-      "Correct definition",
-      "Partial"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "None",
-      "Primary",
-      "Minimal",
-      "Secondary"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "A",
-      "B",
       "D",
       "C"
     ],
     "answer": 3
   },
   {
-    "question": "Identify the characteristic of hausa.",
+    "question": "What is the definition",
     "options": [
-      "Correct characteristic",
-      "False",
       "Wrong",
-      "Incorrect"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Wrong",
-      "Correct characteristic",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
+      "Right",
       "Incorrect",
-      "Correct example",
-      "Wrong",
-      "Invalid"
+      "Bad"
     ],
     "answer": 1
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "Identify the example",
     "options": [
-      "Option D",
-      "Correct concept",
-      "Option A",
-      "Option B"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Wrong",
-      "Invalid",
-      "Correct example",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "B",
       "D",
-      "C",
-      "A"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "True",
-      "False",
-      "Correct",
-      "Partially true"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Correct characteristic",
-      "False",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Correct",
-      "False",
-      "Partially true",
-      "True"
+      "A",
+      "B",
+      "C"
     ],
     "answer": 3
   },
   {
-    "question": "What role does hausa play?",
+    "question": "Identify the example",
     "options": [
-      "Primary",
-      "Minimal",
-      "Secondary",
-      "None"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Primary",
-      "Secondary",
-      "Minimal",
-      "None"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Incorrect",
-      "False",
-      "Correct characteristic",
-      "Wrong"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
     "answer": 2
   },
   {
-    "question": "Identify the characteristic of hausa.",
+    "question": "Identify the example",
     "options": [
-      "Incorrect",
-      "Correct characteristic",
-      "Wrong",
-      "False"
+      "A",
+      "C",
+      "B",
+      "D"
     ],
     "answer": 1
   },
   {
-    "question": "What is result of hausa?",
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Correct",
+      "Option A",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
     "options": [
       "B",
       "A",
@@ -2410,167 +2030,307 @@
     "answer": 2
   },
   {
-    "question": "What is result of hausa?",
+    "question": "Identify the key concept",
     "options": [
+      "Correct",
+      "Option D",
+      "Option A",
+      "Option B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Incorrect",
+      "Right",
+      "Bad"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Incorrect",
+      "Right",
+      "Wrong"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
       "C",
       "B",
+      "A"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option D",
+      "Option A",
+      "Option B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option A",
+      "Option D",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "C",
       "A",
       "D"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "State the principle",
     "options": [
-      "Correct definition",
-      "Incorrect",
-      "Partial",
-      "Wrong"
+      "False",
+      "Correct",
+      "Maybe",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option D",
+      "Option A",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option A",
+      "Option D",
+      "Option B"
     ],
     "answer": 0
   },
   {
-    "question": "Which statement about hausa is true?",
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Wrong",
+      "Incorrect",
+      "Bad"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Correct",
+      "False",
+      "Maybe",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "Maybe",
+      "Correct",
+      "True"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Wrong",
+      "Bad",
+      "Incorrect"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
     "options": [
       "True",
-      "Partially true",
+      "Maybe",
       "False",
       "Correct"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
-    "question": "What role does hausa play?",
+    "question": "What is the definition",
     "options": [
-      "Primary",
-      "None",
-      "Secondary",
-      "Minimal"
+      "Bad",
+      "Incorrect",
+      "Right",
+      "Wrong"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Maybe",
+      "True",
+      "False",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option A",
+      "Option D",
+      "Option B"
     ],
     "answer": 0
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "State the principle",
+    "options": [
+      "False",
+      "True",
+      "Maybe",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "True",
+      "Maybe",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Bad",
+      "Wrong",
+      "Right"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Incorrect",
+      "Bad",
+      "Wrong"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option A",
+      "Correct",
+      "Option B",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Right",
+      "Wrong",
+      "Bad"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the key concept",
     "options": [
       "Option B",
       "Option A",
-      "Correct concept",
+      "Correct",
       "Option D"
     ],
     "answer": 2
   },
   {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Correct",
-      "False",
-      "True",
-      "Partially true"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Correct characteristic",
-      "Wrong",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Correct definition",
-      "Incorrect",
-      "Partial",
-      "Wrong"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option D",
-      "Option A",
-      "Option B",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option D",
-      "Option A",
-      "Correct concept",
-      "Option B"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Wrong",
-      "Incorrect",
-      "False",
-      "Correct characteristic"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "True",
-      "Partially true",
-      "False",
-      "Correct"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option B",
-      "Option A",
-      "Option D",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Correct example",
-      "Invalid",
-      "Incorrect",
-      "Wrong"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is result of hausa?",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
       "A",
       "C",
@@ -2580,107 +2340,147 @@
     "answer": 1
   },
   {
-    "question": "Identify the characteristic of hausa.",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
-      "Incorrect",
-      "Wrong",
-      "False",
-      "Correct characteristic"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Partial",
-      "Wrong",
-      "Correct definition",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "B",
+      "D",
       "C",
-      "A",
-      "D"
+      "B",
+      "A"
     ],
     "answer": 1
   },
   {
-    "question": "What role does hausa play?",
+    "question": "Identify the key concept",
     "options": [
-      "Primary",
-      "Minimal",
-      "Secondary",
-      "None"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Wrong",
-      "Correct characteristic",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Incorrect",
-      "Wrong",
-      "Correct characteristic"
+      "Option D",
+      "Option A",
+      "Option B",
+      "Correct"
     ],
     "answer": 3
   },
   {
-    "question": "Identify the characteristic of hausa.",
+    "question": "State the principle",
     "options": [
-      "Wrong",
       "False",
-      "Correct characteristic",
-      "Incorrect"
+      "Maybe",
+      "True",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Correct",
+      "Option A",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option A",
+      "Option D",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
     ],
     "answer": 2
   },
   {
-    "question": "Which statement about hausa is true?",
+    "question": "State the principle",
     "options": [
+      "Maybe",
       "False",
       "Correct",
-      "Partially true",
       "True"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "State the principle",
     "options": [
-      "Option A",
-      "Option D",
-      "Option B",
-      "Correct concept"
+      "True",
+      "Correct",
+      "Maybe",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
     ],
     "answer": 3
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option A",
+      "Correct",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "Maybe",
+      "Correct",
+      "True"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "Correct",
+      "Maybe",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Identify the example",
     "options": [
       "C",
       "D",
@@ -2690,117 +2490,477 @@
     "answer": 0
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
-      "Incorrect",
-      "Correct definition",
-      "Partial",
-      "Wrong"
+      "A",
+      "C",
+      "B",
+      "D"
     ],
     "answer": 1
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "Identify the key concept",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Partially true",
-      "Correct",
-      "True",
-      "False"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "True",
-      "False",
-      "Partially true",
+      "Option A",
+      "Option D",
+      "Option B",
       "Correct"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
-    "question": "State the principle of hausa.",
+    "question": "Identify the example",
     "options": [
-      "D",
-      "B",
       "A",
+      "B",
+      "D",
       "C"
     ],
     "answer": 3
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "Identify the key concept",
     "options": [
-      "Option A",
       "Option D",
       "Option B",
-      "Correct concept"
+      "Option A",
+      "Correct"
     ],
     "answer": 3
   },
   {
-    "question": "Identify the characteristic of hausa.",
+    "question": "State the principle",
     "options": [
-      "Incorrect",
-      "Wrong",
-      "Correct characteristic",
+      "True",
+      "Maybe",
+      "Correct",
       "False"
     ],
     "answer": 2
   },
   {
-    "question": "What is the definition of key concept in hausa?",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
-      "Option A",
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Incorrect",
+      "Bad",
+      "Right"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "Maybe",
+      "False",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Bad",
+      "Wrong",
+      "Right"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
       "Option D",
-      "Correct concept",
+      "Correct",
+      "Option A",
       "Option B"
     ],
-    "answer": 2
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Correct",
-      "Partially true",
-      "True",
-      "False"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
     "answer": 1
   },
   {
-    "question": "Define term used in hausa.",
+    "question": "State the principle",
     "options": [
-      "Partial",
-      "Wrong",
-      "Incorrect",
-      "Correct definition"
+      "False",
+      "Maybe",
+      "True",
+      "Correct"
     ],
     "answer": 3
   },
   {
-    "question": "What is result of hausa?",
+    "question": "Identify the key concept",
+    "options": [
+      "Option D",
+      "Option B",
+      "Option A",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "True",
+      "False",
+      "Correct",
+      "Maybe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Option D",
+      "Option A",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Bad",
+      "Right",
+      "Incorrect"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option A",
+      "Option D",
+      "Option B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Right",
+      "Incorrect",
+      "Wrong"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Incorrect",
+      "Right",
+      "Bad"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Incorrect",
+      "Right",
+      "Bad"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Incorrect",
+      "Bad",
+      "Wrong"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Wrong",
+      "Bad",
+      "Right",
+      "Incorrect"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Correct",
+      "False",
+      "True",
+      "Maybe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "False",
+      "True",
+      "Maybe",
+      "Correct"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option B",
+      "Correct",
+      "Option A",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Right",
+      "Wrong",
+      "Incorrect"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Incorrect",
+      "Right",
+      "Wrong"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option A",
+      "Option D",
+      "Option B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option D",
+      "Option B",
+      "Correct",
+      "Option A"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Incorrect",
+      "Wrong",
+      "Bad"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Incorrect",
+      "Wrong",
+      "Bad",
+      "Right"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Option A",
+      "Option B",
+      "Correct",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "State the principle",
+    "options": [
+      "Correct",
+      "True",
+      "Maybe",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Right",
+      "Wrong",
+      "Incorrect",
+      "Bad"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Identify the example",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Identify the key concept",
+    "options": [
+      "Correct",
+      "Option B",
+      "Option D",
+      "Option A"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the definition",
+    "options": [
+      "Bad",
+      "Right",
+      "Wrong",
+      "Incorrect"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the primary characteristic of this subject?",
     "options": [
       "B",
       "A",
@@ -2810,193 +2970,33 @@
     "answer": 3
   },
   {
-    "question": "Identify example in hausa.",
+    "question": "What is the primary characteristic of this subject?",
     "options": [
-      "Wrong",
-      "Invalid",
-      "Incorrect",
-      "Correct example"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
+      "B",
       "C",
       "D",
-      "B",
       "A"
     ],
-    "answer": 0
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
     "answer": 1
   },
   {
-    "question": "What is result of hausa?",
+    "question": "What is the definition",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "State the principle of hausa.",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Minimal",
-      "Secondary",
-      "Primary",
-      "None"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Minimal",
-      "None",
-      "Primary",
-      "Secondary"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
+      "Bad",
       "Incorrect",
-      "Partial",
-      "Correct definition",
+      "Right",
       "Wrong"
     ],
     "answer": 2
   },
   {
-    "question": "What is the definition of key concept in hausa?",
-    "options": [
-      "Option A",
-      "Option D",
-      "Option B",
-      "Correct concept"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
+    "question": "What is the definition",
     "options": [
       "Wrong",
-      "Correct characteristic",
+      "Right",
       "Incorrect",
-      "False"
+      "Bad"
     ],
     "answer": 1
-  },
-  {
-    "question": "Define term used in hausa.",
-    "options": [
-      "Correct definition",
-      "Partial",
-      "Incorrect",
-      "Wrong"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which statement about hausa is true?",
-    "options": [
-      "Partially true",
-      "False",
-      "True",
-      "Correct"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "Incorrect",
-      "Correct characteristic",
-      "False",
-      "Wrong"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Secondary",
-      "Minimal",
-      "Primary",
-      "None"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What role does hausa play?",
-    "options": [
-      "Minimal",
-      "Secondary",
-      "Primary",
-      "None"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify example in hausa.",
-    "options": [
-      "Wrong",
-      "Invalid",
-      "Correct example",
-      "Incorrect"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Correct characteristic",
-      "Incorrect",
-      "Wrong"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Identify the characteristic of hausa.",
-    "options": [
-      "False",
-      "Correct characteristic",
-      "Wrong",
-      "Incorrect"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is result of hausa?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": 2
   }
 ]
