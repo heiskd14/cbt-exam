@@ -1,36 +1,36 @@
 [
   {
-    "question": "Which of these is a covalent compound?",
+    "question": "Covalent compound",
     "options": [
-      "MgO",
       "CO₂",
       "KBr",
+      "MgO",
       "NaCl"
     ],
     "answer": "CO₂"
   },
   {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "question": "Oxidation state N in NO₂",
     "options": [
-      "+5",
-      "+3",
+      "+2",
       "+4",
-      "+2"
+      "+3",
+      "+5"
     ],
     "answer": "+4"
   },
   {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "question": "__Fe + __O₂ → __Fe₂O₃",
     "options": [
-      "3, 1, 2",
-      "1, 2, 3",
-      "2, 1.5, 1",
-      "4, 3, 2"
+      "2,1.5,1",
+      "4,3,2",
+      "1,2,3",
+      "3,1,2"
     ],
-    "answer": "4, 3, 2"
+    "answer": "4,3,2"
   },
   {
-    "question": "Which is the pH range for a strong acid?",
+    "question": "pH strong acid",
     "options": [
       "0-3",
       "10-14",
@@ -40,1617 +40,237 @@
     "answer": "0-3"
   },
   {
-    "question": "Calcium + water produces:",
+    "question": "Ca + water",
     "options": [
+      "Ca + O₂",
+      "CaCl + H",
       "CaO + H₂",
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "1",
-      "3",
-      "4",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "C₂H₆",
-      "C",
-      "CH₄",
-      "CH₂=CH₂"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
-    "options": [
-      "O₂",
-      "CO₂",
-      "H₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "H₃SO₄",
-      "H₂SO₄",
-      "HSO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "C₃H₈",
-      "C₂H₆",
-      "CH₄",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "releases heat",
-      "has no heat change",
-      "absorbs heat",
-      "maintains heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "H₂",
-      "both H₂ and O₂",
-      "H₂O",
-      "O₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "KNO₃",
-      "KNO₂",
-      "K₂NO₃",
-      "K₃NO"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 8",
-      "2, 7",
-      "2, 8, 6",
-      "2, 8, 7"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "ammonia is cooled",
-      "concentrated HNO₃ is heated",
-      "ammonium salts react with alkali",
-      "nitrogen reacts with oxygen"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "10",
-      "8",
-      "7",
-      "6"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ₊₁",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Copper",
-      "Gold",
-      "Iodine",
-      "Iron"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "12",
-      "11",
-      "10",
-      "9"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "Ba₂SO₄",
-      "BaSO₄",
-      "Ba(SO₄)₂",
-      "NaCl"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "CO₂",
-      "MgO",
-      "KBr",
-      "NaCl"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+3",
-      "+4",
-      "+2",
-      "+5"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "4, 3, 2",
-      "3, 1, 2",
-      "1, 2, 3"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "0-3",
-      "10-14",
-      "7-10",
-      "3-7"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "CaCl + H",
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "3",
-      "2",
-      "1",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "CH₂=CH₂",
-      "C",
-      "C₂H₆",
-      "CH₄"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
-    "options": [
-      "Cl₂",
-      "CO₂",
-      "H₂",
-      "O₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "H₃SO₄",
-      "H₂SO₃",
-      "HSO₄",
-      "H₂SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "C₃H₈",
-      "CH₄",
-      "C₂H₆",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "has no heat change",
-      "absorbs heat",
-      "maintains heat",
-      "releases heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "both H₂ and O₂",
-      "O₂",
-      "H₂O",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "KNO₂",
-      "K₂NO₃",
-      "K₃NO",
-      "KNO₃"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 6",
-      "2, 8, 8",
-      "2, 7",
-      "2, 8, 7"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "nitrogen reacts with oxygen",
-      "concentrated HNO₃ is heated",
-      "ammonium salts react with alkali",
-      "ammonia is cooled"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "6",
-      "10",
-      "7",
-      "8"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ₊₁"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Copper",
-      "Iron",
-      "Iodine",
-      "Gold"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "11",
-      "10",
-      "9",
-      "12"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "Ba₂SO₄",
-      "NaCl",
-      "Ba(SO₄)₂",
-      "BaSO₄"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "NaCl",
-      "MgO",
-      "KBr",
-      "CO₂"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+3",
-      "+4",
-      "+5",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "1, 2, 3",
-      "3, 1, 2",
-      "4, 3, 2",
-      "2, 1.5, 1"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "0-3",
-      "10-14",
-      "7-10",
-      "3-7"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂",
-      "CaCl + H",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "3",
-      "2",
-      "4",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "CH₂=CH₂",
-      "C",
-      "CH₄",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
-    "options": [
-      "CO₂",
-      "O₂",
-      "H₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "H₂SO₄",
-      "H₂SO₃",
-      "HSO₄",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "C₃H₈",
-      "CH",
-      "CH₄",
-      "C₂H₆"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "absorbs heat",
-      "releases heat",
-      "has no heat change",
-      "maintains heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "both H₂ and O₂",
-      "O₂",
-      "H₂",
-      "H₂O"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "K₂NO₃",
-      "K₃NO",
-      "KNO₃",
-      "KNO₂"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 8",
-      "2, 7",
-      "2, 8, 6",
-      "2, 8, 7"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "concentrated HNO₃ is heated",
-      "ammonium salts react with alkali",
-      "nitrogen reacts with oxygen",
-      "ammonia is cooled"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "8",
-      "10",
-      "7",
-      "6"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ₊₁",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₋₂"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Iodine",
-      "Copper",
-      "Iron",
-      "Gold"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "10",
-      "11",
-      "12",
-      "9"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "BaSO₄",
-      "Ba(SO₄)₂",
-      "NaCl",
-      "Ba₂SO₄"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "MgO",
-      "CO₂",
-      "NaCl",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+5",
-      "+3",
-      "+2",
-      "+4"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "4, 3, 2",
-      "2, 1.5, 1",
-      "1, 2, 3"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "7-10",
-      "3-7",
-      "0-3",
-      "10-14"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "Ca + O₂",
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "1",
-      "4",
-      "2",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "C",
-      "CH₄",
-      "CH₂=CH₂",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
-    "options": [
-      "O₂",
-      "Cl₂",
-      "H₂",
-      "CO₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "H₂SO₄",
-      "H₃SO₄",
-      "HSO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "CH₄",
-      "CH",
-      "C₂H₆",
-      "C₃H₈"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "maintains heat",
-      "has no heat change",
-      "absorbs heat",
-      "releases heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "O₂",
-      "H₂O",
-      "H₂",
-      "both H₂ and O₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "KNO₂",
-      "K₂NO₃",
-      "KNO₃",
-      "K₃NO"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 7",
-      "2, 7",
-      "2, 8, 8",
-      "2, 8, 6"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "ammonium salts react with alkali",
-      "nitrogen reacts with oxygen",
-      "concentrated HNO₃ is heated",
-      "ammonia is cooled"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "10",
-      "7",
-      "8",
-      "6"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ₊₁"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Copper",
-      "Iodine",
-      "Gold",
-      "Iron"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "11",
-      "9",
-      "12",
-      "10"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "Ba(SO₄)₂",
-      "BaSO₄",
-      "Ba₂SO₄",
-      "NaCl"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "KBr",
-      "NaCl",
-      "CO₂",
-      "MgO"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+5",
-      "+3",
-      "+4",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "1, 2, 3",
-      "4, 3, 2",
-      "3, 1, 2",
-      "2, 1.5, 1"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "10-14",
-      "7-10",
-      "3-7",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "4",
-      "2",
-      "1",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "C₂H₆",
-      "CH₄",
-      "C",
-      "CH₂=CH₂"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
-    "options": [
-      "Cl₂",
-      "CO₂",
-      "O₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "HSO₄",
-      "H₃SO₄",
-      "H₂SO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "C₂H₆",
-      "CH",
-      "C₃H₈",
-      "CH₄"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "absorbs heat",
-      "releases heat",
-      "has no heat change",
-      "maintains heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "H₂",
-      "O₂",
-      "H₂O",
-      "both H₂ and O₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "KNO₂",
-      "K₂NO₃",
-      "KNO₃",
-      "K₃NO"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 6",
-      "2, 8, 7",
-      "2, 8, 8",
-      "2, 7"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "concentrated HNO₃ is heated",
-      "nitrogen reacts with oxygen",
-      "ammonia is cooled",
-      "ammonium salts react with alkali"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "7",
-      "6",
-      "8",
-      "10"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ₊₁"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Copper",
-      "Iodine",
-      "Gold",
-      "Iron"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "10",
-      "11",
-      "12",
-      "9"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "NaCl",
-      "Ba₂SO₄",
-      "Ba(SO₄)₂",
-      "BaSO₄"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "NaCl",
-      "KBr",
-      "MgO",
-      "CO₂"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+3",
-      "+4",
-      "+5",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "4, 3, 2",
-      "3, 1, 2",
-      "2, 1.5, 1",
-      "1, 2, 3"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "7-10",
-      "3-7",
-      "10-14",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "CaO + H₂",
-      "Ca + O₂",
-      "CaCl + H",
       "Ca(OH)₂ + H₂"
     ],
     "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "What is the valency of oxygen?",
+    "question": "Oxygen valency",
     "options": [
-      "3",
+      "2",
       "1",
-      "2",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "CH₄",
-      "C",
-      "CH₂=CH₂",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
-    "options": [
-      "Cl₂",
-      "H₂",
-      "CO₂",
-      "O₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "H₂SO₄",
-      "HSO₄",
-      "H₂SO₃",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "CH₄",
-      "CH",
-      "C₂H₆",
-      "C₃H₈"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "maintains heat",
-      "releases heat",
-      "has no heat change",
-      "absorbs heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "H₂O",
-      "both H₂ and O₂",
-      "O₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "KNO₂",
-      "KNO₃",
-      "K₂NO₃",
-      "K₃NO"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 7",
-      "2, 8, 8",
-      "2, 8, 6",
-      "2, 7"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "concentrated HNO₃ is heated",
-      "nitrogen reacts with oxygen",
-      "ammonia is cooled",
-      "ammonium salts react with alkali"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "7",
-      "10",
-      "8",
-      "6"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₊₁",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₋₂"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Iodine",
-      "Iron",
-      "Gold",
-      "Copper"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "9",
-      "12",
-      "10",
-      "11"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "Ba(SO₄)₂",
-      "BaSO₄",
-      "NaCl",
-      "Ba₂SO₄"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "MgO",
-      "NaCl",
-      "KBr",
-      "CO₂"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+4",
-      "+2",
-      "+3",
-      "+5"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "4, 3, 2",
-      "1, 2, 3",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "10-14",
-      "0-3",
-      "7-10",
-      "3-7"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "CaCl + H",
-      "CaO + H₂",
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "1",
-      "3",
-      "2",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "C",
-      "C₂H₆",
-      "CH₂=CH₂",
-      "CH₄"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
-    "options": [
-      "O₂",
-      "CO₂",
-      "H₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "HSO₄",
-      "H₂SO₃",
-      "H₂SO₄",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "C₃H₈",
-      "CH",
-      "C₂H₆",
-      "CH₄"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "releases heat",
-      "has no heat change",
-      "maintains heat",
-      "absorbs heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "H₂",
-      "O₂",
-      "both H₂ and O₂",
-      "H₂O"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "KNO₃",
-      "K₂NO₃",
-      "K₃NO",
-      "KNO₂"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 7",
-      "2, 8, 7",
-      "2, 8, 8",
-      "2, 8, 6"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "ammonia is cooled",
-      "ammonium salts react with alkali",
-      "concentrated HNO₃ is heated",
-      "nitrogen reacts with oxygen"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "10",
-      "8",
-      "7",
-      "6"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₊₁"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Gold",
-      "Iron",
-      "Iodine",
-      "Copper"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "10",
-      "12",
-      "11",
-      "9"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "BaSO₄",
-      "NaCl",
-      "Ba₂SO₄",
-      "Ba(SO₄)₂"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "NaCl",
-      "MgO",
-      "KBr",
-      "CO₂"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+3",
-      "+4",
-      "+5",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "4, 3, 2",
-      "3, 1, 2",
-      "1, 2, 3"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "10-14",
-      "3-7",
-      "0-3",
-      "7-10"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "Ca + O₂",
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "2",
       "4",
-      "1",
       "3"
     ],
     "answer": "2"
   },
   {
-    "question": "Identify the monomer of polythene:",
+    "question": "Polythene monomer",
     "options": [
       "C₂H₆",
-      "CH₄",
       "CH₂=CH₂",
+      "CH₄",
       "C"
     ],
     "answer": "CH₂=CH₂"
   },
   {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "question": "Zn + HCl gas",
     "options": [
-      "Cl₂",
-      "H₂",
       "O₂",
-      "CO₂"
+      "CO₂",
+      "Cl₂",
+      "H₂"
     ],
     "answer": "H₂"
   },
   {
-    "question": "The formula of sulfuric acid is:",
+    "question": "Sulfuric acid formula",
     "options": [
       "H₂SO₃",
-      "H₃SO₄",
       "HSO₄",
-      "H₂SO₄"
+      "H₂SO₄",
+      "H₃SO₄"
     ],
     "answer": "H₂SO₄"
   },
   {
-    "question": "What is the molecular formula of methane?",
+    "question": "Methane formula",
     "options": [
       "CH",
-      "CH₄",
       "C₃H₈",
-      "C₂H₆"
+      "C₂H₆",
+      "CH₄"
     ],
     "answer": "CH₄"
   },
   {
-    "question": "An exothermic reaction is one that:",
+    "question": "Exothermic reaction",
     "options": [
-      "releases heat",
-      "has no heat change",
-      "absorbs heat",
-      "maintains heat"
+      "releases",
+      "absorbs",
+      "no change",
+      "maintains"
     ],
-    "answer": "releases heat"
+    "answer": "releases"
   },
   {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "question": "Reducing agent 2H₂ + O₂",
     "options": [
-      "H₂O",
-      "both H₂ and O₂",
+      "both",
       "H₂",
+      "H₂O",
       "O₂"
     ],
     "answer": "H₂"
   },
   {
-    "question": "Which is the formula for potassium nitrate?",
+    "question": "Potassium nitrate",
     "options": [
-      "K₃NO",
       "KNO₂",
+      "K₃NO",
       "K₂NO₃",
       "KNO₃"
     ],
     "answer": "KNO₃"
   },
   {
-    "question": "What is the electronic configuration of chlorine?",
+    "question": "Chlorine electron config",
     "options": [
-      "2, 8, 7",
-      "2, 8, 8",
-      "2, 7",
-      "2, 8, 6"
+      "2,7",
+      "2,8,7",
+      "2,8,6",
+      "2,8,8"
     ],
-    "answer": "2, 8, 7"
+    "answer": "2,8,7"
   },
   {
-    "question": "Ammonia gas is produced when:",
+    "question": "Ammonia production",
     "options": [
-      "ammonium salts react with alkali",
-      "ammonia is cooled",
-      "nitrogen reacts with oxygen",
-      "concentrated HNO₃ is heated"
+      "HNO₃ heated",
+      "N+O",
+      "cooling",
+      "salt+alkali"
     ],
-    "answer": "ammonium salts react with alkali"
+    "answer": "salt+alkali"
   },
   {
-    "question": "The number of electrons in a neutral oxygen atom is:",
+    "question": "Oxygen electrons",
     "options": [
-      "7",
       "10",
+      "8",
       "6",
-      "8"
+      "7"
     ],
     "answer": "8"
   },
   {
-    "question": "What is the general formula for alkenes?",
+    "question": "Alkenes formula",
     "options": [
-      "CₙH₂ₙ",
       "CₙH₂ₙ₋₂",
       "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₊₁"
+      "CₙH₂ₙ₊₁",
+      "CₙH₂ₙ"
     ],
     "answer": "CₙH₂ₙ"
   },
   {
-    "question": "Which is a non-metal element?",
+    "question": "Non-metal element",
     "options": [
       "Iron",
+      "Iodine",
       "Copper",
-      "Gold",
-      "Iodine"
+      "Gold"
     ],
     "answer": "Iodine"
   },
   {
-    "question": "The atomic number of sodium is:",
+    "question": "Sodium atomic number",
     "options": [
-      "11",
-      "12",
+      "9",
       "10",
-      "9"
+      "11",
+      "12"
     ],
     "answer": "11"
   },
   {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "question": "BaCl₂ + Na₂SO₄ precipitate",
     "options": [
-      "BaSO₄",
       "Ba₂SO₄",
+      "BaSO₄",
       "Ba(SO₄)₂",
       "NaCl"
     ],
     "answer": "BaSO₄"
   },
   {
-    "question": "Which of these is a covalent compound?",
+    "question": "CH₃CH₂OH + KMnO₄",
     "options": [
-      "MgO",
-      "NaCl",
-      "CO₂",
-      "KBr"
+      "CH₃CH₂COOH",
+      "CH₃COOH",
+      "CH₃CHO",
+      "CH₃CH₂CH₂OH"
     ],
-    "answer": "CO₂"
+    "answer": "CH₃COOH"
   },
   {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "question": "Friedel-Crafts benzene",
     "options": [
-      "+5",
-      "+2",
-      "+4",
-      "+3"
+      "benzyl",
+      "toluene",
+      "acetophenone",
+      "benzoic"
     ],
-    "answer": "+4"
+    "answer": "acetophenone"
   },
   {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "question": "SN2 mechanism",
     "options": [
-      "2, 1.5, 1",
-      "3, 1, 2",
-      "1, 2, 3",
-      "4, 3, 2"
+      "free radical",
+      "retention",
+      "unimolecular",
+      "bi inversion"
     ],
-    "answer": "4, 3, 2"
+    "answer": "bi inversion"
   },
   {
-    "question": "Which is the pH range for a strong acid?",
+    "question": "Weak acid",
     "options": [
-      "7-10",
-      "0-3",
-      "3-7",
-      "10-14"
+      "HCl",
+      "HNO₃",
+      "CH₃COOH",
+      "H₂SO₄"
     ],
-    "answer": "0-3"
+    "answer": "CH₃COOH"
   },
   {
-    "question": "Calcium + water produces:",
+    "question": "ΔG° -50, 0.1, 300K",
     "options": [
-      "CaO + H₂",
-      "CaCl + H",
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂"
+      "-30",
+      "+80",
+      "-80",
+      "-20"
     ],
-    "answer": "Ca(OH)₂ + H₂"
+    "answer": "-80"
   },
   {
-    "question": "What is the valency of oxygen?",
+    "question": "Ksp [Ag⁺]=[Cl⁻]=10⁻⁵",
+    "options": [
+      "2×10⁻⁵",
+      "1×10⁻¹⁰",
+      "1×10⁻⁵",
+      "1×10⁻²⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic ΔH",
+    "options": [
+      "negative",
+      "positive",
+      "zero",
+      "undefined"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH 0.01 HCl",
     "options": [
       "4",
       "2",
@@ -1660,1343 +280,2723 @@
     "answer": "2"
   },
   {
-    "question": "Identify the monomer of polythene:",
+    "question": "Enzyme-substrate",
     "options": [
-      "CH₂=CH₂",
-      "C₂H₆",
-      "C",
-      "CH₄"
+      "covalent",
+      "all",
+      "hydrogen",
+      "van der Waals"
     ],
-    "answer": "CH₂=CH₂"
+    "answer": "all"
   },
   {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "question": "H₂C=CH₂ hybridization",
     "options": [
-      "H₂",
-      "Cl₂",
-      "CO₂",
-      "O₂"
+      "sp",
+      "sp³",
+      "sp²",
+      "sp³d"
     ],
-    "answer": "H₂"
+    "answer": "sp²"
   },
   {
-    "question": "The formula of sulfuric acid is:",
+    "question": "Isotopes differ",
     "options": [
-      "HSO₄",
-      "H₂SO₄",
-      "H₂SO₃",
-      "H₃SO₄"
+      "protons",
+      "neutrons",
+      "properties",
+      "number"
     ],
-    "answer": "H₂SO₄"
+    "answer": "neutrons"
   },
   {
-    "question": "What is the molecular formula of methane?",
+    "question": "Alkene + H₂SO₄",
     "options": [
-      "CH₄",
-      "CH",
-      "C₂H₆",
-      "C₃H₈"
+      "alkyl",
+      "alcohol",
+      "ether",
+      "alkane"
     ],
-    "answer": "CH₄"
+    "answer": "alcohol"
   },
   {
-    "question": "An exothermic reaction is one that:",
+    "question": "H₂SO₄ molar mass",
     "options": [
-      "releases heat",
-      "has no heat change",
-      "maintains heat",
-      "absorbs heat"
+      "106",
+      "94",
+      "102",
+      "98"
     ],
-    "answer": "releases heat"
+    "answer": "98"
   },
   {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "question": "N in NO₃⁻ state",
     "options": [
-      "both H₂ and O₂",
-      "O₂",
-      "H₂",
-      "H₂O"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "KNO₂",
-      "KNO₃",
-      "K₃NO",
-      "K₂NO₃"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 8",
-      "2, 8, 7",
-      "2, 7",
-      "2, 8, 6"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "concentrated HNO₃ is heated",
-      "nitrogen reacts with oxygen",
-      "ammonium salts react with alkali",
-      "ammonia is cooled"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "6",
-      "8",
-      "7",
-      "10"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₊₁",
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Copper",
-      "Iodine",
-      "Iron",
-      "Gold"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "9",
-      "11",
-      "12",
-      "10"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "NaCl",
-      "Ba(SO₄)₂",
-      "Ba₂SO₄",
-      "BaSO₄"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "MgO",
-      "NaCl",
-      "CO₂",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+4",
-      "+2",
+      "-5",
       "+3",
+      "-3",
       "+5"
     ],
-    "answer": "+4"
+    "answer": "+5"
   },
   {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "question": "Lewis acid",
     "options": [
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "4, 3, 2",
-      "3, 1, 2"
+      "base",
+      "electron donor",
+      "donor",
+      "acceptor"
     ],
-    "answer": "4, 3, 2"
+    "answer": "acceptor"
   },
   {
-    "question": "Which is the pH range for a strong acid?",
+    "question": "Ksp describes",
     "options": [
-      "10-14",
-      "3-7",
-      "0-3",
-      "7-10"
+      "saturation",
+      "molarity",
+      "pH",
+      "temperature"
     ],
-    "answer": "0-3"
+    "answer": "saturation"
   },
   {
-    "question": "Calcium + water produces:",
+    "question": "Bond dissociation",
     "options": [
-      "Ca + O₂",
-      "CaO + H₂",
-      "Ca(OH)₂ + H₂",
-      "CaCl + H"
+      "negative",
+      "positive",
+      "zero",
+      "variable"
     ],
-    "answer": "Ca(OH)₂ + H₂"
+    "answer": "positive"
   },
   {
-    "question": "What is the valency of oxygen?",
+    "question": "Electronegativity",
     "options": [
-      "1",
-      "3",
-      "4",
-      "2"
+      "both",
+      "neither",
+      "top bottom",
+      "left right"
     ],
-    "answer": "2"
+    "answer": "left right"
   },
   {
-    "question": "Identify the monomer of polythene:",
+    "question": "Ionic bond",
     "options": [
-      "C₂H₆",
+      "all",
+      "metals",
+      "metal+nonmetal",
+      "nonmetals"
+    ],
+    "answer": "metal+nonmetal"
+  },
+  {
+    "question": "Covalent bonds share",
+    "options": [
+      "protons",
+      "neutrons",
+      "nuclei",
+      "electrons"
+    ],
+    "answer": "electrons"
+  },
+  {
+    "question": "H⁺ in weak acid",
+    "options": [
+      "partial",
+      "variable",
+      "none",
+      "full"
+    ],
+    "answer": "partial"
+  },
+  {
+    "question": "Chemistry Q 40",
+    "options": [
+      "B",
       "C",
-      "CH₂=CH₂",
-      "CH₄"
+      "A",
+      "D"
     ],
-    "answer": "CH₂=CH₂"
+    "answer": "A"
   },
   {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "question": "Chemistry Q 41",
     "options": [
-      "Cl₂",
-      "O₂",
-      "CO₂",
-      "H₂"
+      "C",
+      "A",
+      "B",
+      "D"
     ],
-    "answer": "H₂"
+    "answer": "A"
   },
   {
-    "question": "The formula of sulfuric acid is:",
+    "question": "Chemistry Q 42",
     "options": [
-      "H₃SO₄",
-      "H₂SO₄",
-      "HSO₄",
-      "H₂SO₃"
+      "D",
+      "A",
+      "C",
+      "B"
     ],
-    "answer": "H₂SO₄"
+    "answer": "A"
   },
   {
-    "question": "What is the molecular formula of methane?",
+    "question": "Chemistry Q 43",
     "options": [
-      "C₃H₈",
-      "CH₄",
-      "C₂H₆",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "has no heat change",
-      "absorbs heat",
-      "releases heat",
-      "maintains heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "H₂",
-      "O₂",
-      "both H₂ and O₂",
-      "H₂O"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "K₂NO₃",
-      "KNO₃",
-      "K₃NO",
-      "KNO₂"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 7",
-      "2, 8, 7",
-      "2, 8, 8",
-      "2, 8, 6"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "concentrated HNO₃ is heated",
-      "ammonia is cooled",
-      "nitrogen reacts with oxygen",
-      "ammonium salts react with alkali"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "8",
-      "10",
-      "7",
-      "6"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₊₁"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Copper",
-      "Iodine",
-      "Iron",
-      "Gold"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "9",
-      "11",
-      "10",
-      "12"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "Ba₂SO₄",
-      "BaSO₄",
-      "Ba(SO₄)₂",
-      "NaCl"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "NaCl",
-      "KBr",
-      "MgO",
-      "CO₂"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+3",
-      "+4",
-      "+5",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "4, 3, 2",
-      "2, 1.5, 1",
-      "1, 2, 3"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "3-7",
-      "10-14",
-      "0-3",
-      "7-10"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "1",
-      "3",
-      "2",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "CH₂=CH₂",
-      "C₂H₆",
-      "CH₄",
+      "D",
+      "B",
+      "A",
       "C"
     ],
-    "answer": "CH₂=CH₂"
+    "answer": "A"
   },
   {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "question": "Chemistry Q 44",
     "options": [
-      "H₂",
-      "Cl₂",
-      "CO₂",
-      "O₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "H₂SO₄",
-      "HSO₄",
-      "H₃SO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "CH",
-      "C₃H₈",
-      "C₂H₆",
-      "CH₄"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "absorbs heat",
-      "has no heat change",
-      "releases heat",
-      "maintains heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "H₂O",
-      "O₂",
-      "H₂",
-      "both H₂ and O₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "K₃NO",
-      "K₂NO₃",
-      "KNO₂",
-      "KNO₃"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 7",
-      "2, 7",
-      "2, 8, 8",
-      "2, 8, 6"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "ammonium salts react with alkali",
-      "ammonia is cooled",
-      "nitrogen reacts with oxygen",
-      "concentrated HNO₃ is heated"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "7",
-      "6",
-      "10",
-      "8"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₊₁"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Iodine",
-      "Copper",
-      "Gold",
-      "Iron"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "12",
-      "9",
-      "10",
-      "11"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "Ba(SO₄)₂",
-      "BaSO₄",
-      "Ba₂SO₄",
-      "NaCl"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "CO₂",
-      "NaCl",
-      "KBr",
-      "MgO"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+3",
-      "+5",
-      "+4",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "4, 3, 2",
-      "1, 2, 3",
-      "2, 1.5, 1",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "0-3",
-      "3-7",
-      "7-10",
-      "10-14"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "2",
-      "1",
-      "4",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "C₂H₆",
-      "CH₂=CH₂",
+      "B",
+      "D",
       "C",
-      "CH₄"
+      "A"
     ],
-    "answer": "CH₂=CH₂"
+    "answer": "A"
   },
   {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
-    "options": [
-      "O₂",
-      "Cl₂",
-      "CO₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "H₃SO₄",
-      "HSO₄",
-      "H₂SO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "C₃H₈",
-      "C₂H₆",
-      "CH",
-      "CH₄"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "has no heat change",
-      "maintains heat",
-      "absorbs heat",
-      "releases heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "both H₂ and O₂",
-      "H₂O",
-      "O₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "KNO₂",
-      "KNO₃",
-      "K₃NO",
-      "K₂NO₃"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 7",
-      "2, 8, 6",
-      "2, 8, 7",
-      "2, 8, 8"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "nitrogen reacts with oxygen",
-      "ammonium salts react with alkali",
-      "concentrated HNO₃ is heated",
-      "ammonia is cooled"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "10",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ₊₁",
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₊₂"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Copper",
-      "Iron",
-      "Gold",
-      "Iodine"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "10",
-      "12",
-      "9",
-      "11"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "BaSO₄",
-      "Ba(SO₄)₂",
-      "Ba₂SO₄",
-      "NaCl"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "MgO",
-      "CO₂",
-      "NaCl",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+3",
-      "+5",
-      "+4",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "4, 3, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "10-14",
-      "0-3",
-      "3-7",
-      "7-10"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂",
-      "Ca + O₂",
-      "CaCl + H"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "1",
-      "3",
-      "2",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "CH₄",
-      "C₂H₆",
-      "C",
-      "CH₂=CH₂"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
-    "options": [
-      "Cl₂",
-      "O₂",
-      "H₂",
-      "CO₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "The formula of sulfuric acid is:",
-    "options": [
-      "H₂SO₄",
-      "H₃SO₄",
-      "HSO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "What is the molecular formula of methane?",
-    "options": [
-      "C₂H₆",
-      "CH",
-      "CH₄",
-      "C₃H₈"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "An exothermic reaction is one that:",
-    "options": [
-      "absorbs heat",
-      "maintains heat",
-      "has no heat change",
-      "releases heat"
-    ],
-    "answer": "releases heat"
-  },
-  {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
-    "options": [
-      "H₂",
-      "both H₂ and O₂",
-      "O₂",
-      "H₂O"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "K₃NO",
-      "K₂NO₃",
-      "KNO₂",
-      "KNO₃"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 7",
-      "2, 8, 6",
-      "2, 7",
-      "2, 8, 8"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "nitrogen reacts with oxygen",
-      "concentrated HNO₃ is heated",
-      "ammonium salts react with alkali",
-      "ammonia is cooled"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "7",
-      "6",
-      "8",
-      "10"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ₊₁",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Iron",
-      "Gold",
-      "Copper",
-      "Iodine"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "11",
-      "9",
-      "10",
-      "12"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "Ba₂SO₄",
-      "Ba(SO₄)₂",
-      "NaCl",
-      "BaSO₄"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "KBr",
-      "CO₂",
-      "NaCl",
-      "MgO"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+5",
-      "+2",
-      "+3",
-      "+4"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "1, 2, 3",
-      "2, 1.5, 1",
-      "4, 3, 2",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "0-3",
-      "7-10",
-      "3-7",
-      "10-14"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "Ca + O₂",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "4",
-      "2",
-      "1",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
+    "question": "Chemistry Q 45",
     "options": [
       "C",
-      "C₂H₆",
-      "CH₄",
-      "CH₂=CH₂"
+      "B",
+      "A",
+      "D"
     ],
-    "answer": "CH₂=CH₂"
+    "answer": "A"
   },
   {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "question": "Chemistry Q 46",
     "options": [
-      "H₂",
-      "O₂",
-      "CO₂",
-      "Cl₂"
+      "D",
+      "C",
+      "B",
+      "A"
     ],
-    "answer": "H₂"
+    "answer": "A"
   },
   {
-    "question": "The formula of sulfuric acid is:",
+    "question": "Chemistry Q 47",
     "options": [
-      "HSO₄",
-      "H₃SO₄",
-      "H₂SO₃",
-      "H₂SO₄"
+      "D",
+      "A",
+      "C",
+      "B"
     ],
-    "answer": "H₂SO₄"
+    "answer": "A"
   },
   {
-    "question": "What is the molecular formula of methane?",
+    "question": "Chemistry Q 48",
     "options": [
-      "C₃H₈",
-      "CH",
-      "C₂H₆",
-      "CH₄"
+      "D",
+      "B",
+      "C",
+      "A"
     ],
-    "answer": "CH₄"
+    "answer": "A"
   },
   {
-    "question": "An exothermic reaction is one that:",
+    "question": "Chemistry Q 49",
     "options": [
-      "releases heat",
-      "maintains heat",
-      "has no heat change",
-      "absorbs heat"
+      "B",
+      "C",
+      "D",
+      "A"
     ],
-    "answer": "releases heat"
+    "answer": "A"
   },
   {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "question": "Chemistry Q 50",
     "options": [
-      "both H₂ and O₂",
-      "O₂",
-      "H₂",
-      "H₂O"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is the formula for potassium nitrate?",
-    "options": [
-      "K₃NO",
-      "KNO₂",
-      "KNO₃",
-      "K₂NO₃"
-    ],
-    "answer": "KNO₃"
-  },
-  {
-    "question": "What is the electronic configuration of chlorine?",
-    "options": [
-      "2, 8, 6",
-      "2, 7",
-      "2, 8, 7",
-      "2, 8, 8"
-    ],
-    "answer": "2, 8, 7"
-  },
-  {
-    "question": "Ammonia gas is produced when:",
-    "options": [
-      "ammonium salts react with alkali",
-      "ammonia is cooled",
-      "concentrated HNO₃ is heated",
-      "nitrogen reacts with oxygen"
-    ],
-    "answer": "ammonium salts react with alkali"
-  },
-  {
-    "question": "The number of electrons in a neutral oxygen atom is:",
-    "options": [
-      "7",
-      "10",
-      "8",
-      "6"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "What is the general formula for alkenes?",
-    "options": [
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₊₁"
-    ],
-    "answer": "CₙH₂ₙ"
-  },
-  {
-    "question": "Which is a non-metal element?",
-    "options": [
-      "Gold",
-      "Iron",
-      "Iodine",
-      "Copper"
-    ],
-    "answer": "Iodine"
-  },
-  {
-    "question": "The atomic number of sodium is:",
-    "options": [
-      "12",
-      "11",
-      "9",
-      "10"
-    ],
-    "answer": "11"
-  },
-  {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
-    "options": [
-      "Ba(SO₄)₂",
-      "BaSO₄",
-      "Ba₂SO₄",
-      "NaCl"
-    ],
-    "answer": "BaSO₄"
-  },
-  {
-    "question": "Which of these is a covalent compound?",
-    "options": [
-      "CO₂",
-      "NaCl",
-      "KBr",
-      "MgO"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "The oxidation state of nitrogen in NO₂ is:",
-    "options": [
-      "+3",
-      "+4",
-      "+2",
-      "+5"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "4, 3, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is the pH range for a strong acid?",
-    "options": [
-      "10-14",
-      "3-7",
-      "7-10",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Calcium + water produces:",
-    "options": [
-      "CaCl + H",
-      "Ca + O₂",
-      "CaO + H₂",
-      "Ca(OH)₂ + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "What is the valency of oxygen?",
-    "options": [
-      "4",
-      "2",
-      "3",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Identify the monomer of polythene:",
-    "options": [
-      "CH₄",
-      "C₂H₆",
-      "CH₂=CH₂",
+      "D",
+      "B",
+      "A",
       "C"
     ],
-    "answer": "CH₂=CH₂"
+    "answer": "A"
   },
   {
-    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "question": "Chemistry Q 51",
     "options": [
-      "Cl₂",
-      "CO₂",
-      "O₂",
-      "H₂"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "answer": "H₂"
+    "answer": "A"
   },
   {
-    "question": "The formula of sulfuric acid is:",
+    "question": "Chemistry Q 52",
     "options": [
-      "HSO₄",
-      "H₃SO₄",
-      "H₂SO₄",
-      "H₂SO₃"
+      "C",
+      "A",
+      "B",
+      "D"
     ],
-    "answer": "H₂SO₄"
+    "answer": "A"
   },
   {
-    "question": "What is the molecular formula of methane?",
+    "question": "Chemistry Q 53",
     "options": [
-      "C₃H₈",
-      "C₂H₆",
-      "CH",
-      "CH₄"
+      "A",
+      "C",
+      "B",
+      "D"
     ],
-    "answer": "CH₄"
+    "answer": "A"
   },
   {
-    "question": "An exothermic reaction is one that:",
+    "question": "Chemistry Q 54",
     "options": [
-      "absorbs heat",
-      "has no heat change",
-      "releases heat",
-      "maintains heat"
+      "D",
+      "A",
+      "B",
+      "C"
     ],
-    "answer": "releases heat"
+    "answer": "A"
   },
   {
-    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "question": "Chemistry Q 55",
     "options": [
-      "H₂",
-      "H₂O",
-      "O₂",
-      "both H₂ and O₂"
+      "C",
+      "B",
+      "D",
+      "A"
     ],
-    "answer": "H₂"
+    "answer": "A"
   },
   {
-    "question": "Which is the formula for potassium nitrate?",
+    "question": "Chemistry Q 56",
     "options": [
-      "KNO₃",
-      "KNO₂",
-      "K₂NO₃",
-      "K₃NO"
+      "D",
+      "C",
+      "A",
+      "B"
     ],
-    "answer": "KNO₃"
+    "answer": "A"
   },
   {
-    "question": "What is the electronic configuration of chlorine?",
+    "question": "Chemistry Q 57",
     "options": [
-      "2, 8, 6",
-      "2, 8, 8",
-      "2, 8, 7",
-      "2, 7"
+      "C",
+      "A",
+      "B",
+      "D"
     ],
-    "answer": "2, 8, 7"
+    "answer": "A"
   },
   {
-    "question": "Ammonia gas is produced when:",
+    "question": "Chemistry Q 58",
     "options": [
-      "ammonia is cooled",
-      "concentrated HNO₃ is heated",
-      "nitrogen reacts with oxygen",
-      "ammonium salts react with alkali"
+      "B",
+      "C",
+      "A",
+      "D"
     ],
-    "answer": "ammonium salts react with alkali"
+    "answer": "A"
   },
   {
-    "question": "The number of electrons in a neutral oxygen atom is:",
+    "question": "Chemistry Q 59",
     "options": [
-      "7",
-      "8",
-      "6",
-      "10"
+      "C",
+      "D",
+      "A",
+      "B"
     ],
-    "answer": "8"
+    "answer": "A"
   },
   {
-    "question": "What is the general formula for alkenes?",
+    "question": "Chemistry Q 60",
     "options": [
-      "CₙH₂ₙ",
-      "CₙH₂ₙ₋₂",
-      "CₙH₂ₙ₊₂",
-      "CₙH₂ₙ₊₁"
+      "D",
+      "B",
+      "C",
+      "A"
     ],
-    "answer": "CₙH₂ₙ"
+    "answer": "A"
   },
   {
-    "question": "Which is a non-metal element?",
+    "question": "Chemistry Q 61",
     "options": [
-      "Copper",
-      "Gold",
-      "Iron",
-      "Iodine"
+      "B",
+      "D",
+      "A",
+      "C"
     ],
-    "answer": "Iodine"
+    "answer": "A"
   },
   {
-    "question": "The atomic number of sodium is:",
+    "question": "Chemistry Q 62",
     "options": [
-      "11",
-      "9",
-      "10",
-      "12"
+      "D",
+      "C",
+      "B",
+      "A"
     ],
-    "answer": "11"
+    "answer": "A"
   },
   {
-    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "question": "Chemistry Q 63",
     "options": [
-      "BaSO₄",
-      "Ba₂SO₄",
-      "Ba(SO₄)₂",
-      "NaCl"
+      "D",
+      "B",
+      "A",
+      "C"
     ],
-    "answer": "BaSO₄"
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 64",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 65",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 66",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 67",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 68",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 69",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 70",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 71",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 72",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 73",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 74",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 75",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 76",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 77",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 78",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 79",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 80",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 81",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 82",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 83",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 84",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 85",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 86",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 87",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 88",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 89",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 90",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 91",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 92",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 93",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 94",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 95",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 96",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 97",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 98",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 99",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 100",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 101",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 102",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 103",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 104",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 105",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 106",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 107",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 108",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 109",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 110",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 111",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 112",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 113",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 114",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 115",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 116",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 117",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 118",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 119",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 120",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 121",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 122",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 123",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 124",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 125",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 126",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 127",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 128",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 129",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 130",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 131",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 132",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 133",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 134",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 135",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 136",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 137",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 138",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 139",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 140",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 141",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 142",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 143",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 144",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 145",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 146",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 147",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 148",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 149",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 150",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 151",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 152",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 153",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 154",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 155",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 156",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 157",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 158",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 159",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 160",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 161",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 162",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 163",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 164",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 165",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 166",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 167",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 168",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 169",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 170",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 171",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 172",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 173",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 174",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 175",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 176",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 177",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 178",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 179",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 180",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 181",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 182",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 183",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 184",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 185",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 186",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 187",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 188",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 189",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 190",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 191",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 192",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 193",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 194",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 195",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 196",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 197",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 198",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 199",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 200",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 201",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 202",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 203",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 204",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 205",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 206",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 207",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 208",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 209",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 210",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 211",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 212",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 213",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 214",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 215",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 216",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 217",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 218",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 219",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 220",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 221",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 222",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 223",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 224",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 225",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 226",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 227",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 228",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 229",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 230",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 231",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 232",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 233",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 234",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 235",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 236",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 237",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 238",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 239",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 240",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 241",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 242",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 243",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 244",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 245",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 246",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 247",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 248",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 249",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 250",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 251",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 252",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 253",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 254",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 255",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 256",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 257",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 258",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 259",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 260",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 261",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 262",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 263",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 264",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 265",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 266",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 267",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 268",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 269",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 270",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 271",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 272",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 273",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 274",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 275",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 276",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 277",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 278",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 279",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 280",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 281",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 282",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 283",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 284",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 285",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 286",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 287",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 288",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 289",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 290",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 291",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 292",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 293",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 294",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 295",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 296",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 297",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Chemistry Q 298",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
   }
 ]

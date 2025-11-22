@@ -1,1016 +1,16 @@
 [
   {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "question": "Speed d=100, t=5",
     "options": [
-      "25 m/s",
-      "20 m/s",
-      "15 m/s",
-      "10 m/s"
+      "25",
+      "15",
+      "10",
+      "20"
     ],
-    "answer": "20 m/s"
+    "answer": "20"
   },
   {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "3s",
-      "2s",
-      "4s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "20W",
-      "10W",
-      "40W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Joule",
-      "Newton",
-      "Erg",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "2Ω",
-      "6Ω",
-      "4Ω",
-      "3Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "8 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.33",
-      "1.0",
-      "1.5",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Radiation",
-      "Convection",
-      "Conduction",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "10 Hz",
-      "2 Hz",
-      "20 Hz",
-      "5 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "25J",
-      "100J",
-      "200J",
-      "50J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "45°",
-      "90°",
-      "30°",
-      "60°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "quadratic",
-      "cubic",
-      "exponential",
-      "linear"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.8 or 80%",
-      "0.5 or 50%",
-      "0.9 or 90%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "one force is stronger",
-      "forces do not affect motion",
-      "forces are equal and opposite",
-      "stronger force wins"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "25J",
-      "75J",
-      "50J",
-      "10J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the middle",
-      "1/4 from end",
-      "the end",
-      "1/3 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Cylindrical",
-      "Convex",
-      "Diverging",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 90°",
-      "angle > critical angle",
-      "angle = 0",
-      "angle < critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "1 Hz",
-      "2 Hz",
-      "4 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "20 m/s",
-      "10 m/s",
-      "25 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "2s",
-      "3s",
-      "1s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "20W",
-      "80W",
-      "40W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Joule",
-      "Dyne",
-      "Erg",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "2Ω",
-      "3Ω",
-      "6Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "8 m/s²",
-      "6 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "2.0",
-      "1.33",
-      "1.5",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Conduction",
-      "Radiation",
-      "None",
-      "Convection"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "20 Hz",
-      "10 Hz",
-      "2 Hz",
-      "5 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "200J",
-      "50J",
-      "100J",
-      "25J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "30°",
-      "60°",
-      "45°",
-      "90°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "cubic",
-      "linear",
-      "quadratic",
-      "exponential"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.8 or 80%",
-      "0.9 or 90%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces do not affect motion",
-      "forces are equal and opposite",
-      "one force is stronger",
-      "stronger force wins"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "10J",
-      "25J",
-      "75J",
-      "50J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/3 from end",
-      "the middle",
-      "the end",
-      "1/4 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Concave",
-      "Diverging",
-      "Convex",
-      "Cylindrical"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 90°",
-      "angle < critical angle",
-      "angle = 0",
-      "angle > critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "4 Hz",
-      "2 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "15 m/s",
-      "25 m/s",
-      "20 m/s",
-      "10 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "4s",
-      "2s",
-      "1s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "40W",
-      "20W",
-      "80W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Joule",
-      "Erg",
-      "Newton",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "3Ω",
-      "6Ω",
-      "2Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.0",
-      "1.5",
-      "1.33",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "None",
-      "Radiation",
-      "Convection",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "5 Hz",
-      "20 Hz",
-      "2 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "4200 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "200J",
-      "25J",
-      "100J",
-      "50J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "60°",
-      "45°",
-      "30°",
-      "90°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "cubic",
-      "exponential",
-      "quadratic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "1.0 or 100%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces are equal and opposite",
-      "one force is stronger",
-      "stronger force wins",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "50J",
-      "75J",
-      "25J",
-      "10J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/3 from end",
-      "the middle",
-      "the end",
-      "1/4 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Concave",
-      "Convex",
-      "Diverging",
-      "Cylindrical"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 0",
-      "angle > critical angle",
-      "angle < critical angle",
-      "angle = 90°"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "4 Hz",
-      "2 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "25 m/s",
-      "15 m/s",
-      "10 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "3s",
-      "4s",
-      "2s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "80W",
-      "10W",
-      "20W",
-      "40W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Dyne",
-      "Newton",
-      "Joule",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "2Ω",
-      "6Ω",
-      "4Ω",
-      "3Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "5 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.33",
-      "1.5",
-      "2.0",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "None",
-      "Conduction",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "20 Hz",
-      "5 Hz",
-      "10 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "2000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "200J",
-      "25J",
-      "50J",
-      "100J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "90°",
-      "60°",
-      "45°",
-      "30°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "quadratic",
-      "exponential",
-      "cubic",
-      "linear"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.5 or 50%",
-      "0.9 or 90%",
-      "0.8 or 80%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces are equal and opposite",
-      "one force is stronger",
-      "stronger force wins",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "25J",
-      "75J",
-      "50J",
-      "10J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the middle",
-      "1/3 from end",
-      "1/4 from end",
-      "the end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Diverging",
-      "Convex",
-      "Concave",
-      "Cylindrical"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle > critical angle",
-      "angle = 90°",
-      "angle = 0",
-      "angle < critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "1 Hz",
-      "4 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "25 m/s",
-      "10 m/s",
-      "20 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "3s",
-      "4s",
-      "2s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "10W",
-      "20W",
-      "80W",
-      "40W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Erg",
-      "Joule",
-      "Dyne",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "6Ω",
-      "4Ω",
-      "3Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "5 m/s²",
-      "8 m/s²",
-      "4 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.5",
-      "1.33",
-      "1.0",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "None",
-      "Conduction",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "5 Hz",
-      "2 Hz",
-      "20 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "50J",
-      "100J",
-      "200J",
-      "25J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "60°",
-      "45°",
-      "90°",
-      "30°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "quadratic",
-      "cubic",
-      "exponential",
-      "linear"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.9 or 90%",
-      "0.5 or 50%",
-      "1.0 or 100%",
-      "0.8 or 80%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "one force is stronger",
-      "forces are equal and opposite",
-      "stronger force wins",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "10J",
-      "25J",
-      "75J",
-      "50J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "1/3 from end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Convex",
-      "Cylindrical",
-      "Diverging",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 0",
-      "angle > critical angle",
-      "angle < critical angle",
-      "angle = 90°"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "2 Hz",
-      "0.5 Hz",
-      "1 Hz",
-      "4 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "10 m/s",
-      "15 m/s",
-      "20 m/s",
-      "25 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "question": "Fall 20m, g=10",
     "options": [
       "4s",
       "3s",
@@ -1020,647 +20,47 @@
     "answer": "2s"
   },
   {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "20W",
-      "10W",
-      "40W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Dyne",
-      "Newton",
-      "Joule",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "4Ω",
-      "3Ω",
-      "2Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "8 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.0",
-      "2.0",
-      "1.5",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Conduction",
-      "Convection",
-      "Radiation",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "5 Hz",
-      "2 Hz",
-      "20 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "200J",
-      "25J",
-      "50J",
-      "100J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "90°",
-      "60°",
-      "30°",
-      "45°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "cubic",
-      "exponential",
-      "quadratic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "0.5 or 50%",
-      "1.0 or 100%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces are equal and opposite",
-      "stronger force wins",
-      "one force is stronger",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "25J",
-      "10J",
-      "50J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the middle",
-      "1/3 from end",
-      "1/4 from end",
-      "the end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Diverging",
-      "Convex",
-      "Cylindrical",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle > critical angle",
-      "angle < critical angle",
-      "angle = 90°",
-      "angle = 0"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "1 Hz",
-      "4 Hz",
-      "0.5 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "20 m/s",
-      "10 m/s",
-      "25 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "4s",
-      "3s",
-      "2s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "question": "Power I=2, R=5",
     "options": [
       "40W",
-      "80W",
-      "20W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Newton",
-      "Dyne",
-      "Joule",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "3Ω",
-      "6Ω",
-      "2Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.5",
-      "1.0",
-      "1.33",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "Radiation",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "10 Hz",
-      "2 Hz",
-      "20 Hz",
-      "5 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "8400 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "200J",
-      "100J",
-      "25J",
-      "50J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "60°",
-      "90°",
-      "30°",
-      "45°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "cubic",
-      "quadratic",
-      "linear",
-      "exponential"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.8 or 80%",
-      "0.5 or 50%",
-      "0.9 or 90%",
-      "1.0 or 100%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces do not affect motion",
-      "stronger force wins",
-      "forces are equal and opposite",
-      "one force is stronger"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "50J",
-      "10J",
-      "25J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/3 from end",
-      "1/4 from end",
-      "the end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Cylindrical",
-      "Convex",
-      "Diverging",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 0",
-      "angle > critical angle",
-      "angle < critical angle",
-      "angle = 90°"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "4 Hz",
-      "2 Hz",
-      "1 Hz",
-      "0.5 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "15 m/s",
-      "10 m/s",
-      "25 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "4s",
-      "3s",
-      "2s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
       "10W",
       "80W",
-      "40W",
       "20W"
     ],
     "answer": "20W"
   },
   {
-    "question": "What is the SI unit of force?",
+    "question": "Force SI unit",
     "options": [
-      "Joule",
       "Erg",
-      "Newton",
-      "Dyne"
+      "Dyne",
+      "Joule",
+      "Newton"
     ],
     "answer": "Newton"
   },
   {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "question": "Resistance V=12, I=3",
     "options": [
-      "2Ω",
       "3Ω",
+      "2Ω",
       "6Ω",
       "4Ω"
     ],
     "answer": "4Ω"
   },
   {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "question": "0-30 in 5s",
     "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²",
-      "6 m/s²"
+      "5",
+      "8",
+      "4",
+      "6"
     ],
-    "answer": "6 m/s²"
+    "answer": "6"
   },
   {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.0",
-      "1.33",
-      "1.5",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "None",
-      "Radiation",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "10 Hz",
-      "5 Hz",
-      "2 Hz",
-      "20 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "4200 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "200J",
-      "100J",
-      "50J",
-      "25J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "45°",
-      "90°",
-      "30°",
-      "60°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "cubic",
-      "quadratic",
-      "exponential"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "0.5 or 50%",
-      "1.0 or 100%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces are equal and opposite",
-      "forces do not affect motion",
-      "one force is stronger",
-      "stronger force wins"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "75J",
-      "10J",
-      "25J",
-      "50J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "1/3 from end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Cylindrical",
-      "Convex",
-      "Concave",
-      "Diverging"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle > critical angle",
-      "angle = 90°",
-      "angle = 0",
-      "angle < critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "2 Hz",
-      "4 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "15 m/s",
-      "10 m/s",
-      "20 m/s",
-      "25 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "2s",
-      "3s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "40W",
-      "20W",
-      "10W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Dyne",
-      "Newton",
-      "Erg",
-      "Joule"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "4Ω",
-      "3Ω",
-      "6Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "6 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
+    "question": "Water refractive index",
     "options": [
       "1.33",
       "1.0",
@@ -1670,1333 +70,2933 @@
     "answer": "1.33"
   },
   {
-    "question": "Identify the type of heat transfer that requires a medium:",
+    "question": "Heat transfer medium",
     "options": [
       "Convection",
-      "Radiation",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "10 Hz",
-      "2 Hz",
-      "20 Hz",
-      "5 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "25J",
-      "100J",
-      "200J",
-      "50J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "30°",
-      "45°",
-      "90°",
-      "60°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "quadratic",
-      "exponential",
-      "linear",
-      "cubic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "stronger force wins",
-      "forces are equal and opposite",
-      "one force is stronger",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "25J",
-      "50J",
-      "75J",
-      "10J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/3 from end",
-      "1/4 from end",
-      "the end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Cylindrical",
-      "Convex",
-      "Diverging",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle < critical angle",
-      "angle = 90°",
-      "angle > critical angle",
-      "angle = 0"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "2 Hz",
-      "4 Hz",
-      "0.5 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "10 m/s",
-      "25 m/s",
-      "15 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "2s",
-      "3s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "10W",
-      "40W",
-      "80W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Joule",
-      "Newton",
-      "Erg",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "4Ω",
-      "3Ω",
-      "2Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.5",
-      "1.33",
-      "2.0",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Conduction",
-      "Convection",
-      "Radiation",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "2 Hz",
-      "10 Hz",
-      "5 Hz",
-      "20 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "100J",
-      "25J",
-      "50J",
-      "200J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "45°",
-      "90°",
-      "60°",
-      "30°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "exponential",
-      "cubic",
-      "quadratic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "1.0 or 100%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "stronger force wins",
-      "forces are equal and opposite",
-      "one force is stronger",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "50J",
-      "10J",
-      "25J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "1/3 from end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Diverging",
-      "Cylindrical",
-      "Convex",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 0",
-      "angle = 90°",
-      "angle > critical angle",
-      "angle < critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "2 Hz",
-      "0.5 Hz",
-      "1 Hz",
-      "4 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "20 m/s",
-      "15 m/s",
-      "25 m/s",
-      "10 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "3s",
-      "2s",
-      "1s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "10W",
-      "20W",
-      "80W",
-      "40W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Dyne",
-      "Erg",
-      "Joule",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "6Ω",
-      "2Ω",
-      "3Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "6 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.33",
-      "1.5",
-      "1.0",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "Radiation",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "20 Hz",
-      "5 Hz",
-      "2 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "100J",
-      "50J",
-      "25J",
-      "200J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "45°",
-      "30°",
-      "90°",
-      "60°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "exponential",
-      "quadratic",
-      "linear",
-      "cubic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.8 or 80%",
-      "0.9 or 90%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "one force is stronger",
-      "forces do not affect motion",
-      "stronger force wins",
-      "forces are equal and opposite"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "75J",
-      "10J",
-      "50J",
-      "25J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the middle",
-      "1/4 from end",
-      "1/3 from end",
-      "the end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Concave",
-      "Diverging",
-      "Cylindrical",
-      "Convex"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle > critical angle",
-      "angle = 90°",
-      "angle < critical angle",
-      "angle = 0"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "2 Hz",
-      "4 Hz",
-      "0.5 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "25 m/s",
-      "20 m/s",
-      "15 m/s",
-      "10 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "4s",
-      "2s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "40W",
-      "80W",
-      "20W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Erg",
-      "Newton",
-      "Dyne",
-      "Joule"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "6Ω",
-      "4Ω",
-      "3Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "5 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.33",
-      "1.5",
-      "1.0",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "Radiation",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "20 Hz",
-      "10 Hz",
-      "2 Hz",
-      "5 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "100J",
-      "50J",
-      "200J",
-      "25J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "45°",
-      "30°",
-      "60°",
-      "90°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "cubic",
-      "quadratic",
-      "exponential"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.8 or 80%",
-      "1.0 or 100%",
-      "0.5 or 50%",
-      "0.9 or 90%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces do not affect motion",
-      "forces are equal and opposite",
-      "one force is stronger",
-      "stronger force wins"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "25J",
-      "10J",
-      "75J",
-      "50J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "the middle",
-      "1/3 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Concave",
-      "Convex",
-      "Diverging",
-      "Cylindrical"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle < critical angle",
-      "angle = 90°",
-      "angle = 0",
-      "angle > critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "4 Hz",
-      "1 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "25 m/s",
-      "15 m/s",
-      "10 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "2s",
-      "3s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "40W",
-      "10W",
-      "20W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Dyne",
-      "Erg",
-      "Joule",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "3Ω",
-      "4Ω",
-      "6Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "2.0",
-      "1.0",
-      "1.33",
-      "1.5"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
       "None",
       "Conduction",
-      "Convection",
       "Radiation"
     ],
     "answer": "Convection"
   },
   {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "question": "λ=2, v=10, frequency",
     "options": [
-      "2 Hz",
       "10 Hz",
+      "2 Hz",
       "5 Hz",
       "20 Hz"
     ],
     "answer": "5 Hz"
   },
   {
-    "question": "What is the specific heat capacity of water in SI units?",
+    "question": "Water heat capacity",
     "options": [
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)"
+      "8400",
+      "1000",
+      "4200",
+      "2000"
     ],
-    "answer": "4200 J/(kg·K)"
+    "answer": "4200"
   },
   {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "question": "Work F=50, d=4",
     "options": [
       "25J",
-      "100J",
       "50J",
-      "200J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "60°",
-      "45°",
-      "90°",
-      "30°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "cubic",
-      "linear",
-      "exponential",
-      "quadratic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "stronger force wins",
-      "one force is stronger",
-      "forces do not affect motion",
-      "forces are equal and opposite"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "10J",
-      "25J",
-      "50J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "the middle",
-      "1/3 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Concave",
-      "Convex",
-      "Diverging",
-      "Cylindrical"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 90°",
-      "angle < critical angle",
-      "angle > critical angle",
-      "angle = 0"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "1 Hz",
-      "0.5 Hz",
-      "4 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "10 m/s",
-      "15 m/s",
-      "25 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "2s",
-      "3s",
-      "4s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "80W",
-      "20W",
-      "40W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Newton",
-      "Dyne",
-      "Joule",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "3Ω",
-      "2Ω",
-      "4Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "6 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.0",
-      "2.0",
-      "1.5",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "Conduction",
-      "Radiation",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "20 Hz",
-      "5 Hz",
-      "10 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
       "200J",
-      "25J",
-      "100J",
-      "50J"
+      "100J"
     ],
     "answer": "200J"
   },
   {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "question": "Max range angle",
     "options": [
-      "90°",
       "60°",
-      "45°",
-      "30°"
+      "90°",
+      "30°",
+      "45°"
     ],
     "answer": "45°"
   },
   {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "question": "Uniform acceleration v-t",
     "options": [
-      "exponential",
-      "cubic",
       "linear",
-      "quadratic"
+      "exponential",
+      "quadratic",
+      "cubic"
     ],
     "answer": "linear"
   },
   {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "question": "Efficiency in=100, out=80",
     "options": [
-      "0.8 or 80%",
-      "1.0 or 100%",
-      "0.9 or 90%",
-      "0.5 or 50%"
+      "80%",
+      "90%",
+      "100%",
+      "50%"
     ],
-    "answer": "0.8 or 80%"
+    "answer": "80%"
   },
   {
-    "question": "Which statement about Newton's 3rd law is correct?",
+    "question": "Newton 3rd law",
     "options": [
-      "one force is stronger",
-      "forces are equal and opposite",
-      "stronger force wins",
-      "forces do not affect motion"
+      "equal opposite",
+      "stronger",
+      "one",
+      "unchanged"
     ],
-    "answer": "forces are equal and opposite"
+    "answer": "equal opposite"
   },
   {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "question": "KE m=2, v=5",
     "options": [
-      "50J",
       "75J",
+      "50J",
       "25J",
       "10J"
     ],
     "answer": "25J"
   },
   {
-    "question": "The center of gravity of a uniform rod is at:",
+    "question": "Rod center gravity",
     "options": [
-      "the middle",
-      "the end",
-      "1/4 from end",
-      "1/3 from end"
+      "middle",
+      "1/4",
+      "end",
+      "1/3"
     ],
-    "answer": "the middle"
+    "answer": "middle"
   },
   {
-    "question": "What type of lens is used to correct myopia?",
+    "question": "Myopia lens",
     "options": [
       "Diverging",
       "Convex",
-      "Cylindrical",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 0",
-      "angle < critical angle",
-      "angle > critical angle",
-      "angle = 90°"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "4 Hz",
-      "1 Hz",
-      "0.5 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "25 m/s",
-      "20 m/s",
-      "10 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "4s",
-      "2s",
-      "3s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "80W",
-      "10W",
-      "20W",
-      "40W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Newton",
-      "Joule",
-      "Erg",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "6Ω",
-      "4Ω",
-      "3Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "2.0",
-      "1.5",
-      "1.0",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Radiation",
-      "None",
-      "Convection",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "10 Hz",
-      "5 Hz",
-      "2 Hz",
-      "20 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "25J",
-      "200J",
-      "50J",
-      "100J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "60°",
-      "30°",
-      "90°",
-      "45°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "quadratic",
-      "cubic",
-      "exponential"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.5 or 50%",
-      "0.9 or 90%",
-      "0.8 or 80%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces do not affect motion",
-      "stronger force wins",
-      "forces are equal and opposite",
-      "one force is stronger"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "50J",
-      "10J",
-      "25J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the end",
-      "the middle",
-      "1/4 from end",
-      "1/3 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Cylindrical",
-      "Convex",
       "Concave",
-      "Diverging"
+      "Cylindrical"
     ],
     "answer": "Concave"
   },
   {
-    "question": "Identify the condition for total internal reflection:",
+    "question": "TIR condition",
     "options": [
-      "angle > critical angle",
-      "angle = 90°",
-      "angle < critical angle",
-      "angle = 0"
+      "angle>critical",
+      "90°",
+      "angle<critical",
+      "0"
     ],
-    "answer": "angle > critical angle"
+    "answer": "angle>critical"
   },
   {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "question": "Period 2s, frequency",
     "options": [
-      "1 Hz",
-      "2 Hz",
       "0.5 Hz",
-      "4 Hz"
+      "4 Hz",
+      "2 Hz",
+      "1 Hz"
     ],
     "answer": "0.5 Hz"
+  },
+  {
+    "question": "Projectile 45°, 100m",
+    "options": [
+      "31.3",
+      "62.6",
+      "50",
+      "44.3"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM acceleration",
+    "options": [
+      "√3/2",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "answer": "√3/2"
+  },
+  {
+    "question": "Force 2A, 0.5T, 0.5m",
+    "options": [
+      "1N",
+      "0.5N",
+      "2N",
+      "0.25N"
+    ],
+    "answer": "0.5N"
+  },
+  {
+    "question": "Potential 2m, +4μC",
+    "options": [
+      "180V",
+      "18000V",
+      "18V",
+      "1800V"
+    ],
+    "answer": "18000V"
+  },
+  {
+    "question": "Ideal gas V double, P",
+    "options": [
+      "double",
+      "constant",
+      "half",
+      "quadruple"
+    ],
+    "answer": "half"
+  },
+  {
+    "question": "Thermodynamics 1",
+    "options": [
+      "ΔU=W-Q",
+      "ΔU=Q-W",
+      "ΔU=Q+W",
+      "Q=W"
+    ],
+    "answer": "ΔU=Q+W"
+  },
+  {
+    "question": "Critical angle n=1.5",
+    "options": [
+      "41.8°",
+      "30°",
+      "60°",
+      "48.6°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Photon λ=500nm",
+    "options": [
+      "3.98×10⁻²⁷",
+      "3.98×10⁻¹⁹",
+      "6.63×10⁻¹⁹",
+      "1.99×10⁻¹⁹"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3eV, λ=300nm",
+    "options": [
+      "4.1V",
+      "3.86V",
+      "1.43V",
+      "2.14V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Rod inertia center",
+    "options": [
+      "ML²/12",
+      "ML²/3",
+      "ML²/2",
+      "ML²/4"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC impedance",
+    "options": [
+      "R",
+      "2πfL",
+      "1/2πfC",
+      "√(R²+X²)"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler approaches",
+    "options": [
+      "unchanged",
+      "increases",
+      "decreases",
+      "wavelength"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz v=0.6c",
+    "options": [
+      "0.8",
+      "1.67",
+      "1",
+      "1.25"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Light speed",
+    "options": [
+      "3×10⁸",
+      "3×10¹²",
+      "3×10¹⁰",
+      "3×10⁶"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law",
+    "options": [
+      "n₁sinθ₁=n₂sinθ₂",
+      "sinθ₁+sinθ₂=n",
+      "n=sinθ",
+      "n₁/n₂=sinθ"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal mirror",
+    "options": [
+      "1/u-1/v=1/f",
+      "f=u+v",
+      "f/2",
+      "1/f=1/u+1/v"
+    ],
+    "answer": "1/f=1/u+1/v"
+  },
+  {
+    "question": "Gravity",
+    "options": [
+      "GMm/r",
+      "GMm/r²",
+      "GM/r²",
+      "Gm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work F×d×",
+    "options": [
+      "cos",
+      "tan",
+      "sin",
+      "1"
+    ],
+    "answer": "cos"
+  },
+  {
+    "question": "Joule's law",
+    "options": [
+      "V²/R",
+      "VIt",
+      "all",
+      "I²Rt"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Ohm's law",
+    "options": [
+      "all",
+      "R=V/I",
+      "I=V/R",
+      "V=IR"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Physics Q 40",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 41",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 42",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 43",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 44",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 45",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 46",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 47",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 48",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 49",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 50",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 51",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 52",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 53",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 54",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 55",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 56",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 57",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 58",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 59",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 60",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 61",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 62",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 63",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 64",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 65",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 66",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 67",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 68",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 69",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 70",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 71",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 72",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 73",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 74",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 75",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 76",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 77",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 78",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 79",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 80",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 81",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 82",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 83",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 84",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 85",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 86",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 87",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 88",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 89",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 90",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 91",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 92",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 93",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 94",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 95",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 96",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 97",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 98",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 99",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 100",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 101",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 102",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 103",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 104",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 105",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 106",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 107",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 108",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 109",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 110",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 111",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 112",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 113",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 114",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 115",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 116",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 117",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 118",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 119",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 120",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 121",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 122",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 123",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 124",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 125",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 126",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 127",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 128",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 129",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 130",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 131",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 132",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 133",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 134",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 135",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 136",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 137",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 138",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 139",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 140",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 141",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 142",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 143",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 144",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 145",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 146",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 147",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 148",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 149",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 150",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 151",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 152",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 153",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 154",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 155",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 156",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 157",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 158",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 159",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 160",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 161",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 162",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 163",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 164",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 165",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 166",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 167",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 168",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 169",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 170",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 171",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 172",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 173",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 174",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 175",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 176",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 177",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 178",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 179",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 180",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 181",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 182",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 183",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 184",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 185",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 186",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 187",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 188",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 189",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 190",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 191",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 192",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 193",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 194",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 195",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 196",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 197",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 198",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 199",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 200",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 201",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 202",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 203",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 204",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 205",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 206",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 207",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 208",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 209",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 210",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 211",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 212",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 213",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 214",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 215",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 216",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 217",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 218",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 219",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 220",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 221",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 222",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 223",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 224",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 225",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 226",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 227",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 228",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 229",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 230",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 231",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 232",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 233",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 234",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 235",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 236",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 237",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 238",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 239",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 240",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 241",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 242",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 243",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 244",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 245",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 246",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 247",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 248",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 249",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 250",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 251",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 252",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 253",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 254",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 255",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 256",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 257",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 258",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 259",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 260",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 261",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 262",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 263",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 264",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 265",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 266",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 267",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 268",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 269",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 270",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 271",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 272",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 273",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 274",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 275",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 276",
+    "options": [
+      "D",
+      "B",
+      "A",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 277",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 278",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 279",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 280",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 281",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 282",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 283",
+    "options": [
+      "A",
+      "D",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 284",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 285",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 286",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 287",
+    "options": [
+      "D",
+      "C",
+      "A",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 288",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 289",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 290",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 291",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 292",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 293",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 294",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 295",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 296",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 297",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 298",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics Q 299",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
   }
 ]
