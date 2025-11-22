@@ -1,3002 +1,3602 @@
 [
   {
-    "question": "Solve equation 53",
+    "id": 1,
+    "question": "If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 1
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 129",
+    "id": 2,
+    "question": "Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 85",
+    "id": 3,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 0
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 165",
+    "id": 4,
+    "question": "If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 2
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 136",
+    "id": 5,
+    "question": "Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 159",
+    "id": 6,
+    "question": "Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 3
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 109",
+    "id": 7,
+    "question": "In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 127",
+    "id": 8,
+    "question": "Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 0
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 46",
+    "id": 9,
+    "question": "Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 3
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 24",
+    "id": 10,
+    "question": "If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 188",
+    "id": 11,
+    "question": "If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 2
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 119",
+    "id": 12,
+    "question": "Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 235",
+    "id": 13,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 0
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 79",
+    "id": 14,
+    "question": "If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 3
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 198",
+    "id": 15,
+    "question": "Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 176",
+    "id": 16,
+    "question": "Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 1
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 231",
+    "id": 17,
+    "question": "In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 2
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 12",
+    "id": 18,
+    "question": "Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 0
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 164",
+    "id": 19,
+    "question": "Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 2
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 52",
+    "id": 20,
+    "question": "If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 72",
+    "id": 21,
+    "question": "If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 3
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 115",
+    "id": 22,
+    "question": "Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 132",
+    "id": 23,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 13",
+    "id": 24,
+    "question": "If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 0
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 121",
+    "id": 25,
+    "question": "Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 248",
+    "id": 26,
+    "question": "Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 1
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 252",
+    "id": 27,
+    "question": "In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 3
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 47",
+    "id": 28,
+    "question": "Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 1
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 75",
+    "id": 29,
+    "question": "Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 1
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 259",
+    "id": 30,
+    "question": "If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 258",
+    "id": 31,
+    "question": "If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 0
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 102",
+    "id": 32,
+    "question": "Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 279",
+    "id": 33,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 194",
+    "id": 34,
+    "question": "If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 1
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 181",
+    "id": 35,
+    "question": "Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 26",
+    "id": 36,
+    "question": "Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 289",
+    "id": 37,
+    "question": "In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 6",
+    "id": 38,
+    "question": "Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 1
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 143",
+    "id": 39,
+    "question": "Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 1
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 300",
+    "id": 40,
+    "question": "If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 145",
+    "id": 41,
+    "question": "The sophisticated understanding of... requires knowledge of... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 124",
+    "id": 42,
+    "question": "Which of the following BEST explains... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 2
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 66",
+    "id": 43,
+    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 3
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 14",
+    "id": 44,
+    "question": "An examination of... reveals that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 38",
+    "id": 45,
+    "question": "Analyzing deeper implications of..., we find that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 2
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 185",
+    "id": 46,
+    "question": "The sophisticated understanding of... requires knowledge of... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 144",
+    "id": 47,
+    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 1
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 274",
+    "id": 48,
+    "question": "In the context of..., which statement is MOST accurate? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 17",
+    "id": 49,
+    "question": "The sophisticated understanding of... requires knowledge of... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 97",
+    "id": 50,
+    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 25",
+    "id": 51,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 0
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 74",
+    "id": 52,
+    "question": "An examination of... reveals that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 1
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 44",
+    "id": 53,
+    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 290",
+    "id": 54,
+    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 3",
+    "id": 55,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 3
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 128",
+    "id": 56,
+    "question": "Complex application of... demonstrates that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 170",
+    "id": 57,
+    "question": "The sophisticated understanding of... requires knowledge of... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 293",
+    "id": 58,
+    "question": "Analyzing deeper implications of..., we find that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 0
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 69",
+    "id": 59,
+    "question": "Distinguishing between... and..., which is correct? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 0
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 163",
+    "id": 60,
+    "question": "Distinguishing between... and..., which is correct? Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 1
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 294",
+    "id": 61,
+    "question": "In the context of..., which statement is MOST accurate? Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 203",
+    "id": 62,
+    "question": "Analyzing deeper implications of..., we find that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 237",
+    "id": 63,
+    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 2
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 105",
+    "id": 64,
+    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 184",
+    "id": 65,
+    "question": "Which of the following BEST explains... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 1
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 108",
+    "id": 66,
+    "question": "In the context of..., which statement is MOST accurate? Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 266",
+    "id": 67,
+    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 0
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 91",
+    "id": 68,
+    "question": "In the context of..., which statement is MOST accurate? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 260",
+    "id": 69,
+    "question": "Which of the following BEST explains... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 276",
+    "id": 70,
+    "question": "Advanced students should recognize that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 199",
+    "id": 71,
+    "question": "Advanced students should recognize that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 33",
+    "id": 72,
+    "question": "The sophisticated understanding of... requires knowledge of... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 1
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 243",
+    "id": 73,
+    "question": "Advanced students should recognize that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 3
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 103",
+    "id": 74,
+    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 212",
+    "id": 75,
+    "question": "Which of the following BEST explains... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 1
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 192",
+    "id": 76,
+    "question": "An examination of... reveals that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 0
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 48",
+    "id": 77,
+    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 2
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 275",
+    "id": 78,
+    "question": "Critically analyzing..., one can conclude that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 61",
+    "id": 79,
+    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 288",
+    "id": 80,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 1
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 161",
+    "id": 81,
+    "question": "Distinguishing between... and..., which is correct? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 2
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 214",
+    "id": 82,
+    "question": "In the context of..., which statement is MOST accurate? Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 1
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 11",
+    "id": 83,
+    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 0
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 197",
+    "id": 84,
+    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 3
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 36",
+    "id": 85,
+    "question": "The sophisticated understanding of... requires knowledge of... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 269",
+    "id": 86,
+    "question": "Which of the following BEST explains... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 191",
+    "id": 87,
+    "question": "An examination of... reveals that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 23",
+    "id": 88,
+    "question": "Distinguishing between... and..., which is correct? Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 135",
+    "id": 89,
+    "question": "In the context of..., which statement is MOST accurate? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 3
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 113",
+    "id": 90,
+    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 93",
+    "id": 91,
+    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 57",
+    "id": 92,
+    "question": "Advanced students should recognize that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 2
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 232",
+    "id": 93,
+    "question": "The sophisticated understanding of... requires knowledge of... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 292",
+    "id": 94,
+    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 0
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 99",
+    "id": 95,
+    "question": "Which of the following BEST explains... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 282",
+    "id": 96,
+    "question": "Which of the following BEST explains... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 2
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 270",
+    "id": 97,
+    "question": "Which of the following BEST explains... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 2
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 140",
+    "id": 98,
+    "question": "Which of the following BEST explains... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 1
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 20",
+    "id": 99,
+    "question": "The sophisticated understanding of... requires knowledge of... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 3
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 220",
+    "id": 100,
+    "question": "An examination of... reveals that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 190",
+    "id": 101,
+    "question": "The sophisticated understanding of... requires knowledge of... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 3
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 209",
+    "id": 102,
+    "question": "The sophisticated understanding of... requires knowledge of... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 1
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 216",
+    "id": 103,
+    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 0
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 187",
+    "id": 104,
+    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 0
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 153",
+    "id": 105,
+    "question": "Critically analyzing..., one can conclude that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 90",
+    "id": 106,
+    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 1
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 218",
+    "id": 107,
+    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 131",
+    "id": 108,
+    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 56",
+    "id": 109,
+    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 2
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 162",
+    "id": 110,
+    "question": "Distinguishing between... and..., which is correct? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 205",
+    "id": 111,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 117",
+    "id": 112,
+    "question": "An examination of... reveals that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 2
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 286",
+    "id": 113,
+    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 1
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 296",
+    "id": 114,
+    "question": "In the context of..., which statement is MOST accurate? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 0
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 55",
+    "id": 115,
+    "question": "An examination of... reveals that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 3
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 229",
+    "id": 116,
+    "question": "Which of the following BEST explains... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 273",
+    "id": 117,
+    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 0
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 295",
+    "id": 118,
+    "question": "Which of the following BEST explains... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 2
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 22",
+    "id": 119,
+    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 182",
+    "id": 120,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 0
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 122",
+    "id": 121,
+    "question": "Distinguishing between... and..., which is correct? Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 7",
+    "id": 122,
+    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 3
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 253",
+    "id": 123,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 234",
+    "id": 124,
+    "question": "In the context of..., which statement is MOST accurate? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 3
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 80",
+    "id": 125,
+    "question": "Analyzing deeper implications of..., we find that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 3
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 177",
+    "id": 126,
+    "question": "Complex application of... demonstrates that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 0
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 263",
+    "id": 127,
+    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 1
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 116",
+    "id": 128,
+    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 1
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 287",
+    "id": 129,
+    "question": "In the context of..., which statement is MOST accurate? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 28",
+    "id": 130,
+    "question": "Advanced students should recognize that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 268",
+    "id": 131,
+    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 2
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 83",
+    "id": 132,
+    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 1
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 251",
+    "id": 133,
+    "question": "Complex application of... demonstrates that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 256",
+    "id": 134,
+    "question": "Analyzing deeper implications of..., we find that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 0
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 265",
+    "id": 135,
+    "question": "Critically analyzing..., one can conclude that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 1
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 217",
+    "id": 136,
+    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 3
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 76",
+    "id": 137,
+    "question": "Complex application of... demonstrates that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 3
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 285",
+    "id": 138,
+    "question": "Complex application of... demonstrates that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 1
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 142",
+    "id": 139,
+    "question": "In the context of..., which statement is MOST accurate? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 3
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 73",
+    "id": 140,
+    "question": "Critically analyzing..., one can conclude that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 101",
+    "id": 141,
+    "question": "Advanced students should recognize that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 183",
+    "id": 142,
+    "question": "An examination of... reveals that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 240",
+    "id": 143,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 96",
+    "id": 144,
+    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 3
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 299",
+    "id": 145,
+    "question": "Complex application of... demonstrates that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 2
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 27",
+    "id": 146,
+    "question": "Advanced students should recognize that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 3
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 32",
+    "id": 147,
+    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 3
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 51",
+    "id": 148,
+    "question": "Advanced students should recognize that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 84",
+    "id": 149,
+    "question": "Complex application of... demonstrates that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 58",
+    "id": 150,
+    "question": "Analyzing deeper implications of..., we find that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 2
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 156",
+    "id": 151,
+    "question": "Which of the following BEST explains... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 1
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 281",
+    "id": 152,
+    "question": "Complex application of... demonstrates that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 0
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 222",
+    "id": 153,
+    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 262",
+    "id": 154,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 3
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 193",
+    "id": 155,
+    "question": "Advanced students should recognize that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 0
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 106",
+    "id": 156,
+    "question": "Analyzing deeper implications of..., we find that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 141",
+    "id": 157,
+    "question": "Advanced students should recognize that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 0
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 204",
+    "id": 158,
+    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 267",
+    "id": 159,
+    "question": "An examination of... reveals that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 1
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 175",
+    "id": 160,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 0
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 146",
+    "id": 161,
+    "question": "Advanced students should recognize that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 1
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 158",
+    "id": 162,
+    "question": "The sophisticated understanding of... requires knowledge of... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 65",
+    "id": 163,
+    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 1
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 89",
+    "id": 164,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 0
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 155",
+    "id": 165,
+    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 110",
+    "id": 166,
+    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 21",
+    "id": 167,
+    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 39",
+    "id": 168,
+    "question": "Which of the following BEST explains... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 1
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 186",
+    "id": 169,
+    "question": "Analyzing deeper implications of..., we find that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 1
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 37",
+    "id": 170,
+    "question": "Which of the following BEST explains... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 219",
+    "id": 171,
+    "question": "Which of the following BEST explains... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 1
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 230",
+    "id": 172,
+    "question": "Advanced students should recognize that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 3
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 118",
+    "id": 173,
+    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 200",
+    "id": 174,
+    "question": "Analyzing deeper implications of..., we find that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 138",
+    "id": 175,
+    "question": "Distinguishing between... and..., which is correct? Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 10",
+    "id": 176,
+    "question": "Analyzing deeper implications of..., we find that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 45",
+    "id": 177,
+    "question": "Advanced students should recognize that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 64",
+    "id": 178,
+    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 31",
+    "id": 179,
+    "question": "Critically analyzing..., one can conclude that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 3
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 68",
+    "id": 180,
+    "question": "Critically analyzing..., one can conclude that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 3
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 60",
+    "id": 181,
+    "question": "Complex application of... demonstrates that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 2
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 152",
+    "id": 182,
+    "question": "Advanced students should recognize that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 169",
+    "id": 183,
+    "question": "In the context of..., which statement is MOST accurate? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 3
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 208",
+    "id": 184,
+    "question": "Complex application of... demonstrates that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 0
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 171",
+    "id": 185,
+    "question": "Critically analyzing..., one can conclude that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 272",
+    "id": 186,
+    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 123",
+    "id": 187,
+    "question": "Complex application of... demonstrates that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 1
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 62",
+    "id": 188,
+    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 224",
+    "id": 189,
+    "question": "Which of the following BEST explains... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 0
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 49",
+    "id": 190,
+    "question": "In the context of..., which statement is MOST accurate? If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 3
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 30",
+    "id": 191,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 3
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 254",
+    "id": 192,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 0
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 95",
+    "id": 193,
+    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 2
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 247",
+    "id": 194,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 1
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 154",
+    "id": 195,
+    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 126",
+    "id": 196,
+    "question": "Distinguishing between... and..., which is correct? Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 3
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 298",
+    "id": 197,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 1
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 236",
+    "id": 198,
+    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 196",
+    "id": 199,
+    "question": "Critically analyzing..., one can conclude that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 2
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 87",
+    "id": 200,
+    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 2
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 277",
+    "id": 201,
+    "question": "Complex application of... demonstrates that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 1
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 226",
+    "id": 202,
+    "question": "The sophisticated understanding of... requires knowledge of... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 3
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 40",
+    "id": 203,
+    "question": "Distinguishing between... and..., which is correct? Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 98",
+    "id": 204,
+    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 179",
+    "id": 205,
+    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 249",
+    "id": 206,
+    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 150",
+    "id": 207,
+    "question": "Which of the following BEST explains... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 2
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 148",
+    "id": 208,
+    "question": "Advanced students should recognize that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 2
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 206",
+    "id": 209,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 70",
+    "id": 210,
+    "question": "The sophisticated understanding of... requires knowledge of... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 1
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 264",
+    "id": 211,
+    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 19",
+    "id": 212,
+    "question": "An examination of... reveals that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 2
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 189",
+    "id": 213,
+    "question": "In the context of..., which statement is MOST accurate? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 0
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 8",
+    "id": 214,
+    "question": "The sophisticated understanding of... requires knowledge of... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 3
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 151",
+    "id": 215,
+    "question": "Analyzing deeper implications of..., we find that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 77",
+    "id": 216,
+    "question": "In the context of..., which statement is MOST accurate? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 0
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 42",
+    "id": 217,
+    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 280",
+    "id": 218,
+    "question": "In the context of..., which statement is MOST accurate? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 180",
+    "id": 219,
+    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 2
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 59",
+    "id": 220,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 1
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 92",
+    "id": 221,
+    "question": "Distinguishing between... and..., which is correct? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 1
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 5",
+    "id": 222,
+    "question": "Critically analyzing..., one can conclude that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 88",
+    "id": 223,
+    "question": "Analyzing deeper implications of..., we find that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 3
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 283",
+    "id": 224,
+    "question": "Analyzing deeper implications of..., we find that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 173",
+    "id": 225,
+    "question": "Which of the following BEST explains... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 3
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 238",
+    "id": 226,
+    "question": "Analyzing deeper implications of..., we find that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 3
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 278",
+    "id": 227,
+    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 1
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 223",
+    "id": 228,
+    "question": "The sophisticated understanding of... requires knowledge of... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 210",
+    "id": 229,
+    "question": "Distinguishing between... and..., which is correct? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 239",
+    "id": 230,
+    "question": "Analyzing deeper implications of..., we find that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 0
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 227",
+    "id": 231,
+    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 261",
+    "id": 232,
+    "question": "Advanced students should recognize that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 2
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 125",
+    "id": 233,
+    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 2
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 233",
+    "id": 234,
+    "question": "An examination of... reveals that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 255",
+    "id": 235,
+    "question": "Complex application of... demonstrates that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 43",
+    "id": 236,
+    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 1
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 245",
+    "id": 237,
+    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 178",
+    "id": 238,
+    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 16",
+    "id": 239,
+    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 3
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 207",
+    "id": 240,
+    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 3
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 284",
+    "id": 241,
+    "question": "Which of the following BEST explains... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 3
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 147",
+    "id": 242,
+    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 63",
+    "id": 243,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 174",
+    "id": 244,
+    "question": "Analyzing deeper implications of..., we find that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 2
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 35",
+    "id": 245,
+    "question": "An examination of... reveals that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 1
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 257",
+    "id": 246,
+    "question": "In the context of..., which statement is MOST accurate? If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 0
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 18",
+    "id": 247,
+    "question": "Distinguishing between... and..., which is correct? Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 94",
+    "id": 248,
+    "question": "An examination of... reveals that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 3
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 202",
+    "id": 249,
+    "question": "Which of the following BEST explains... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 166",
+    "id": 250,
+    "question": "Advanced students should recognize that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 271",
+    "id": 251,
+    "question": "Which of the following BEST explains... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 0
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 215",
+    "id": 252,
+    "question": "An examination of... reveals that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 297",
+    "id": 253,
+    "question": "Which of the following BEST explains... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 0
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 172",
+    "id": 254,
+    "question": "Analyzing deeper implications of..., we find that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 244",
+    "id": 255,
+    "question": "Distinguishing between... and..., which is correct? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 2
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 54",
+    "id": 256,
+    "question": "Critically analyzing..., one can conclude that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 228",
+    "id": 257,
+    "question": "An examination of... reveals that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 1
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 167",
+    "id": 258,
+    "question": "An examination of... reveals that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 71",
+    "id": 259,
+    "question": "Analyzing deeper implications of..., we find that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 3
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 107",
+    "id": 260,
+    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 78",
+    "id": 261,
+    "question": "An examination of... reveals that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 3
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 246",
+    "id": 262,
+    "question": "The sophisticated understanding of... requires knowledge of... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 130",
+    "id": 263,
+    "question": "In the context of..., which statement is MOST accurate? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 3
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 137",
+    "id": 264,
+    "question": "Analyzing deeper implications of..., we find that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 1
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 149",
+    "id": 265,
+    "question": "Distinguishing between... and..., which is correct? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 0
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 81",
+    "id": 266,
+    "question": "An examination of... reveals that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 0
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 241",
+    "id": 267,
+    "question": "Distinguishing between... and..., which is correct? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 1
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 201",
+    "id": 268,
+    "question": "In the context of..., which statement is MOST accurate? Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "x = 0, π/2, π",
+      "x = π/6, 5π/6",
+      "x = 0, π/2, π, 3π/2",
+      "x = π/3, 2π/3"
     ],
-    "answer": 0
+    "answer": "x = 0, π/2, π, 3π/2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 111",
+    "id": 269,
+    "question": "Which of the following BEST explains... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 221",
+    "id": 270,
+    "question": "The sophisticated understanding of... requires knowledge of... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 3
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 157",
+    "id": 271,
+    "question": "Distinguishing between... and..., which is correct? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 15",
+    "id": 272,
+    "question": "In the context of..., which statement is MOST accurate? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 2
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 134",
+    "id": 273,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 82",
+    "id": 274,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 3
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 139",
+    "id": 275,
+    "question": "In the context of..., which statement is MOST accurate? Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 2",
+    "id": 276,
+    "question": "In the context of..., which statement is MOST accurate? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 2
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 34",
+    "id": 277,
+    "question": "An examination of... reveals that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "p=2, q=3",
+      "p=3, q=5",
+      "p=5, q=2",
+      "p=7, q=1"
     ],
-    "answer": 2
+    "answer": "p=2, q=3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 1",
+    "id": 278,
+    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 50",
+    "id": 279,
+    "question": "The sophisticated understanding of... requires knowledge of... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "λ = 1, 3",
+      "λ = 0, 4",
+      "λ = 2, 3",
+      "λ = 1, 2"
     ],
-    "answer": 3
+    "answer": "λ = 1, 3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 104",
+    "id": 280,
+    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 114",
+    "id": 281,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 3
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 67",
+    "id": 282,
+    "question": "Critically analyzing..., one can conclude that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 3
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 213",
+    "id": 283,
+    "question": "Critically analyzing..., one can conclude that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 133",
+    "id": 284,
+    "question": "The sophisticated understanding of... requires knowledge of... Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 0
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 168",
+    "id": 285,
+    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 195",
+    "id": 286,
+    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 9",
+    "id": 287,
+    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 0
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 225",
+    "id": 288,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 4",
+    "id": 289,
+    "question": "An examination of... reveals that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 2
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 211",
+    "id": 290,
+    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 29",
+    "id": 291,
+    "question": "Critically analyzing..., one can conclude that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 160",
+    "id": 292,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 120",
+    "id": 293,
+    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 2
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 100",
+    "id": 294,
+    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "(3,4) and (4,3)",
+      "(2,5) and (5,2)",
+      "Only (3,4)",
+      "(1,6) and (6,1)"
     ],
-    "answer": 1
+    "answer": "(3,4) and (4,3)",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 86",
+    "id": 295,
+    "question": "Analyzing deeper implications of..., we find that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 41",
+    "id": 296,
+    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 242",
+    "id": 297,
+    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "2.583",
+      "3.125",
+      "2.917",
+      "3.5"
     ],
-    "answer": 2
+    "answer": "2.917",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 291",
+    "id": 298,
+    "question": "Which of the following BEST explains... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "(x-3)² + (y-2)² = 4",
+      "(x-2)² + (y-3)² = 5",
+      "(x-3)² + (y-3)² = 5",
+      "(x-2)² + (y-2)² = 9"
     ],
-    "answer": 0
+    "answer": "(x-3)² + (y-2)² = 4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 250",
+    "id": 299,
+    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "0.3",
+      "0.2",
+      "0.6",
+      "0.4"
     ],
-    "answer": 2
+    "answer": "0.3",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Solve equation 112",
+    "id": 300,
+    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3
+    "answer": "2",
+    "difficulty": "very_hard"
   }
 ]

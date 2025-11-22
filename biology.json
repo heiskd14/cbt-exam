@@ -1,3002 +1,3602 @@
 [
   {
-    "question": "Name the organ 47",
+    "id": 1,
+    "question": "In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 238",
+    "id": 2,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 3
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 200",
+    "id": 3,
+    "question": "Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 3
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 197",
+    "id": 4,
+    "question": "In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 1
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 159",
+    "id": 5,
+    "question": "The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 21",
+    "id": 6,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 269",
+    "id": 7,
+    "question": "Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 0
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 248",
+    "id": 8,
+    "question": "Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 285",
+    "id": 9,
+    "question": "Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 1
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 85",
+    "id": 10,
+    "question": "How many classification levels exist in binomial nomenclature?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 250",
+    "id": 11,
+    "question": "In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 88",
+    "id": 12,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 2
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 195",
+    "id": 13,
+    "question": "Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 0
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 201",
+    "id": 14,
+    "question": "In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 0
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 42",
+    "id": 15,
+    "question": "The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 213",
+    "id": 16,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 0
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 162",
+    "id": 17,
+    "question": "Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 93",
+    "id": 18,
+    "question": "Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 0
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 160",
+    "id": 19,
+    "question": "Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 1
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 277",
+    "id": 20,
+    "question": "How many classification levels exist in binomial nomenclature?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 181",
+    "id": 21,
+    "question": "In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 80",
+    "id": 22,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 3
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 105",
+    "id": 23,
+    "question": "Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 3
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 177",
+    "id": 24,
+    "question": "In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 3
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 239",
+    "id": 25,
+    "question": "The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 104",
+    "id": 26,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 100",
+    "id": 27,
+    "question": "Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 113",
+    "id": 28,
+    "question": "Which type of immunity is conferred by vaccination?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 7",
+    "id": 29,
+    "question": "Blood glucose is regulated by which two hormones?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 3
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 55",
+    "id": 30,
+    "question": "How many classification levels exist in binomial nomenclature?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 30",
+    "id": 31,
+    "question": "In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 3
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 34",
+    "id": 32,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 3
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 218",
+    "id": 33,
+    "question": "Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 3
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 36",
+    "id": 34,
+    "question": "In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 0
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 252",
+    "id": 35,
+    "question": "The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 149",
+    "id": 36,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 206",
+    "id": 37,
+    "question": "Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 3
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 290",
+    "id": 38,
+    "question": "Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 2
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 3",
+    "id": 39,
+    "question": "Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 2
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 117",
+    "id": 40,
+    "question": "How many classification levels exist in binomial nomenclature?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 25",
+    "id": 41,
+    "question": "Analyzing deeper implications of..., we find that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 102",
+    "id": 42,
+    "question": "An examination of... reveals that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 121",
+    "id": 43,
+    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 3
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 61",
+    "id": 44,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 153",
+    "id": 45,
+    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 2
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 264",
+    "id": 46,
+    "question": "Advanced students should recognize that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 136",
+    "id": 47,
+    "question": "Complex application of... demonstrates that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 2
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 208",
+    "id": 48,
+    "question": "Complex application of... demonstrates that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 2
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 96",
+    "id": 49,
+    "question": "Which of the following BEST explains... Which type of immunity is conferred by vaccination?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 2
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 78",
+    "id": 50,
+    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 288",
+    "id": 51,
+    "question": "Analyzing deeper implications of..., we find that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 204",
+    "id": 52,
+    "question": "Complex application of... demonstrates that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 2
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 111",
+    "id": 53,
+    "question": "Critically analyzing..., one can conclude that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 134",
+    "id": 54,
+    "question": "Critically analyzing..., one can conclude that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 110",
+    "id": 55,
+    "question": "Which of the following BEST explains... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 262",
+    "id": 56,
+    "question": "Which of the following BEST explains... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 0
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 119",
+    "id": 57,
+    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 292",
+    "id": 58,
+    "question": "In the context of..., which statement is MOST accurate? The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 210",
+    "id": 59,
+    "question": "Which of the following BEST explains... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 0
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 172",
+    "id": 60,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 1
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 155",
+    "id": 61,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 0
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 154",
+    "id": 62,
+    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 1
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 271",
+    "id": 63,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 3
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 260",
+    "id": 64,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 3
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 84",
+    "id": 65,
+    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 3
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 287",
+    "id": 66,
+    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 186",
+    "id": 67,
+    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 35",
+    "id": 68,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 0
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 273",
+    "id": 69,
+    "question": "In the context of..., which statement is MOST accurate? Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 0
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 66",
+    "id": 70,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 15",
+    "id": 71,
+    "question": "Which of the following BEST explains... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 140",
+    "id": 72,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 139",
+    "id": 73,
+    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 1
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 49",
+    "id": 74,
+    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 2
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 6",
+    "id": 75,
+    "question": "The sophisticated understanding of... requires knowledge of... Blood glucose is regulated by which two hormones?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 2
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 77",
+    "id": 76,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 1
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 58",
+    "id": 77,
+    "question": "In the context of..., which statement is MOST accurate? Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 86",
+    "id": 78,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 133",
+    "id": 79,
+    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 97",
+    "id": 80,
+    "question": "Complex application of... demonstrates that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 1
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 126",
+    "id": 81,
+    "question": "In the context of..., which statement is MOST accurate? How many classification levels exist in binomial nomenclature?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 171",
+    "id": 82,
+    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 123",
+    "id": 83,
+    "question": "An examination of... reveals that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 173",
+    "id": 84,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 3
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 142",
+    "id": 85,
+    "question": "Distinguishing between... and..., which is correct? In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 109",
+    "id": 86,
+    "question": "In the context of..., which statement is MOST accurate? Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 145",
+    "id": 87,
+    "question": "Distinguishing between... and..., which is correct? In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 3
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 233",
+    "id": 88,
+    "question": "Complex application of... demonstrates that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 1
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 122",
+    "id": 89,
+    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 164",
+    "id": 90,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 1
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 32",
+    "id": 91,
+    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 185",
+    "id": 92,
+    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 52",
+    "id": 93,
+    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 253",
+    "id": 94,
+    "question": "In the context of..., which statement is MOST accurate? Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 2
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 106",
+    "id": 95,
+    "question": "Which of the following BEST explains... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 190",
+    "id": 96,
+    "question": "Analyzing deeper implications of..., we find that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 22",
+    "id": 97,
+    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 3
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 296",
+    "id": 98,
+    "question": "The sophisticated understanding of... requires knowledge of... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 0
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 168",
+    "id": 99,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 281",
+    "id": 100,
+    "question": "Advanced students should recognize that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 0
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 165",
+    "id": 101,
+    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 0
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 278",
+    "id": 102,
+    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 54",
+    "id": 103,
+    "question": "Analyzing deeper implications of..., we find that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 1
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 83",
+    "id": 104,
+    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 3
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 246",
+    "id": 105,
+    "question": "In the context of..., which statement is MOST accurate? Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 214",
+    "id": 106,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 0
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 31",
+    "id": 107,
+    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 0
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 203",
+    "id": 108,
+    "question": "Critically analyzing..., one can conclude that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 1
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 43",
+    "id": 109,
+    "question": "Critically analyzing..., one can conclude that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 0
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 193",
+    "id": 110,
+    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 0
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 4",
+    "id": 111,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 1
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 282",
+    "id": 112,
+    "question": "Analyzing deeper implications of..., we find that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 198",
+    "id": 113,
+    "question": "Complex application of... demonstrates that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 1
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 219",
+    "id": 114,
+    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 3
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 75",
+    "id": 115,
+    "question": "Advanced students should recognize that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 157",
+    "id": 116,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 0
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 236",
+    "id": 117,
+    "question": "Which of the following BEST explains... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 2
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 90",
+    "id": 118,
+    "question": "Which of the following BEST explains... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 3
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 280",
+    "id": 119,
+    "question": "In the context of..., which statement is MOST accurate? The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 91",
+    "id": 120,
+    "question": "The sophisticated understanding of... requires knowledge of... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 135",
+    "id": 121,
+    "question": "An examination of... reveals that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 1
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 41",
+    "id": 122,
+    "question": "Advanced students should recognize that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 3
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 266",
+    "id": 123,
+    "question": "Which of the following BEST explains... Blood glucose is regulated by which two hormones?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 1
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 179",
+    "id": 124,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 39",
+    "id": 125,
+    "question": "An examination of... reveals that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 0
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 92",
+    "id": 126,
+    "question": "An examination of... reveals that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 228",
+    "id": 127,
+    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 274",
+    "id": 128,
+    "question": "An examination of... reveals that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 245",
+    "id": 129,
+    "question": "In the context of..., which statement is MOST accurate? Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 300",
+    "id": 130,
+    "question": "Critically analyzing..., one can conclude that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 295",
+    "id": 131,
+    "question": "Critically analyzing..., one can conclude that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 0
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 148",
+    "id": 132,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 0
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 258",
+    "id": 133,
+    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 9",
+    "id": 134,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 222",
+    "id": 135,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 0
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 20",
+    "id": 136,
+    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 57",
+    "id": 137,
+    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 8",
+    "id": 138,
+    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 2
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 226",
+    "id": 139,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 124",
+    "id": 140,
+    "question": "An examination of... reveals that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 0
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 163",
+    "id": 141,
+    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 251",
+    "id": 142,
+    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 199",
+    "id": 143,
+    "question": "Analyzing deeper implications of..., we find that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 247",
+    "id": 144,
+    "question": "The sophisticated understanding of... requires knowledge of... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 150",
+    "id": 145,
+    "question": "Critically analyzing..., one can conclude that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 16",
+    "id": 146,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 2
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 299",
+    "id": 147,
+    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 29",
+    "id": 148,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 99",
+    "id": 149,
+    "question": "Which of the following BEST explains... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 76",
+    "id": 150,
+    "question": "Analyzing deeper implications of..., we find that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 2
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 59",
+    "id": 151,
+    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 3
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 276",
+    "id": 152,
+    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 1
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 259",
+    "id": 153,
+    "question": "Advanced students should recognize that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 3
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 180",
+    "id": 154,
+    "question": "In the context of..., which statement is MOST accurate? Blood glucose is regulated by which two hormones?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 2
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 183",
+    "id": 155,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 2
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 14",
+    "id": 156,
+    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 232",
+    "id": 157,
+    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 70",
+    "id": 158,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 1
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 217",
+    "id": 159,
+    "question": "Distinguishing between... and..., which is correct? Which type of immunity is conferred by vaccination?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 293",
+    "id": 160,
+    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 3
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 60",
+    "id": 161,
+    "question": "The sophisticated understanding of... requires knowledge of... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 53",
+    "id": 162,
+    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 0
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 166",
+    "id": 163,
+    "question": "Analyzing deeper implications of..., we find that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 268",
+    "id": 164,
+    "question": "In the context of..., which statement is MOST accurate? Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 284",
+    "id": 165,
+    "question": "Which of the following BEST explains... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 89",
+    "id": 166,
+    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 94",
+    "id": 167,
+    "question": "Critically analyzing..., one can conclude that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 2
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 28",
+    "id": 168,
+    "question": "An examination of... reveals that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 275",
+    "id": 169,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 79",
+    "id": 170,
+    "question": "Critically analyzing..., one can conclude that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 0
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 115",
+    "id": 171,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 3
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 178",
+    "id": 172,
+    "question": "An examination of... reveals that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 3
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 2",
+    "id": 173,
+    "question": "Distinguishing between... and..., which is correct? How many classification levels exist in binomial nomenclature?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 176",
+    "id": 174,
+    "question": "Complex application of... demonstrates that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 2
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 45",
+    "id": 175,
+    "question": "The sophisticated understanding of... requires knowledge of... Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 0
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 235",
+    "id": 176,
+    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 138",
+    "id": 177,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 0
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 51",
+    "id": 178,
+    "question": "Distinguishing between... and..., which is correct? Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 263",
+    "id": 179,
+    "question": "An examination of... reveals that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 205",
+    "id": 180,
+    "question": "The sophisticated understanding of... requires knowledge of... Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 3
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 10",
+    "id": 181,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 1
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 17",
+    "id": 182,
+    "question": "Analyzing deeper implications of..., we find that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 3
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 283",
+    "id": 183,
+    "question": "Which of the following BEST explains... Which type of immunity is conferred by vaccination?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 3
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 182",
+    "id": 184,
+    "question": "Which of the following BEST explains... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 240",
+    "id": 185,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 95",
+    "id": 186,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 1
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 46",
+    "id": 187,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 3
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 244",
+    "id": 188,
+    "question": "In the context of..., which statement is MOST accurate? Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 3
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 37",
+    "id": 189,
+    "question": "An examination of... reveals that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 0
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 227",
+    "id": 190,
+    "question": "Critically analyzing..., one can conclude that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 229",
+    "id": 191,
+    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 2
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 272",
+    "id": 192,
+    "question": "Distinguishing between... and..., which is correct? Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 2
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 101",
+    "id": 193,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 261",
+    "id": 194,
+    "question": "The sophisticated understanding of... requires knowledge of... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 170",
+    "id": 195,
+    "question": "The sophisticated understanding of... requires knowledge of... Which type of immunity is conferred by vaccination?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 230",
+    "id": 196,
+    "question": "Distinguishing between... and..., which is correct? Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 1
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 194",
+    "id": 197,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 2
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 146",
+    "id": 198,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 225",
+    "id": 199,
+    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 1
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 23",
+    "id": 200,
+    "question": "An examination of... reveals that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 3
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 107",
+    "id": 201,
+    "question": "Complex application of... demonstrates that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 144",
+    "id": 202,
+    "question": "Complex application of... demonstrates that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 3
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 128",
+    "id": 203,
+    "question": "Analyzing deeper implications of..., we find that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 2
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 11",
+    "id": 204,
+    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 19",
+    "id": 205,
+    "question": "The sophisticated understanding of... requires knowledge of... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 257",
+    "id": 206,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 184",
+    "id": 207,
+    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 1
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 68",
+    "id": 208,
+    "question": "An examination of... reveals that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 0
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 72",
+    "id": 209,
+    "question": "Advanced students should recognize that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 192",
+    "id": 210,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 1
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 129",
+    "id": 211,
+    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 3
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 156",
+    "id": 212,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 3
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 215",
+    "id": 213,
+    "question": "Analyzing deeper implications of..., we find that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 40",
+    "id": 214,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 209",
+    "id": 215,
+    "question": "Critically analyzing..., one can conclude that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 3
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 147",
+    "id": 216,
+    "question": "Distinguishing between... and..., which is correct? In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 1
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 62",
+    "id": 217,
+    "question": "Critically analyzing..., one can conclude that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 294",
+    "id": 218,
+    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 3
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 143",
+    "id": 219,
+    "question": "Complex application of... demonstrates that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 1
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 50",
+    "id": 220,
+    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 0
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 151",
+    "id": 221,
+    "question": "The sophisticated understanding of... requires knowledge of... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 256",
+    "id": 222,
+    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 1
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 67",
+    "id": 223,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 1
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 212",
+    "id": 224,
+    "question": "Critically analyzing..., one can conclude that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 0
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 27",
+    "id": 225,
+    "question": "Critically analyzing..., one can conclude that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 249",
+    "id": 226,
+    "question": "Analyzing deeper implications of..., we find that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 48",
+    "id": 227,
+    "question": "Which of the following BEST explains... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 0
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 216",
+    "id": 228,
+    "question": "Which of the following BEST explains... Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 3
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 289",
+    "id": 229,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 2
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 291",
+    "id": 230,
+    "question": "In the context of..., which statement is MOST accurate? In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 1
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 13",
+    "id": 231,
+    "question": "The sophisticated understanding of... requires knowledge of... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 196",
+    "id": 232,
+    "question": "Which of the following BEST explains... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 2
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 298",
+    "id": 233,
+    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 3
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 5",
+    "id": 234,
+    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 231",
+    "id": 235,
+    "question": "The sophisticated understanding of... requires knowledge of... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 242",
+    "id": 236,
+    "question": "Critically analyzing..., one can conclude that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 0
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 63",
+    "id": 237,
+    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 2
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 120",
+    "id": 238,
+    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 202",
+    "id": 239,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 1
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 130",
+    "id": 240,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 2
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 108",
+    "id": 241,
+    "question": "Which of the following BEST explains... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 0
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 189",
+    "id": 242,
+    "question": "In the context of..., which statement is MOST accurate? Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 1
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 221",
+    "id": 243,
+    "question": "Distinguishing between... and..., which is correct? Which type of immunity is conferred by vaccination?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 2
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 81",
+    "id": 244,
+    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 3
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 18",
+    "id": 245,
+    "question": "The sophisticated understanding of... requires knowledge of... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 3
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 125",
+    "id": 246,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 24",
+    "id": 247,
+    "question": "Distinguishing between... and..., which is correct? Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 118",
+    "id": 248,
+    "question": "Which of the following BEST explains... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 132",
+    "id": 249,
+    "question": "Critically analyzing..., one can conclude that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 152",
+    "id": 250,
+    "question": "Critically analyzing..., one can conclude that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 141",
+    "id": 251,
+    "question": "An examination of... reveals that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 158",
+    "id": 252,
+    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 3
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 220",
+    "id": 253,
+    "question": "Analyzing deeper implications of..., we find that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 0
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 241",
+    "id": 254,
+    "question": "Which of the following BEST explains... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 71",
+    "id": 255,
+    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 73",
+    "id": 256,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 2
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 188",
+    "id": 257,
+    "question": "Distinguishing between... and..., which is correct? The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 234",
+    "id": 258,
+    "question": "Critically analyzing..., one can conclude that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 127",
+    "id": 259,
+    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 2
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 224",
+    "id": 260,
+    "question": "Analyzing deeper implications of..., we find that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 175",
+    "id": 261,
+    "question": "An examination of... reveals that... In an ecosystem, which trophic level has the most energy?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Primary consumers",
+      "Producers",
+      "Secondary consumers",
+      "Decomposers"
     ],
-    "answer": 0
+    "answer": "Producers",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 191",
+    "id": 262,
+    "question": "Which of the following BEST explains... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 56",
+    "id": 263,
+    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 3
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 286",
+    "id": 264,
+    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 161",
+    "id": 265,
+    "question": "In the context of..., which statement is MOST accurate? Which type of immunity is conferred by vaccination?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 1
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 103",
+    "id": 266,
+    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 131",
+    "id": 267,
+    "question": "Analyzing deeper implications of..., we find that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 2
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 38",
+    "id": 268,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 1
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 98",
+    "id": 269,
+    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 255",
+    "id": 270,
+    "question": "Critically analyzing..., one can conclude that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 26",
+    "id": 271,
+    "question": "Advanced students should recognize that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 0
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 270",
+    "id": 272,
+    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 82",
+    "id": 273,
+    "question": "Advanced students should recognize that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 2
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 237",
+    "id": 274,
+    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 1",
+    "id": 275,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 1
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 187",
+    "id": 276,
+    "question": "Which of the following BEST explains... Which type of immunity is conferred by vaccination?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 3
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 279",
+    "id": 277,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 3
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 65",
+    "id": 278,
+    "question": "Analyzing deeper implications of..., we find that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 2
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 169",
+    "id": 279,
+    "question": "In the context of..., which statement is MOST accurate? Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 297",
+    "id": 280,
+    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 1
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 267",
+    "id": 281,
+    "question": "Complex application of... demonstrates that... How many classification levels exist in binomial nomenclature?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 137",
+    "id": 282,
+    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 1
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 116",
+    "id": 283,
+    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Natural immunity",
+      "Acquired immunity",
+      "Innate immunity",
+      "Non-specific immunity"
     ],
-    "answer": 0
+    "answer": "Acquired immunity",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 87",
+    "id": 284,
+    "question": "Complex application of... demonstrates that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 3
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 64",
+    "id": 285,
+    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 1
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 74",
+    "id": 286,
+    "question": "Which of the following BEST explains... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 0
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 265",
+    "id": 287,
+    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 112",
+    "id": 288,
+    "question": "Analyzing deeper implications of..., we find that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 1
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 167",
+    "id": 289,
+    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "1/16",
+      "3/16",
+      "9/16",
+      "15/16"
     ],
-    "answer": 2
+    "answer": "1/16",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 243",
+    "id": 290,
+    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 1
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 211",
+    "id": 291,
+    "question": "Analyzing deeper implications of..., we find that... Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 2
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 114",
+    "id": 292,
+    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "NADP⁺",
+      "ATP",
+      "Water",
+      "Glucose"
     ],
-    "answer": 0
+    "answer": "NADP⁺",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 174",
+    "id": 293,
+    "question": "Complex application of... demonstrates that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 1
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 12",
+    "id": 294,
+    "question": "Distinguishing between... and..., which is correct? In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 69",
+    "id": 295,
+    "question": "The sophisticated understanding of... requires knowledge of... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 223",
+    "id": 296,
+    "question": "Critically analyzing..., one can conclude that... In eukaryotic cells, ATP synthase is located in which organelle?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Chloroplast",
+      "Inner mitochondrial membrane",
+      "Rough ER",
+      "Golgi apparatus"
     ],
-    "answer": 0
+    "answer": "Inner mitochondrial membrane",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 207",
+    "id": 297,
+    "question": "Complex application of... demonstrates that... Spermatogenesis produces how many functional sperm from one diploid cell?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "1",
+      "2",
+      "4",
+      "8"
     ],
-    "answer": 2
+    "answer": "4",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 44",
+    "id": 298,
+    "question": "Advanced students should recognize that... Blood glucose is regulated by which two hormones?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "Insulin and glucagon",
+      "Insulin and epinephrine",
+      "Glucagon and cortisol",
+      "Thyroxine and insulin"
     ],
-    "answer": 0
+    "answer": "Insulin and glucagon",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 254",
+    "id": 299,
+    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
-    "answer": 3
+    "answer": "7",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Name the organ 33",
+    "id": 300,
+    "question": "Distinguishing between... and..., which is correct? Which evidence for evolution is provided by the existence of vestigial organs?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "Homologous structures",
+      "Analogous structures",
+      "Vestigial structures",
+      "Ontogenetic evidence"
     ],
-    "answer": 3
+    "answer": "Vestigial structures",
+    "difficulty": "very_hard"
   }
 ]

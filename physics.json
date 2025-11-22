@@ -1,3002 +1,3602 @@
 [
   {
-    "question": "Calculate force 69",
+    "id": 1,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 1
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 230",
+    "id": 2,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 125",
+    "id": 3,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 273",
+    "id": 4,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 171",
+    "id": 5,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 0
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 220",
+    "id": 6,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 0
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 290",
+    "id": 7,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 2
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 213",
+    "id": 8,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 160",
+    "id": 9,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 1
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 199",
+    "id": 10,
+    "question": "An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 2
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 227",
+    "id": 11,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 2
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 162",
+    "id": 12,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 104",
+    "id": 13,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 1
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 231",
+    "id": 14,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 0
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 3",
+    "id": 15,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 2
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 108",
+    "id": 16,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 0
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 287",
+    "id": 17,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 166",
+    "id": 18,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 2
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 92",
+    "id": 19,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 2
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 148",
+    "id": 20,
+    "question": "An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 3
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 26",
+    "id": 21,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 0
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 76",
+    "id": 22,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 2
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 206",
+    "id": 23,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 284",
+    "id": 24,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 1
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 172",
+    "id": 25,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 0
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 201",
+    "id": 26,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 2
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 200",
+    "id": 27,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 244",
+    "id": 28,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 155",
+    "id": 29,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 3
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 73",
+    "id": 30,
+    "question": "An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 3
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 274",
+    "id": 31,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 2
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 212",
+    "id": 32,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 0
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 147",
+    "id": 33,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 2
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 19",
+    "id": 34,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 0
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 242",
+    "id": 35,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 1
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 140",
+    "id": 36,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 2
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 100",
+    "id": 37,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 146",
+    "id": 38,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 45",
+    "id": 39,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 0
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 245",
+    "id": 40,
+    "question": "An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 2
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 261",
+    "id": 41,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 0
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 239",
+    "id": 42,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 88",
+    "id": 43,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 1
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 174",
+    "id": 44,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 34",
+    "id": 45,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 2
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 163",
+    "id": 46,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 3
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 268",
+    "id": 47,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 262",
+    "id": 48,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 49",
+    "id": 49,
+    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 43",
+    "id": 50,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 2
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 16",
+    "id": 51,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 0
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 270",
+    "id": 52,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 233",
+    "id": 53,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 2
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 251",
+    "id": 54,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 1
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 87",
+    "id": 55,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 165",
+    "id": 56,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 0
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 118",
+    "id": 57,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 2
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 139",
+    "id": 58,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 2
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 51",
+    "id": 59,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 1
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 296",
+    "id": 60,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 130",
+    "id": 61,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 1
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 250",
+    "id": 62,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 1
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 135",
+    "id": 63,
+    "question": "Distinguishing between... and..., which is correct? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 0
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 219",
+    "id": 64,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 3
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 116",
+    "id": 65,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 0
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 67",
+    "id": 66,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 119",
+    "id": 67,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 75",
+    "id": 68,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 0
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 281",
+    "id": 69,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 222",
+    "id": 70,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 3
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 158",
+    "id": 71,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 3
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 221",
+    "id": 72,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 3
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 126",
+    "id": 73,
+    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 29",
+    "id": 74,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 77",
+    "id": 75,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 0
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 167",
+    "id": 76,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 3
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 114",
+    "id": 77,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 1
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 149",
+    "id": 78,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 259",
+    "id": 79,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 2
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 68",
+    "id": 80,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 1
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 168",
+    "id": 81,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 197",
+    "id": 82,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 2
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 265",
+    "id": 83,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 0
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 113",
+    "id": 84,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 3
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 224",
+    "id": 85,
+    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 2
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 5",
+    "id": 86,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 3
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 193",
+    "id": 87,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 41",
+    "id": 88,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 3
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 52",
+    "id": 89,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 0
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 144",
+    "id": 90,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 3
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 225",
+    "id": 91,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 0
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 150",
+    "id": 92,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 182",
+    "id": 93,
+    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 35",
+    "id": 94,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 3
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 53",
+    "id": 95,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 0
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 189",
+    "id": 96,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 0
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 152",
+    "id": 97,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 198",
+    "id": 98,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 11",
+    "id": 99,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 2
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 294",
+    "id": 100,
+    "question": "An examination of... reveals that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 2
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 191",
+    "id": 101,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 1
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 103",
+    "id": 102,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 2
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 30",
+    "id": 103,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 0
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 95",
+    "id": 104,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 3
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 78",
+    "id": 105,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 1
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 33",
+    "id": 106,
+    "question": "Critically analyzing..., one can conclude that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 0
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 232",
+    "id": 107,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 0
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 202",
+    "id": 108,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 1
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 38",
+    "id": 109,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 110",
+    "id": 110,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 1
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 58",
+    "id": 111,
+    "question": "The sophisticated understanding of... requires knowledge of... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 238",
+    "id": 112,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 1
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 286",
+    "id": 113,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 3
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 127",
+    "id": 114,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 7",
+    "id": 115,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 1
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 1",
+    "id": 116,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 0
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 27",
+    "id": 117,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 3
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 46",
+    "id": 118,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 3
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 31",
+    "id": 119,
+    "question": "Advanced students should recognize that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 0
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 117",
+    "id": 120,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 0
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 98",
+    "id": 121,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 3
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 282",
+    "id": 122,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 3
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 151",
+    "id": 123,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 247",
+    "id": 124,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 72",
+    "id": 125,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 253",
+    "id": 126,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 300",
+    "id": 127,
+    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 3
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 61",
+    "id": 128,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 3
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 13",
+    "id": 129,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 1
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 59",
+    "id": 130,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 2
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 266",
+    "id": 131,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 47",
+    "id": 132,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 0
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 91",
+    "id": 133,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 0
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 297",
+    "id": 134,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 2
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 289",
+    "id": 135,
+    "question": "Analyzing deeper implications of..., we find that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 271",
+    "id": 136,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 3
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 14",
+    "id": 137,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 32",
+    "id": 138,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 2
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 65",
+    "id": 139,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 123",
+    "id": 140,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 1
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 234",
+    "id": 141,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 2
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 122",
+    "id": 142,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 3
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 153",
+    "id": 143,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 0
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 161",
+    "id": 144,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 2
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 89",
+    "id": 145,
+    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 2
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 44",
+    "id": 146,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 3
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 82",
+    "id": 147,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 3
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 210",
+    "id": 148,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 204",
+    "id": 149,
+    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 179",
+    "id": 150,
+    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 185",
+    "id": 151,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 1
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 283",
+    "id": 152,
+    "question": "Advanced students should recognize that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 90",
+    "id": 153,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 1
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 203",
+    "id": 154,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 3
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 80",
+    "id": 155,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 0
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 288",
+    "id": 156,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 229",
+    "id": 157,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 2
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 62",
+    "id": 158,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 1
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 170",
+    "id": 159,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 1
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 28",
+    "id": 160,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 0
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 40",
+    "id": 161,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 21",
+    "id": 162,
+    "question": "Distinguishing between... and..., which is correct? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 2
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 237",
+    "id": 163,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 2
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 105",
+    "id": 164,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 0
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 215",
+    "id": 165,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 228",
+    "id": 166,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 1
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 54",
+    "id": 167,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 1
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 106",
+    "id": 168,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 157",
+    "id": 169,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 1
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 292",
+    "id": 170,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 2
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 181",
+    "id": 171,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 112",
+    "id": 172,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 0
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 275",
+    "id": 173,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 55",
+    "id": 174,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 177",
+    "id": 175,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 276",
+    "id": 176,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 3
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 293",
+    "id": 177,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 60",
+    "id": 178,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 263",
+    "id": 179,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 2
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 226",
+    "id": 180,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 3
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 111",
+    "id": 181,
+    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 0
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 83",
+    "id": 182,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 1
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 132",
+    "id": 183,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 2
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 96",
+    "id": 184,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 2
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 128",
+    "id": 185,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 1
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 12",
+    "id": 186,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 2
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 136",
+    "id": 187,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 3
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 190",
+    "id": 188,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 0
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 42",
+    "id": 189,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 243",
+    "id": 190,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 1
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 134",
+    "id": 191,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 2
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 115",
+    "id": 192,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 3
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 280",
+    "id": 193,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 277",
+    "id": 194,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 3
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 195",
+    "id": 195,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 1
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 236",
+    "id": 196,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 1
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 137",
+    "id": 197,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 2
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 131",
+    "id": 198,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 1
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 183",
+    "id": 199,
+    "question": "An examination of... reveals that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 3
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 218",
+    "id": 200,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 1
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 205",
+    "id": 201,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 299",
+    "id": 202,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 2
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 109",
+    "id": 203,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 2
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 252",
+    "id": 204,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 2
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 278",
+    "id": 205,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 36",
+    "id": 206,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 3
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 142",
+    "id": 207,
+    "question": "Advanced students should recognize that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 2
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 186",
+    "id": 208,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 1
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 141",
+    "id": 209,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 2
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 258",
+    "id": 210,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 3
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 169",
+    "id": 211,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 154",
+    "id": 212,
+    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 0
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 70",
+    "id": 213,
+    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 2
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 187",
+    "id": 214,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 57",
+    "id": 215,
+    "question": "Distinguishing between... and..., which is correct? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 3
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 178",
+    "id": 216,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 3
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 25",
+    "id": 217,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 93",
+    "id": 218,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 1
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 279",
+    "id": 219,
+    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 0
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 120",
+    "id": 220,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 3
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 255",
+    "id": 221,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 48",
+    "id": 222,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 0
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 223",
+    "id": 223,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 3
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 81",
+    "id": 224,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 2
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 86",
+    "id": 225,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 3
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 298",
+    "id": 226,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 15",
+    "id": 227,
+    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 0
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 180",
+    "id": 228,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 97",
+    "id": 229,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 0
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 85",
+    "id": 230,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 0
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 138",
+    "id": 231,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 1
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 249",
+    "id": 232,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 102",
+    "id": 233,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 1
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 101",
+    "id": 234,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 143",
+    "id": 235,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 39",
+    "id": 236,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 2
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 129",
+    "id": 237,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 64",
+    "id": 238,
+    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 246",
+    "id": 239,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 3
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 235",
+    "id": 240,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 211",
+    "id": 241,
+    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 0
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 256",
+    "id": 242,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 267",
+    "id": 243,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 56",
+    "id": 244,
+    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 63",
+    "id": 245,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 3
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 192",
+    "id": 246,
+    "question": "Advanced students should recognize that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 2",
+    "id": 247,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 0
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 207",
+    "id": 248,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 2
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 188",
+    "id": 249,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 3
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 257",
+    "id": 250,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 173",
+    "id": 251,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 1
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 184",
+    "id": 252,
+    "question": "An examination of... reveals that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 1
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 209",
+    "id": 253,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 3
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 23",
+    "id": 254,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 269",
+    "id": 255,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 176",
+    "id": 256,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 2
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 248",
+    "id": 257,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 156",
+    "id": 258,
+    "question": "An examination of... reveals that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 2
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 121",
+    "id": 259,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 1
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 254",
+    "id": 260,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 240",
+    "id": 261,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 1
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 74",
+    "id": 262,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 1
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 291",
+    "id": 263,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 2
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 6",
+    "id": 264,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 285",
+    "id": 265,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 1
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 22",
+    "id": 266,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 3
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 94",
+    "id": 267,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 1
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 17",
+    "id": 268,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 217",
+    "id": 269,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 0
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 208",
+    "id": 270,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 107",
+    "id": 271,
+    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "16.67 kg",
+      "20 kg",
+      "25 kg",
+      "22.5 kg"
     ],
-    "answer": 3
+    "answer": "25 kg",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 10",
+    "id": 272,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 241",
+    "id": 273,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 2
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 37",
+    "id": 274,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 18",
+    "id": 275,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 71",
+    "id": 276,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 2
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 194",
+    "id": 277,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 3
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 260",
+    "id": 278,
+    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "20 m/s",
+      "12.5 m/s",
+      "50 m/s",
+      "200 m/s"
     ],
-    "answer": 2
+    "answer": "20 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 264",
+    "id": 279,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 0
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 196",
+    "id": 280,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 2
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 99",
+    "id": 281,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 133",
+    "id": 282,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 2
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 272",
+    "id": 283,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 2
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 214",
+    "id": 284,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 3
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 159",
+    "id": 285,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 1
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 66",
+    "id": 286,
+    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "Multiplied by 6",
+      "Multiplied by 3",
+      "Doubled",
+      "Remains same"
     ],
-    "answer": 2
+    "answer": "Multiplied by 6",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 175",
+    "id": 287,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 1
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 84",
+    "id": 288,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 1
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 8",
+    "id": 289,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 2
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 216",
+    "id": 290,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 124",
+    "id": 291,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 4",
+    "id": 292,
+    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "3.3 × 10¹⁵ Hz",
+      "2.5 × 10¹⁵ Hz",
+      "4.1 × 10¹⁵ Hz",
+      "1.8 × 10¹⁵ Hz"
     ],
-    "answer": 2
+    "answer": "3.3 × 10¹⁵ Hz",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 295",
+    "id": 293,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 0
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 9",
+    "id": 294,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 3
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 24",
+    "id": 295,
+    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "12.34 m/s²",
+      "7.85 m/s²",
+      "24.67 m/s²",
+      "15.5 m/s²"
     ],
-    "answer": 3
+    "answer": "24.67 m/s²",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 164",
+    "id": 296,
+    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "2.44 eV",
+      "1.23 eV",
+      "3.5 eV",
+      "2.0 eV"
     ],
-    "answer": 0
+    "answer": "2.44 eV",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 20",
+    "id": 297,
+    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "5 m/s, 5 m/s",
+      "0 m/s, 10 m/s",
+      "10 m/s, 0 m/s",
+      "7 m/s, 3 m/s"
     ],
-    "answer": 3
+    "answer": "0 m/s, 10 m/s",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 50",
+    "id": 298,
+    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "2000 J",
+      "3000 J",
+      "1500 J",
+      "2500 J"
     ],
-    "answer": 2
+    "answer": "2000 J",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 79",
+    "id": 299,
+    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "-60 cm",
+      "60 cm",
+      "-45 cm",
+      "45 cm"
     ],
-    "answer": 2
+    "answer": "-60 cm",
+    "difficulty": "very_hard"
   },
   {
-    "question": "Calculate force 145",
+    "id": 300,
+    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "1 µF",
+      "0.86 µF",
+      "11 µF",
+      "0.5 µF"
     ],
-    "answer": 1
+    "answer": "0.86 µF",
+    "difficulty": "very_hard"
   }
 ]
