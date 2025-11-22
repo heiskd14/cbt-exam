@@ -1,3002 +1,3002 @@
 [
   {
-    "question": "Solve 5x² - 3x - 2 = 0",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "x = -1, 2/5",
-      "x = 1, -2/5",
-      "x = 1/2, -2",
-      "x = 2, -1/5"
+      "x = 1, 5",
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 2, 6"
     ],
-    "answer": "x = 1, -2/5"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "145",
+      "155",
+      "175",
+      "165"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "36",
+      "18",
+      "27",
+      "9"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
     "options": [
       "8",
-      "12",
-      "10",
+      "4",
+      "2",
       "6"
     ],
-    "answer": "10"
+    "answer": "4"
   },
   {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "-1",
-      "-2",
+      "5 cm²",
+      "8 cm²",
+      "6 cm²",
+      "7 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 2",
+      "x < 1",
+      "x < 4",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "3x² - 6x",
+      "6x - 3",
+      "6x² - 6x",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "0.5",
+      "0",
+      "1",
+      "√3/2"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "25π cm³",
+      "15π cm³",
+      "20π cm³",
+      "10π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = -1, y = 3",
+      "x = 3, y = -1",
+      "x = 1, y = 2",
+      "x = 2, y = 1"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.9",
+      "0.5",
+      "0.4",
+      "0.6"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 12x + 9",
+      "4x² + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "24 cm",
+      "8 cm",
+      "32 cm",
+      "16 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "4",
+      "3",
       "2",
-      "1"
+      "5"
     ],
-    "answer": "-2"
+    "answer": "3"
   },
   {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "y = e^(x²)",
-      "y = 2x",
-      "y = e^x",
-      "y = x²"
+      "90",
+      "100",
+      "110",
+      "120"
     ],
-    "answer": "y = e^(x²)"
+    "answer": "90"
   },
   {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "2,3",
-      "1,2",
-      "0,4",
-      "1,3"
+      "n + d",
+      "a + n + d",
+      "a + nd",
+      "a + (n-1)d"
     ],
-    "answer": "1,3"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "lim(x→0) sin(x)/x =",
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 5",
+      "x = 4",
+      "x = 3",
+      "x = 6"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "30π cm",
+      "20π cm",
+      "5π cm",
+      "10π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 10",
+      "l = 7",
+      "l = 8",
+      "l = 9"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "1",
+      "√3",
+      "∞",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 2, 6",
+      "x = 1, 5",
+      "x = 1, 6",
+      "x = 2, 3"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "175",
+      "145",
+      "155",
+      "165"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "9",
+      "36",
+      "18",
+      "27"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "7 cm²",
+      "8 cm²",
+      "6 cm²",
+      "5 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 1",
+      "x < 2",
+      "x < 4",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x² - 3x",
+      "6x - 3",
+      "6x² - 6x",
+      "3x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "1",
+      "0",
+      "0.5",
+      "√3/2"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "15π cm³",
+      "25π cm³",
+      "20π cm³",
+      "10π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 1, y = 2",
+      "x = 2, y = 1",
+      "x = -1, y = 3",
+      "x = 3, y = -1"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.4",
+      "0.9",
+      "0.5",
+      "0.6"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 9",
+      "2x² + 12x + 9",
+      "4x + 9",
+      "4x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "24 cm",
+      "16 cm",
+      "8 cm",
+      "32 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "90",
+      "100",
+      "120",
+      "110"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "n + d",
+      "a + nd",
+      "a + (n-1)d",
+      "a + n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 3",
+      "x = 6",
+      "x = 4",
+      "x = 5"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "5π cm",
+      "30π cm",
+      "20π cm",
+      "10π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 10",
+      "l = 9",
+      "l = 8",
+      "l = 7"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
     "options": [
       "0",
       "1",
-      "undefined",
-      "∞"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n(n+1)(2n+1)/6",
-      "n³/3",
-      "n²(n+1)²/4",
-      "n(n+1)/2"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "6",
-      "12",
-      "8",
-      "9"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 4",
-      "x = 3",
-      "x = 2",
-      "x = 1"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "1/25",
-      "24/25",
-      "-7/25",
-      "7/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "2",
-      "1",
       "∞",
-      "1/2"
+      "√3"
     ],
     "answer": "1"
   },
   {
-    "question": "Solve |x - 2| + |x + 1| = 5",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "x = 1, -4",
-      "x = 4, -1",
-      "x = 3, -2",
-      "x = 2, -3"
+      "x = 1, 5",
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 2, 6"
     ],
-    "answer": "x = 2, -3"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "160",
-      "80",
-      "60",
-      "20"
+      "155",
+      "165",
+      "175",
+      "145"
     ],
-    "answer": "160"
+    "answer": "155"
   },
   {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "x=2, y=1, z=0",
-      "Inconsistent",
-      "x=1, y=1, z=1",
-      "x=1, y=0, z=1"
+      "27",
+      "9",
+      "18",
+      "36"
     ],
-    "answer": "x=1, y=1, z=1"
+    "answer": "27"
   },
   {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "3",
       "4",
-      "1",
+      "6",
+      "8",
       "2"
     ],
     "answer": "4"
   },
   {
-    "question": "∫e^x dx =",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "1/e^x",
-      "e^x + C",
-      "x·e^x",
-      "e^x"
+      "6 cm²",
+      "5 cm²",
+      "7 cm²",
+      "8 cm²"
     ],
-    "answer": "e^x + C"
+    "answer": "6 cm²"
   },
   {
-    "question": "Solve 2^x = 8",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
+      "x < 2",
+      "x < 1",
+      "x < 4",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x - 3",
+      "6x² - 3x",
+      "3x² - 6x",
+      "6x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "0",
+      "0.5",
+      "√3/2",
+      "1"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "20π cm³",
+      "25π cm³",
+      "10π cm³",
+      "15π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 2, y = 1",
+      "x = 3, y = -1",
+      "x = -1, y = 3",
+      "x = 1, y = 2"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.5",
+      "0.9",
+      "0.6",
+      "0.4"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 12x + 9",
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "8 cm",
+      "24 cm",
+      "16 cm",
+      "32 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "120",
+      "100",
+      "90",
+      "110"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "n + d",
+      "a + n + d",
+      "a + (n-1)d",
+      "a + nd"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 5",
+      "x = 6",
       "x = 4",
-      "x = 1",
-      "x = 2",
       "x = 3"
     ],
-    "answer": "x = 3"
+    "answer": "x = 5"
   },
   {
-    "question": "If f(x) = 1/x, find f'(x)",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "1",
-      "-1/x²",
-      "1/x²",
-      "0"
+      "30π cm",
+      "5π cm",
+      "20π cm",
+      "10π cm"
     ],
-    "answer": "-1/x²"
+    "answer": "10π cm"
   },
   {
-    "question": "Circle area with radius 5",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "10π",
-      "15π",
-      "50π",
-      "25π"
+      "l = 8",
+      "l = 10",
+      "l = 9",
+      "l = 7"
     ],
-    "answer": "25π"
+    "answer": "l = 10"
   },
   {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "question": "What is tan(45°)?",
     "options": [
-      "x < 2 or x > 3",
-      "all x",
-      "x ≤ 2",
-      "2 < x < 3"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 1, -2/5",
-      "x = 1/2, -2",
-      "x = -1, 2/5",
-      "x = 2, -1/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "10",
-      "8",
-      "6",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = e^x",
-      "y = 2x",
-      "y = e^(x²)",
-      "y = x²"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "2,3",
-      "1,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "undefined",
-      "1",
+      "∞",
       "0",
-      "∞"
+      "√3",
+      "1"
     ],
     "answer": "1"
   },
   {
-    "question": "1² + 2² + ... + n² =",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "n(n+1)(2n+1)/6",
-      "n(n+1)/2",
-      "n²(n+1)²/4",
-      "n³/3"
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 1, 5",
+      "x = 2, 6"
     ],
-    "answer": "n(n+1)(2n+1)/6"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Area under y = x² from 0 to 3",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "6",
-      "12",
+      "165",
+      "175",
+      "155",
+      "145"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
       "9",
-      "8"
+      "36",
+      "18",
+      "27"
     ],
-    "answer": "9"
+    "answer": "27"
   },
   {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "x = 2",
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "8 cm²",
+      "6 cm²",
+      "5 cm²",
+      "7 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 1",
+      "x < 2",
+      "x < 4",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "3x² - 6x",
+      "6x - 3",
+      "6x² - 6x",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "1",
+      "0.5",
+      "√3/2",
+      "0"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "10π cm³",
+      "20π cm³",
+      "25π cm³",
+      "15π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = -1, y = 3",
+      "x = 2, y = 1",
+      "x = 3, y = -1",
+      "x = 1, y = 2"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.6",
+      "0.4",
+      "0.5",
+      "0.9"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 9",
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "24 cm",
+      "32 cm",
+      "16 cm",
+      "8 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "120",
+      "100",
+      "110",
+      "90"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "a + n + d",
+      "a + (n-1)d",
+      "a + nd",
+      "n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 6",
+      "x = 5",
       "x = 3",
-      "x = 1",
       "x = 4"
     ],
-    "answer": "x = 4"
+    "answer": "x = 5"
   },
   {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "-7/25",
-      "24/25",
-      "1/25",
-      "7/25"
+      "10π cm",
+      "5π cm",
+      "30π cm",
+      "20π cm"
     ],
-    "answer": "7/25"
+    "answer": "10π cm"
   },
   {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 8",
+      "l = 7",
+      "l = 9",
+      "l = 10"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
     "options": [
       "∞",
-      "1/2",
-      "1",
-      "2"
+      "0",
+      "√3",
+      "1"
     ],
     "answer": "1"
   },
   {
-    "question": "Solve |x - 2| + |x + 1| = 5",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "x = 3, -2",
-      "x = 1, -4",
-      "x = 4, -1",
-      "x = 2, -3"
+      "x = 2, 3",
+      "x = 2, 6",
+      "x = 1, 6",
+      "x = 1, 5"
     ],
-    "answer": "x = 2, -3"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "80",
-      "20",
-      "160",
-      "60"
+      "165",
+      "155",
+      "175",
+      "145"
     ],
-    "answer": "160"
+    "answer": "155"
   },
   {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "x=1, y=1, z=1",
-      "x=1, y=0, z=1",
-      "x=2, y=1, z=0",
-      "Inconsistent"
+      "36",
+      "27",
+      "9",
+      "18"
     ],
-    "answer": "x=1, y=1, z=1"
+    "answer": "27"
   },
   {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "3",
+      "6",
+      "8",
+      "4",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "7 cm²",
+      "5 cm²",
+      "8 cm²",
+      "6 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 2",
+      "x < 1",
+      "x < 4",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x² - 3x",
+      "6x² - 6x",
+      "6x - 3",
+      "3x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "√3/2",
+      "0.5",
       "1",
+      "0"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "25π cm³",
+      "20π cm³",
+      "10π cm³",
+      "15π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 2, y = 1",
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = -1, y = 3"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.5",
+      "0.4",
+      "0.6",
+      "0.9"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "2x² + 12x + 9",
+      "4x + 9",
+      "4x² + 9",
+      "4x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "8 cm",
+      "24 cm",
+      "32 cm",
+      "16 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
       "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "110",
+      "120",
+      "90",
+      "100"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "a + nd",
+      "a + (n-1)d",
+      "a + n + d",
+      "n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 4",
+      "x = 6",
+      "x = 3",
+      "x = 5"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "30π cm",
+      "5π cm",
+      "20π cm",
+      "10π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 10",
+      "l = 8",
+      "l = 7",
+      "l = 9"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "0",
+      "1",
+      "√3",
+      "∞"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 2, 6",
+      "x = 1, 5",
+      "x = 1, 6",
+      "x = 2, 3"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "165",
+      "155",
+      "175",
+      "145"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "36",
+      "18",
+      "27",
+      "9"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "8 cm²",
+      "7 cm²",
+      "5 cm²",
+      "6 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 4",
+      "x < 1",
+      "x < 3",
+      "x < 2"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "3x² - 6x",
+      "6x - 3",
+      "6x² - 6x",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "1",
+      "√3/2",
+      "0",
+      "0.5"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "10π cm³",
+      "25π cm³",
+      "15π cm³",
+      "20π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = -1, y = 3",
+      "x = 1, y = 2",
+      "x = 2, y = 1",
+      "x = 3, y = -1"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.9",
+      "0.4",
+      "0.5",
+      "0.6"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "2x² + 12x + 9",
+      "4x² + 9",
+      "4x + 9",
+      "4x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "32 cm",
+      "24 cm",
+      "16 cm",
+      "8 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "110",
+      "120",
+      "90",
+      "100"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "n + d",
+      "a + (n-1)d",
+      "a + nd",
+      "a + n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 4",
+      "x = 6",
+      "x = 3",
+      "x = 5"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "20π cm",
+      "10π cm",
+      "5π cm",
+      "30π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 9",
+      "l = 7",
+      "l = 8",
+      "l = 10"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "0",
+      "∞",
+      "√3",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 2, 3",
+      "x = 1, 6",
+      "x = 1, 5",
+      "x = 2, 6"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "155",
+      "175",
+      "165",
+      "145"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "36",
+      "18",
+      "9",
+      "27"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "5 cm²",
+      "6 cm²",
+      "7 cm²",
+      "8 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 2",
+      "x < 4",
+      "x < 1",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "3x² - 6x",
+      "6x² - 6x",
+      "6x - 3",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "√3/2",
+      "0",
+      "1",
+      "0.5"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "20π cm³",
+      "25π cm³",
+      "15π cm³",
+      "10π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 1, y = 2",
+      "x = 2, y = 1",
+      "x = 3, y = -1",
+      "x = -1, y = 3"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.9",
+      "0.4",
+      "0.5",
+      "0.6"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 12x + 9",
+      "4x² + 9",
+      "4x + 9",
+      "2x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "16 cm",
+      "8 cm",
+      "32 cm",
+      "24 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "120",
+      "110",
+      "90",
+      "100"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "a + (n-1)d",
+      "a + n + d",
+      "n + d",
+      "a + nd"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 6",
+      "x = 5",
+      "x = 4",
+      "x = 3"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "10π cm",
+      "20π cm",
+      "5π cm",
+      "30π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 8",
+      "l = 10",
+      "l = 7",
+      "l = 9"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "∞",
+      "0",
+      "√3",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 2, 6",
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 1, 5"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "165",
+      "145",
+      "175",
+      "155"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "27",
+      "18",
+      "9",
+      "36"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "6",
+      "2",
+      "8",
       "4"
     ],
     "answer": "4"
   },
   {
-    "question": "∫e^x dx =",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "e^x",
-      "x·e^x",
-      "1/e^x",
-      "e^x + C"
+      "6 cm²",
+      "8 cm²",
+      "7 cm²",
+      "5 cm²"
     ],
-    "answer": "e^x + C"
+    "answer": "6 cm²"
   },
   {
-    "question": "Solve 2^x = 8",
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 1",
+      "x < 3",
+      "x < 4",
+      "x < 2"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "3x² - 6x",
+      "6x² - 3x",
+      "6x - 3",
+      "6x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "0.5",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "15π cm³",
+      "20π cm³",
+      "25π cm³",
+      "10π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = -1, y = 3",
+      "x = 2, y = 1"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.6",
+      "0.5",
+      "0.9",
+      "0.4"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 9",
+      "4x² + 12x + 9",
+      "2x² + 12x + 9",
+      "4x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "32 cm",
+      "24 cm",
+      "8 cm",
+      "16 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "n + d",
+      "a + n + d",
+      "a + (n-1)d",
+      "a + nd"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 6",
+      "x = 4",
+      "x = 5",
+      "x = 3"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "20π cm",
+      "10π cm",
+      "5π cm",
+      "30π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 10",
+      "l = 8",
+      "l = 9",
+      "l = 7"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "∞",
+      "1",
+      "0",
+      "√3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 2, 3",
+      "x = 2, 6",
+      "x = 1, 5",
+      "x = 1, 6"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "165",
+      "175",
+      "145",
+      "155"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "9",
+      "36",
+      "27",
+      "18"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "7 cm²",
+      "6 cm²",
+      "5 cm²",
+      "8 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 3",
+      "x < 2",
+      "x < 4",
+      "x < 1"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x² - 6x",
+      "6x² - 3x",
+      "3x² - 6x",
+      "6x - 3"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "1",
+      "0",
+      "0.5",
+      "√3/2"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "15π cm³",
+      "10π cm³",
+      "25π cm³",
+      "20π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = 2, y = 1",
+      "x = -1, y = 3"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.5",
+      "0.9",
+      "0.4",
+      "0.6"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 9",
+      "2x² + 12x + 9",
+      "4x² + 12x + 9",
+      "4x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "8 cm",
+      "24 cm",
+      "16 cm",
+      "32 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "110",
+      "120",
+      "90",
+      "100"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "n + d",
+      "a + (n-1)d",
+      "a + nd",
+      "a + n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 6",
+      "x = 4",
+      "x = 3",
+      "x = 5"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "30π cm",
+      "20π cm",
+      "10π cm",
+      "5π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 8",
+      "l = 9",
+      "l = 7",
+      "l = 10"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "√3",
+      "0",
+      "∞",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 1, 6",
+      "x = 1, 5",
+      "x = 2, 3",
+      "x = 2, 6"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "165",
+      "175",
+      "145",
+      "155"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "36",
+      "27",
+      "18",
+      "9"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "2",
+      "8",
+      "6",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "7 cm²",
+      "8 cm²",
+      "5 cm²",
+      "6 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 3",
+      "x < 4",
+      "x < 2",
+      "x < 1"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x - 3",
+      "3x² - 6x",
+      "6x² - 6x",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "1",
+      "√3/2",
+      "0",
+      "0.5"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "10π cm³",
+      "25π cm³",
+      "20π cm³",
+      "15π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = -1, y = 3",
+      "x = 3, y = -1",
+      "x = 1, y = 2",
+      "x = 2, y = 1"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.6",
+      "0.5",
+      "0.9",
+      "0.4"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 12x + 9",
+      "2x² + 12x + 9",
+      "4x² + 9",
+      "4x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "32 cm",
+      "16 cm",
+      "24 cm",
+      "8 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "90",
+      "100",
+      "120",
+      "110"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "n + d",
+      "a + (n-1)d",
+      "a + n + d",
+      "a + nd"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 5",
+      "x = 4",
+      "x = 6",
+      "x = 3"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "5π cm",
+      "30π cm",
+      "10π cm",
+      "20π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 10",
+      "l = 7",
+      "l = 8",
+      "l = 9"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "0",
+      "∞",
+      "1",
+      "√3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 2, 6",
+      "x = 1, 5",
+      "x = 2, 3",
+      "x = 1, 6"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "145",
+      "175",
+      "155",
+      "165"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "9",
+      "36",
+      "18",
+      "27"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "6",
+      "2",
+      "8",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "5 cm²",
+      "7 cm²",
+      "6 cm²",
+      "8 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 1",
+      "x < 2",
+      "x < 3",
+      "x < 4"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x - 3",
+      "6x² - 6x",
+      "3x² - 6x",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "0.5",
+      "0",
+      "1",
+      "√3/2"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "15π cm³",
+      "25π cm³",
+      "10π cm³",
+      "20π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 2, y = 1",
+      "x = -1, y = 3",
+      "x = 1, y = 2",
+      "x = 3, y = -1"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.9",
+      "0.5",
+      "0.6",
+      "0.4"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 12x + 9",
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "32 cm",
+      "24 cm",
+      "8 cm",
+      "16 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "110",
+      "100",
+      "90",
+      "120"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "a + nd",
+      "a + (n-1)d",
+      "a + n + d",
+      "n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
     "options": [
       "x = 3",
-      "x = 1",
-      "x = 2",
+      "x = 6",
+      "x = 5",
       "x = 4"
     ],
-    "answer": "x = 3"
+    "answer": "x = 5"
   },
   {
-    "question": "If f(x) = 1/x, find f'(x)",
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "30π cm",
+      "5π cm",
+      "20π cm",
+      "10π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 8",
+      "l = 9",
+      "l = 7",
+      "l = 10"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
     "options": [
       "0",
-      "-1/x²",
       "1",
-      "1/x²"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "25π",
-      "10π",
-      "50π",
-      "15π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x < 2 or x > 3",
-      "x ≤ 2",
-      "all x",
-      "2 < x < 3"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 2, -1/5",
-      "x = 1/2, -2",
-      "x = -1, 2/5",
-      "x = 1, -2/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "10",
-      "6",
-      "12",
-      "8"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "1",
-      "-2",
-      "2",
-      "-1"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = e^(x²)",
-      "y = 2x",
-      "y = x²",
-      "y = e^x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,2",
-      "2,3",
-      "1,3",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
       "∞",
-      "undefined",
-      "0",
-      "1"
+      "√3"
     ],
     "answer": "1"
   },
   {
-    "question": "1² + 2² + ... + n² =",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "n²(n+1)²/4",
-      "n³/3",
-      "n(n+1)/2",
-      "n(n+1)(2n+1)/6"
+      "x = 1, 5",
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 2, 6"
     ],
-    "answer": "n(n+1)(2n+1)/6"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Area under y = x² from 0 to 3",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "12",
-      "6",
-      "8",
+      "155",
+      "145",
+      "165",
+      "175"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "27",
+      "36",
+      "18",
       "9"
     ],
-    "answer": "9"
+    "answer": "27"
   },
   {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "x = 2",
-      "x = 3",
-      "x = 4",
-      "x = 1"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "24/25",
-      "1/25",
-      "7/25",
-      "-7/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "1",
-      "1/2",
-      "∞",
-      "2"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 2, -3",
-      "x = 4, -1",
-      "x = 3, -2",
-      "x = 1, -4"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "80",
-      "60",
-      "20",
-      "160"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "Inconsistent",
-      "x=2, y=1, z=0",
-      "x=1, y=0, z=1",
-      "x=1, y=1, z=1"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "4",
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "∫e^x dx =",
-    "options": [
-      "1/e^x",
-      "x·e^x",
-      "e^x + C",
-      "e^x"
-    ],
-    "answer": "e^x + C"
-  },
-  {
-    "question": "Solve 2^x = 8",
-    "options": [
-      "x = 4",
-      "x = 1",
-      "x = 3",
-      "x = 2"
-    ],
-    "answer": "x = 3"
-  },
-  {
-    "question": "If f(x) = 1/x, find f'(x)",
-    "options": [
-      "0",
-      "1/x²",
-      "-1/x²",
-      "1"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "15π",
-      "50π",
-      "25π",
-      "10π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x < 2 or x > 3",
-      "all x",
-      "2 < x < 3",
-      "x ≤ 2"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 1/2, -2",
-      "x = -1, 2/5",
-      "x = 1, -2/5",
-      "x = 2, -1/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "12",
-      "6",
-      "10",
-      "8"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-1",
-      "2",
-      "-2",
-      "1"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = 2x",
-      "y = x²"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "0,4",
-      "2,3",
-      "1,3",
-      "1,2"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "∞",
-      "0",
-      "1",
-      "undefined"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n²(n+1)²/4",
-      "n(n+1)/2",
-      "n³/3",
-      "n(n+1)(2n+1)/6"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "6",
-      "12",
-      "9",
-      "8"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 3",
-      "x = 4",
-      "x = 2",
-      "x = 1"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "7/25",
-      "1/25",
-      "-7/25",
-      "24/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "2",
-      "∞",
-      "1",
-      "1/2"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 1, -4",
-      "x = 2, -3",
-      "x = 4, -1",
-      "x = 3, -2"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "160",
-      "80",
-      "60",
-      "20"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "x=2, y=1, z=0",
-      "x=1, y=1, z=1",
-      "Inconsistent",
-      "x=1, y=0, z=1"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "3",
-      "4",
-      "2",
-      "1"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "∫e^x dx =",
-    "options": [
-      "1/e^x",
-      "e^x",
-      "e^x + C",
-      "x·e^x"
-    ],
-    "answer": "e^x + C"
-  },
-  {
-    "question": "Solve 2^x = 8",
-    "options": [
-      "x = 1",
-      "x = 4",
-      "x = 3",
-      "x = 2"
-    ],
-    "answer": "x = 3"
-  },
-  {
-    "question": "If f(x) = 1/x, find f'(x)",
-    "options": [
-      "1",
-      "0",
-      "1/x²",
-      "-1/x²"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "10π",
-      "25π",
-      "15π",
-      "50π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "all x",
-      "x < 2 or x > 3",
-      "2 < x < 3",
-      "x ≤ 2"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = -1, 2/5",
-      "x = 1/2, -2",
-      "x = 2, -1/5",
-      "x = 1, -2/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "8",
-      "6",
-      "12",
-      "10"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = 2x",
-      "y = e^(x²)",
-      "y = x²",
-      "y = e^x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "1,2",
-      "0,4",
-      "2,3"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "0",
-      "1",
-      "undefined",
-      "∞"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n²(n+1)²/4",
-      "n(n+1)/2",
-      "n(n+1)(2n+1)/6",
-      "n³/3"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "9",
       "6",
       "8",
-      "12"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 4",
-      "x = 3",
-      "x = 2",
-      "x = 1"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "1/25",
-      "24/25",
-      "7/25",
-      "-7/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
       "2",
-      "1",
-      "∞",
-      "1/2"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 1, -4",
-      "x = 2, -3",
-      "x = 3, -2",
-      "x = 4, -1"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "80",
-      "160",
-      "20",
-      "60"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "Inconsistent",
-      "x=1, y=1, z=1",
-      "x=2, y=1, z=0",
-      "x=1, y=0, z=1"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "1"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "∫e^x dx =",
-    "options": [
-      "e^x + C",
-      "e^x",
-      "1/e^x",
-      "x·e^x"
-    ],
-    "answer": "e^x + C"
-  },
-  {
-    "question": "Solve 2^x = 8",
-    "options": [
-      "x = 4",
-      "x = 1",
-      "x = 2",
-      "x = 3"
-    ],
-    "answer": "x = 3"
-  },
-  {
-    "question": "If f(x) = 1/x, find f'(x)",
-    "options": [
-      "-1/x²",
-      "1/x²",
-      "0",
-      "1"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "15π",
-      "25π",
-      "10π",
-      "50π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x ≤ 2",
-      "2 < x < 3",
-      "all x",
-      "x < 2 or x > 3"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "12",
-      "8",
-      "6",
-      "10"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "1",
-      "-1",
-      "-2",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = e^x",
-      "y = e^(x²)",
-      "y = 2x",
-      "y = x²"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "2,3",
-      "0,4",
-      "1,2",
-      "1,3"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "0",
-      "∞",
-      "1",
-      "undefined"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n²(n+1)²/4",
-      "n³/3",
-      "n(n+1)(2n+1)/6",
-      "n(n+1)/2"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "12",
-      "9",
-      "6",
-      "8"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 2",
-      "x = 4",
-      "x = 1",
-      "x = 3"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "1/25",
-      "7/25",
-      "-7/25",
-      "24/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "1",
-      "2",
-      "∞",
-      "1/2"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 1, -4",
-      "x = 4, -1",
-      "x = 2, -3",
-      "x = 3, -2"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "60",
-      "160",
-      "20",
-      "80"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "Inconsistent",
-      "x=1, y=1, z=1",
-      "x=2, y=1, z=0",
-      "x=1, y=0, z=1"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "2",
-      "1",
-      "3",
       "4"
     ],
     "answer": "4"
   },
   {
-    "question": "∫e^x dx =",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "e^x",
-      "x·e^x",
-      "1/e^x",
-      "e^x + C"
+      "5 cm²",
+      "8 cm²",
+      "7 cm²",
+      "6 cm²"
     ],
-    "answer": "e^x + C"
+    "answer": "6 cm²"
   },
   {
-    "question": "Solve 2^x = 8",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "x = 3",
-      "x = 4",
-      "x = 2",
-      "x = 1"
+      "x < 1",
+      "x < 2",
+      "x < 3",
+      "x < 4"
     ],
-    "answer": "x = 3"
+    "answer": "x < 3"
   },
   {
-    "question": "If f(x) = 1/x, find f'(x)",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x² - 3x",
+      "6x - 3",
+      "3x² - 6x",
+      "6x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
     "options": [
       "1",
       "0",
-      "-1/x²",
-      "1/x²"
+      "0.5",
+      "√3/2"
     ],
-    "answer": "-1/x²"
+    "answer": "0.5"
   },
   {
-    "question": "Circle area with radius 5",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "50π",
-      "10π",
-      "25π",
-      "15π"
+      "25π cm³",
+      "20π cm³",
+      "15π cm³",
+      "10π cm³"
     ],
-    "answer": "25π"
+    "answer": "20π cm³"
   },
   {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "all x",
-      "x ≤ 2",
-      "x < 2 or x > 3",
-      "2 < x < 3"
+      "x = 2, y = 1",
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = -1, y = 3"
     ],
-    "answer": "x < 2 or x > 3"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Solve 5x² - 3x - 2 = 0",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 1/2, -2",
-      "x = 2, -1/5"
+      "0.6",
+      "0.4",
+      "0.9",
+      "0.5"
     ],
-    "answer": "x = 1, -2/5"
+    "answer": "0.6"
   },
   {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "8",
-      "10",
-      "12",
-      "6"
+      "4x² + 12x + 9",
+      "4x + 9",
+      "4x² + 9",
+      "2x² + 12x + 9"
     ],
-    "answer": "10"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "1",
-      "-1",
+      "24 cm",
+      "32 cm",
+      "8 cm",
+      "16 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "3",
+      "5",
       "2",
-      "-2"
+      "4"
     ],
-    "answer": "-2"
+    "answer": "3"
   },
   {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "y = x²",
-      "y = e^x",
-      "y = 2x",
-      "y = e^(x²)"
+      "90",
+      "120",
+      "100",
+      "110"
     ],
-    "answer": "y = e^(x²)"
+    "answer": "90"
   },
   {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "2,3",
-      "1,2",
-      "0,4",
-      "1,3"
+      "a + nd",
+      "a + (n-1)d",
+      "n + d",
+      "a + n + d"
     ],
-    "answer": "1,3"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "1",
-      "∞",
-      "undefined",
-      "0"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n(n+1)/2",
-      "n²(n+1)²/4",
-      "n(n+1)(2n+1)/6",
-      "n³/3"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "8",
-      "9",
-      "12",
-      "6"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "question": "Solve: 2^x = 32",
     "options": [
       "x = 4",
-      "x = 2",
-      "x = 1",
+      "x = 5",
+      "x = 6",
       "x = 3"
     ],
-    "answer": "x = 4"
+    "answer": "x = 5"
   },
   {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "-7/25",
-      "1/25",
-      "7/25",
-      "24/25"
+      "20π cm",
+      "5π cm",
+      "10π cm",
+      "30π cm"
     ],
-    "answer": "7/25"
+    "answer": "10π cm"
   },
   {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "∞",
+      "l = 9",
+      "l = 8",
+      "l = 7",
+      "l = 10"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "0",
       "1",
-      "1/2",
-      "2"
+      "∞",
+      "√3"
     ],
     "answer": "1"
   },
   {
-    "question": "Solve |x - 2| + |x + 1| = 5",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "x = 2, -3",
-      "x = 3, -2",
-      "x = 4, -1",
-      "x = 1, -4"
+      "x = 1, 6",
+      "x = 2, 6",
+      "x = 1, 5",
+      "x = 2, 3"
     ],
-    "answer": "x = 2, -3"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "80",
-      "160",
-      "60",
-      "20"
+      "155",
+      "165",
+      "145",
+      "175"
     ],
-    "answer": "160"
+    "answer": "155"
   },
   {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "x=1, y=0, z=1",
-      "x=2, y=1, z=0",
-      "x=1, y=1, z=1",
-      "Inconsistent"
+      "9",
+      "36",
+      "18",
+      "27"
     ],
-    "answer": "x=1, y=1, z=1"
+    "answer": "27"
   },
   {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "2",
       "4",
-      "1",
-      "3"
+      "6",
+      "8",
+      "2"
     ],
     "answer": "4"
   },
   {
-    "question": "∫e^x dx =",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "e^x",
-      "e^x + C",
-      "1/e^x",
-      "x·e^x"
+      "5 cm²",
+      "8 cm²",
+      "7 cm²",
+      "6 cm²"
     ],
-    "answer": "e^x + C"
+    "answer": "6 cm²"
   },
   {
-    "question": "Solve 2^x = 8",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "x = 2",
+      "x < 4",
+      "x < 2",
+      "x < 1",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x² - 3x",
+      "6x - 3",
+      "3x² - 6x",
+      "6x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "0.5",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "15π cm³",
+      "25π cm³",
+      "20π cm³",
+      "10π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 3, y = -1",
+      "x = 2, y = 1",
+      "x = 1, y = 2",
+      "x = -1, y = 3"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.9",
+      "0.6",
+      "0.5",
+      "0.4"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "2x² + 12x + 9",
+      "4x + 9",
+      "4x² + 9",
+      "4x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "16 cm",
+      "8 cm",
+      "32 cm",
+      "24 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "110",
+      "120",
+      "90",
+      "100"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "a + n + d",
+      "n + d",
+      "a + (n-1)d",
+      "a + nd"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = 3"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "5π cm",
+      "30π cm",
+      "10π cm",
+      "20π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 7",
+      "l = 8",
+      "l = 9",
+      "l = 10"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "0",
+      "√3",
+      "∞",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 1, 6",
+      "x = 1, 5",
+      "x = 2, 6",
+      "x = 2, 3"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "175",
+      "155",
+      "165",
+      "145"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "9",
+      "36",
+      "27",
+      "18"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "7 cm²",
+      "6 cm²",
+      "8 cm²",
+      "5 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 2",
+      "x < 3",
+      "x < 4",
+      "x < 1"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x - 3",
+      "3x² - 6x",
+      "6x² - 3x",
+      "6x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "0.5",
+      "0",
+      "√3/2",
+      "1"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "25π cm³",
+      "20π cm³",
+      "10π cm³",
+      "15π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = -1, y = 3",
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = 2, y = 1"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.4",
+      "0.9",
+      "0.6",
+      "0.5"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 12x + 9",
+      "4x² + 9",
+      "4x + 9",
+      "2x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "32 cm",
+      "8 cm",
+      "16 cm",
+      "24 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "110",
+      "100",
+      "90",
+      "120"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "a + nd",
+      "a + (n-1)d",
+      "a + n + d",
+      "n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 5",
       "x = 3",
-      "x = 1",
+      "x = 6",
       "x = 4"
     ],
-    "answer": "x = 3"
+    "answer": "x = 5"
   },
   {
-    "question": "If f(x) = 1/x, find f'(x)",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "-1/x²",
-      "0",
-      "1",
-      "1/x²"
+      "10π cm",
+      "5π cm",
+      "30π cm",
+      "20π cm"
     ],
-    "answer": "-1/x²"
+    "answer": "10π cm"
   },
   {
-    "question": "Circle area with radius 5",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "10π",
-      "15π",
-      "50π",
-      "25π"
+      "l = 7",
+      "l = 8",
+      "l = 10",
+      "l = 9"
     ],
-    "answer": "25π"
+    "answer": "l = 10"
   },
   {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "question": "What is tan(45°)?",
     "options": [
-      "2 < x < 3",
-      "x ≤ 2",
-      "all x",
-      "x < 2 or x > 3"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 1/2, -2",
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "10",
-      "6",
-      "8",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "2",
-      "-2",
-      "-1",
-      "1"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = e^x",
-      "y = 2x",
-      "y = e^(x²)",
-      "y = x²"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "0,4",
-      "1,3",
-      "1,2",
-      "2,3"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "undefined",
-      "0",
-      "∞",
-      "1"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n³/3",
-      "n(n+1)(2n+1)/6",
-      "n²(n+1)²/4",
-      "n(n+1)/2"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "9",
-      "6",
-      "12",
-      "8"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 4",
-      "x = 3",
-      "x = 1",
-      "x = 2"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "1/25",
-      "24/25",
-      "7/25",
-      "-7/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "1",
-      "2",
-      "∞",
-      "1/2"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 4, -1",
-      "x = 3, -2",
-      "x = 2, -3",
-      "x = 1, -4"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "60",
-      "160",
-      "20",
-      "80"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "x=1, y=0, z=1",
-      "x=2, y=1, z=0",
-      "Inconsistent",
-      "x=1, y=1, z=1"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "3",
-      "2",
-      "4",
-      "1"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "∫e^x dx =",
-    "options": [
-      "e^x",
-      "e^x + C",
-      "1/e^x",
-      "x·e^x"
-    ],
-    "answer": "e^x + C"
-  },
-  {
-    "question": "Solve 2^x = 8",
-    "options": [
-      "x = 2",
-      "x = 3",
-      "x = 4",
-      "x = 1"
-    ],
-    "answer": "x = 3"
-  },
-  {
-    "question": "If f(x) = 1/x, find f'(x)",
-    "options": [
-      "1/x²",
-      "0",
-      "-1/x²",
-      "1"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "25π",
-      "10π",
-      "15π",
-      "50π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x < 2 or x > 3",
-      "2 < x < 3",
-      "all x",
-      "x ≤ 2"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2",
-      "x = 1, -2/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "12",
-      "6",
-      "8",
-      "10"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "1",
-      "-2",
-      "-1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = 2x",
-      "y = x²"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,2",
-      "0,4",
-      "2,3",
-      "1,3"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "1",
-      "∞",
-      "0",
-      "undefined"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n³/3",
-      "n(n+1)/2",
-      "n(n+1)(2n+1)/6",
-      "n²(n+1)²/4"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "12",
-      "6",
-      "8",
-      "9"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 2",
-      "x = 3",
-      "x = 4",
-      "x = 1"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "-7/25",
-      "24/25",
-      "7/25",
-      "1/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "2",
       "∞",
       "1",
-      "1/2"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 4, -1",
-      "x = 1, -4",
-      "x = 3, -2",
-      "x = 2, -3"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "80",
-      "20",
-      "60",
-      "160"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "x=1, y=1, z=1",
-      "x=2, y=1, z=0",
-      "x=1, y=0, z=1",
-      "Inconsistent"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "2",
-      "4",
-      "1",
-      "3"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "∫e^x dx =",
-    "options": [
-      "1/e^x",
-      "x·e^x",
-      "e^x",
-      "e^x + C"
-    ],
-    "answer": "e^x + C"
-  },
-  {
-    "question": "Solve 2^x = 8",
-    "options": [
-      "x = 1",
-      "x = 4",
-      "x = 2",
-      "x = 3"
-    ],
-    "answer": "x = 3"
-  },
-  {
-    "question": "If f(x) = 1/x, find f'(x)",
-    "options": [
-      "1",
-      "1/x²",
-      "-1/x²",
+      "√3",
       "0"
     ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "15π",
-      "50π",
-      "25π",
-      "10π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x ≤ 2",
-      "2 < x < 3",
-      "all x",
-      "x < 2 or x > 3"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = -1, 2/5",
-      "x = 1, -2/5",
-      "x = 1/2, -2",
-      "x = 2, -1/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "10",
-      "12",
-      "6",
-      "8"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "2",
-      "1",
-      "-2",
-      "-1"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = 2x",
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,2",
-      "2,3",
-      "0,4",
-      "1,3"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "0",
-      "1",
-      "∞",
-      "undefined"
-    ],
     "answer": "1"
   },
   {
-    "question": "1² + 2² + ... + n² =",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "n³/3",
-      "n(n+1)(2n+1)/6",
-      "n²(n+1)²/4",
-      "n(n+1)/2"
+      "x = 2, 3",
+      "x = 1, 6",
+      "x = 2, 6",
+      "x = 1, 5"
     ],
-    "answer": "n(n+1)(2n+1)/6"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Area under y = x² from 0 to 3",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "12",
+      "165",
+      "175",
+      "155",
+      "145"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "27",
+      "36",
       "9",
+      "18"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "2",
       "6",
-      "8"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 4",
-      "x = 1",
-      "x = 2",
-      "x = 3"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "-7/25",
-      "7/25",
-      "24/25",
-      "1/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "∞",
-      "2",
-      "1/2",
-      "1"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 1, -4",
-      "x = 2, -3",
-      "x = 4, -1",
-      "x = 3, -2"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "20",
-      "60",
-      "160",
-      "80"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "x=1, y=0, z=1",
-      "x=2, y=1, z=0",
-      "Inconsistent",
-      "x=1, y=1, z=1"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "1",
-      "2",
       "4",
-      "3"
+      "8"
     ],
     "answer": "4"
   },
   {
-    "question": "∫e^x dx =",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "e^x + C",
-      "e^x",
-      "x·e^x",
-      "1/e^x"
+      "8 cm²",
+      "6 cm²",
+      "7 cm²",
+      "5 cm²"
     ],
-    "answer": "e^x + C"
+    "answer": "6 cm²"
   },
   {
-    "question": "Solve 2^x = 8",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "x = 4",
-      "x = 1",
-      "x = 3",
-      "x = 2"
+      "x < 4",
+      "x < 1",
+      "x < 3",
+      "x < 2"
     ],
-    "answer": "x = 3"
+    "answer": "x < 3"
   },
   {
-    "question": "If f(x) = 1/x, find f'(x)",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
-      "1/x²",
+      "6x² - 3x",
+      "3x² - 6x",
+      "6x - 3",
+      "6x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
       "1",
-      "-1/x²",
-      "0"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "15π",
-      "50π",
-      "10π",
-      "25π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x < 2 or x > 3",
-      "x ≤ 2",
-      "2 < x < 3",
-      "all x"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 1, -2/5",
-      "x = 2, -1/5",
-      "x = -1, 2/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "10",
-      "12",
-      "8",
-      "6"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-1",
-      "1",
-      "2",
-      "-2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = x²",
-      "y = e^(x²)",
-      "y = 2x",
-      "y = e^x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "0,4",
-      "1,2",
-      "2,3"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "∞",
       "0",
-      "undefined",
-      "1"
+      "0.5",
+      "√3/2"
     ],
-    "answer": "1"
+    "answer": "0.5"
   },
   {
-    "question": "1² + 2² + ... + n² =",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "n²(n+1)²/4",
-      "n³/3",
-      "n(n+1)/2",
-      "n(n+1)(2n+1)/6"
+      "25π cm³",
+      "20π cm³",
+      "10π cm³",
+      "15π cm³"
     ],
-    "answer": "n(n+1)(2n+1)/6"
+    "answer": "20π cm³"
   },
   {
-    "question": "Area under y = x² from 0 to 3",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "12",
-      "8",
-      "9",
-      "6"
+      "x = 3, y = -1",
+      "x = -1, y = 3",
+      "x = 2, y = 1",
+      "x = 1, y = 2"
     ],
-    "answer": "9"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "x = 3",
-      "x = 4",
-      "x = 2",
-      "x = 1"
+      "0.6",
+      "0.4",
+      "0.5",
+      "0.9"
     ],
-    "answer": "x = 4"
+    "answer": "0.6"
   },
   {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "1/25",
-      "-7/25",
-      "7/25",
-      "24/25"
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 9",
+      "4x² + 12x + 9"
     ],
-    "answer": "7/25"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "1",
-      "1/2",
-      "∞",
-      "2"
+      "32 cm",
+      "16 cm",
+      "8 cm",
+      "24 cm"
     ],
-    "answer": "1"
+    "answer": "32 cm"
   },
   {
-    "question": "Solve |x - 2| + |x + 1| = 5",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "x = 4, -1",
-      "x = 3, -2",
-      "x = 1, -4",
-      "x = 2, -3"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "20",
-      "160",
-      "60",
-      "80"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "x=1, y=0, z=1",
-      "x=2, y=1, z=0",
-      "Inconsistent",
-      "x=1, y=1, z=1"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "3",
       "2",
-      "1",
+      "5",
+      "3",
       "4"
     ],
-    "answer": "4"
+    "answer": "3"
   },
   {
-    "question": "∫e^x dx =",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "e^x + C",
-      "e^x",
-      "1/e^x",
-      "x·e^x"
+      "100",
+      "90",
+      "110",
+      "120"
     ],
-    "answer": "e^x + C"
+    "answer": "90"
   },
   {
-    "question": "Solve 2^x = 8",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "x = 1",
-      "x = 2",
-      "x = 4",
-      "x = 3"
+      "a + (n-1)d",
+      "a + nd",
+      "n + d",
+      "a + n + d"
     ],
-    "answer": "x = 3"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "If f(x) = 1/x, find f'(x)",
-    "options": [
-      "1",
-      "1/x²",
-      "-1/x²",
-      "0"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "10π",
-      "25π",
-      "50π",
-      "15π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x < 2 or x > 3",
-      "x ≤ 2",
-      "all x",
-      "2 < x < 3"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 1/2, -2",
-      "x = 2, -1/5",
-      "x = 1, -2/5",
-      "x = -1, 2/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "10",
-      "8",
-      "6",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "1",
-      "2",
-      "-2",
-      "-1"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = x²",
-      "y = e^(x²)",
-      "y = e^x",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,2",
-      "0,4",
-      "2,3",
-      "1,3"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "undefined",
-      "0",
-      "∞",
-      "1"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n(n+1)(2n+1)/6",
-      "n²(n+1)²/4",
-      "n(n+1)/2",
-      "n³/3"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "12",
-      "9",
-      "8",
-      "6"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "question": "Solve: 2^x = 32",
     "options": [
       "x = 4",
-      "x = 1",
-      "x = 2",
-      "x = 3"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "24/25",
-      "7/25",
-      "1/25",
-      "-7/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "1/2",
-      "∞",
-      "2",
-      "1"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 4, -1",
-      "x = 2, -3",
-      "x = 3, -2",
-      "x = 1, -4"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "20",
-      "60",
-      "80",
-      "160"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "x=1, y=0, z=1",
-      "x=1, y=1, z=1",
-      "Inconsistent",
-      "x=2, y=1, z=0"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "4",
-      "3",
-      "1",
-      "2"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "∫e^x dx =",
-    "options": [
-      "1/e^x",
-      "e^x",
-      "e^x + C",
-      "x·e^x"
-    ],
-    "answer": "e^x + C"
-  },
-  {
-    "question": "Solve 2^x = 8",
-    "options": [
       "x = 3",
-      "x = 2",
-      "x = 4",
-      "x = 1"
+      "x = 5",
+      "x = 6"
     ],
-    "answer": "x = 3"
+    "answer": "x = 5"
   },
   {
-    "question": "If f(x) = 1/x, find f'(x)",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "1",
-      "0",
-      "-1/x²",
-      "1/x²"
+      "20π cm",
+      "30π cm",
+      "10π cm",
+      "5π cm"
     ],
-    "answer": "-1/x²"
+    "answer": "10π cm"
   },
   {
-    "question": "Circle area with radius 5",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "25π",
-      "10π",
-      "15π",
-      "50π"
+      "l = 9",
+      "l = 8",
+      "l = 10",
+      "l = 7"
     ],
-    "answer": "25π"
+    "answer": "l = 10"
   },
   {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x ≤ 2",
-      "x < 2 or x > 3",
-      "2 < x < 3",
-      "all x"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 1/2, -2",
-      "x = 2, -1/5",
-      "x = 1, -2/5",
-      "x = -1, 2/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "12",
-      "10",
-      "6",
-      "8"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "1",
-      "-2",
-      "-1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = x²",
-      "y = e^(x²)",
-      "y = 2x",
-      "y = e^x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "2,3",
-      "0,4",
-      "1,3",
-      "1,2"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "undefined",
-      "0",
-      "1",
-      "∞"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n²(n+1)²/4",
-      "n³/3",
-      "n(n+1)(2n+1)/6",
-      "n(n+1)/2"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "9",
-      "6",
-      "12",
-      "8"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 4",
-      "x = 1",
-      "x = 2",
-      "x = 3"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "-7/25",
-      "24/25",
-      "1/25",
-      "7/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "question": "What is tan(45°)?",
     "options": [
       "∞",
       "1",
-      "2",
-      "1/2"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 2, -3",
-      "x = 3, -2",
-      "x = 4, -1",
-      "x = 1, -4"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "160",
-      "60",
-      "80",
-      "20"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "Inconsistent",
-      "x=2, y=1, z=0",
-      "x=1, y=1, z=1",
-      "x=1, y=0, z=1"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "4",
-      "1",
-      "3",
-      "2"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "∫e^x dx =",
-    "options": [
-      "x·e^x",
-      "1/e^x",
-      "e^x",
-      "e^x + C"
-    ],
-    "answer": "e^x + C"
-  },
-  {
-    "question": "Solve 2^x = 8",
-    "options": [
-      "x = 3",
-      "x = 4",
-      "x = 1",
-      "x = 2"
-    ],
-    "answer": "x = 3"
-  },
-  {
-    "question": "If f(x) = 1/x, find f'(x)",
-    "options": [
-      "-1/x²",
-      "1",
       "0",
-      "1/x²"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "25π",
-      "50π",
-      "10π",
-      "15π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x ≤ 2",
-      "x < 2 or x > 3",
-      "all x",
-      "2 < x < 3"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 1/2, -2",
-      "x = 2, -1/5",
-      "x = -1, 2/5",
-      "x = 1, -2/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "10",
-      "8",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "1",
-      "2",
-      "-1"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = e^(x²)",
-      "y = x²",
-      "y = 2x",
-      "y = e^x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "2,3",
-      "0,4",
-      "1,2",
-      "1,3"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "∞",
-      "1",
-      "undefined",
-      "0"
+      "√3"
     ],
     "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n³/3",
-      "n(n+1)/2",
-      "n²(n+1)²/4",
-      "n(n+1)(2n+1)/6"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "9",
-      "8",
-      "6",
-      "12"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 1",
-      "x = 3",
-      "x = 4",
-      "x = 2"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "-7/25",
-      "7/25",
-      "24/25",
-      "1/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "2",
-      "1/2",
-      "1",
-      "∞"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 1, -4",
-      "x = 4, -1",
-      "x = 3, -2",
-      "x = 2, -3"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "60",
-      "80",
-      "20",
-      "160"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "x=1, y=0, z=1",
-      "x=1, y=1, z=1",
-      "x=2, y=1, z=0",
-      "Inconsistent"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "1",
-      "3",
-      "2",
-      "4"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "∫e^x dx =",
-    "options": [
-      "x·e^x",
-      "e^x",
-      "1/e^x",
-      "e^x + C"
-    ],
-    "answer": "e^x + C"
-  },
-  {
-    "question": "Solve 2^x = 8",
-    "options": [
-      "x = 4",
-      "x = 1",
-      "x = 3",
-      "x = 2"
-    ],
-    "answer": "x = 3"
-  },
-  {
-    "question": "If f(x) = 1/x, find f'(x)",
-    "options": [
-      "1",
-      "0",
-      "-1/x²",
-      "1/x²"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "15π",
-      "50π",
-      "10π",
-      "25π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "2 < x < 3",
-      "x < 2 or x > 3",
-      "x ≤ 2",
-      "all x"
-    ],
-    "answer": "x < 2 or x > 3"
-  },
-  {
-    "question": "Solve 5x² - 3x - 2 = 0",
-    "options": [
-      "x = 1/2, -2",
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "8",
-      "10",
-      "12",
-      "6"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "1",
-      "2",
-      "-2",
-      "-1"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "dy/dx = 2xy with y(0)=1, find y",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "2,3",
-      "1,2",
-      "1,3",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "lim(x→0) sin(x)/x =",
-    "options": [
-      "undefined",
-      "∞",
-      "0",
-      "1"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "1² + 2² + ... + n² =",
-    "options": [
-      "n(n+1)/2",
-      "n(n+1)(2n+1)/6",
-      "n³/3",
-      "n²(n+1)²/4"
-    ],
-    "answer": "n(n+1)(2n+1)/6"
-  },
-  {
-    "question": "Area under y = x² from 0 to 3",
-    "options": [
-      "8",
-      "6",
-      "12",
-      "9"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "Solve log₂(x) + log₂(x-1) = 3",
-    "options": [
-      "x = 4",
-      "x = 1",
-      "x = 3",
-      "x = 2"
-    ],
-    "answer": "x = 4"
-  },
-  {
-    "question": "If sin(θ) = 3/5, find cos(2θ)",
-    "options": [
-      "7/25",
-      "-7/25",
-      "1/25",
-      "24/25"
-    ],
-    "answer": "7/25"
-  },
-  {
-    "question": "Sum Σ(1/2)^n from n=1 to ∞",
-    "options": [
-      "2",
-      "∞",
-      "1/2",
-      "1"
-    ],
-    "answer": "1"
-  },
-  {
-    "question": "Solve |x - 2| + |x + 1| = 5",
-    "options": [
-      "x = 4, -1",
-      "x = 2, -3",
-      "x = 1, -4",
-      "x = 3, -2"
-    ],
-    "answer": "x = 2, -3"
-  },
-  {
-    "question": "Coefficient of x³ in (2x + 1)⁶",
-    "options": [
-      "60",
-      "20",
-      "160",
-      "80"
-    ],
-    "answer": "160"
-  },
-  {
-    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
-    "options": [
-      "x=1, y=1, z=1",
-      "Inconsistent",
-      "x=1, y=0, z=1",
-      "x=2, y=1, z=0"
-    ],
-    "answer": "x=1, y=1, z=1"
-  },
-  {
-    "question": "Maximum of f(x) = -x² + 6x - 5",
-    "options": [
-      "3",
-      "1",
-      "2",
-      "4"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "∫e^x dx =",
-    "options": [
-      "e^x",
-      "e^x + C",
-      "x·e^x",
-      "1/e^x"
-    ],
-    "answer": "e^x + C"
-  },
-  {
-    "question": "Solve 2^x = 8",
-    "options": [
-      "x = 2",
-      "x = 4",
-      "x = 1",
-      "x = 3"
-    ],
-    "answer": "x = 3"
-  },
-  {
-    "question": "If f(x) = 1/x, find f'(x)",
-    "options": [
-      "-1/x²",
-      "0",
-      "1",
-      "1/x²"
-    ],
-    "answer": "-1/x²"
-  },
-  {
-    "question": "Circle area with radius 5",
-    "options": [
-      "25π",
-      "50π",
-      "10π",
-      "15π"
-    ],
-    "answer": "25π"
-  },
-  {
-    "question": "Solve inequality: x² - 5x + 6 > 0",
-    "options": [
-      "x < 2 or x > 3",
-      "all x",
-      "x ≤ 2",
-      "2 < x < 3"
-    ],
-    "answer": "x < 2 or x > 3"
   }
 ]

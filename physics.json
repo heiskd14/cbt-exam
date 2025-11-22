@@ -1,3002 +1,3002 @@
 [
   {
-    "question": "Projectile at 45°, range 100m, initial velocity",
+    "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "44.3",
-      "62.6",
-      "50",
-      "31.3"
+      "25 m/s",
+      "20 m/s",
+      "15 m/s",
+      "10 m/s"
     ],
-    "answer": "31.3"
+    "answer": "20 m/s"
   },
   {
-    "question": "SHM: acceleration when v = v_max/2",
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
     "options": [
-      "±1/2·ω²A",
-      "±√3/2·ω²A",
-      "±ω²A",
-      "0"
+      "3s",
+      "2s",
+      "4s",
+      "1s"
     ],
-    "answer": "±√3/2·ω²A"
+    "answer": "2s"
   },
   {
-    "question": "Force on 2A current in 0.5T over 0.5m",
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
-      "2N",
-      "0.25N",
-      "0.5N",
-      "1N"
+      "20W",
+      "10W",
+      "40W",
+      "80W"
     ],
-    "answer": "0.5N"
+    "answer": "20W"
   },
   {
-    "question": "Potential at 2m from +4μC charge",
+    "question": "What is the SI unit of force?",
     "options": [
-      "1800V",
-      "18V",
-      "18000V",
-      "180V"
+      "Joule",
+      "Newton",
+      "Erg",
+      "Dyne"
     ],
-    "answer": "18000V"
+    "answer": "Newton"
   },
   {
-    "question": "Ideal gas at constant T, V doubles, P",
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
-      "doubles",
-      "constant",
-      "halves",
-      "quadruples"
+      "2Ω",
+      "6Ω",
+      "4Ω",
+      "3Ω"
     ],
-    "answer": "halves"
+    "answer": "4Ω"
   },
   {
-    "question": "First law thermodynamics",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "Q = W",
-      "ΔU = Q - W",
-      "ΔU = Q + W",
-      "ΔU = W - Q"
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "8 m/s²"
     ],
-    "answer": "ΔU = Q + W"
+    "answer": "6 m/s²"
   },
   {
-    "question": "Critical angle for n = 1.5",
+    "question": "What is the refractive index of water?",
     "options": [
-      "41.8°",
-      "30°",
-      "60°",
-      "48.6°"
+      "1.33",
+      "1.0",
+      "1.5",
+      "2.0"
     ],
-    "answer": "41.8°"
+    "answer": "1.33"
   },
   {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "17.5°",
-      "70°",
-      "35°",
-      "52.5°"
+      "Radiation",
+      "Convection",
+      "Conduction",
+      "None"
     ],
-    "answer": "17.5°"
+    "answer": "Convection"
   },
   {
-    "question": "Photon energy λ = 500nm",
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "3.98×10⁻²⁷",
-      "1.99×10⁻¹⁹",
-      "3.98×10⁻¹⁹",
-      "6.63×10⁻¹⁹"
+      "10 Hz",
+      "2 Hz",
+      "20 Hz",
+      "5 Hz"
     ],
-    "answer": "3.98×10⁻¹⁹"
+    "answer": "5 Hz"
   },
   {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "4.1V",
-      "3.86V",
-      "1.43V",
-      "2.14V"
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)"
     ],
-    "answer": "1.43V"
+    "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Moment of inertia rod about centre",
+    "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
-      "ML²/4",
-      "ML²/3",
-      "ML²/2",
-      "ML²/12"
+      "25J",
+      "100J",
+      "200J",
+      "50J"
     ],
-    "answer": "ML²/12"
+    "answer": "200J"
   },
   {
-    "question": "AC capacitor impedance",
+    "question": "Identify the angle at which range is maximum for projectile motion:",
     "options": [
-      "1/2πfC",
-      "√(R²+XL²)",
-      "2πfL",
-      "R"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "increases",
-      "unchanged",
-      "decreases",
-      "wavelength↑"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "0.8",
-      "1",
-      "1.67",
-      "1.25"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10¹⁰",
-      "3×10¹²",
-      "3×10⁸",
-      "3×10⁶"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "sinθ₁+sinθ₂=n",
-      "n₁/n₂=sinθ",
-      "n=sinθ",
-      "n₁sinθ₁=n₂sinθ₂"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "f = u + v",
-      "1/f = 1/u + 1/v",
-      "1/u - 1/v = 1/f",
-      "f/2"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "GMm/r",
-      "GMm/r²",
-      "GM/r²",
-      "Gm/r"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "sin(angle)",
-      "cos(angle)",
-      "tan(angle)",
-      "1"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "50",
-      "31.3",
-      "62.6",
-      "44.3"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "±ω²A",
-      "0",
-      "±√3/2·ω²A",
-      "±1/2·ω²A"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "1N",
-      "2N",
-      "0.25N",
-      "0.5N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "180V",
-      "1800V",
-      "18000V",
-      "18V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "constant",
-      "halves",
-      "doubles",
-      "quadruples"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "ΔU = Q - W",
-      "ΔU = Q + W",
-      "Q = W",
-      "ΔU = W - Q"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "60°",
-      "41.8°",
-      "30°",
-      "48.6°"
-    ],
-    "answer": "41.8°"
-  },
-  {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
-    "options": [
-      "70°",
-      "52.5°",
-      "17.5°",
-      "35°"
-    ],
-    "answer": "17.5°"
-  },
-  {
-    "question": "Photon energy λ = 500nm",
-    "options": [
-      "3.98×10⁻¹⁹",
-      "3.98×10⁻²⁷",
-      "1.99×10⁻¹⁹",
-      "6.63×10⁻¹⁹"
-    ],
-    "answer": "3.98×10⁻¹⁹"
-  },
-  {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
-    "options": [
-      "3.86V",
-      "2.14V",
-      "4.1V",
-      "1.43V"
-    ],
-    "answer": "1.43V"
-  },
-  {
-    "question": "Moment of inertia rod about centre",
-    "options": [
-      "ML²/4",
-      "ML²/3",
-      "ML²/2",
-      "ML²/12"
-    ],
-    "answer": "ML²/12"
-  },
-  {
-    "question": "AC capacitor impedance",
-    "options": [
-      "R",
-      "2πfL",
-      "1/2πfC",
-      "√(R²+XL²)"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "decreases",
-      "increases",
-      "unchanged",
-      "wavelength↑"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "1.67",
-      "1.25",
-      "0.8",
-      "1"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10¹²",
-      "3×10¹⁰",
-      "3×10⁸",
-      "3×10⁶"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "n₁/n₂=sinθ",
-      "sinθ₁+sinθ₂=n",
-      "n₁sinθ₁=n₂sinθ₂",
-      "n=sinθ"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "1/f = 1/u + 1/v",
-      "f = u + v",
-      "1/u - 1/v = 1/f",
-      "f/2"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "GMm/r²",
-      "Gm/r",
-      "GMm/r",
-      "GM/r²"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "sin(angle)",
-      "tan(angle)",
-      "cos(angle)",
-      "1"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "31.3",
-      "44.3",
-      "62.6",
-      "50"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "0",
-      "±ω²A",
-      "±√3/2·ω²A",
-      "±1/2·ω²A"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "0.25N",
-      "2N",
-      "1N",
-      "0.5N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "180V",
-      "18000V",
-      "1800V",
-      "18V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "quadruples",
-      "halves",
-      "constant",
-      "doubles"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "ΔU = W - Q",
-      "ΔU = Q - W",
-      "ΔU = Q + W",
-      "Q = W"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "48.6°",
-      "60°",
-      "30°",
-      "41.8°"
-    ],
-    "answer": "41.8°"
-  },
-  {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
-    "options": [
-      "70°",
-      "17.5°",
-      "35°",
-      "52.5°"
-    ],
-    "answer": "17.5°"
-  },
-  {
-    "question": "Photon energy λ = 500nm",
-    "options": [
-      "3.98×10⁻¹⁹",
-      "6.63×10⁻¹⁹",
-      "3.98×10⁻²⁷",
-      "1.99×10⁻¹⁹"
-    ],
-    "answer": "3.98×10⁻¹⁹"
-  },
-  {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
-    "options": [
-      "3.86V",
-      "2.14V",
-      "1.43V",
-      "4.1V"
-    ],
-    "answer": "1.43V"
-  },
-  {
-    "question": "Moment of inertia rod about centre",
-    "options": [
-      "ML²/3",
-      "ML²/4",
-      "ML²/12",
-      "ML²/2"
-    ],
-    "answer": "ML²/12"
-  },
-  {
-    "question": "AC capacitor impedance",
-    "options": [
-      "2πfL",
-      "√(R²+XL²)",
-      "1/2πfC",
-      "R"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "wavelength↑",
-      "increases",
-      "decreases",
-      "unchanged"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "0.8",
-      "1",
-      "1.67",
-      "1.25"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10⁸",
-      "3×10¹⁰",
-      "3×10⁶",
-      "3×10¹²"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "n₁/n₂=sinθ",
-      "n=sinθ",
-      "n₁sinθ₁=n₂sinθ₂",
-      "sinθ₁+sinθ₂=n"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "f/2",
-      "1/f = 1/u + 1/v",
-      "f = u + v",
-      "1/u - 1/v = 1/f"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "GMm/r²",
-      "GMm/r",
-      "GM/r²",
-      "Gm/r"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "cos(angle)",
-      "sin(angle)",
-      "1",
-      "tan(angle)"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "44.3",
-      "62.6",
-      "31.3",
-      "50"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "±√3/2·ω²A",
-      "±ω²A",
-      "0",
-      "±1/2·ω²A"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "0.5N",
-      "2N",
-      "0.25N",
-      "1N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "1800V",
-      "18V",
-      "18000V",
-      "180V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "halves",
-      "quadruples",
-      "doubles",
-      "constant"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "Q = W",
-      "ΔU = Q - W",
-      "ΔU = Q + W",
-      "ΔU = W - Q"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "48.6°",
-      "41.8°",
-      "60°",
-      "30°"
-    ],
-    "answer": "41.8°"
-  },
-  {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
-    "options": [
-      "35°",
-      "52.5°",
-      "17.5°",
-      "70°"
-    ],
-    "answer": "17.5°"
-  },
-  {
-    "question": "Photon energy λ = 500nm",
-    "options": [
-      "3.98×10⁻¹⁹",
-      "6.63×10⁻¹⁹",
-      "1.99×10⁻¹⁹",
-      "3.98×10⁻²⁷"
-    ],
-    "answer": "3.98×10⁻¹⁹"
-  },
-  {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
-    "options": [
-      "2.14V",
-      "4.1V",
-      "1.43V",
-      "3.86V"
-    ],
-    "answer": "1.43V"
-  },
-  {
-    "question": "Moment of inertia rod about centre",
-    "options": [
-      "ML²/4",
-      "ML²/3",
-      "ML²/2",
-      "ML²/12"
-    ],
-    "answer": "ML²/12"
-  },
-  {
-    "question": "AC capacitor impedance",
-    "options": [
-      "R",
-      "2πfL",
-      "1/2πfC",
-      "√(R²+XL²)"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "increases",
-      "decreases",
-      "wavelength↑",
-      "unchanged"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "1.25",
-      "0.8",
-      "1",
-      "1.67"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10⁸",
-      "3×10¹⁰",
-      "3×10¹²",
-      "3×10⁶"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "n₁sinθ₁=n₂sinθ₂",
-      "n₁/n₂=sinθ",
-      "n=sinθ",
-      "sinθ₁+sinθ₂=n"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "1/f = 1/u + 1/v",
-      "f = u + v",
-      "f/2",
-      "1/u - 1/v = 1/f"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "GMm/r",
-      "GM/r²",
-      "GMm/r²",
-      "Gm/r"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "1",
-      "tan(angle)",
-      "cos(angle)",
-      "sin(angle)"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "44.3",
-      "50",
-      "62.6",
-      "31.3"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "±√3/2·ω²A",
-      "0",
-      "±ω²A",
-      "±1/2·ω²A"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "0.25N",
-      "2N",
-      "1N",
-      "0.5N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "180V",
-      "18000V",
-      "1800V",
-      "18V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "doubles",
-      "quadruples",
-      "constant",
-      "halves"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "ΔU = Q - W",
-      "ΔU = W - Q",
-      "ΔU = Q + W",
-      "Q = W"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "48.6°",
-      "41.8°",
+      "45°",
+      "90°",
       "30°",
       "60°"
     ],
-    "answer": "41.8°"
+    "answer": "45°"
   },
   {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
     "options": [
-      "17.5°",
-      "52.5°",
-      "35°",
-      "70°"
+      "quadratic",
+      "cubic",
+      "exponential",
+      "linear"
     ],
-    "answer": "17.5°"
+    "answer": "linear"
   },
   {
-    "question": "Photon energy λ = 500nm",
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
-      "1.99×10⁻¹⁹",
-      "3.98×10⁻²⁷",
-      "6.63×10⁻¹⁹",
-      "3.98×10⁻¹⁹"
+      "1.0 or 100%",
+      "0.8 or 80%",
+      "0.5 or 50%",
+      "0.9 or 90%"
     ],
-    "answer": "3.98×10⁻¹⁹"
+    "answer": "0.8 or 80%"
   },
   {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "question": "Which statement about Newton's 3rd law is correct?",
     "options": [
-      "4.1V",
-      "1.43V",
-      "3.86V",
-      "2.14V"
+      "one force is stronger",
+      "forces do not affect motion",
+      "forces are equal and opposite",
+      "stronger force wins"
     ],
-    "answer": "1.43V"
+    "answer": "forces are equal and opposite"
   },
   {
-    "question": "Moment of inertia rod about centre",
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
     "options": [
-      "ML²/2",
-      "ML²/4",
-      "ML²/3",
-      "ML²/12"
+      "25J",
+      "75J",
+      "50J",
+      "10J"
     ],
-    "answer": "ML²/12"
+    "answer": "25J"
   },
   {
-    "question": "AC capacitor impedance",
+    "question": "The center of gravity of a uniform rod is at:",
     "options": [
-      "1/2πfC",
-      "√(R²+XL²)",
-      "R",
-      "2πfL"
+      "the middle",
+      "1/4 from end",
+      "the end",
+      "1/3 from end"
     ],
-    "answer": "1/2πfC"
+    "answer": "the middle"
   },
   {
-    "question": "Doppler: observer approaches, frequency",
+    "question": "What type of lens is used to correct myopia?",
     "options": [
-      "wavelength↑",
-      "unchanged",
-      "decreases",
-      "increases"
+      "Cylindrical",
+      "Convex",
+      "Diverging",
+      "Concave"
     ],
-    "answer": "increases"
+    "answer": "Concave"
   },
   {
-    "question": "Lorentz γ for v = 0.6c",
+    "question": "Identify the condition for total internal reflection:",
     "options": [
-      "1",
-      "1.25",
-      "1.67",
-      "0.8"
+      "angle = 90°",
+      "angle > critical angle",
+      "angle = 0",
+      "angle < critical angle"
     ],
-    "answer": "1.25"
+    "answer": "angle > critical angle"
   },
   {
-    "question": "Speed of light",
+    "question": "A pendulum has a period of 2s. What is its frequency?",
     "options": [
-      "3×10⁸",
-      "3×10¹⁰",
-      "3×10¹²",
-      "3×10⁶"
+      "0.5 Hz",
+      "1 Hz",
+      "2 Hz",
+      "4 Hz"
     ],
-    "answer": "3×10⁸"
+    "answer": "0.5 Hz"
   },
   {
-    "question": "Snell's law is",
+    "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "n₁/n₂=sinθ",
-      "n=sinθ",
-      "sinθ₁+sinθ₂=n",
-      "n₁sinθ₁=n₂sinθ₂"
+      "20 m/s",
+      "10 m/s",
+      "25 m/s",
+      "15 m/s"
     ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
+    "answer": "20 m/s"
   },
   {
-    "question": "Focal length mirror formula",
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
     "options": [
-      "f = u + v",
-      "f/2",
-      "1/f = 1/u + 1/v",
-      "1/u - 1/v = 1/f"
+      "2s",
+      "3s",
+      "1s",
+      "4s"
     ],
-    "answer": "1/f = 1/u + 1/v"
+    "answer": "2s"
   },
   {
-    "question": "Gravitational force between masses",
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
-      "GMm/r",
-      "GMm/r²",
-      "Gm/r",
-      "GM/r²"
+      "20W",
+      "80W",
+      "40W",
+      "10W"
     ],
-    "answer": "GMm/r²"
+    "answer": "20W"
   },
   {
-    "question": "Work is force × distance ×",
+    "question": "What is the SI unit of force?",
     "options": [
-      "sin(angle)",
-      "cos(angle)",
-      "tan(angle)",
-      "1"
+      "Joule",
+      "Dyne",
+      "Erg",
+      "Newton"
     ],
-    "answer": "cos(angle)"
+    "answer": "Newton"
   },
   {
-    "question": "Projectile at 45°, range 100m, initial velocity",
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
-      "31.3",
-      "44.3",
-      "62.6",
-      "50"
+      "2Ω",
+      "3Ω",
+      "6Ω",
+      "4Ω"
     ],
-    "answer": "31.3"
+    "answer": "4Ω"
   },
   {
-    "question": "SHM: acceleration when v = v_max/2",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "0",
-      "±ω²A",
-      "±1/2·ω²A",
-      "±√3/2·ω²A"
+      "8 m/s²",
+      "6 m/s²",
+      "4 m/s²",
+      "5 m/s²"
     ],
-    "answer": "±√3/2·ω²A"
+    "answer": "6 m/s²"
   },
   {
-    "question": "Force on 2A current in 0.5T over 0.5m",
+    "question": "What is the refractive index of water?",
     "options": [
-      "1N",
-      "2N",
-      "0.5N",
-      "0.25N"
+      "2.0",
+      "1.33",
+      "1.5",
+      "1.0"
     ],
-    "answer": "0.5N"
+    "answer": "1.33"
   },
   {
-    "question": "Potential at 2m from +4μC charge",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "18000V",
-      "1800V",
-      "180V",
-      "18V"
+      "Conduction",
+      "Radiation",
+      "None",
+      "Convection"
     ],
-    "answer": "18000V"
+    "answer": "Convection"
   },
   {
-    "question": "Ideal gas at constant T, V doubles, P",
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "halves",
-      "doubles",
-      "quadruples",
-      "constant"
+      "20 Hz",
+      "10 Hz",
+      "2 Hz",
+      "5 Hz"
     ],
-    "answer": "halves"
+    "answer": "5 Hz"
   },
   {
-    "question": "First law thermodynamics",
+    "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "ΔU = Q + W",
-      "ΔU = Q - W",
-      "Q = W",
-      "ΔU = W - Q"
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)"
     ],
-    "answer": "ΔU = Q + W"
+    "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Critical angle for n = 1.5",
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "200J",
+      "50J",
+      "100J",
+      "25J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
     "options": [
       "30°",
-      "48.6°",
       "60°",
-      "41.8°"
+      "45°",
+      "90°"
     ],
-    "answer": "41.8°"
+    "answer": "45°"
   },
   {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
     "options": [
-      "70°",
-      "52.5°",
-      "17.5°",
-      "35°"
+      "cubic",
+      "linear",
+      "quadratic",
+      "exponential"
     ],
-    "answer": "17.5°"
+    "answer": "linear"
   },
   {
-    "question": "Photon energy λ = 500nm",
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
-      "3.98×10⁻²⁷",
-      "1.99×10⁻¹⁹",
-      "6.63×10⁻¹⁹",
-      "3.98×10⁻¹⁹"
+      "1.0 or 100%",
+      "0.8 or 80%",
+      "0.9 or 90%",
+      "0.5 or 50%"
     ],
-    "answer": "3.98×10⁻¹⁹"
+    "answer": "0.8 or 80%"
   },
   {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "question": "Which statement about Newton's 3rd law is correct?",
     "options": [
-      "4.1V",
-      "1.43V",
-      "3.86V",
-      "2.14V"
+      "forces do not affect motion",
+      "forces are equal and opposite",
+      "one force is stronger",
+      "stronger force wins"
     ],
-    "answer": "1.43V"
+    "answer": "forces are equal and opposite"
   },
   {
-    "question": "Moment of inertia rod about centre",
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
     "options": [
-      "ML²/4",
-      "ML²/2",
-      "ML²/12",
-      "ML²/3"
+      "10J",
+      "25J",
+      "75J",
+      "50J"
     ],
-    "answer": "ML²/12"
+    "answer": "25J"
   },
   {
-    "question": "AC capacitor impedance",
+    "question": "The center of gravity of a uniform rod is at:",
     "options": [
-      "2πfL",
-      "√(R²+XL²)",
-      "R",
-      "1/2πfC"
+      "1/3 from end",
+      "the middle",
+      "the end",
+      "1/4 from end"
     ],
-    "answer": "1/2πfC"
+    "answer": "the middle"
   },
   {
-    "question": "Doppler: observer approaches, frequency",
+    "question": "What type of lens is used to correct myopia?",
     "options": [
-      "increases",
-      "unchanged",
-      "wavelength↑",
-      "decreases"
+      "Concave",
+      "Diverging",
+      "Convex",
+      "Cylindrical"
     ],
-    "answer": "increases"
+    "answer": "Concave"
   },
   {
-    "question": "Lorentz γ for v = 0.6c",
+    "question": "Identify the condition for total internal reflection:",
     "options": [
-      "1",
-      "1.67",
-      "0.8",
-      "1.25"
+      "angle = 90°",
+      "angle < critical angle",
+      "angle = 0",
+      "angle > critical angle"
     ],
-    "answer": "1.25"
+    "answer": "angle > critical angle"
   },
   {
-    "question": "Speed of light",
+    "question": "A pendulum has a period of 2s. What is its frequency?",
     "options": [
-      "3×10⁸",
-      "3×10⁶",
-      "3×10¹²",
-      "3×10¹⁰"
+      "0.5 Hz",
+      "4 Hz",
+      "2 Hz",
+      "1 Hz"
     ],
-    "answer": "3×10⁸"
+    "answer": "0.5 Hz"
   },
   {
-    "question": "Snell's law is",
+    "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "sinθ₁+sinθ₂=n",
-      "n₁sinθ₁=n₂sinθ₂",
-      "n=sinθ",
-      "n₁/n₂=sinθ"
+      "15 m/s",
+      "25 m/s",
+      "20 m/s",
+      "10 m/s"
     ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
+    "answer": "20 m/s"
   },
   {
-    "question": "Focal length mirror formula",
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
     "options": [
-      "1/u - 1/v = 1/f",
-      "f/2",
-      "f = u + v",
-      "1/f = 1/u + 1/v"
+      "4s",
+      "2s",
+      "1s",
+      "3s"
     ],
-    "answer": "1/f = 1/u + 1/v"
+    "answer": "2s"
   },
   {
-    "question": "Gravitational force between masses",
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
-      "Gm/r",
-      "GM/r²",
-      "GMm/r²",
-      "GMm/r"
+      "40W",
+      "20W",
+      "80W",
+      "10W"
     ],
-    "answer": "GMm/r²"
+    "answer": "20W"
   },
   {
-    "question": "Work is force × distance ×",
+    "question": "What is the SI unit of force?",
     "options": [
-      "tan(angle)",
-      "1",
-      "cos(angle)",
-      "sin(angle)"
+      "Joule",
+      "Erg",
+      "Newton",
+      "Dyne"
     ],
-    "answer": "cos(angle)"
+    "answer": "Newton"
   },
   {
-    "question": "Projectile at 45°, range 100m, initial velocity",
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
-      "31.3",
-      "50",
-      "44.3",
-      "62.6"
+      "3Ω",
+      "6Ω",
+      "2Ω",
+      "4Ω"
     ],
-    "answer": "31.3"
+    "answer": "4Ω"
   },
   {
-    "question": "SHM: acceleration when v = v_max/2",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "±1/2·ω²A",
-      "±√3/2·ω²A",
-      "±ω²A",
-      "0"
+      "4 m/s²",
+      "8 m/s²",
+      "5 m/s²",
+      "6 m/s²"
     ],
-    "answer": "±√3/2·ω²A"
+    "answer": "6 m/s²"
   },
   {
-    "question": "Force on 2A current in 0.5T over 0.5m",
+    "question": "What is the refractive index of water?",
     "options": [
-      "0.25N",
-      "1N",
-      "2N",
-      "0.5N"
+      "1.0",
+      "1.5",
+      "1.33",
+      "2.0"
     ],
-    "answer": "0.5N"
+    "answer": "1.33"
   },
   {
-    "question": "Potential at 2m from +4μC charge",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "18V",
-      "180V",
-      "1800V",
-      "18000V"
+      "None",
+      "Radiation",
+      "Convection",
+      "Conduction"
     ],
-    "answer": "18000V"
+    "answer": "Convection"
   },
   {
-    "question": "Ideal gas at constant T, V doubles, P",
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "quadruples",
-      "halves",
-      "doubles",
-      "constant"
+      "5 Hz",
+      "20 Hz",
+      "2 Hz",
+      "10 Hz"
     ],
-    "answer": "halves"
+    "answer": "5 Hz"
   },
   {
-    "question": "First law thermodynamics",
+    "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "ΔU = Q + W",
-      "ΔU = Q - W",
-      "ΔU = W - Q",
-      "Q = W"
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "4200 J/(kg·K)"
     ],
-    "answer": "ΔU = Q + W"
+    "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Critical angle for n = 1.5",
+    "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
+      "200J",
+      "25J",
+      "100J",
+      "50J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "60°",
+      "45°",
+      "30°",
+      "90°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "linear",
+      "cubic",
+      "exponential",
+      "quadratic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.9 or 90%",
+      "0.8 or 80%",
+      "1.0 or 100%",
+      "0.5 or 50%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "forces are equal and opposite",
+      "one force is stronger",
+      "stronger force wins",
+      "forces do not affect motion"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "options": [
+      "50J",
+      "75J",
+      "25J",
+      "10J"
+    ],
+    "answer": "25J"
+  },
+  {
+    "question": "The center of gravity of a uniform rod is at:",
+    "options": [
+      "1/3 from end",
+      "the middle",
+      "the end",
+      "1/4 from end"
+    ],
+    "answer": "the middle"
+  },
+  {
+    "question": "What type of lens is used to correct myopia?",
+    "options": [
+      "Concave",
+      "Convex",
+      "Diverging",
+      "Cylindrical"
+    ],
+    "answer": "Concave"
+  },
+  {
+    "question": "Identify the condition for total internal reflection:",
+    "options": [
+      "angle = 0",
+      "angle > critical angle",
+      "angle < critical angle",
+      "angle = 90°"
+    ],
+    "answer": "angle > critical angle"
+  },
+  {
+    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "options": [
+      "0.5 Hz",
+      "4 Hz",
+      "2 Hz",
+      "1 Hz"
+    ],
+    "answer": "0.5 Hz"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "25 m/s",
+      "15 m/s",
+      "10 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "3s",
+      "4s",
+      "2s",
+      "1s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "80W",
+      "10W",
+      "20W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Dyne",
+      "Newton",
+      "Joule",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "2Ω",
+      "6Ω",
+      "4Ω",
+      "3Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "5 m/s²",
+      "6 m/s²",
+      "8 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.33",
+      "1.5",
+      "2.0",
+      "1.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Convection",
+      "None",
+      "Conduction",
+      "Radiation"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "20 Hz",
+      "5 Hz",
+      "10 Hz",
+      "2 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "200J",
+      "25J",
+      "50J",
+      "100J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "30°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "quadratic",
+      "exponential",
+      "cubic",
+      "linear"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "1.0 or 100%",
+      "0.5 or 50%",
+      "0.9 or 90%",
+      "0.8 or 80%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "forces are equal and opposite",
+      "one force is stronger",
+      "stronger force wins",
+      "forces do not affect motion"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "options": [
+      "25J",
+      "75J",
+      "50J",
+      "10J"
+    ],
+    "answer": "25J"
+  },
+  {
+    "question": "The center of gravity of a uniform rod is at:",
+    "options": [
+      "the middle",
+      "1/3 from end",
+      "1/4 from end",
+      "the end"
+    ],
+    "answer": "the middle"
+  },
+  {
+    "question": "What type of lens is used to correct myopia?",
+    "options": [
+      "Diverging",
+      "Convex",
+      "Concave",
+      "Cylindrical"
+    ],
+    "answer": "Concave"
+  },
+  {
+    "question": "Identify the condition for total internal reflection:",
+    "options": [
+      "angle > critical angle",
+      "angle = 90°",
+      "angle = 0",
+      "angle < critical angle"
+    ],
+    "answer": "angle > critical angle"
+  },
+  {
+    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "options": [
+      "0.5 Hz",
+      "1 Hz",
+      "4 Hz",
+      "2 Hz"
+    ],
+    "answer": "0.5 Hz"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "25 m/s",
+      "10 m/s",
+      "20 m/s",
+      "15 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "3s",
+      "4s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "10W",
+      "20W",
+      "80W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Erg",
+      "Joule",
+      "Dyne",
+      "Newton"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "6Ω",
+      "4Ω",
+      "3Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "5 m/s²",
+      "8 m/s²",
+      "4 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.5",
+      "1.33",
+      "1.0",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Convection",
+      "None",
+      "Conduction",
+      "Radiation"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "5 Hz",
+      "2 Hz",
+      "20 Hz",
+      "10 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "50J",
+      "100J",
+      "200J",
+      "25J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "60°",
+      "45°",
+      "90°",
+      "30°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "quadratic",
+      "cubic",
+      "exponential",
+      "linear"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.9 or 90%",
+      "0.5 or 50%",
+      "1.0 or 100%",
+      "0.8 or 80%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "one force is stronger",
+      "forces are equal and opposite",
+      "stronger force wins",
+      "forces do not affect motion"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "options": [
+      "10J",
+      "25J",
+      "75J",
+      "50J"
+    ],
+    "answer": "25J"
+  },
+  {
+    "question": "The center of gravity of a uniform rod is at:",
+    "options": [
+      "1/4 from end",
+      "the end",
+      "1/3 from end",
+      "the middle"
+    ],
+    "answer": "the middle"
+  },
+  {
+    "question": "What type of lens is used to correct myopia?",
+    "options": [
+      "Convex",
+      "Cylindrical",
+      "Diverging",
+      "Concave"
+    ],
+    "answer": "Concave"
+  },
+  {
+    "question": "Identify the condition for total internal reflection:",
+    "options": [
+      "angle = 0",
+      "angle > critical angle",
+      "angle < critical angle",
+      "angle = 90°"
+    ],
+    "answer": "angle > critical angle"
+  },
+  {
+    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "options": [
+      "2 Hz",
+      "0.5 Hz",
+      "1 Hz",
+      "4 Hz"
+    ],
+    "answer": "0.5 Hz"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "10 m/s",
+      "15 m/s",
+      "20 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "4s",
+      "3s",
+      "2s",
+      "1s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "20W",
+      "10W",
+      "40W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Dyne",
+      "Newton",
+      "Joule",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "4Ω",
+      "3Ω",
+      "2Ω",
+      "6Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "8 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.0",
+      "2.0",
+      "1.5",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "5 Hz",
+      "2 Hz",
+      "20 Hz",
+      "10 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "200J",
+      "25J",
+      "50J",
+      "100J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "90°",
       "60°",
       "30°",
-      "48.6°",
-      "41.8°"
+      "45°"
     ],
-    "answer": "41.8°"
+    "answer": "45°"
   },
   {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
     "options": [
-      "17.5°",
-      "35°",
-      "70°",
-      "52.5°"
+      "linear",
+      "cubic",
+      "exponential",
+      "quadratic"
     ],
-    "answer": "17.5°"
+    "answer": "linear"
   },
   {
-    "question": "Photon energy λ = 500nm",
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
-      "3.98×10⁻¹⁹",
-      "1.99×10⁻¹⁹",
-      "6.63×10⁻¹⁹",
-      "3.98×10⁻²⁷"
+      "0.9 or 90%",
+      "0.8 or 80%",
+      "0.5 or 50%",
+      "1.0 or 100%"
     ],
-    "answer": "3.98×10⁻¹⁹"
+    "answer": "0.8 or 80%"
   },
   {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "question": "Which statement about Newton's 3rd law is correct?",
     "options": [
-      "1.43V",
-      "2.14V",
-      "3.86V",
-      "4.1V"
+      "forces are equal and opposite",
+      "stronger force wins",
+      "one force is stronger",
+      "forces do not affect motion"
     ],
-    "answer": "1.43V"
+    "answer": "forces are equal and opposite"
   },
   {
-    "question": "Moment of inertia rod about centre",
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
     "options": [
-      "ML²/4",
-      "ML²/12",
-      "ML²/3",
-      "ML²/2"
+      "25J",
+      "10J",
+      "50J",
+      "75J"
     ],
-    "answer": "ML²/12"
+    "answer": "25J"
   },
   {
-    "question": "AC capacitor impedance",
+    "question": "The center of gravity of a uniform rod is at:",
     "options": [
-      "√(R²+XL²)",
-      "R",
-      "2πfL",
-      "1/2πfC"
+      "the middle",
+      "1/3 from end",
+      "1/4 from end",
+      "the end"
     ],
-    "answer": "1/2πfC"
+    "answer": "the middle"
   },
   {
-    "question": "Doppler: observer approaches, frequency",
+    "question": "What type of lens is used to correct myopia?",
     "options": [
-      "wavelength↑",
-      "unchanged",
-      "increases",
-      "decreases"
+      "Diverging",
+      "Convex",
+      "Cylindrical",
+      "Concave"
     ],
-    "answer": "increases"
+    "answer": "Concave"
   },
   {
-    "question": "Lorentz γ for v = 0.6c",
+    "question": "Identify the condition for total internal reflection:",
     "options": [
-      "1.25",
-      "0.8",
-      "1",
-      "1.67"
+      "angle > critical angle",
+      "angle < critical angle",
+      "angle = 90°",
+      "angle = 0"
     ],
-    "answer": "1.25"
+    "answer": "angle > critical angle"
   },
   {
-    "question": "Speed of light",
+    "question": "A pendulum has a period of 2s. What is its frequency?",
     "options": [
-      "3×10⁶",
-      "3×10⁸",
-      "3×10¹²",
-      "3×10¹⁰"
+      "1 Hz",
+      "4 Hz",
+      "0.5 Hz",
+      "2 Hz"
     ],
-    "answer": "3×10⁸"
+    "answer": "0.5 Hz"
   },
   {
-    "question": "Snell's law is",
+    "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "sinθ₁+sinθ₂=n",
-      "n=sinθ",
-      "n₁sinθ₁=n₂sinθ₂",
-      "n₁/n₂=sinθ"
+      "20 m/s",
+      "10 m/s",
+      "25 m/s",
+      "15 m/s"
     ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
+    "answer": "20 m/s"
   },
   {
-    "question": "Focal length mirror formula",
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
     "options": [
-      "f/2",
-      "1/f = 1/u + 1/v",
-      "1/u - 1/v = 1/f",
-      "f = u + v"
+      "4s",
+      "3s",
+      "2s",
+      "1s"
     ],
-    "answer": "1/f = 1/u + 1/v"
+    "answer": "2s"
   },
   {
-    "question": "Gravitational force between masses",
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
-      "Gm/r",
-      "GMm/r²",
-      "GM/r²",
-      "GMm/r"
+      "40W",
+      "80W",
+      "20W",
+      "10W"
     ],
-    "answer": "GMm/r²"
+    "answer": "20W"
   },
   {
-    "question": "Work is force × distance ×",
+    "question": "What is the SI unit of force?",
     "options": [
-      "tan(angle)",
-      "cos(angle)",
-      "1",
-      "sin(angle)"
+      "Newton",
+      "Dyne",
+      "Joule",
+      "Erg"
     ],
-    "answer": "cos(angle)"
+    "answer": "Newton"
   },
   {
-    "question": "Projectile at 45°, range 100m, initial velocity",
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
-      "44.3",
-      "50",
-      "31.3",
-      "62.6"
+      "3Ω",
+      "6Ω",
+      "2Ω",
+      "4Ω"
     ],
-    "answer": "31.3"
+    "answer": "4Ω"
   },
   {
-    "question": "SHM: acceleration when v = v_max/2",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "0",
-      "±√3/2·ω²A",
-      "±ω²A",
-      "±1/2·ω²A"
+      "8 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "6 m/s²"
     ],
-    "answer": "±√3/2·ω²A"
+    "answer": "6 m/s²"
   },
   {
-    "question": "Force on 2A current in 0.5T over 0.5m",
+    "question": "What is the refractive index of water?",
     "options": [
-      "1N",
-      "0.5N",
-      "0.25N",
-      "2N"
+      "1.5",
+      "1.0",
+      "1.33",
+      "2.0"
     ],
-    "answer": "0.5N"
+    "answer": "1.33"
   },
   {
-    "question": "Potential at 2m from +4μC charge",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "180V",
-      "1800V",
-      "18V",
-      "18000V"
+      "Convection",
+      "Radiation",
+      "None",
+      "Conduction"
     ],
-    "answer": "18000V"
+    "answer": "Convection"
   },
   {
-    "question": "Ideal gas at constant T, V doubles, P",
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "quadruples",
-      "constant",
-      "halves",
-      "doubles"
+      "10 Hz",
+      "2 Hz",
+      "20 Hz",
+      "5 Hz"
     ],
-    "answer": "halves"
+    "answer": "5 Hz"
   },
   {
-    "question": "First law thermodynamics",
+    "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "ΔU = Q + W",
-      "ΔU = W - Q",
-      "ΔU = Q - W",
-      "Q = W"
+      "8400 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)"
     ],
-    "answer": "ΔU = Q + W"
+    "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Critical angle for n = 1.5",
+    "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
-      "41.8°",
-      "48.6°",
+      "200J",
+      "100J",
+      "25J",
+      "50J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "60°",
+      "90°",
+      "30°",
+      "45°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "cubic",
+      "quadratic",
+      "linear",
+      "exponential"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.8 or 80%",
+      "0.5 or 50%",
+      "0.9 or 90%",
+      "1.0 or 100%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "forces do not affect motion",
+      "stronger force wins",
+      "forces are equal and opposite",
+      "one force is stronger"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "options": [
+      "50J",
+      "10J",
+      "25J",
+      "75J"
+    ],
+    "answer": "25J"
+  },
+  {
+    "question": "The center of gravity of a uniform rod is at:",
+    "options": [
+      "1/3 from end",
+      "1/4 from end",
+      "the end",
+      "the middle"
+    ],
+    "answer": "the middle"
+  },
+  {
+    "question": "What type of lens is used to correct myopia?",
+    "options": [
+      "Cylindrical",
+      "Convex",
+      "Diverging",
+      "Concave"
+    ],
+    "answer": "Concave"
+  },
+  {
+    "question": "Identify the condition for total internal reflection:",
+    "options": [
+      "angle = 0",
+      "angle > critical angle",
+      "angle < critical angle",
+      "angle = 90°"
+    ],
+    "answer": "angle > critical angle"
+  },
+  {
+    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "options": [
+      "4 Hz",
+      "2 Hz",
+      "1 Hz",
+      "0.5 Hz"
+    ],
+    "answer": "0.5 Hz"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "15 m/s",
+      "10 m/s",
+      "25 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "4s",
+      "3s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "10W",
+      "80W",
+      "40W",
+      "20W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Erg",
+      "Newton",
+      "Dyne"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "2Ω",
+      "3Ω",
+      "6Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "8 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.0",
+      "1.33",
+      "1.5",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Convection",
+      "None",
+      "Radiation",
+      "Conduction"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "10 Hz",
+      "5 Hz",
+      "2 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "200J",
+      "100J",
+      "50J",
+      "25J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "45°",
+      "90°",
       "30°",
       "60°"
     ],
-    "answer": "41.8°"
+    "answer": "45°"
   },
   {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
     "options": [
-      "35°",
-      "52.5°",
-      "17.5°",
-      "70°"
+      "linear",
+      "cubic",
+      "quadratic",
+      "exponential"
     ],
-    "answer": "17.5°"
+    "answer": "linear"
   },
   {
-    "question": "Photon energy λ = 500nm",
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
-      "3.98×10⁻¹⁹",
-      "1.99×10⁻¹⁹",
-      "6.63×10⁻¹⁹",
-      "3.98×10⁻²⁷"
+      "0.9 or 90%",
+      "0.8 or 80%",
+      "0.5 or 50%",
+      "1.0 or 100%"
     ],
-    "answer": "3.98×10⁻¹⁹"
+    "answer": "0.8 or 80%"
   },
   {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "question": "Which statement about Newton's 3rd law is correct?",
     "options": [
-      "2.14V",
-      "4.1V",
-      "3.86V",
-      "1.43V"
+      "forces are equal and opposite",
+      "forces do not affect motion",
+      "one force is stronger",
+      "stronger force wins"
     ],
-    "answer": "1.43V"
+    "answer": "forces are equal and opposite"
   },
   {
-    "question": "Moment of inertia rod about centre",
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
     "options": [
-      "ML²/4",
-      "ML²/3",
-      "ML²/2",
-      "ML²/12"
+      "75J",
+      "10J",
+      "25J",
+      "50J"
     ],
-    "answer": "ML²/12"
+    "answer": "25J"
   },
   {
-    "question": "AC capacitor impedance",
+    "question": "The center of gravity of a uniform rod is at:",
     "options": [
-      "1/2πfC",
-      "R",
-      "2πfL",
-      "√(R²+XL²)"
+      "1/4 from end",
+      "the end",
+      "1/3 from end",
+      "the middle"
     ],
-    "answer": "1/2πfC"
+    "answer": "the middle"
   },
   {
-    "question": "Doppler: observer approaches, frequency",
+    "question": "What type of lens is used to correct myopia?",
     "options": [
-      "wavelength↑",
-      "decreases",
-      "increases",
-      "unchanged"
+      "Cylindrical",
+      "Convex",
+      "Concave",
+      "Diverging"
     ],
-    "answer": "increases"
+    "answer": "Concave"
   },
   {
-    "question": "Lorentz γ for v = 0.6c",
+    "question": "Identify the condition for total internal reflection:",
     "options": [
-      "0.8",
-      "1.25",
-      "1",
-      "1.67"
+      "angle > critical angle",
+      "angle = 90°",
+      "angle = 0",
+      "angle < critical angle"
     ],
-    "answer": "1.25"
+    "answer": "angle > critical angle"
   },
   {
-    "question": "Speed of light",
+    "question": "A pendulum has a period of 2s. What is its frequency?",
     "options": [
-      "3×10⁸",
-      "3×10⁶",
-      "3×10¹²",
-      "3×10¹⁰"
+      "0.5 Hz",
+      "2 Hz",
+      "4 Hz",
+      "1 Hz"
     ],
-    "answer": "3×10⁸"
+    "answer": "0.5 Hz"
   },
   {
-    "question": "Snell's law is",
+    "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "sinθ₁+sinθ₂=n",
-      "n=sinθ",
-      "n₁sinθ₁=n₂sinθ₂",
-      "n₁/n₂=sinθ"
+      "15 m/s",
+      "10 m/s",
+      "20 m/s",
+      "25 m/s"
     ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
+    "answer": "20 m/s"
   },
   {
-    "question": "Focal length mirror formula",
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
     "options": [
-      "1/u - 1/v = 1/f",
-      "f/2",
-      "f = u + v",
-      "1/f = 1/u + 1/v"
+      "1s",
+      "2s",
+      "3s",
+      "4s"
     ],
-    "answer": "1/f = 1/u + 1/v"
+    "answer": "2s"
   },
   {
-    "question": "Gravitational force between masses",
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
-      "Gm/r",
-      "GM/r²",
-      "GMm/r²",
-      "GMm/r"
+      "40W",
+      "20W",
+      "10W",
+      "80W"
     ],
-    "answer": "GMm/r²"
+    "answer": "20W"
   },
   {
-    "question": "Work is force × distance ×",
+    "question": "What is the SI unit of force?",
     "options": [
-      "tan(angle)",
-      "cos(angle)",
-      "1",
-      "sin(angle)"
+      "Dyne",
+      "Newton",
+      "Erg",
+      "Joule"
     ],
-    "answer": "cos(angle)"
+    "answer": "Newton"
   },
   {
-    "question": "Projectile at 45°, range 100m, initial velocity",
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
-      "62.6",
-      "44.3",
-      "50",
-      "31.3"
+      "4Ω",
+      "3Ω",
+      "6Ω",
+      "2Ω"
     ],
-    "answer": "31.3"
+    "answer": "4Ω"
   },
   {
-    "question": "SHM: acceleration when v = v_max/2",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "±ω²A",
-      "±√3/2·ω²A",
-      "±1/2·ω²A",
-      "0"
+      "4 m/s²",
+      "8 m/s²",
+      "6 m/s²",
+      "5 m/s²"
     ],
-    "answer": "±√3/2·ω²A"
+    "answer": "6 m/s²"
   },
   {
-    "question": "Force on 2A current in 0.5T over 0.5m",
+    "question": "What is the refractive index of water?",
     "options": [
-      "0.5N",
-      "2N",
-      "1N",
-      "0.25N"
+      "1.33",
+      "1.0",
+      "2.0",
+      "1.5"
     ],
-    "answer": "0.5N"
+    "answer": "1.33"
   },
   {
-    "question": "Potential at 2m from +4μC charge",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "18V",
-      "180V",
-      "1800V",
-      "18000V"
+      "Convection",
+      "Radiation",
+      "None",
+      "Conduction"
     ],
-    "answer": "18000V"
+    "answer": "Convection"
   },
   {
-    "question": "Ideal gas at constant T, V doubles, P",
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "halves",
-      "constant",
-      "doubles",
-      "quadruples"
+      "10 Hz",
+      "2 Hz",
+      "20 Hz",
+      "5 Hz"
     ],
-    "answer": "halves"
+    "answer": "5 Hz"
   },
   {
-    "question": "First law thermodynamics",
+    "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "ΔU = Q + W",
-      "ΔU = Q - W",
-      "Q = W",
-      "ΔU = W - Q"
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)"
     ],
-    "answer": "ΔU = Q + W"
+    "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Critical angle for n = 1.5",
+    "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
-      "60°",
-      "48.6°",
-      "41.8°",
-      "30°"
+      "25J",
+      "100J",
+      "200J",
+      "50J"
     ],
-    "answer": "41.8°"
+    "answer": "200J"
   },
   {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "question": "Identify the angle at which range is maximum for projectile motion:",
     "options": [
-      "17.5°",
-      "52.5°",
-      "70°",
-      "35°"
-    ],
-    "answer": "17.5°"
-  },
-  {
-    "question": "Photon energy λ = 500nm",
-    "options": [
-      "3.98×10⁻²⁷",
-      "1.99×10⁻¹⁹",
-      "3.98×10⁻¹⁹",
-      "6.63×10⁻¹⁹"
-    ],
-    "answer": "3.98×10⁻¹⁹"
-  },
-  {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
-    "options": [
-      "4.1V",
-      "1.43V",
-      "2.14V",
-      "3.86V"
-    ],
-    "answer": "1.43V"
-  },
-  {
-    "question": "Moment of inertia rod about centre",
-    "options": [
-      "ML²/12",
-      "ML²/2",
-      "ML²/4",
-      "ML²/3"
-    ],
-    "answer": "ML²/12"
-  },
-  {
-    "question": "AC capacitor impedance",
-    "options": [
-      "√(R²+XL²)",
-      "R",
-      "2πfL",
-      "1/2πfC"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "increases",
-      "wavelength↑",
-      "decreases",
-      "unchanged"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "1.25",
-      "1",
-      "1.67",
-      "0.8"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10⁶",
-      "3×10¹²",
-      "3×10¹⁰",
-      "3×10⁸"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "n₁sinθ₁=n₂sinθ₂",
-      "n=sinθ",
-      "sinθ₁+sinθ₂=n",
-      "n₁/n₂=sinθ"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "f/2",
-      "f = u + v",
-      "1/u - 1/v = 1/f",
-      "1/f = 1/u + 1/v"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "GM/r²",
-      "Gm/r",
-      "GMm/r²",
-      "GMm/r"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "1",
-      "cos(angle)",
-      "sin(angle)",
-      "tan(angle)"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "31.3",
-      "62.6",
-      "50",
-      "44.3"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "±1/2·ω²A",
-      "±√3/2·ω²A",
-      "0",
-      "±ω²A"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "1N",
-      "2N",
-      "0.5N",
-      "0.25N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "18V",
-      "18000V",
-      "180V",
-      "1800V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "doubles",
-      "quadruples",
-      "constant",
-      "halves"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "Q = W",
-      "ΔU = Q - W",
-      "ΔU = W - Q",
-      "ΔU = Q + W"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "60°",
-      "48.6°",
-      "41.8°",
-      "30°"
-    ],
-    "answer": "41.8°"
-  },
-  {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
-    "options": [
-      "35°",
-      "70°",
-      "52.5°",
-      "17.5°"
-    ],
-    "answer": "17.5°"
-  },
-  {
-    "question": "Photon energy λ = 500nm",
-    "options": [
-      "3.98×10⁻¹⁹",
-      "1.99×10⁻¹⁹",
-      "6.63×10⁻¹⁹",
-      "3.98×10⁻²⁷"
-    ],
-    "answer": "3.98×10⁻¹⁹"
-  },
-  {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
-    "options": [
-      "1.43V",
-      "3.86V",
-      "2.14V",
-      "4.1V"
-    ],
-    "answer": "1.43V"
-  },
-  {
-    "question": "Moment of inertia rod about centre",
-    "options": [
-      "ML²/3",
-      "ML²/4",
-      "ML²/2",
-      "ML²/12"
-    ],
-    "answer": "ML²/12"
-  },
-  {
-    "question": "AC capacitor impedance",
-    "options": [
-      "√(R²+XL²)",
-      "1/2πfC",
-      "2πfL",
-      "R"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "decreases",
-      "wavelength↑",
-      "increases",
-      "unchanged"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "1.67",
-      "1",
-      "1.25",
-      "0.8"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10⁶",
-      "3×10¹²",
-      "3×10¹⁰",
-      "3×10⁸"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "sinθ₁+sinθ₂=n",
-      "n=sinθ",
-      "n₁/n₂=sinθ",
-      "n₁sinθ₁=n₂sinθ₂"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "1/u - 1/v = 1/f",
-      "f/2",
-      "f = u + v",
-      "1/f = 1/u + 1/v"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "GMm/r",
-      "GM/r²",
-      "GMm/r²",
-      "Gm/r"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "tan(angle)",
-      "sin(angle)",
-      "1",
-      "cos(angle)"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "31.3",
-      "44.3",
-      "50",
-      "62.6"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "±ω²A",
-      "±1/2·ω²A",
-      "±√3/2·ω²A",
-      "0"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "0.25N",
-      "0.5N",
-      "2N",
-      "1N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "1800V",
-      "180V",
-      "18000V",
-      "18V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "constant"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "ΔU = Q - W",
-      "ΔU = Q + W",
-      "Q = W",
-      "ΔU = W - Q"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "41.8°",
       "30°",
-      "48.6°",
+      "45°",
+      "90°",
       "60°"
     ],
-    "answer": "41.8°"
+    "answer": "45°"
   },
   {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
     "options": [
-      "17.5°",
-      "35°",
-      "52.5°",
-      "70°"
+      "quadratic",
+      "exponential",
+      "linear",
+      "cubic"
     ],
-    "answer": "17.5°"
+    "answer": "linear"
   },
   {
-    "question": "Photon energy λ = 500nm",
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
-      "6.63×10⁻¹⁹",
-      "1.99×10⁻¹⁹",
-      "3.98×10⁻¹⁹",
-      "3.98×10⁻²⁷"
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.8 or 80%",
+      "0.5 or 50%"
     ],
-    "answer": "3.98×10⁻¹⁹"
+    "answer": "0.8 or 80%"
   },
   {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "question": "Which statement about Newton's 3rd law is correct?",
     "options": [
-      "4.1V",
-      "1.43V",
-      "3.86V",
-      "2.14V"
+      "stronger force wins",
+      "forces are equal and opposite",
+      "one force is stronger",
+      "forces do not affect motion"
     ],
-    "answer": "1.43V"
+    "answer": "forces are equal and opposite"
   },
   {
-    "question": "Moment of inertia rod about centre",
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
     "options": [
-      "ML²/2",
-      "ML²/4",
-      "ML²/12",
-      "ML²/3"
+      "25J",
+      "50J",
+      "75J",
+      "10J"
     ],
-    "answer": "ML²/12"
+    "answer": "25J"
   },
   {
-    "question": "AC capacitor impedance",
+    "question": "The center of gravity of a uniform rod is at:",
     "options": [
-      "√(R²+XL²)",
-      "1/2πfC",
-      "R",
-      "2πfL"
+      "1/3 from end",
+      "1/4 from end",
+      "the end",
+      "the middle"
     ],
-    "answer": "1/2πfC"
+    "answer": "the middle"
   },
   {
-    "question": "Doppler: observer approaches, frequency",
+    "question": "What type of lens is used to correct myopia?",
     "options": [
-      "unchanged",
-      "decreases",
-      "increases",
-      "wavelength↑"
+      "Cylindrical",
+      "Convex",
+      "Diverging",
+      "Concave"
     ],
-    "answer": "increases"
+    "answer": "Concave"
   },
   {
-    "question": "Lorentz γ for v = 0.6c",
+    "question": "Identify the condition for total internal reflection:",
     "options": [
-      "1.67",
-      "1.25",
-      "1",
-      "0.8"
+      "angle < critical angle",
+      "angle = 90°",
+      "angle > critical angle",
+      "angle = 0"
     ],
-    "answer": "1.25"
+    "answer": "angle > critical angle"
   },
   {
-    "question": "Speed of light",
+    "question": "A pendulum has a period of 2s. What is its frequency?",
     "options": [
-      "3×10⁸",
-      "3×10¹²",
-      "3×10¹⁰",
-      "3×10⁶"
+      "2 Hz",
+      "4 Hz",
+      "0.5 Hz",
+      "1 Hz"
     ],
-    "answer": "3×10⁸"
+    "answer": "0.5 Hz"
   },
   {
-    "question": "Snell's law is",
+    "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "sinθ₁+sinθ₂=n",
-      "n₁/n₂=sinθ",
-      "n₁sinθ₁=n₂sinθ₂",
-      "n=sinθ"
+      "10 m/s",
+      "25 m/s",
+      "15 m/s",
+      "20 m/s"
     ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
+    "answer": "20 m/s"
   },
   {
-    "question": "Focal length mirror formula",
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
     "options": [
-      "1/f = 1/u + 1/v",
-      "1/u - 1/v = 1/f",
-      "f/2",
-      "f = u + v"
+      "1s",
+      "2s",
+      "3s",
+      "4s"
     ],
-    "answer": "1/f = 1/u + 1/v"
+    "answer": "2s"
   },
   {
-    "question": "Gravitational force between masses",
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
-      "GM/r²",
-      "GMm/r",
-      "Gm/r",
-      "GMm/r²"
+      "10W",
+      "40W",
+      "80W",
+      "20W"
     ],
-    "answer": "GMm/r²"
+    "answer": "20W"
   },
   {
-    "question": "Work is force × distance ×",
+    "question": "What is the SI unit of force?",
     "options": [
-      "cos(angle)",
-      "tan(angle)",
-      "1",
-      "sin(angle)"
+      "Joule",
+      "Newton",
+      "Erg",
+      "Dyne"
     ],
-    "answer": "cos(angle)"
+    "answer": "Newton"
   },
   {
-    "question": "Projectile at 45°, range 100m, initial velocity",
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
-      "62.6",
-      "44.3",
-      "31.3",
-      "50"
+      "4Ω",
+      "3Ω",
+      "2Ω",
+      "6Ω"
     ],
-    "answer": "31.3"
+    "answer": "4Ω"
   },
   {
-    "question": "SHM: acceleration when v = v_max/2",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "0",
-      "±1/2·ω²A",
-      "±√3/2·ω²A",
-      "±ω²A"
+      "4 m/s²",
+      "6 m/s²",
+      "8 m/s²",
+      "5 m/s²"
     ],
-    "answer": "±√3/2·ω²A"
+    "answer": "6 m/s²"
   },
   {
-    "question": "Force on 2A current in 0.5T over 0.5m",
+    "question": "What is the refractive index of water?",
     "options": [
-      "1N",
-      "0.5N",
-      "2N",
-      "0.25N"
+      "1.5",
+      "1.33",
+      "2.0",
+      "1.0"
     ],
-    "answer": "0.5N"
+    "answer": "1.33"
   },
   {
-    "question": "Potential at 2m from +4μC charge",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "1800V",
-      "18V",
-      "180V",
-      "18000V"
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "None"
     ],
-    "answer": "18000V"
+    "answer": "Convection"
   },
   {
-    "question": "Ideal gas at constant T, V doubles, P",
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "doubles",
-      "constant",
-      "quadruples",
-      "halves"
+      "2 Hz",
+      "10 Hz",
+      "5 Hz",
+      "20 Hz"
     ],
-    "answer": "halves"
+    "answer": "5 Hz"
   },
   {
-    "question": "First law thermodynamics",
+    "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "ΔU = Q + W",
-      "Q = W",
-      "ΔU = W - Q",
-      "ΔU = Q - W"
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)"
     ],
-    "answer": "ΔU = Q + W"
+    "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Critical angle for n = 1.5",
+    "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
+      "100J",
+      "25J",
+      "50J",
+      "200J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "45°",
+      "90°",
+      "60°",
+      "30°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "linear",
+      "exponential",
+      "cubic",
+      "quadratic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.9 or 90%",
+      "0.8 or 80%",
+      "1.0 or 100%",
+      "0.5 or 50%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "stronger force wins",
+      "forces are equal and opposite",
+      "one force is stronger",
+      "forces do not affect motion"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "options": [
+      "50J",
+      "10J",
+      "25J",
+      "75J"
+    ],
+    "answer": "25J"
+  },
+  {
+    "question": "The center of gravity of a uniform rod is at:",
+    "options": [
+      "1/4 from end",
+      "the end",
+      "1/3 from end",
+      "the middle"
+    ],
+    "answer": "the middle"
+  },
+  {
+    "question": "What type of lens is used to correct myopia?",
+    "options": [
+      "Diverging",
+      "Cylindrical",
+      "Convex",
+      "Concave"
+    ],
+    "answer": "Concave"
+  },
+  {
+    "question": "Identify the condition for total internal reflection:",
+    "options": [
+      "angle = 0",
+      "angle = 90°",
+      "angle > critical angle",
+      "angle < critical angle"
+    ],
+    "answer": "angle > critical angle"
+  },
+  {
+    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "options": [
+      "2 Hz",
+      "0.5 Hz",
+      "1 Hz",
+      "4 Hz"
+    ],
+    "answer": "0.5 Hz"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "20 m/s",
+      "15 m/s",
+      "25 m/s",
+      "10 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "3s",
+      "2s",
+      "1s",
+      "4s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "10W",
+      "20W",
+      "80W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Dyne",
+      "Erg",
+      "Joule",
+      "Newton"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "6Ω",
+      "2Ω",
+      "3Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "6 m/s²",
+      "8 m/s²",
+      "5 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.33",
+      "1.5",
+      "1.0",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Convection",
+      "Radiation",
+      "None",
+      "Conduction"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "20 Hz",
+      "5 Hz",
+      "2 Hz",
+      "10 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "100J",
+      "50J",
+      "25J",
+      "200J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "45°",
       "30°",
-      "48.6°",
-      "60°",
-      "41.8°"
-    ],
-    "answer": "41.8°"
-  },
-  {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
-    "options": [
-      "52.5°",
-      "35°",
-      "70°",
-      "17.5°"
-    ],
-    "answer": "17.5°"
-  },
-  {
-    "question": "Photon energy λ = 500nm",
-    "options": [
-      "3.98×10⁻²⁷",
-      "6.63×10⁻¹⁹",
-      "1.99×10⁻¹⁹",
-      "3.98×10⁻¹⁹"
-    ],
-    "answer": "3.98×10⁻¹⁹"
-  },
-  {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
-    "options": [
-      "3.86V",
-      "1.43V",
-      "4.1V",
-      "2.14V"
-    ],
-    "answer": "1.43V"
-  },
-  {
-    "question": "Moment of inertia rod about centre",
-    "options": [
-      "ML²/3",
-      "ML²/2",
-      "ML²/12",
-      "ML²/4"
-    ],
-    "answer": "ML²/12"
-  },
-  {
-    "question": "AC capacitor impedance",
-    "options": [
-      "R",
-      "√(R²+XL²)",
-      "1/2πfC",
-      "2πfL"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "wavelength↑",
-      "increases",
-      "unchanged",
-      "decreases"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "0.8",
-      "1.67",
-      "1",
-      "1.25"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10⁸",
-      "3×10¹²",
-      "3×10⁶",
-      "3×10¹⁰"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "n₁/n₂=sinθ",
-      "n=sinθ",
-      "sinθ₁+sinθ₂=n",
-      "n₁sinθ₁=n₂sinθ₂"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "f = u + v",
-      "1/f = 1/u + 1/v",
-      "1/u - 1/v = 1/f",
-      "f/2"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "Gm/r",
-      "GM/r²",
-      "GMm/r",
-      "GMm/r²"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "cos(angle)",
-      "tan(angle)",
-      "sin(angle)",
-      "1"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "31.3",
-      "62.6",
-      "50",
-      "44.3"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "±ω²A",
-      "0",
-      "±√3/2·ω²A",
-      "±1/2·ω²A"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "0.5N",
-      "0.25N",
-      "1N",
-      "2N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "1800V",
-      "18V",
-      "180V",
-      "18000V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "constant",
-      "quadruples"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "ΔU = Q - W",
-      "ΔU = W - Q",
-      "Q = W",
-      "ΔU = Q + W"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "60°",
-      "41.8°",
-      "48.6°",
-      "30°"
-    ],
-    "answer": "41.8°"
-  },
-  {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
-    "options": [
-      "52.5°",
-      "70°",
-      "17.5°",
-      "35°"
-    ],
-    "answer": "17.5°"
-  },
-  {
-    "question": "Photon energy λ = 500nm",
-    "options": [
-      "3.98×10⁻¹⁹",
-      "3.98×10⁻²⁷",
-      "1.99×10⁻¹⁹",
-      "6.63×10⁻¹⁹"
-    ],
-    "answer": "3.98×10⁻¹⁹"
-  },
-  {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
-    "options": [
-      "3.86V",
-      "4.1V",
-      "1.43V",
-      "2.14V"
-    ],
-    "answer": "1.43V"
-  },
-  {
-    "question": "Moment of inertia rod about centre",
-    "options": [
-      "ML²/4",
-      "ML²/12",
-      "ML²/3",
-      "ML²/2"
-    ],
-    "answer": "ML²/12"
-  },
-  {
-    "question": "AC capacitor impedance",
-    "options": [
-      "1/2πfC",
-      "R",
-      "2πfL",
-      "√(R²+XL²)"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "unchanged",
-      "increases",
-      "wavelength↑",
-      "decreases"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "1",
-      "0.8",
-      "1.67",
-      "1.25"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10⁸",
-      "3×10⁶",
-      "3×10¹²",
-      "3×10¹⁰"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "sinθ₁+sinθ₂=n",
-      "n₁sinθ₁=n₂sinθ₂",
-      "n=sinθ",
-      "n₁/n₂=sinθ"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "f/2",
-      "1/f = 1/u + 1/v",
-      "f = u + v",
-      "1/u - 1/v = 1/f"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "GMm/r²",
-      "GMm/r",
-      "GM/r²",
-      "Gm/r"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "cos(angle)",
-      "tan(angle)",
-      "sin(angle)",
-      "1"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "50",
-      "44.3",
-      "31.3",
-      "62.6"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "±√3/2·ω²A",
-      "0",
-      "±1/2·ω²A",
-      "±ω²A"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "2N",
-      "0.5N",
-      "0.25N",
-      "1N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "1800V",
-      "18000V",
-      "180V",
-      "18V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "doubles",
-      "constant",
-      "halves",
-      "quadruples"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "Q = W",
-      "ΔU = W - Q",
-      "ΔU = Q + W",
-      "ΔU = Q - W"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "41.8°",
-      "48.6°",
-      "60°",
-      "30°"
-    ],
-    "answer": "41.8°"
-  },
-  {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
-    "options": [
-      "52.5°",
-      "35°",
-      "17.5°",
-      "70°"
-    ],
-    "answer": "17.5°"
-  },
-  {
-    "question": "Photon energy λ = 500nm",
-    "options": [
-      "3.98×10⁻²⁷",
-      "3.98×10⁻¹⁹",
-      "6.63×10⁻¹⁹",
-      "1.99×10⁻¹⁹"
-    ],
-    "answer": "3.98×10⁻¹⁹"
-  },
-  {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
-    "options": [
-      "4.1V",
-      "3.86V",
-      "1.43V",
-      "2.14V"
-    ],
-    "answer": "1.43V"
-  },
-  {
-    "question": "Moment of inertia rod about centre",
-    "options": [
-      "ML²/2",
-      "ML²/12",
-      "ML²/3",
-      "ML²/4"
-    ],
-    "answer": "ML²/12"
-  },
-  {
-    "question": "AC capacitor impedance",
-    "options": [
-      "2πfL",
-      "√(R²+XL²)",
-      "R",
-      "1/2πfC"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "increases",
-      "unchanged",
-      "wavelength↑",
-      "decreases"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "0.8",
-      "1",
-      "1.25",
-      "1.67"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10⁶",
-      "3×10¹⁰",
-      "3×10¹²",
-      "3×10⁸"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "n=sinθ",
-      "n₁sinθ₁=n₂sinθ₂",
-      "sinθ₁+sinθ₂=n",
-      "n₁/n₂=sinθ"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "1/f = 1/u + 1/v",
-      "1/u - 1/v = 1/f",
-      "f/2",
-      "f = u + v"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "Gm/r",
-      "GMm/r",
-      "GMm/r²",
-      "GM/r²"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "1",
-      "sin(angle)",
-      "cos(angle)",
-      "tan(angle)"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "50",
-      "62.6",
-      "31.3",
-      "44.3"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "±1/2·ω²A",
-      "0",
-      "±√3/2·ω²A",
-      "±ω²A"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "0.25N",
-      "2N",
-      "0.5N",
-      "1N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "180V",
-      "18V",
-      "18000V",
-      "1800V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "doubles",
-      "quadruples",
-      "halves",
-      "constant"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "ΔU = Q - W",
-      "ΔU = W - Q",
-      "Q = W",
-      "ΔU = Q + W"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "48.6°",
-      "41.8°",
-      "60°",
-      "30°"
-    ],
-    "answer": "41.8°"
-  },
-  {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
-    "options": [
-      "52.5°",
-      "70°",
-      "35°",
-      "17.5°"
-    ],
-    "answer": "17.5°"
-  },
-  {
-    "question": "Photon energy λ = 500nm",
-    "options": [
-      "3.98×10⁻²⁷",
-      "1.99×10⁻¹⁹",
-      "6.63×10⁻¹⁹",
-      "3.98×10⁻¹⁹"
-    ],
-    "answer": "3.98×10⁻¹⁹"
-  },
-  {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
-    "options": [
-      "1.43V",
-      "2.14V",
-      "4.1V",
-      "3.86V"
-    ],
-    "answer": "1.43V"
-  },
-  {
-    "question": "Moment of inertia rod about centre",
-    "options": [
-      "ML²/2",
-      "ML²/3",
-      "ML²/12",
-      "ML²/4"
-    ],
-    "answer": "ML²/12"
-  },
-  {
-    "question": "AC capacitor impedance",
-    "options": [
-      "1/2πfC",
-      "√(R²+XL²)",
-      "2πfL",
-      "R"
-    ],
-    "answer": "1/2πfC"
-  },
-  {
-    "question": "Doppler: observer approaches, frequency",
-    "options": [
-      "decreases",
-      "wavelength↑",
-      "unchanged",
-      "increases"
-    ],
-    "answer": "increases"
-  },
-  {
-    "question": "Lorentz γ for v = 0.6c",
-    "options": [
-      "1",
-      "1.25",
-      "1.67",
-      "0.8"
-    ],
-    "answer": "1.25"
-  },
-  {
-    "question": "Speed of light",
-    "options": [
-      "3×10¹⁰",
-      "3×10⁸",
-      "3×10⁶",
-      "3×10¹²"
-    ],
-    "answer": "3×10⁸"
-  },
-  {
-    "question": "Snell's law is",
-    "options": [
-      "n₁/n₂=sinθ",
-      "n₁sinθ₁=n₂sinθ₂",
-      "n=sinθ",
-      "sinθ₁+sinθ₂=n"
-    ],
-    "answer": "n₁sinθ₁=n₂sinθ₂"
-  },
-  {
-    "question": "Focal length mirror formula",
-    "options": [
-      "1/u - 1/v = 1/f",
-      "1/f = 1/u + 1/v",
-      "f/2",
-      "f = u + v"
-    ],
-    "answer": "1/f = 1/u + 1/v"
-  },
-  {
-    "question": "Gravitational force between masses",
-    "options": [
-      "GMm/r²",
-      "GM/r²",
-      "Gm/r",
-      "GMm/r"
-    ],
-    "answer": "GMm/r²"
-  },
-  {
-    "question": "Work is force × distance ×",
-    "options": [
-      "1",
-      "tan(angle)",
-      "cos(angle)",
-      "sin(angle)"
-    ],
-    "answer": "cos(angle)"
-  },
-  {
-    "question": "Projectile at 45°, range 100m, initial velocity",
-    "options": [
-      "62.6",
-      "50",
-      "31.3",
-      "44.3"
-    ],
-    "answer": "31.3"
-  },
-  {
-    "question": "SHM: acceleration when v = v_max/2",
-    "options": [
-      "0",
-      "±1/2·ω²A",
-      "±√3/2·ω²A",
-      "±ω²A"
-    ],
-    "answer": "±√3/2·ω²A"
-  },
-  {
-    "question": "Force on 2A current in 0.5T over 0.5m",
-    "options": [
-      "1N",
-      "0.25N",
-      "0.5N",
-      "2N"
-    ],
-    "answer": "0.5N"
-  },
-  {
-    "question": "Potential at 2m from +4μC charge",
-    "options": [
-      "1800V",
-      "180V",
-      "18V",
-      "18000V"
-    ],
-    "answer": "18000V"
-  },
-  {
-    "question": "Ideal gas at constant T, V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "constant",
-      "quadruples"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "First law thermodynamics",
-    "options": [
-      "ΔU = Q + W",
-      "Q = W",
-      "ΔU = Q - W",
-      "ΔU = W - Q"
-    ],
-    "answer": "ΔU = Q + W"
-  },
-  {
-    "question": "Critical angle for n = 1.5",
-    "options": [
-      "41.8°",
-      "30°",
-      "48.6°",
+      "90°",
       "60°"
     ],
-    "answer": "41.8°"
+    "answer": "45°"
   },
   {
-    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
     "options": [
-      "17.5°",
-      "70°",
-      "52.5°",
-      "35°"
+      "exponential",
+      "quadratic",
+      "linear",
+      "cubic"
     ],
-    "answer": "17.5°"
+    "answer": "linear"
   },
   {
-    "question": "Photon energy λ = 500nm",
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
-      "6.63×10⁻¹⁹",
-      "3.98×10⁻²⁷",
-      "3.98×10⁻¹⁹",
-      "1.99×10⁻¹⁹"
+      "1.0 or 100%",
+      "0.8 or 80%",
+      "0.9 or 90%",
+      "0.5 or 50%"
     ],
-    "answer": "3.98×10⁻¹⁹"
+    "answer": "0.8 or 80%"
   },
   {
-    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "question": "Which statement about Newton's 3rd law is correct?",
     "options": [
-      "2.14V",
-      "3.86V",
-      "4.1V",
-      "1.43V"
+      "one force is stronger",
+      "forces do not affect motion",
+      "stronger force wins",
+      "forces are equal and opposite"
     ],
-    "answer": "1.43V"
+    "answer": "forces are equal and opposite"
   },
   {
-    "question": "Moment of inertia rod about centre",
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
     "options": [
-      "ML²/12",
-      "ML²/4",
-      "ML²/2",
-      "ML²/3"
+      "75J",
+      "10J",
+      "50J",
+      "25J"
     ],
-    "answer": "ML²/12"
+    "answer": "25J"
   },
   {
-    "question": "AC capacitor impedance",
+    "question": "The center of gravity of a uniform rod is at:",
     "options": [
-      "2πfL",
-      "√(R²+XL²)",
-      "1/2πfC",
-      "R"
+      "the middle",
+      "1/4 from end",
+      "1/3 from end",
+      "the end"
     ],
-    "answer": "1/2πfC"
+    "answer": "the middle"
   },
   {
-    "question": "Doppler: observer approaches, frequency",
+    "question": "What type of lens is used to correct myopia?",
     "options": [
-      "increases",
-      "wavelength↑",
-      "decreases",
-      "unchanged"
+      "Concave",
+      "Diverging",
+      "Cylindrical",
+      "Convex"
     ],
-    "answer": "increases"
+    "answer": "Concave"
   },
   {
-    "question": "Lorentz γ for v = 0.6c",
+    "question": "Identify the condition for total internal reflection:",
     "options": [
-      "1.25",
-      "0.8",
-      "1.67",
-      "1"
+      "angle > critical angle",
+      "angle = 90°",
+      "angle < critical angle",
+      "angle = 0"
     ],
-    "answer": "1.25"
+    "answer": "angle > critical angle"
   },
   {
-    "question": "Speed of light",
+    "question": "A pendulum has a period of 2s. What is its frequency?",
     "options": [
-      "3×10⁸",
-      "3×10¹²",
-      "3×10¹⁰",
-      "3×10⁶"
+      "2 Hz",
+      "4 Hz",
+      "0.5 Hz",
+      "1 Hz"
     ],
-    "answer": "3×10⁸"
+    "answer": "0.5 Hz"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "25 m/s",
+      "20 m/s",
+      "15 m/s",
+      "10 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "4s",
+      "2s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "40W",
+      "80W",
+      "20W",
+      "10W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Erg",
+      "Newton",
+      "Dyne",
+      "Joule"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "6Ω",
+      "4Ω",
+      "3Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "5 m/s²",
+      "6 m/s²",
+      "8 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.33",
+      "1.5",
+      "1.0",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Convection",
+      "Radiation",
+      "None",
+      "Conduction"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "20 Hz",
+      "10 Hz",
+      "2 Hz",
+      "5 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "100J",
+      "50J",
+      "200J",
+      "25J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "45°",
+      "30°",
+      "60°",
+      "90°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "linear",
+      "cubic",
+      "quadratic",
+      "exponential"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.8 or 80%",
+      "1.0 or 100%",
+      "0.5 or 50%",
+      "0.9 or 90%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "forces do not affect motion",
+      "forces are equal and opposite",
+      "one force is stronger",
+      "stronger force wins"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "options": [
+      "25J",
+      "10J",
+      "75J",
+      "50J"
+    ],
+    "answer": "25J"
+  },
+  {
+    "question": "The center of gravity of a uniform rod is at:",
+    "options": [
+      "1/4 from end",
+      "the end",
+      "the middle",
+      "1/3 from end"
+    ],
+    "answer": "the middle"
+  },
+  {
+    "question": "What type of lens is used to correct myopia?",
+    "options": [
+      "Concave",
+      "Convex",
+      "Diverging",
+      "Cylindrical"
+    ],
+    "answer": "Concave"
+  },
+  {
+    "question": "Identify the condition for total internal reflection:",
+    "options": [
+      "angle < critical angle",
+      "angle = 90°",
+      "angle = 0",
+      "angle > critical angle"
+    ],
+    "answer": "angle > critical angle"
+  },
+  {
+    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "options": [
+      "0.5 Hz",
+      "4 Hz",
+      "1 Hz",
+      "2 Hz"
+    ],
+    "answer": "0.5 Hz"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "25 m/s",
+      "15 m/s",
+      "10 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "2s",
+      "3s",
+      "4s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "40W",
+      "10W",
+      "20W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Dyne",
+      "Erg",
+      "Joule",
+      "Newton"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "3Ω",
+      "4Ω",
+      "6Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "8 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "2.0",
+      "1.0",
+      "1.33",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "None",
+      "Conduction",
+      "Convection",
+      "Radiation"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "2 Hz",
+      "10 Hz",
+      "5 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "25J",
+      "100J",
+      "50J",
+      "200J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "60°",
+      "45°",
+      "90°",
+      "30°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "cubic",
+      "linear",
+      "exponential",
+      "quadratic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.8 or 80%",
+      "0.5 or 50%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "stronger force wins",
+      "one force is stronger",
+      "forces do not affect motion",
+      "forces are equal and opposite"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "options": [
+      "10J",
+      "25J",
+      "50J",
+      "75J"
+    ],
+    "answer": "25J"
+  },
+  {
+    "question": "The center of gravity of a uniform rod is at:",
+    "options": [
+      "1/4 from end",
+      "the end",
+      "the middle",
+      "1/3 from end"
+    ],
+    "answer": "the middle"
+  },
+  {
+    "question": "What type of lens is used to correct myopia?",
+    "options": [
+      "Concave",
+      "Convex",
+      "Diverging",
+      "Cylindrical"
+    ],
+    "answer": "Concave"
+  },
+  {
+    "question": "Identify the condition for total internal reflection:",
+    "options": [
+      "angle = 90°",
+      "angle < critical angle",
+      "angle > critical angle",
+      "angle = 0"
+    ],
+    "answer": "angle > critical angle"
+  },
+  {
+    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "options": [
+      "1 Hz",
+      "0.5 Hz",
+      "4 Hz",
+      "2 Hz"
+    ],
+    "answer": "0.5 Hz"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "10 m/s",
+      "15 m/s",
+      "25 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "2s",
+      "3s",
+      "4s",
+      "1s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "80W",
+      "20W",
+      "40W",
+      "10W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Dyne",
+      "Joule",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "3Ω",
+      "2Ω",
+      "4Ω",
+      "6Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "4 m/s²",
+      "8 m/s²",
+      "6 m/s²",
+      "5 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.0",
+      "2.0",
+      "1.5",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Convection",
+      "Conduction",
+      "Radiation",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "20 Hz",
+      "5 Hz",
+      "10 Hz",
+      "2 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "200J",
+      "25J",
+      "100J",
+      "50J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "30°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "exponential",
+      "cubic",
+      "linear",
+      "quadratic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.8 or 80%",
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.5 or 50%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "one force is stronger",
+      "forces are equal and opposite",
+      "stronger force wins",
+      "forces do not affect motion"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "options": [
+      "50J",
+      "75J",
+      "25J",
+      "10J"
+    ],
+    "answer": "25J"
+  },
+  {
+    "question": "The center of gravity of a uniform rod is at:",
+    "options": [
+      "the middle",
+      "the end",
+      "1/4 from end",
+      "1/3 from end"
+    ],
+    "answer": "the middle"
+  },
+  {
+    "question": "What type of lens is used to correct myopia?",
+    "options": [
+      "Diverging",
+      "Convex",
+      "Cylindrical",
+      "Concave"
+    ],
+    "answer": "Concave"
+  },
+  {
+    "question": "Identify the condition for total internal reflection:",
+    "options": [
+      "angle = 0",
+      "angle < critical angle",
+      "angle > critical angle",
+      "angle = 90°"
+    ],
+    "answer": "angle > critical angle"
+  },
+  {
+    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "options": [
+      "4 Hz",
+      "1 Hz",
+      "0.5 Hz",
+      "2 Hz"
+    ],
+    "answer": "0.5 Hz"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "25 m/s",
+      "20 m/s",
+      "10 m/s",
+      "15 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "4s",
+      "2s",
+      "3s",
+      "1s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "80W",
+      "10W",
+      "20W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Erg",
+      "Dyne"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "6Ω",
+      "4Ω",
+      "3Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "4 m/s²",
+      "8 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "2.0",
+      "1.5",
+      "1.0",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Radiation",
+      "None",
+      "Convection",
+      "Conduction"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "10 Hz",
+      "5 Hz",
+      "2 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "25J",
+      "200J",
+      "50J",
+      "100J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "60°",
+      "30°",
+      "90°",
+      "45°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "linear",
+      "quadratic",
+      "cubic",
+      "exponential"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "1.0 or 100%",
+      "0.5 or 50%",
+      "0.9 or 90%",
+      "0.8 or 80%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "forces do not affect motion",
+      "stronger force wins",
+      "forces are equal and opposite",
+      "one force is stronger"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "options": [
+      "50J",
+      "10J",
+      "25J",
+      "75J"
+    ],
+    "answer": "25J"
+  },
+  {
+    "question": "The center of gravity of a uniform rod is at:",
+    "options": [
+      "the end",
+      "the middle",
+      "1/4 from end",
+      "1/3 from end"
+    ],
+    "answer": "the middle"
+  },
+  {
+    "question": "What type of lens is used to correct myopia?",
+    "options": [
+      "Cylindrical",
+      "Convex",
+      "Concave",
+      "Diverging"
+    ],
+    "answer": "Concave"
+  },
+  {
+    "question": "Identify the condition for total internal reflection:",
+    "options": [
+      "angle > critical angle",
+      "angle = 90°",
+      "angle < critical angle",
+      "angle = 0"
+    ],
+    "answer": "angle > critical angle"
+  },
+  {
+    "question": "A pendulum has a period of 2s. What is its frequency?",
+    "options": [
+      "1 Hz",
+      "2 Hz",
+      "0.5 Hz",
+      "4 Hz"
+    ],
+    "answer": "0.5 Hz"
   }
 ]

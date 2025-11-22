@@ -274,6 +274,8 @@ def correction():
         return redirect(url_for('index'))
     
     current_subject = request.args.get('subject', 'Use of English')
+    subjects_list = list(session['subject_questions'].keys())
+    current_subject_idx = subjects_list.index(current_subject) if current_subject in subjects_list else 0
     
     questions = session['subject_questions'][current_subject]
     answers = session['subject_answers'][current_subject]
@@ -307,8 +309,9 @@ def correction():
     
     return render_template('correction.html',
                          student_info=session['student_info'],
-                         subjects=list(session['subject_questions'].keys()),
+                         subjects=subjects_list,
                          current_subject=current_subject,
+                         current_subject_idx=current_subject_idx,
                          questions=questions_with_answers)
 
 @app.route('/time_check')

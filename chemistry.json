@@ -1,1496 +1,856 @@
 [
   {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "question": "Which of these is a covalent compound?",
     "options": [
-      "CH₃CH₂CH₂OH",
-      "CH₃CHO",
-      "CH₃CH₂COOH",
-      "CH₃COOH"
+      "MgO",
+      "CO₂",
+      "KBr",
+      "NaCl"
     ],
-    "answer": "CH₃COOH"
+    "answer": "CO₂"
   },
   {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzyl alcohol",
-      "benzoic acid",
-      "acetophenone",
-      "toluene"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "bimolecular with inversion",
-      "free radical",
-      "unimolecular",
-      "with retention"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
+    "question": "The oxidation state of nitrogen in NO₂ is:",
     "options": [
       "+5",
-      "+7",
-      "+6",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "12",
-      "8",
-      "16",
-      "5"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Weak acid is",
-    "options": [
-      "H₂SO₄",
-      "HNO₃",
-      "CH₃COOH",
-      "HCl"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
-    "options": [
-      "-80",
-      "-30",
-      "+80",
-      "-20"
-    ],
-    "answer": "-80"
-  },
-  {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
-    "options": [
-      "1×10⁻¹⁰",
-      "2×10⁻⁵",
-      "1×10⁻⁵",
-      "1×10⁻²⁰"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "positive",
-      "undefined",
-      "zero",
-      "negative"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
-      "2",
-      "3",
-      "1",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Enzyme-substrate stabilized by",
-    "options": [
-      "all forces",
-      "van der Waals",
-      "hydrogen bonds",
-      "covalent bonds"
-    ],
-    "answer": "all forces"
-  },
-  {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
-    "options": [
-      "6",
-      "8",
-      "2",
-      "4"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp³",
-      "sp",
-      "sp³d",
-      "sp²"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "atomic number",
-      "properties",
-      "protons",
-      "neutrons"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "ether",
-      "alkane",
-      "alcohol",
-      "alkyl halide"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "98",
-      "106",
-      "102",
-      "94"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "+5",
-      "-3",
-      "-5",
-      "+3"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "electron acceptor",
-      "base",
-      "electron donor",
-      "proton donor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "pH",
-      "temperature",
-      "molarity",
-      "saturation"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "variable",
-      "zero",
-      "negative",
-      "positive"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "benzoic acid",
-      "toluene"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "bimolecular with inversion",
-      "with retention",
-      "unimolecular",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+7",
-      "+6",
+      "+3",
       "+4",
-      "+5"
+      "+2"
     ],
-    "answer": "+7"
+    "answer": "+4"
   },
   {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
     "options": [
-      "8",
-      "12",
-      "5",
-      "16"
+      "3, 1, 2",
+      "1, 2, 3",
+      "2, 1.5, 1",
+      "4, 3, 2"
     ],
-    "answer": "8"
+    "answer": "4, 3, 2"
   },
   {
-    "question": "Weak acid is",
+    "question": "Which is the pH range for a strong acid?",
     "options": [
-      "HCl",
-      "CH₃COOH",
-      "H₂SO₄",
-      "HNO₃"
+      "0-3",
+      "10-14",
+      "3-7",
+      "7-10"
     ],
-    "answer": "CH₃COOH"
+    "answer": "0-3"
   },
   {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "question": "Calcium + water produces:",
     "options": [
-      "+80",
-      "-20",
-      "-30",
-      "-80"
+      "CaO + H₂",
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂"
     ],
-    "answer": "-80"
+    "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
-    "options": [
-      "2×10⁻⁵",
-      "1×10⁻²⁰",
-      "1×10⁻⁵",
-      "1×10⁻¹⁰"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "positive",
-      "undefined",
-      "negative",
-      "zero"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
+    "question": "What is the valency of oxygen?",
     "options": [
       "1",
-      "4",
       "3",
+      "4",
       "2"
     ],
     "answer": "2"
   },
   {
-    "question": "Enzyme-substrate stabilized by",
+    "question": "Identify the monomer of polythene:",
     "options": [
-      "hydrogen bonds",
-      "van der Waals",
-      "all forces",
-      "covalent bonds"
+      "C₂H₆",
+      "C",
+      "CH₄",
+      "CH₂=CH₂"
     ],
-    "answer": "all forces"
+    "answer": "CH₂=CH₂"
   },
   {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
     "options": [
+      "O₂",
+      "CO₂",
+      "H₂",
+      "Cl₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "H₃SO₄",
+      "H₂SO₄",
+      "HSO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "C₃H₈",
+      "C₂H₆",
+      "CH₄",
+      "CH"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "releases heat",
+      "has no heat change",
+      "absorbs heat",
+      "maintains heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "H₂",
+      "both H₂ and O₂",
+      "H₂O",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "KNO₃",
+      "KNO₂",
+      "K₂NO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 8",
+      "2, 7",
+      "2, 8, 6",
+      "2, 8, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "ammonia is cooled",
+      "concentrated HNO₃ is heated",
+      "ammonium salts react with alkali",
+      "nitrogen reacts with oxygen"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "10",
       "8",
-      "6",
-      "2",
-      "4"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp³",
-      "sp²",
-      "sp³d",
-      "sp"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "protons",
-      "neutrons",
-      "atomic number",
-      "properties"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "alkyl halide",
-      "alkane",
-      "alcohol",
-      "ether"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "98",
-      "94",
-      "106",
-      "102"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "-5",
-      "+3",
-      "-3",
-      "+5"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "base",
-      "electron acceptor",
-      "proton donor",
-      "electron donor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "temperature",
-      "molarity",
-      "saturation",
-      "pH"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "zero",
-      "variable",
-      "positive",
-      "negative"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CH₂COOH",
-      "CH₃COOH",
-      "CH₃CHO",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzoic acid",
-      "acetophenone",
-      "toluene",
-      "benzyl alcohol"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "free radical",
-      "bimolecular with inversion",
-      "unimolecular",
-      "with retention"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+5",
-      "+4",
-      "+6",
-      "+7"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "5",
-      "8",
-      "16",
-      "12"
+      "7",
+      "6"
     ],
     "answer": "8"
   },
   {
-    "question": "Weak acid is",
+    "question": "What is the general formula for alkenes?",
     "options": [
-      "HCl",
-      "HNO₃",
-      "CH₃COOH",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₁",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Copper",
+      "Gold",
+      "Iodine",
+      "Iron"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "12",
+      "11",
+      "10",
+      "9"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "Ba₂SO₄",
+      "BaSO₄",
+      "Ba(SO₄)₂",
+      "NaCl"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "CO₂",
+      "MgO",
+      "KBr",
+      "NaCl"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+3",
+      "+4",
+      "+2",
+      "+5"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "2, 1.5, 1",
+      "4, 3, 2",
+      "3, 1, 2",
+      "1, 2, 3"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "0-3",
+      "10-14",
+      "7-10",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "CaCl + H",
+      "Ca + O₂",
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify the monomer of polythene:",
+    "options": [
+      "CH₂=CH₂",
+      "C",
+      "C₂H₆",
+      "CH₄"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "Cl₂",
+      "CO₂",
+      "H₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "H₃SO₄",
+      "H₂SO₃",
+      "HSO₄",
       "H₂SO₄"
     ],
-    "answer": "CH₃COOH"
+    "answer": "H₂SO₄"
   },
   {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "question": "What is the molecular formula of methane?",
     "options": [
-      "-20",
-      "+80",
-      "-80",
-      "-30"
+      "C₃H₈",
+      "CH₄",
+      "C₂H₆",
+      "CH"
     ],
-    "answer": "-80"
+    "answer": "CH₄"
   },
   {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "question": "An exothermic reaction is one that:",
     "options": [
-      "2×10⁻⁵",
-      "1×10⁻²⁰",
-      "1×10⁻⁵",
-      "1×10⁻¹⁰"
+      "has no heat change",
+      "absorbs heat",
+      "maintains heat",
+      "releases heat"
     ],
-    "answer": "1×10⁻¹⁰"
+    "answer": "releases heat"
   },
   {
-    "question": "Endothermic reaction has ΔH",
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
     "options": [
-      "undefined",
-      "negative",
-      "zero",
-      "positive"
+      "both H₂ and O₂",
+      "O₂",
+      "H₂O",
+      "H₂"
     ],
-    "answer": "positive"
+    "answer": "H₂"
   },
   {
-    "question": "pH of 0.01 M HCl",
+    "question": "Which is the formula for potassium nitrate?",
     "options": [
-      "4",
-      "3",
-      "1",
-      "2"
+      "KNO₂",
+      "K₂NO₃",
+      "K₃NO",
+      "KNO₃"
     ],
-    "answer": "2"
+    "answer": "KNO₃"
   },
   {
-    "question": "Enzyme-substrate stabilized by",
+    "question": "What is the electronic configuration of chlorine?",
     "options": [
-      "all forces",
-      "hydrogen bonds",
-      "van der Waals",
-      "covalent bonds"
+      "2, 8, 6",
+      "2, 8, 8",
+      "2, 7",
+      "2, 8, 7"
     ],
-    "answer": "all forces"
+    "answer": "2, 8, 7"
   },
   {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated",
+      "ammonium salts react with alkali",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
     "options": [
       "6",
-      "2",
-      "4",
-      "8"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp³",
-      "sp",
-      "sp²",
-      "sp³d"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "neutrons",
-      "properties",
-      "protons",
-      "atomic number"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "alcohol",
-      "alkane",
-      "ether",
-      "alkyl halide"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "94",
-      "106",
-      "98",
-      "102"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "+5",
-      "-5",
-      "+3",
-      "-3"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "proton donor",
-      "electron donor",
-      "base",
-      "electron acceptor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "molarity",
-      "saturation",
-      "temperature",
-      "pH"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "zero",
-      "positive",
-      "negative",
-      "variable"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CH₂COOH",
-      "CH₃COOH",
-      "CH₃CHO",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzoic acid",
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "free radical",
-      "unimolecular",
-      "bimolecular with inversion",
-      "with retention"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+4",
-      "+7",
-      "+6",
-      "+5"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "8",
-      "12",
-      "16",
-      "5"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Weak acid is",
-    "options": [
-      "HNO₃",
-      "HCl",
-      "CH₃COOH",
-      "H₂SO₄"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
-    "options": [
-      "-20",
-      "+80",
-      "-80",
-      "-30"
-    ],
-    "answer": "-80"
-  },
-  {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
-    "options": [
-      "1×10⁻²⁰",
-      "1×10⁻¹⁰",
-      "1×10⁻⁵",
-      "2×10⁻⁵"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "undefined",
-      "positive",
-      "zero",
-      "negative"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
-      "3",
-      "4",
-      "1",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Enzyme-substrate stabilized by",
-    "options": [
-      "all forces",
-      "covalent bonds",
-      "van der Waals",
-      "hydrogen bonds"
-    ],
-    "answer": "all forces"
-  },
-  {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
-    "options": [
-      "4",
-      "8",
-      "2",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp",
-      "sp³d",
-      "sp³",
-      "sp²"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "properties",
-      "neutrons",
-      "protons",
-      "atomic number"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "alkane",
-      "alkyl halide",
-      "ether",
-      "alcohol"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "106",
-      "102",
-      "98",
-      "94"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "+5",
-      "-3",
-      "+3",
-      "-5"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "base",
-      "electron acceptor",
-      "proton donor",
-      "electron donor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "pH",
-      "saturation",
-      "temperature",
-      "molarity"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "variable",
-      "positive",
-      "zero",
-      "negative"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CHO",
-      "CH₃CH₂CH₂OH",
-      "CH₃COOH",
-      "CH₃CH₂COOH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "acetophenone",
-      "toluene",
-      "benzyl alcohol",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "bimolecular with inversion",
-      "unimolecular",
-      "free radical",
-      "with retention"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+7",
-      "+5",
-      "+6",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "16",
-      "8",
-      "5",
-      "12"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Weak acid is",
-    "options": [
-      "H₂SO₄",
-      "HNO₃",
-      "CH₃COOH",
-      "HCl"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
-    "options": [
-      "-20",
-      "+80",
-      "-30",
-      "-80"
-    ],
-    "answer": "-80"
-  },
-  {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
-    "options": [
-      "2×10⁻⁵",
-      "1×10⁻⁵",
-      "1×10⁻²⁰",
-      "1×10⁻¹⁰"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "positive",
-      "undefined",
-      "zero",
-      "negative"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
-      "1",
-      "4",
-      "3",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Enzyme-substrate stabilized by",
-    "options": [
-      "covalent bonds",
-      "hydrogen bonds",
-      "all forces",
-      "van der Waals"
-    ],
-    "answer": "all forces"
-  },
-  {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
-    "options": [
-      "8",
-      "4",
-      "2",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp",
-      "sp²",
-      "sp³",
-      "sp³d"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "properties",
-      "neutrons",
-      "protons",
-      "atomic number"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "alkyl halide",
-      "ether",
-      "alkane",
-      "alcohol"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "94",
-      "102",
-      "106",
-      "98"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "+3",
-      "-3",
-      "-5",
-      "+5"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "proton donor",
-      "electron acceptor",
-      "electron donor",
-      "base"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "molarity",
-      "saturation",
-      "pH",
-      "temperature"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "negative",
-      "variable",
-      "positive",
-      "zero"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃COOH",
-      "CH₃CHO",
-      "CH₃CH₂CH₂OH",
-      "CH₃CH₂COOH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzyl alcohol",
-      "benzoic acid",
-      "toluene",
-      "acetophenone"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "unimolecular",
-      "free radical",
-      "with retention",
-      "bimolecular with inversion"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+5",
-      "+7",
-      "+6",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "12",
-      "8",
-      "5",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Weak acid is",
-    "options": [
-      "HNO₃",
-      "H₂SO₄",
-      "HCl",
-      "CH₃COOH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
-    "options": [
-      "+80",
-      "-80",
-      "-30",
-      "-20"
-    ],
-    "answer": "-80"
-  },
-  {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
-    "options": [
-      "2×10⁻⁵",
-      "1×10⁻⁵",
-      "1×10⁻²⁰",
-      "1×10⁻¹⁰"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "undefined",
-      "zero",
-      "positive",
-      "negative"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
-      "1",
-      "3",
-      "4",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Enzyme-substrate stabilized by",
-    "options": [
-      "hydrogen bonds",
-      "van der Waals",
-      "all forces",
-      "covalent bonds"
-    ],
-    "answer": "all forces"
-  },
-  {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
-    "options": [
-      "4",
-      "8",
-      "6",
-      "2"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp",
-      "sp³d",
-      "sp³",
-      "sp²"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "atomic number",
-      "protons",
-      "neutrons",
-      "properties"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "ether",
-      "alcohol",
-      "alkyl halide",
-      "alkane"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "106",
-      "102",
-      "94",
-      "98"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "-5",
-      "+3",
-      "+5",
-      "-3"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "base",
-      "proton donor",
-      "electron donor",
-      "electron acceptor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "pH",
-      "molarity",
-      "temperature",
-      "saturation"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "variable",
-      "positive",
-      "negative",
-      "zero"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CH₂COOH",
-      "CH₃COOH",
-      "CH₃CH₂CH₂OH",
-      "CH₃CHO"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "acetophenone",
-      "benzoic acid",
-      "benzyl alcohol",
-      "toluene"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "bimolecular with inversion",
-      "free radical",
-      "with retention",
-      "unimolecular"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+4",
-      "+7",
-      "+6",
-      "+5"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Weak acid is",
-    "options": [
-      "HCl",
-      "HNO₃",
-      "H₂SO₄",
-      "CH₃COOH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
-    "options": [
-      "-20",
-      "-80",
-      "-30",
-      "+80"
-    ],
-    "answer": "-80"
-  },
-  {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
-    "options": [
-      "1×10⁻¹⁰",
-      "1×10⁻⁵",
-      "1×10⁻²⁰",
-      "2×10⁻⁵"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "positive",
-      "zero",
-      "negative",
-      "undefined"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
-      "1",
-      "3",
-      "2",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Enzyme-substrate stabilized by",
-    "options": [
-      "van der Waals",
-      "covalent bonds",
-      "hydrogen bonds",
-      "all forces"
-    ],
-    "answer": "all forces"
-  },
-  {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
-    "options": [
-      "8",
-      "4",
-      "2",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp³d",
-      "sp",
-      "sp³",
-      "sp²"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "protons",
-      "properties",
-      "neutrons",
-      "atomic number"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "alkane",
-      "alcohol",
-      "alkyl halide",
-      "ether"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "106",
-      "94",
-      "102",
-      "98"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "+5",
-      "+3",
-      "-3",
-      "-5"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "proton donor",
-      "base",
-      "electron acceptor",
-      "electron donor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "temperature",
-      "molarity",
-      "pH",
-      "saturation"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "zero",
-      "variable",
-      "positive",
-      "negative"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CHO",
-      "CH₃CH₂COOH",
-      "CH₃COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "toluene",
-      "benzoic acid",
-      "acetophenone",
-      "benzyl alcohol"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "free radical",
-      "with retention"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+7",
-      "+5",
-      "+4",
-      "+6"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "12",
-      "16",
-      "5",
+      "10",
+      "7",
       "8"
     ],
     "answer": "8"
   },
   {
-    "question": "Weak acid is",
+    "question": "What is the general formula for alkenes?",
     "options": [
-      "HNO₃",
-      "HCl",
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₁"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Iodine",
+      "Gold"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "Ba₂SO₄",
+      "NaCl",
+      "Ba(SO₄)₂",
+      "BaSO₄"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "NaCl",
+      "MgO",
+      "KBr",
+      "CO₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+3",
+      "+4",
+      "+5",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "1, 2, 3",
+      "3, 1, 2",
+      "4, 3, 2",
+      "2, 1.5, 1"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "0-3",
+      "10-14",
+      "7-10",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "Ca + O₂",
+      "Ca(OH)₂ + H₂",
+      "CaCl + H",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify the monomer of polythene:",
+    "options": [
+      "CH₂=CH₂",
+      "C",
+      "CH₄",
+      "C₂H₆"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "CO₂",
+      "O₂",
+      "H₂",
+      "Cl₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
       "H₂SO₄",
-      "CH₃COOH"
+      "H₂SO₃",
+      "HSO₄",
+      "H₃SO₄"
     ],
-    "answer": "CH₃COOH"
+    "answer": "H₂SO₄"
   },
   {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "question": "What is the molecular formula of methane?",
     "options": [
-      "-20",
-      "-30",
-      "-80",
-      "+80"
+      "C₃H₈",
+      "CH",
+      "CH₄",
+      "C₂H₆"
     ],
-    "answer": "-80"
+    "answer": "CH₄"
   },
   {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "question": "An exothermic reaction is one that:",
     "options": [
-      "2×10⁻⁵",
-      "1×10⁻⁵",
-      "1×10⁻¹⁰",
-      "1×10⁻²⁰"
+      "absorbs heat",
+      "releases heat",
+      "has no heat change",
+      "maintains heat"
     ],
-    "answer": "1×10⁻¹⁰"
+    "answer": "releases heat"
   },
   {
-    "question": "Endothermic reaction has ΔH",
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
     "options": [
-      "undefined",
-      "zero",
-      "negative",
-      "positive"
+      "both H₂ and O₂",
+      "O₂",
+      "H₂",
+      "H₂O"
     ],
-    "answer": "positive"
+    "answer": "H₂"
   },
   {
-    "question": "pH of 0.01 M HCl",
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "K₂NO₃",
+      "K₃NO",
+      "KNO₃",
+      "KNO₂"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 8",
+      "2, 7",
+      "2, 8, 6",
+      "2, 8, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "concentrated HNO₃ is heated",
+      "ammonium salts react with alkali",
+      "nitrogen reacts with oxygen",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "8",
+      "10",
+      "7",
+      "6"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is the general formula for alkenes?",
+    "options": [
+      "CₙH₂ₙ₊₁",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₋₂"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Iodine",
+      "Copper",
+      "Iron",
+      "Gold"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "BaSO₄",
+      "Ba(SO₄)₂",
+      "NaCl",
+      "Ba₂SO₄"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "MgO",
+      "CO₂",
+      "NaCl",
+      "KBr"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+5",
+      "+3",
+      "+2",
+      "+4"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "3, 1, 2",
+      "4, 3, 2",
+      "2, 1.5, 1",
+      "1, 2, 3"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "7-10",
+      "3-7",
+      "0-3",
+      "10-14"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "Ca + O₂",
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify the monomer of polythene:",
+    "options": [
+      "C",
+      "CH₄",
+      "CH₂=CH₂",
+      "C₂H₆"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "O₂",
+      "Cl₂",
+      "H₂",
+      "CO₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "H₂SO₄",
+      "H₃SO₄",
+      "HSO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "CH₄",
+      "CH",
+      "C₂H₆",
+      "C₃H₈"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "maintains heat",
+      "has no heat change",
+      "absorbs heat",
+      "releases heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "O₂",
+      "H₂O",
+      "H₂",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "KNO₂",
+      "K₂NO₃",
+      "KNO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 7",
+      "2, 7",
+      "2, 8, 8",
+      "2, 8, 6"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "ammonium salts react with alkali",
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "10",
+      "7",
+      "8",
+      "6"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is the general formula for alkenes?",
+    "options": [
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₁"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Copper",
+      "Iodine",
+      "Gold",
+      "Iron"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "11",
+      "9",
+      "12",
+      "10"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "Ba(SO₄)₂",
+      "BaSO₄",
+      "Ba₂SO₄",
+      "NaCl"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "KBr",
+      "NaCl",
+      "CO₂",
+      "MgO"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+5",
+      "+3",
+      "+4",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "1, 2, 3",
+      "4, 3, 2",
+      "3, 1, 2",
+      "2, 1.5, 1"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "10-14",
+      "7-10",
+      "3-7",
+      "0-3"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂",
+      "Ca + O₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
     "options": [
       "4",
       "2",
@@ -1500,197 +860,597 @@
     "answer": "2"
   },
   {
-    "question": "Enzyme-substrate stabilized by",
+    "question": "Identify the monomer of polythene:",
     "options": [
-      "hydrogen bonds",
-      "van der Waals",
-      "all forces",
-      "covalent bonds"
+      "C₂H₆",
+      "CH₄",
+      "C",
+      "CH₂=CH₂"
     ],
-    "answer": "all forces"
+    "answer": "CH₂=CH₂"
   },
   {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
     "options": [
-      "2",
+      "Cl₂",
+      "CO₂",
+      "O₂",
+      "H₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "HSO₄",
+      "H₃SO₄",
+      "H₂SO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "C₂H₆",
+      "CH",
+      "C₃H₈",
+      "CH₄"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "absorbs heat",
+      "releases heat",
+      "has no heat change",
+      "maintains heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "H₂",
+      "O₂",
+      "H₂O",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "KNO₂",
+      "K₂NO₃",
+      "KNO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 6",
+      "2, 8, 7",
+      "2, 8, 8",
+      "2, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "concentrated HNO₃ is heated",
+      "nitrogen reacts with oxygen",
+      "ammonia is cooled",
+      "ammonium salts react with alkali"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "7",
+      "6",
       "8",
-      "4",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp²",
-      "sp",
-      "sp³",
-      "sp³d"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "properties",
-      "protons",
-      "neutrons",
-      "atomic number"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "alcohol",
-      "ether",
-      "alkyl halide",
-      "alkane"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "94",
-      "102",
-      "106",
-      "98"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "-3",
-      "-5",
-      "+3",
-      "+5"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "base",
-      "electron acceptor",
-      "proton donor",
-      "electron donor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "pH",
-      "temperature",
-      "saturation",
-      "molarity"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "zero",
-      "positive",
-      "variable",
-      "negative"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CH₂CH₂OH",
-      "CH₃COOH",
-      "CH₃CHO",
-      "CH₃CH₂COOH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "acetophenone",
-      "toluene",
-      "benzoic acid",
-      "benzyl alcohol"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "with retention",
-      "free radical",
-      "bimolecular with inversion",
-      "unimolecular"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+6",
-      "+4",
-      "+7",
-      "+5"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "12",
-      "5",
-      "8",
-      "16"
+      "10"
     ],
     "answer": "8"
   },
   {
-    "question": "Weak acid is",
+    "question": "What is the general formula for alkenes?",
+    "options": [
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₁"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Copper",
+      "Iodine",
+      "Gold",
+      "Iron"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "NaCl",
+      "Ba₂SO₄",
+      "Ba(SO₄)₂",
+      "BaSO₄"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "NaCl",
+      "KBr",
+      "MgO",
+      "CO₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+3",
+      "+4",
+      "+5",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "4, 3, 2",
+      "3, 1, 2",
+      "2, 1.5, 1",
+      "1, 2, 3"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "7-10",
+      "3-7",
+      "10-14",
+      "0-3"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "CaO + H₂",
+      "Ca + O₂",
+      "CaCl + H",
+      "Ca(OH)₂ + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify the monomer of polythene:",
+    "options": [
+      "CH₄",
+      "C",
+      "CH₂=CH₂",
+      "C₂H₆"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "Cl₂",
+      "H₂",
+      "CO₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
     "options": [
       "H₂SO₄",
-      "HCl",
-      "CH₃COOH",
-      "HNO₃"
+      "HSO₄",
+      "H₂SO₃",
+      "H₃SO₄"
     ],
-    "answer": "CH₃COOH"
+    "answer": "H₂SO₄"
   },
   {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "question": "What is the molecular formula of methane?",
     "options": [
-      "-30",
-      "-80",
-      "+80",
-      "-20"
+      "CH₄",
+      "CH",
+      "C₂H₆",
+      "C₃H₈"
     ],
-    "answer": "-80"
+    "answer": "CH₄"
   },
   {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "question": "An exothermic reaction is one that:",
     "options": [
-      "1×10⁻⁵",
-      "1×10⁻¹⁰",
-      "1×10⁻²⁰",
-      "2×10⁻⁵"
+      "maintains heat",
+      "releases heat",
+      "has no heat change",
+      "absorbs heat"
     ],
-    "answer": "1×10⁻¹⁰"
+    "answer": "releases heat"
   },
   {
-    "question": "Endothermic reaction has ΔH",
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
     "options": [
-      "negative",
-      "undefined",
-      "positive",
-      "zero"
+      "H₂O",
+      "both H₂ and O₂",
+      "O₂",
+      "H₂"
     ],
-    "answer": "positive"
+    "answer": "H₂"
   },
   {
-    "question": "pH of 0.01 M HCl",
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "KNO₂",
+      "KNO₃",
+      "K₂NO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 7",
+      "2, 8, 8",
+      "2, 8, 6",
+      "2, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "concentrated HNO₃ is heated",
+      "nitrogen reacts with oxygen",
+      "ammonia is cooled",
+      "ammonium salts react with alkali"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "7",
+      "10",
+      "8",
+      "6"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is the general formula for alkenes?",
+    "options": [
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₊₁",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₋₂"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Iodine",
+      "Iron",
+      "Gold",
+      "Copper"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "9",
+      "12",
+      "10",
+      "11"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "Ba(SO₄)₂",
+      "BaSO₄",
+      "NaCl",
+      "Ba₂SO₄"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "MgO",
+      "NaCl",
+      "KBr",
+      "CO₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+4",
+      "+2",
+      "+3",
+      "+5"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "2, 1.5, 1",
+      "4, 3, 2",
+      "1, 2, 3",
+      "3, 1, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "10-14",
+      "0-3",
+      "7-10",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "CaCl + H",
+      "CaO + H₂",
+      "Ca + O₂",
+      "Ca(OH)₂ + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify the monomer of polythene:",
+    "options": [
+      "C",
+      "C₂H₆",
+      "CH₂=CH₂",
+      "CH₄"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "O₂",
+      "CO₂",
+      "H₂",
+      "Cl₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "HSO₄",
+      "H₂SO₃",
+      "H₂SO₄",
+      "H₃SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "C₃H₈",
+      "CH",
+      "C₂H₆",
+      "CH₄"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "releases heat",
+      "has no heat change",
+      "maintains heat",
+      "absorbs heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "H₂",
+      "O₂",
+      "both H₂ and O₂",
+      "H₂O"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "KNO₃",
+      "K₂NO₃",
+      "K₃NO",
+      "KNO₂"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 7",
+      "2, 8, 7",
+      "2, 8, 8",
+      "2, 8, 6"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "ammonia is cooled",
+      "ammonium salts react with alkali",
+      "concentrated HNO₃ is heated",
+      "nitrogen reacts with oxygen"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "10",
+      "8",
+      "7",
+      "6"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is the general formula for alkenes?",
+    "options": [
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₊₁"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Iodine",
+      "Copper"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "10",
+      "12",
+      "11",
+      "9"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "BaSO₄",
+      "NaCl",
+      "Ba₂SO₄",
+      "Ba(SO₄)₂"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "NaCl",
+      "MgO",
+      "KBr",
+      "CO₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+3",
+      "+4",
+      "+5",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "2, 1.5, 1",
+      "4, 3, 2",
+      "3, 1, 2",
+      "1, 2, 3"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "10-14",
+      "3-7",
+      "0-3",
+      "7-10"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "Ca + O₂",
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
     "options": [
       "2",
       "4",
@@ -1700,1303 +1460,1543 @@
     "answer": "2"
   },
   {
-    "question": "Enzyme-substrate stabilized by",
+    "question": "Identify the monomer of polythene:",
     "options": [
-      "covalent bonds",
-      "hydrogen bonds",
-      "van der Waals",
-      "all forces"
+      "C₂H₆",
+      "CH₄",
+      "CH₂=CH₂",
+      "C"
     ],
-    "answer": "all forces"
+    "answer": "CH₂=CH₂"
   },
   {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
     "options": [
+      "Cl₂",
+      "H₂",
+      "O₂",
+      "CO₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "H₂SO₃",
+      "H₃SO₄",
+      "HSO₄",
+      "H₂SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "CH",
+      "CH₄",
+      "C₃H₈",
+      "C₂H₆"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "releases heat",
+      "has no heat change",
+      "absorbs heat",
+      "maintains heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "H₂O",
+      "both H₂ and O₂",
+      "H₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "K₃NO",
+      "KNO₂",
+      "K₂NO₃",
+      "KNO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 7",
+      "2, 8, 8",
+      "2, 7",
+      "2, 8, 6"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "ammonium salts react with alkali",
+      "ammonia is cooled",
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "7",
+      "10",
       "6",
-      "2",
-      "8",
-      "4"
+      "8"
     ],
-    "answer": "4"
+    "answer": "8"
   },
   {
-    "question": "C hybridization in H₂C=CH₂",
+    "question": "What is the general formula for alkenes?",
     "options": [
-      "sp³",
-      "sp²",
-      "sp",
-      "sp³d"
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₊₁"
     ],
-    "answer": "sp²"
+    "answer": "CₙH₂ₙ"
   },
   {
-    "question": "Isotopes differ in",
+    "question": "Which is a non-metal element?",
     "options": [
-      "neutrons",
-      "properties",
-      "protons",
-      "atomic number"
+      "Iron",
+      "Copper",
+      "Gold",
+      "Iodine"
     ],
-    "answer": "neutrons"
+    "answer": "Iodine"
   },
   {
-    "question": "Alkene + H₂SO₄ (cold) →",
+    "question": "The atomic number of sodium is:",
     "options": [
-      "alkyl halide",
-      "alcohol",
-      "alkane",
-      "ether"
+      "11",
+      "12",
+      "10",
+      "9"
     ],
-    "answer": "alcohol"
+    "answer": "11"
   },
   {
-    "question": "Molar mass H₂SO₄",
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
     "options": [
-      "98",
-      "94",
-      "106",
-      "102"
+      "BaSO₄",
+      "Ba₂SO₄",
+      "Ba(SO₄)₂",
+      "NaCl"
     ],
-    "answer": "98"
+    "answer": "BaSO₄"
   },
   {
-    "question": "Oxidation state of N in NO₃⁻",
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "MgO",
+      "NaCl",
+      "CO₂",
+      "KBr"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
     "options": [
       "+5",
-      "-3",
-      "-5",
+      "+2",
+      "+4",
       "+3"
     ],
-    "answer": "+5"
+    "answer": "+4"
   },
   {
-    "question": "Lewis acid is",
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
     "options": [
-      "proton donor",
-      "electron donor",
-      "electron acceptor",
-      "base"
+      "2, 1.5, 1",
+      "3, 1, 2",
+      "1, 2, 3",
+      "4, 3, 2"
     ],
-    "answer": "electron acceptor"
+    "answer": "4, 3, 2"
   },
   {
-    "question": "Solubility product Ksp describes",
+    "question": "Which is the pH range for a strong acid?",
     "options": [
-      "saturation",
-      "temperature",
-      "molarity",
-      "pH"
+      "7-10",
+      "0-3",
+      "3-7",
+      "10-14"
     ],
-    "answer": "saturation"
+    "answer": "0-3"
   },
   {
-    "question": "Bond dissociation energy is",
+    "question": "Calcium + water produces:",
     "options": [
-      "variable",
-      "negative",
-      "zero",
-      "positive"
+      "CaO + H₂",
+      "CaCl + H",
+      "Ca + O₂",
+      "Ca(OH)₂ + H₂"
     ],
-    "answer": "positive"
+    "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CH₂COOH",
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzoic acid",
-      "acetophenone",
-      "toluene",
-      "benzyl alcohol"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "unimolecular",
-      "with retention",
-      "free radical",
-      "bimolecular with inversion"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+4",
-      "+5",
-      "+6",
-      "+7"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "8",
-      "12",
-      "16",
-      "5"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Weak acid is",
-    "options": [
-      "H₂SO₄",
-      "CH₃COOH",
-      "HNO₃",
-      "HCl"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
-    "options": [
-      "-30",
-      "-20",
-      "-80",
-      "+80"
-    ],
-    "answer": "-80"
-  },
-  {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
-    "options": [
-      "2×10⁻⁵",
-      "1×10⁻⁵",
-      "1×10⁻¹⁰",
-      "1×10⁻²⁰"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "negative",
-      "zero",
-      "positive",
-      "undefined"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
-      "1",
-      "4",
-      "3",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Enzyme-substrate stabilized by",
-    "options": [
-      "van der Waals",
-      "covalent bonds",
-      "all forces",
-      "hydrogen bonds"
-    ],
-    "answer": "all forces"
-  },
-  {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "question": "What is the valency of oxygen?",
     "options": [
       "4",
       "2",
-      "6",
-      "8"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp³d",
-      "sp",
-      "sp³",
-      "sp²"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "protons",
-      "properties",
-      "neutrons",
-      "atomic number"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "alkane",
-      "ether",
-      "alcohol",
-      "alkyl halide"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "106",
-      "98",
-      "94",
-      "102"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "+5",
-      "-3",
-      "+3",
-      "-5"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "electron acceptor",
-      "electron donor",
-      "base",
-      "proton donor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "saturation",
-      "pH",
-      "molarity",
-      "temperature"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "negative",
-      "positive",
-      "zero",
-      "variable"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CHO",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH",
-      "CH₃COOH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzoic acid",
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "unimolecular",
-      "with retention",
-      "bimolecular with inversion",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+7",
-      "+4",
-      "+5",
-      "+6"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "8",
-      "5",
-      "16",
-      "12"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Weak acid is",
-    "options": [
-      "HNO₃",
-      "H₂SO₄",
-      "CH₃COOH",
-      "HCl"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
-    "options": [
-      "-80",
-      "-20",
-      "+80",
-      "-30"
-    ],
-    "answer": "-80"
-  },
-  {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
-    "options": [
-      "1×10⁻²⁰",
-      "1×10⁻⁵",
-      "2×10⁻⁵",
-      "1×10⁻¹⁰"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "zero",
-      "negative",
-      "undefined",
-      "positive"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
-      "3",
-      "2",
-      "1",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Enzyme-substrate stabilized by",
-    "options": [
-      "van der Waals",
-      "all forces",
-      "hydrogen bonds",
-      "covalent bonds"
-    ],
-    "answer": "all forces"
-  },
-  {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
-    "options": [
-      "8",
-      "4",
-      "6",
-      "2"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp",
-      "sp³",
-      "sp²",
-      "sp³d"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "protons",
-      "neutrons",
-      "atomic number",
-      "properties"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "alcohol",
-      "ether",
-      "alkyl halide",
-      "alkane"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "94",
-      "102",
-      "98",
-      "106"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "+5",
-      "-5",
-      "+3",
-      "-3"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "proton donor",
-      "base",
-      "electron donor",
-      "electron acceptor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "pH",
-      "saturation",
-      "molarity",
-      "temperature"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "variable",
-      "negative",
-      "zero",
-      "positive"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃COOH",
-      "CH₃CH₂CH₂OH",
-      "CH₃CHO",
-      "CH₃CH₂COOH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzoic acid",
-      "toluene",
-      "benzyl alcohol",
-      "acetophenone"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "bimolecular with inversion",
-      "with retention",
-      "free radical",
-      "unimolecular"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+4",
-      "+6",
-      "+5",
-      "+7"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "16",
-      "12",
-      "5",
-      "8"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Weak acid is",
-    "options": [
-      "H₂SO₄",
-      "HCl",
-      "HNO₃",
-      "CH₃COOH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
-    "options": [
-      "-20",
-      "+80",
-      "-80",
-      "-30"
-    ],
-    "answer": "-80"
-  },
-  {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
-    "options": [
-      "1×10⁻⁵",
-      "1×10⁻¹⁰",
-      "2×10⁻⁵",
-      "1×10⁻²⁰"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "undefined",
-      "zero",
-      "positive",
-      "negative"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
-      "2",
-      "4",
       "3",
       "1"
     ],
     "answer": "2"
   },
   {
-    "question": "Enzyme-substrate stabilized by",
+    "question": "Identify the monomer of polythene:",
     "options": [
-      "van der Waals",
-      "covalent bonds",
-      "hydrogen bonds",
-      "all forces"
+      "CH₂=CH₂",
+      "C₂H₆",
+      "C",
+      "CH₄"
     ],
-    "answer": "all forces"
+    "answer": "CH₂=CH₂"
   },
   {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "H₂",
+      "Cl₂",
+      "CO₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "HSO₄",
+      "H₂SO₄",
+      "H₂SO₃",
+      "H₃SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "CH₄",
+      "CH",
+      "C₂H₆",
+      "C₃H₈"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "releases heat",
+      "has no heat change",
+      "maintains heat",
+      "absorbs heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "both H₂ and O₂",
+      "O₂",
+      "H₂",
+      "H₂O"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "KNO₂",
+      "KNO₃",
+      "K₃NO",
+      "K₂NO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 8",
+      "2, 8, 7",
+      "2, 7",
+      "2, 8, 6"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "concentrated HNO₃ is heated",
+      "nitrogen reacts with oxygen",
+      "ammonium salts react with alkali",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
     "options": [
       "6",
-      "2",
-      "4",
-      "8"
+      "8",
+      "7",
+      "10"
     ],
-    "answer": "4"
+    "answer": "8"
   },
   {
-    "question": "C hybridization in H₂C=CH₂",
+    "question": "What is the general formula for alkenes?",
     "options": [
-      "sp",
-      "sp³d",
-      "sp²",
-      "sp³"
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₊₁",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ"
     ],
-    "answer": "sp²"
+    "answer": "CₙH₂ₙ"
   },
   {
-    "question": "Isotopes differ in",
+    "question": "Which is a non-metal element?",
     "options": [
-      "properties",
-      "neutrons",
-      "atomic number",
-      "protons"
+      "Copper",
+      "Iodine",
+      "Iron",
+      "Gold"
     ],
-    "answer": "neutrons"
+    "answer": "Iodine"
   },
   {
-    "question": "Alkene + H₂SO₄ (cold) →",
+    "question": "The atomic number of sodium is:",
     "options": [
-      "alkyl halide",
-      "alcohol",
-      "alkane",
-      "ether"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "106",
-      "98",
-      "102",
-      "94"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "+3",
-      "-5",
-      "-3",
-      "+5"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "electron donor",
-      "base",
-      "electron acceptor",
-      "proton donor"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "pH",
-      "saturation",
-      "molarity",
-      "temperature"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "negative",
-      "variable",
-      "positive",
-      "zero"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH",
-      "CH₃CHO"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzoic acid",
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "free radical",
-      "bimolecular with inversion",
-      "with retention",
-      "unimolecular"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+4",
-      "+7",
-      "+6",
-      "+5"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
+      "9",
+      "11",
       "12",
-      "5",
-      "8",
-      "16"
+      "10"
     ],
-    "answer": "8"
+    "answer": "11"
   },
   {
-    "question": "Weak acid is",
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
     "options": [
-      "HCl",
-      "H₂SO₄",
-      "HNO₃",
-      "CH₃COOH"
+      "NaCl",
+      "Ba(SO₄)₂",
+      "Ba₂SO₄",
+      "BaSO₄"
     ],
-    "answer": "CH₃COOH"
+    "answer": "BaSO₄"
   },
   {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "question": "Which of these is a covalent compound?",
     "options": [
-      "-20",
-      "-80",
-      "+80",
-      "-30"
+      "MgO",
+      "NaCl",
+      "CO₂",
+      "KBr"
     ],
-    "answer": "-80"
+    "answer": "CO₂"
   },
   {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "question": "The oxidation state of nitrogen in NO₂ is:",
     "options": [
-      "2×10⁻⁵",
-      "1×10⁻¹⁰",
-      "1×10⁻⁵",
-      "1×10⁻²⁰"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "negative",
-      "positive",
-      "undefined",
-      "zero"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
-      "4",
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Enzyme-substrate stabilized by",
-    "options": [
-      "hydrogen bonds",
-      "van der Waals",
-      "covalent bonds",
-      "all forces"
-    ],
-    "answer": "all forces"
-  },
-  {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
-    "options": [
-      "4",
-      "2",
-      "6",
-      "8"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "C hybridization in H₂C=CH₂",
-    "options": [
-      "sp³",
-      "sp",
-      "sp²",
-      "sp³d"
-    ],
-    "answer": "sp²"
-  },
-  {
-    "question": "Isotopes differ in",
-    "options": [
-      "atomic number",
-      "neutrons",
-      "properties",
-      "protons"
-    ],
-    "answer": "neutrons"
-  },
-  {
-    "question": "Alkene + H₂SO₄ (cold) →",
-    "options": [
-      "alkyl halide",
-      "alkane",
-      "ether",
-      "alcohol"
-    ],
-    "answer": "alcohol"
-  },
-  {
-    "question": "Molar mass H₂SO₄",
-    "options": [
-      "94",
-      "98",
-      "106",
-      "102"
-    ],
-    "answer": "98"
-  },
-  {
-    "question": "Oxidation state of N in NO₃⁻",
-    "options": [
-      "-5",
-      "-3",
-      "+5",
-      "+3"
-    ],
-    "answer": "+5"
-  },
-  {
-    "question": "Lewis acid is",
-    "options": [
-      "electron donor",
-      "electron acceptor",
-      "proton donor",
-      "base"
-    ],
-    "answer": "electron acceptor"
-  },
-  {
-    "question": "Solubility product Ksp describes",
-    "options": [
-      "temperature",
-      "molarity",
-      "pH",
-      "saturation"
-    ],
-    "answer": "saturation"
-  },
-  {
-    "question": "Bond dissociation energy is",
-    "options": [
-      "zero",
-      "negative",
-      "variable",
-      "positive"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CHO",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzyl alcohol",
-      "acetophenone",
-      "benzoic acid",
-      "toluene"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "free radical",
-      "with retention"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+5",
-      "+7",
       "+4",
-      "+6"
+      "+2",
+      "+3",
+      "+5"
     ],
-    "answer": "+7"
+    "answer": "+4"
   },
   {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
     "options": [
-      "8",
-      "5",
-      "16",
-      "12"
+      "2, 1.5, 1",
+      "1, 2, 3",
+      "4, 3, 2",
+      "3, 1, 2"
     ],
-    "answer": "8"
+    "answer": "4, 3, 2"
   },
   {
-    "question": "Weak acid is",
+    "question": "Which is the pH range for a strong acid?",
     "options": [
-      "HCl",
-      "H₂SO₄",
-      "CH₃COOH",
-      "HNO₃"
+      "10-14",
+      "3-7",
+      "0-3",
+      "7-10"
     ],
-    "answer": "CH₃COOH"
+    "answer": "0-3"
   },
   {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "question": "Calcium + water produces:",
     "options": [
-      "-80",
-      "+80",
-      "-20",
-      "-30"
+      "Ca + O₂",
+      "CaO + H₂",
+      "Ca(OH)₂ + H₂",
+      "CaCl + H"
     ],
-    "answer": "-80"
+    "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "question": "What is the valency of oxygen?",
     "options": [
-      "2×10⁻⁵",
-      "1×10⁻¹⁰",
-      "1×10⁻⁵",
-      "1×10⁻²⁰"
-    ],
-    "answer": "1×10⁻¹⁰"
-  },
-  {
-    "question": "Endothermic reaction has ΔH",
-    "options": [
-      "zero",
-      "positive",
-      "negative",
-      "undefined"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "pH of 0.01 M HCl",
-    "options": [
+      "1",
       "3",
       "4",
-      "1",
       "2"
     ],
     "answer": "2"
   },
   {
-    "question": "Enzyme-substrate stabilized by",
+    "question": "Identify the monomer of polythene:",
     "options": [
-      "van der Waals",
-      "hydrogen bonds",
-      "all forces",
-      "covalent bonds"
+      "C₂H₆",
+      "C",
+      "CH₂=CH₂",
+      "CH₄"
     ],
-    "answer": "all forces"
+    "answer": "CH₂=CH₂"
   },
   {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
     "options": [
-      "6",
-      "4",
-      "2",
-      "8"
+      "Cl₂",
+      "O₂",
+      "CO₂",
+      "H₂"
     ],
-    "answer": "4"
+    "answer": "H₂"
   },
   {
-    "question": "C hybridization in H₂C=CH₂",
+    "question": "The formula of sulfuric acid is:",
     "options": [
-      "sp",
-      "sp²",
-      "sp³d",
-      "sp³"
+      "H₃SO₄",
+      "H₂SO₄",
+      "HSO₄",
+      "H₂SO₃"
     ],
-    "answer": "sp²"
+    "answer": "H₂SO₄"
   },
   {
-    "question": "Isotopes differ in",
+    "question": "What is the molecular formula of methane?",
     "options": [
-      "properties",
-      "neutrons",
-      "atomic number",
-      "protons"
+      "C₃H₈",
+      "CH₄",
+      "C₂H₆",
+      "CH"
     ],
-    "answer": "neutrons"
+    "answer": "CH₄"
   },
   {
-    "question": "Alkene + H₂SO₄ (cold) →",
+    "question": "An exothermic reaction is one that:",
     "options": [
-      "alkane",
-      "alcohol",
-      "alkyl halide",
-      "ether"
+      "has no heat change",
+      "absorbs heat",
+      "releases heat",
+      "maintains heat"
     ],
-    "answer": "alcohol"
+    "answer": "releases heat"
   },
   {
-    "question": "Molar mass H₂SO₄",
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
     "options": [
-      "106",
-      "102",
-      "98",
-      "94"
+      "H₂",
+      "O₂",
+      "both H₂ and O₂",
+      "H₂O"
     ],
-    "answer": "98"
+    "answer": "H₂"
   },
   {
-    "question": "Oxidation state of N in NO₃⁻",
+    "question": "Which is the formula for potassium nitrate?",
     "options": [
-      "+3",
-      "-3",
-      "+5",
-      "-5"
+      "K₂NO₃",
+      "KNO₃",
+      "K₃NO",
+      "KNO₂"
     ],
-    "answer": "+5"
+    "answer": "KNO₃"
   },
   {
-    "question": "Lewis acid is",
+    "question": "What is the electronic configuration of chlorine?",
     "options": [
-      "electron donor",
-      "electron acceptor",
-      "base",
-      "proton donor"
+      "2, 7",
+      "2, 8, 7",
+      "2, 8, 8",
+      "2, 8, 6"
     ],
-    "answer": "electron acceptor"
+    "answer": "2, 8, 7"
   },
   {
-    "question": "Solubility product Ksp describes",
+    "question": "Ammonia gas is produced when:",
     "options": [
-      "molarity",
-      "saturation",
-      "pH",
-      "temperature"
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled",
+      "nitrogen reacts with oxygen",
+      "ammonium salts react with alkali"
     ],
-    "answer": "saturation"
+    "answer": "ammonium salts react with alkali"
   },
   {
-    "question": "Bond dissociation energy is",
+    "question": "The number of electrons in a neutral oxygen atom is:",
     "options": [
-      "zero",
-      "negative",
-      "variable",
-      "positive"
-    ],
-    "answer": "positive"
-  },
-  {
-    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
-    "options": [
-      "CH₃CH₂CH₂OH",
-      "CH₃CH₂COOH",
-      "CH₃COOH",
-      "CH₃CHO"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
-    "options": [
-      "benzyl alcohol",
-      "toluene",
-      "acetophenone",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 mechanism is",
-    "options": [
-      "free radical",
-      "bimolecular with inversion",
-      "unimolecular",
-      "with retention"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "Oxidation state of Mn in KMnO₄",
-    "options": [
-      "+6",
-      "+4",
-      "+7",
-      "+5"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
-    "options": [
-      "5",
-      "12",
       "8",
-      "16"
+      "10",
+      "7",
+      "6"
     ],
     "answer": "8"
   },
   {
-    "question": "Weak acid is",
+    "question": "What is the general formula for alkenes?",
     "options": [
-      "HNO₃",
-      "HCl",
-      "H₂SO₄",
-      "CH₃COOH"
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₊₁"
     ],
-    "answer": "CH₃COOH"
+    "answer": "CₙH₂ₙ"
   },
   {
-    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "question": "Which is a non-metal element?",
     "options": [
-      "+80",
-      "-80",
-      "-20",
-      "-30"
+      "Copper",
+      "Iodine",
+      "Iron",
+      "Gold"
     ],
-    "answer": "-80"
+    "answer": "Iodine"
   },
   {
-    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "question": "The atomic number of sodium is:",
     "options": [
-      "1×10⁻²⁰",
-      "1×10⁻⁵",
-      "2×10⁻⁵",
-      "1×10⁻¹⁰"
+      "9",
+      "11",
+      "10",
+      "12"
     ],
-    "answer": "1×10⁻¹⁰"
+    "answer": "11"
   },
   {
-    "question": "Endothermic reaction has ΔH",
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
     "options": [
-      "undefined",
-      "negative",
-      "positive",
-      "zero"
+      "Ba₂SO₄",
+      "BaSO₄",
+      "Ba(SO₄)₂",
+      "NaCl"
     ],
-    "answer": "positive"
+    "answer": "BaSO₄"
   },
   {
-    "question": "pH of 0.01 M HCl",
+    "question": "Which of these is a covalent compound?",
     "options": [
-      "2",
-      "3",
+      "NaCl",
+      "KBr",
+      "MgO",
+      "CO₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+3",
+      "+4",
+      "+5",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "3, 1, 2",
+      "4, 3, 2",
+      "2, 1.5, 1",
+      "1, 2, 3"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "3-7",
+      "10-14",
+      "0-3",
+      "7-10"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂",
+      "Ca + O₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
+    "options": [
       "1",
+      "3",
+      "2",
       "4"
     ],
     "answer": "2"
   },
   {
-    "question": "Enzyme-substrate stabilized by",
+    "question": "Identify the monomer of polythene:",
     "options": [
-      "covalent bonds",
-      "van der Waals",
-      "hydrogen bonds",
-      "all forces"
+      "CH₂=CH₂",
+      "C₂H₆",
+      "CH₄",
+      "C"
     ],
-    "answer": "all forces"
+    "answer": "CH₂=CH₂"
   },
   {
-    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "H₂",
+      "Cl₂",
+      "CO₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "H₂SO₄",
+      "HSO₄",
+      "H₃SO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "CH",
+      "C₃H₈",
+      "C₂H₆",
+      "CH₄"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "absorbs heat",
+      "has no heat change",
+      "releases heat",
+      "maintains heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "H₂O",
+      "O₂",
+      "H₂",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "K₃NO",
+      "K₂NO₃",
+      "KNO₂",
+      "KNO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 7",
+      "2, 7",
+      "2, 8, 8",
+      "2, 8, 6"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "ammonium salts react with alkali",
+      "ammonia is cooled",
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "7",
+      "6",
+      "10",
+      "8"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is the general formula for alkenes?",
+    "options": [
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₊₁"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Iodine",
+      "Copper",
+      "Gold",
+      "Iron"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "12",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "Ba(SO₄)₂",
+      "BaSO₄",
+      "Ba₂SO₄",
+      "NaCl"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "CO₂",
+      "NaCl",
+      "KBr",
+      "MgO"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+3",
+      "+5",
+      "+4",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "4, 3, 2",
+      "1, 2, 3",
+      "2, 1.5, 1",
+      "3, 1, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "0-3",
+      "3-7",
+      "7-10",
+      "10-14"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂",
+      "Ca + O₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify the monomer of polythene:",
+    "options": [
+      "C₂H₆",
+      "CH₂=CH₂",
+      "C",
+      "CH₄"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "O₂",
+      "Cl₂",
+      "CO₂",
+      "H₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "H₃SO₄",
+      "HSO₄",
+      "H₂SO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "C₃H₈",
+      "C₂H₆",
+      "CH",
+      "CH₄"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "has no heat change",
+      "maintains heat",
+      "absorbs heat",
+      "releases heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "both H₂ and O₂",
+      "H₂O",
+      "O₂",
+      "H₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "KNO₂",
+      "KNO₃",
+      "K₃NO",
+      "K₂NO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 7",
+      "2, 8, 6",
+      "2, 8, 7",
+      "2, 8, 8"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "nitrogen reacts with oxygen",
+      "ammonium salts react with alkali",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "10",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is the general formula for alkenes?",
+    "options": [
+      "CₙH₂ₙ₊₁",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₊₂"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Gold",
+      "Iodine"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "10",
+      "12",
+      "9",
+      "11"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "BaSO₄",
+      "Ba(SO₄)₂",
+      "Ba₂SO₄",
+      "NaCl"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "MgO",
+      "CO₂",
+      "NaCl",
+      "KBr"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+3",
+      "+5",
+      "+4",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "3, 1, 2",
+      "2, 1.5, 1",
+      "1, 2, 3",
+      "4, 3, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "10-14",
+      "0-3",
+      "3-7",
+      "7-10"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂",
+      "Ca + O₂",
+      "CaCl + H"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify the monomer of polythene:",
+    "options": [
+      "CH₄",
+      "C₂H₆",
+      "C",
+      "CH₂=CH₂"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "Cl₂",
+      "O₂",
+      "H₂",
+      "CO₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "H₂SO₄",
+      "H₃SO₄",
+      "HSO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "C₂H₆",
+      "CH",
+      "CH₄",
+      "C₃H₈"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "absorbs heat",
+      "maintains heat",
+      "has no heat change",
+      "releases heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "H₂",
+      "both H₂ and O₂",
+      "O₂",
+      "H₂O"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "K₃NO",
+      "K₂NO₃",
+      "KNO₂",
+      "KNO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 7",
+      "2, 8, 6",
+      "2, 7",
+      "2, 8, 8"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated",
+      "ammonium salts react with alkali",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is the general formula for alkenes?",
+    "options": [
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₁",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Iron",
+      "Gold",
+      "Copper",
+      "Iodine"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "Ba₂SO₄",
+      "Ba(SO₄)₂",
+      "NaCl",
+      "BaSO₄"
+    ],
+    "answer": "BaSO₄"
+  },
+  {
+    "question": "Which of these is a covalent compound?",
+    "options": [
+      "KBr",
+      "CO₂",
+      "NaCl",
+      "MgO"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is:",
+    "options": [
+      "+5",
+      "+2",
+      "+3",
+      "+4"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
+    "options": [
+      "1, 2, 3",
+      "2, 1.5, 1",
+      "4, 3, 2",
+      "3, 1, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which is the pH range for a strong acid?",
+    "options": [
+      "0-3",
+      "7-10",
+      "3-7",
+      "10-14"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
     "options": [
       "4",
-      "8",
       "2",
+      "1",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify the monomer of polythene:",
+    "options": [
+      "C",
+      "C₂H₆",
+      "CH₄",
+      "CH₂=CH₂"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "H₂",
+      "O₂",
+      "CO₂",
+      "Cl₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "HSO₄",
+      "H₃SO₄",
+      "H₂SO₃",
+      "H₂SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "C₃H₈",
+      "CH",
+      "C₂H₆",
+      "CH₄"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "releases heat",
+      "maintains heat",
+      "has no heat change",
+      "absorbs heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "both H₂ and O₂",
+      "O₂",
+      "H₂",
+      "H₂O"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "K₃NO",
+      "KNO₂",
+      "KNO₃",
+      "K₂NO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 6",
+      "2, 7",
+      "2, 8, 7",
+      "2, 8, 8"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "ammonium salts react with alkali",
+      "ammonia is cooled",
+      "concentrated HNO₃ is heated",
+      "nitrogen reacts with oxygen"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "7",
+      "10",
+      "8",
       "6"
     ],
-    "answer": "4"
+    "answer": "8"
   },
   {
-    "question": "C hybridization in H₂C=CH₂",
+    "question": "What is the general formula for alkenes?",
     "options": [
-      "sp²",
-      "sp³",
-      "sp³d",
-      "sp"
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₊₁"
     ],
-    "answer": "sp²"
+    "answer": "CₙH₂ₙ"
   },
   {
-    "question": "Isotopes differ in",
+    "question": "Which is a non-metal element?",
     "options": [
-      "neutrons",
-      "protons",
-      "atomic number",
-      "properties"
+      "Gold",
+      "Iron",
+      "Iodine",
+      "Copper"
     ],
-    "answer": "neutrons"
+    "answer": "Iodine"
   },
   {
-    "question": "Alkene + H₂SO₄ (cold) →",
+    "question": "The atomic number of sodium is:",
     "options": [
-      "alkane",
-      "ether",
-      "alcohol",
-      "alkyl halide"
+      "12",
+      "11",
+      "9",
+      "10"
     ],
-    "answer": "alcohol"
+    "answer": "11"
   },
   {
-    "question": "Molar mass H₂SO₄",
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
     "options": [
-      "106",
-      "102",
-      "98",
-      "94"
+      "Ba(SO₄)₂",
+      "BaSO₄",
+      "Ba₂SO₄",
+      "NaCl"
     ],
-    "answer": "98"
+    "answer": "BaSO₄"
   },
   {
-    "question": "Oxidation state of N in NO₃⁻",
+    "question": "Which of these is a covalent compound?",
     "options": [
-      "-3",
-      "+5",
-      "-5",
-      "+3"
+      "CO₂",
+      "NaCl",
+      "KBr",
+      "MgO"
     ],
-    "answer": "+5"
+    "answer": "CO₂"
   },
   {
-    "question": "Lewis acid is",
+    "question": "The oxidation state of nitrogen in NO₂ is:",
     "options": [
-      "electron donor",
-      "proton donor",
-      "electron acceptor",
-      "base"
+      "+3",
+      "+4",
+      "+2",
+      "+5"
     ],
-    "answer": "electron acceptor"
+    "answer": "+4"
   },
   {
-    "question": "Solubility product Ksp describes",
+    "question": "Balance the equation: __Fe + __O₂ → __Fe₂O₃",
     "options": [
-      "molarity",
-      "temperature",
-      "saturation",
-      "pH"
+      "3, 1, 2",
+      "2, 1.5, 1",
+      "1, 2, 3",
+      "4, 3, 2"
     ],
-    "answer": "saturation"
+    "answer": "4, 3, 2"
   },
   {
-    "question": "Bond dissociation energy is",
+    "question": "Which is the pH range for a strong acid?",
     "options": [
-      "positive",
-      "zero",
-      "negative",
-      "variable"
+      "10-14",
+      "3-7",
+      "7-10",
+      "0-3"
     ],
-    "answer": "positive"
+    "answer": "0-3"
+  },
+  {
+    "question": "Calcium + water produces:",
+    "options": [
+      "CaCl + H",
+      "Ca + O₂",
+      "CaO + H₂",
+      "Ca(OH)₂ + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What is the valency of oxygen?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify the monomer of polythene:",
+    "options": [
+      "CH₄",
+      "C₂H₆",
+      "CH₂=CH₂",
+      "C"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute HCl?",
+    "options": [
+      "Cl₂",
+      "CO₂",
+      "O₂",
+      "H₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is:",
+    "options": [
+      "HSO₄",
+      "H₃SO₄",
+      "H₂SO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "options": [
+      "C₃H₈",
+      "C₂H₆",
+      "CH",
+      "CH₄"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "An exothermic reaction is one that:",
+    "options": [
+      "absorbs heat",
+      "has no heat change",
+      "releases heat",
+      "maintains heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Identify the reducing agent in 2H₂ + O₂ → 2H₂O:",
+    "options": [
+      "H₂",
+      "H₂O",
+      "O₂",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which is the formula for potassium nitrate?",
+    "options": [
+      "KNO₃",
+      "KNO₂",
+      "K₂NO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What is the electronic configuration of chlorine?",
+    "options": [
+      "2, 8, 6",
+      "2, 8, 8",
+      "2, 8, 7",
+      "2, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ammonia gas is produced when:",
+    "options": [
+      "ammonia is cooled",
+      "concentrated HNO₃ is heated",
+      "nitrogen reacts with oxygen",
+      "ammonium salts react with alkali"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The number of electrons in a neutral oxygen atom is:",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is the general formula for alkenes?",
+    "options": [
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₊₁"
+    ],
+    "answer": "CₙH₂ₙ"
+  },
+  {
+    "question": "Which is a non-metal element?",
+    "options": [
+      "Copper",
+      "Gold",
+      "Iron",
+      "Iodine"
+    ],
+    "answer": "Iodine"
+  },
+  {
+    "question": "The atomic number of sodium is:",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Identify the precipitate formed when BaCl₂ reacts with Na₂SO₄:",
+    "options": [
+      "BaSO₄",
+      "Ba₂SO₄",
+      "Ba(SO₄)₂",
+      "NaCl"
+    ],
+    "answer": "BaSO₄"
   }
 ]
