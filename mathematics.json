@@ -1,26 +1,226 @@
 [
   {
-    "question": "Solve x² - 5x + 6 = 0",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
       "x = 1, 5",
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 2, 6"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "145",
+      "155",
+      "175",
+      "165"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "36",
+      "18",
+      "27",
+      "9"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "8",
+      "4",
+      "2",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "5 cm²",
+      "8 cm²",
+      "6 cm²",
+      "7 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 2",
+      "x < 1",
+      "x < 4",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "3x² - 6x",
+      "6x - 3",
+      "6x² - 6x",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "0.5",
+      "0",
+      "1",
+      "√3/2"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "25π cm³",
+      "15π cm³",
+      "20π cm³",
+      "10π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = -1, y = 3",
+      "x = 3, y = -1",
+      "x = 1, y = 2",
+      "x = 2, y = 1"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.9",
+      "0.5",
+      "0.4",
+      "0.6"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 12x + 9",
+      "4x² + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "24 cm",
+      "8 cm",
+      "32 cm",
+      "16 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "n + d",
+      "a + n + d",
+      "a + nd",
+      "a + (n-1)d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 5",
+      "x = 4",
+      "x = 3",
+      "x = 6"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "30π cm",
+      "20π cm",
+      "5π cm",
+      "10π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 10",
+      "l = 7",
+      "l = 8",
+      "l = 9"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "1",
+      "√3",
+      "∞",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
       "x = 2, 6",
+      "x = 1, 5",
       "x = 1, 6",
       "x = 2, 3"
     ],
     "answer": "x = 2, 3"
   },
   {
-    "question": "Sum to 10th term: 2, 5, 8",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "165",
-      "155",
+      "175",
       "145",
-      "175"
+      "155",
+      "165"
     ],
     "answer": "155"
   },
   {
-    "question": "(2√3 + √3)²",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
       "9",
       "36",
@@ -30,17 +230,17 @@
     "answer": "27"
   },
   {
-    "question": "log₂ 16 = x, find x",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "8",
       "6",
+      "8",
       "2",
       "4"
     ],
     "answer": "4"
   },
   {
-    "question": "Area triangle 3,4,5 cm",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
       "7 cm²",
       "8 cm²",
@@ -50,57 +250,57 @@
     "answer": "6 cm²"
   },
   {
-    "question": "Solve 3x + 2 < 11",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "x < 3",
-      "x < 4",
+      "x < 1",
       "x < 2",
-      "x < 1"
+      "x < 4",
+      "x < 3"
     ],
     "answer": "x < 3"
   },
   {
-    "question": "Derivative: f(x) = 2x³ - 3x²",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
       "6x² - 3x",
-      "6x² - 6x",
       "6x - 3",
+      "6x² - 6x",
       "3x² - 6x"
     ],
     "answer": "6x² - 6x"
   },
   {
-    "question": "sin(30°)",
+    "question": "What is the value of sin(30°)?",
     "options": [
+      "1",
       "0",
       "0.5",
-      "1",
       "√3/2"
     ],
     "answer": "0.5"
   },
   {
-    "question": "Cylinder volume r=2, h=5",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "20π cm³",
+      "15π cm³",
       "25π cm³",
-      "10π cm³",
-      "15π cm³"
+      "20π cm³",
+      "10π cm³"
     ],
     "answer": "20π cm³"
   },
   {
-    "question": "2x + y = 5, x - y = 1",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "x=-1, y=3",
-      "x=3, y=-1",
-      "x=1, y=2",
-      "x=2, y=1"
+      "x = 1, y = 2",
+      "x = 2, y = 1",
+      "x = -1, y = 3",
+      "x = 3, y = -1"
     ],
-    "answer": "x=2, y=1"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "cos(θ) = 0.8, sin(θ)",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
       "0.4",
       "0.9",
@@ -110,87 +310,687 @@
     "answer": "0.6"
   },
   {
-    "question": "(2x + 3)²",
+    "question": "Expand (2x + 3)²",
     "options": [
       "4x² + 9",
       "2x² + 12x + 9",
-      "4x² + 12x + 9",
-      "4x + 9"
+      "4x + 9",
+      "4x² + 12x + 9"
     ],
     "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Square area 64 cm², perimeter",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
       "24 cm",
       "16 cm",
-      "32 cm",
-      "8 cm"
+      "8 cm",
+      "32 cm"
     ],
     "answer": "32 cm"
   },
   {
-    "question": "3ⁿ = 27, n = ",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "5",
       "4",
       "2",
+      "5",
       "3"
     ],
     "answer": "3"
   },
   {
-    "question": "10% of 500 + 20% of 200",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
       "90",
-      "120",
       "100",
+      "120",
       "110"
     ],
     "answer": "90"
   },
   {
-    "question": "nth term AP formula",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "a + (n-1)d",
-      "a + n + d",
       "n + d",
+      "a + nd",
+      "a + (n-1)d",
+      "a + n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 3",
+      "x = 6",
+      "x = 4",
+      "x = 5"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "5π cm",
+      "30π cm",
+      "20π cm",
+      "10π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 10",
+      "l = 9",
+      "l = 8",
+      "l = 7"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "√3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 1, 5",
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 2, 6"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "155",
+      "165",
+      "175",
+      "145"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "27",
+      "9",
+      "18",
+      "36"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "6 cm²",
+      "5 cm²",
+      "7 cm²",
+      "8 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 2",
+      "x < 1",
+      "x < 4",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x - 3",
+      "6x² - 3x",
+      "3x² - 6x",
+      "6x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "0",
+      "0.5",
+      "√3/2",
+      "1"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "20π cm³",
+      "25π cm³",
+      "10π cm³",
+      "15π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 2, y = 1",
+      "x = 3, y = -1",
+      "x = -1, y = 3",
+      "x = 1, y = 2"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.5",
+      "0.9",
+      "0.6",
+      "0.4"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 12x + 9",
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "8 cm",
+      "24 cm",
+      "16 cm",
+      "32 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "120",
+      "100",
+      "90",
+      "110"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "n + d",
+      "a + n + d",
+      "a + (n-1)d",
       "a + nd"
     ],
     "answer": "a + (n-1)d"
   },
   {
-    "question": "2^x = 32, x = ",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "6",
-      "5",
-      "4",
-      "3"
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = 3"
     ],
-    "answer": "5"
+    "answer": "x = 5"
   },
   {
-    "question": "Circle diameter 10cm, circumference",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
+      "30π cm",
       "5π cm",
       "20π cm",
-      "10π cm",
-      "30π cm"
+      "10π cm"
     ],
     "answer": "10π cm"
   },
   {
-    "question": "P = 2l + 2w, P=30, w=5, l",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "9",
-      "8",
-      "10",
-      "7"
+      "l = 8",
+      "l = 10",
+      "l = 9",
+      "l = 7"
     ],
-    "answer": "10"
+    "answer": "l = 10"
   },
   {
-    "question": "tan(45°)",
+    "question": "What is tan(45°)?",
+    "options": [
+      "∞",
+      "0",
+      "√3",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 1, 5",
+      "x = 2, 6"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "165",
+      "175",
+      "155",
+      "145"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "9",
+      "36",
+      "18",
+      "27"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "8 cm²",
+      "6 cm²",
+      "5 cm²",
+      "7 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 1",
+      "x < 2",
+      "x < 4",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "3x² - 6x",
+      "6x - 3",
+      "6x² - 6x",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "1",
+      "0.5",
+      "√3/2",
+      "0"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "10π cm³",
+      "20π cm³",
+      "25π cm³",
+      "15π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = -1, y = 3",
+      "x = 2, y = 1",
+      "x = 3, y = -1",
+      "x = 1, y = 2"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.6",
+      "0.4",
+      "0.5",
+      "0.9"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 9",
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "24 cm",
+      "32 cm",
+      "16 cm",
+      "8 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "120",
+      "100",
+      "110",
+      "90"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "a + n + d",
+      "a + (n-1)d",
+      "a + nd",
+      "n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 6",
+      "x = 5",
+      "x = 3",
+      "x = 4"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "10π cm",
+      "5π cm",
+      "30π cm",
+      "20π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 8",
+      "l = 7",
+      "l = 9",
+      "l = 10"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "∞",
+      "0",
+      "√3",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
+    "options": [
+      "x = 2, 3",
+      "x = 2, 6",
+      "x = 1, 6",
+      "x = 1, 5"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "165",
+      "155",
+      "175",
+      "145"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "36",
+      "27",
+      "9",
+      "18"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "7 cm²",
+      "5 cm²",
+      "8 cm²",
+      "6 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 2",
+      "x < 1",
+      "x < 4",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "6x² - 3x",
+      "6x² - 6x",
+      "6x - 3",
+      "3x² - 6x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "√3/2",
+      "0.5",
+      "1",
+      "0"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "25π cm³",
+      "20π cm³",
+      "10π cm³",
+      "15π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 2, y = 1",
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = -1, y = 3"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.5",
+      "0.4",
+      "0.6",
+      "0.9"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "2x² + 12x + 9",
+      "4x + 9",
+      "4x² + 9",
+      "4x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "8 cm",
+      "24 cm",
+      "32 cm",
+      "16 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "110",
+      "120",
+      "90",
+      "100"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "a + nd",
+      "a + (n-1)d",
+      "a + n + d",
+      "n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 4",
+      "x = 6",
+      "x = 3",
+      "x = 5"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "30π cm",
+      "5π cm",
+      "20π cm",
+      "10π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 10",
+      "l = 8",
+      "l = 7",
+      "l = 9"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
     "options": [
       "0",
       "1",
@@ -200,2803 +1000,2003 @@
     "answer": "1"
   },
   {
-    "question": "5x² - 3x - 2 = 0",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "x=-1,2/5",
-      "x=1,-2/5",
-      "x=2,-1/5",
-      "x=1/2,-2"
+      "x = 2, 6",
+      "x = 1, 5",
+      "x = 1, 6",
+      "x = 2, 3"
     ],
-    "answer": "x=1,-2/5"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Mean of 2,4,6,8,10",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "6",
-      "5",
-      "7",
-      "8"
+      "165",
+      "155",
+      "175",
+      "145"
     ],
-    "answer": "6"
+    "answer": "155"
   },
   {
-    "question": "x² - 9 = 0",
-    "options": [
-      "x=9",
-      "x=-3",
-      "x=3",
-      "x=±3"
-    ],
-    "answer": "x=±3"
-  },
-  {
-    "question": "a:b=2:3, b:c=4:5, a:c",
-    "options": [
-      "3:5",
-      "8:15",
-      "4:6",
-      "2:5"
-    ],
-    "answer": "8:15"
-  },
-  {
-    "question": "Red card from 52",
-    "options": [
-      "13/52",
-      "1/2",
-      "1/4",
-      "1/26"
-    ],
-    "answer": "1/2"
-  },
-  {
-    "question": "Median 3,7,5,9,1",
-    "options": [
-      "8",
-      "6",
-      "7",
-      "5"
-    ],
-    "answer": "5"
-  },
-  {
-    "question": "|x - 3| = 5",
-    "options": [
-      "x=-8,-2",
-      "x=8,2",
-      "x=8,-2",
-      "x=-8,2"
-    ],
-    "answer": "x=8,-2"
-  },
-  {
-    "question": "Mode 1,2,2,3,3,3,4",
-    "options": [
-      "2",
-      "4",
-      "1",
-      "3"
-    ],
-    "answer": "3"
-  },
-  {
-    "question": "f(x) = x² + 1, f(3)",
-    "options": [
-      "9",
-      "12",
-      "10",
-      "11"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "Inverse f(x) = 2x + 1",
-    "options": [
-      "2x-1",
-      "(x-1)/2",
-      "x/2-1",
-      "(x+1)/2"
-    ],
-    "answer": "(x-1)/2"
-  },
-  {
-    "question": "4x² = 16",
-    "options": [
-      "x=4",
-      "x=2",
-      "x=-2",
-      "x=±2"
-    ],
-    "answer": "x=±2"
-  },
-  {
-    "question": "y = 2x + 3 cuts y-axis",
-    "options": [
-      "(0,2)",
-      "(2,0)",
-      "(0,3)",
-      "(3,0)"
-    ],
-    "answer": "(0,3)"
-  },
-  {
-    "question": "Midpoint (2,3) & (4,7)",
-    "options": [
-      "(1,2)",
-      "(4,6)",
-      "(2,4)",
-      "(3,5)"
-    ],
-    "answer": "(3,5)"
-  },
-  {
-    "question": "Distance (0,0) & (3,4)",
-    "options": [
-      "8",
-      "5",
-      "6",
-      "7"
-    ],
-    "answer": "5"
-  },
-  {
-    "question": "Gradient (0,0) & (2,4)",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "y = 3x - 2, gradient",
-    "options": [
-      "2",
-      "3",
-      "-3",
-      "-2"
-    ],
-    "answer": "3"
-  },
-  {
-    "question": "cos(60°)",
-    "options": [
-      "√3/2",
-      "0",
-      "1/2",
-      "1"
-    ],
-    "answer": "1/2"
-  },
-  {
-    "question": "sin(45°)",
-    "options": [
-      "√2/2",
-      "1/2",
-      "√3/2",
-      "1"
-    ],
-    "answer": "√2/2"
-  },
-  {
-    "question": "tan(60°)",
-    "options": [
-      "√3",
-      "1",
-      "2",
-      "1/√3"
-    ],
-    "answer": "√3"
-  },
-  {
-    "question": "Arithmetic mean 10,20,30",
-    "options": [
-      "25",
-      "30",
-      "20",
-      "15"
-    ],
-    "answer": "20"
-  },
-  {
-    "question": "Harmonic mean formula",
-    "options": [
-      "2ab/(a+b)",
-      "ab/(a+b)",
-      "(a+b)/2",
-      "√(ab)"
-    ],
-    "answer": "2ab/(a+b)"
-  },
-  {
-    "question": "Geometric mean 4 & 9",
-    "options": [
-      "7",
-      "6.5",
-      "6",
-      "5"
-    ],
-    "answer": "6"
-  },
-  {
-    "question": "HCF 12 & 18",
-    "options": [
-      "6",
-      "2",
-      "12",
-      "3"
-    ],
-    "answer": "6"
-  },
-  {
-    "question": "LCM 12 & 18",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
       "36",
-      "108",
-      "72",
-      "144"
+      "18",
+      "27",
+      "9"
     ],
-    "answer": "36"
+    "answer": "27"
   },
   {
-    "question": "∫(3x² + 2x - 1)dx 0 to 2",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "10",
-      "12",
-      "6",
-      "8"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "sin(60°)",
-    "options": [
-      "√2/2",
-      "1/2",
-      "1",
-      "√3/2"
-    ],
-    "answer": "√3/2"
-  },
-  {
-    "question": "cos(45°)",
-    "options": [
-      "√3/2",
-      "1/2",
-      "√2/2",
-      "1"
-    ],
-    "answer": "√2/2"
-  },
-  {
-    "question": "Vector magnitude (3,4)",
-    "options": [
-      "7",
-      "5",
       "8",
-      "6"
+      "4",
+      "6",
+      "2"
     ],
-    "answer": "5"
+    "answer": "4"
   },
   {
-    "question": "Line y = x + 2, slope",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "8 cm²",
+      "7 cm²",
+      "5 cm²",
+      "6 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 4",
+      "x < 1",
+      "x < 3",
+      "x < 2"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "3x² - 6x",
+      "6x - 3",
+      "6x² - 6x",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
     "options": [
       "1",
+      "√3/2",
       "0",
-      "-1",
-      "2"
+      "0.5"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "10π cm³",
+      "25π cm³",
+      "15π cm³",
+      "20π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = -1, y = 3",
+      "x = 1, y = 2",
+      "x = 2, y = 1",
+      "x = 3, y = -1"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.9",
+      "0.4",
+      "0.5",
+      "0.6"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "2x² + 12x + 9",
+      "4x² + 9",
+      "4x + 9",
+      "4x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "32 cm",
+      "24 cm",
+      "16 cm",
+      "8 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 10% of 500 + 20% of 200",
+    "options": [
+      "110",
+      "120",
+      "90",
+      "100"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is the formula for the nth term of an arithmetic progression?",
+    "options": [
+      "n + d",
+      "a + (n-1)d",
+      "a + nd",
+      "a + n + d"
+    ],
+    "answer": "a + (n-1)d"
+  },
+  {
+    "question": "Solve: 2^x = 32",
+    "options": [
+      "x = 4",
+      "x = 6",
+      "x = 3",
+      "x = 5"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "Find the circumference of a circle with diameter 10cm",
+    "options": [
+      "20π cm",
+      "10π cm",
+      "5π cm",
+      "30π cm"
+    ],
+    "answer": "10π cm"
+  },
+  {
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
+    "options": [
+      "l = 9",
+      "l = 7",
+      "l = 8",
+      "l = 10"
+    ],
+    "answer": "l = 10"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "0",
+      "∞",
+      "√3",
+      "1"
     ],
     "answer": "1"
   },
   {
-    "question": "Circle x² + y² = 25, radius",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "√5",
-      "50",
+      "x = 2, 3",
+      "x = 1, 6",
+      "x = 1, 5",
+      "x = 2, 6"
+    ],
+    "answer": "x = 2, 3"
+  },
+  {
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
+    "options": [
+      "155",
+      "175",
+      "165",
+      "145"
+    ],
+    "answer": "155"
+  },
+  {
+    "question": "Simplify: (2√3 + √3)²",
+    "options": [
+      "36",
+      "18",
+      "9",
+      "27"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "If log₂ 16 = x, find x",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
+    "options": [
+      "5 cm²",
+      "6 cm²",
+      "7 cm²",
+      "8 cm²"
+    ],
+    "answer": "6 cm²"
+  },
+  {
+    "question": "Solve: 3x + 2 < 11",
+    "options": [
+      "x < 2",
+      "x < 4",
+      "x < 1",
+      "x < 3"
+    ],
+    "answer": "x < 3"
+  },
+  {
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "options": [
+      "3x² - 6x",
+      "6x² - 6x",
+      "6x - 3",
+      "6x² - 3x"
+    ],
+    "answer": "6x² - 6x"
+  },
+  {
+    "question": "What is the value of sin(30°)?",
+    "options": [
+      "√3/2",
+      "0",
+      "1",
+      "0.5"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
+    "options": [
+      "20π cm³",
+      "25π cm³",
+      "15π cm³",
+      "10π cm³"
+    ],
+    "answer": "20π cm³"
+  },
+  {
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
+    "options": [
+      "x = 1, y = 2",
+      "x = 2, y = 1",
+      "x = 3, y = -1",
+      "x = -1, y = 3"
+    ],
+    "answer": "x = 2, y = 1"
+  },
+  {
+    "question": "If cos(θ) = 0.8, find sin(θ)",
+    "options": [
+      "0.9",
+      "0.4",
+      "0.5",
+      "0.6"
+    ],
+    "answer": "0.6"
+  },
+  {
+    "question": "Expand (2x + 3)²",
+    "options": [
+      "4x² + 12x + 9",
+      "4x² + 9",
+      "4x + 9",
+      "2x² + 12x + 9"
+    ],
+    "answer": "4x² + 12x + 9"
+  },
+  {
+    "question": "Find the perimeter of a square with area 64 cm²",
+    "options": [
+      "16 cm",
+      "8 cm",
+      "32 cm",
+      "24 cm"
+    ],
+    "answer": "32 cm"
+  },
+  {
+    "question": "If 3ⁿ = 27, find n",
+    "options": [
       "5",
-      "25"
+      "3",
+      "4",
+      "2"
     ],
-    "answer": "5"
+    "answer": "3"
   },
   {
-    "question": "Expand (x + 2)(x + 3)",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "x² + 2x + 6",
-      "x² + 5x + 6",
-      "x² + 6x + 5",
-      "x² + 3x + 2"
+      "120",
+      "110",
+      "90",
+      "100"
     ],
-    "answer": "x² + 5x + 6"
+    "answer": "90"
   },
   {
-    "question": "Math Q 50",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "a + (n-1)d",
+      "a + n + d",
+      "n + d",
+      "a + nd"
     ],
-    "answer": "A"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "Math Q 51",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "x = 6",
+      "x = 5",
+      "x = 4",
+      "x = 3"
     ],
-    "answer": "A"
+    "answer": "x = 5"
   },
   {
-    "question": "Math Q 52",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "10π cm",
+      "20π cm",
+      "5π cm",
+      "30π cm"
     ],
-    "answer": "A"
+    "answer": "10π cm"
   },
   {
-    "question": "Math Q 53",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "l = 8",
+      "l = 10",
+      "l = 7",
+      "l = 9"
     ],
-    "answer": "A"
+    "answer": "l = 10"
   },
   {
-    "question": "Math Q 54",
+    "question": "What is tan(45°)?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "∞",
+      "0",
+      "√3",
+      "1"
     ],
-    "answer": "A"
+    "answer": "1"
   },
   {
-    "question": "Math Q 55",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "x = 2, 6",
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 1, 5"
     ],
-    "answer": "A"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Math Q 56",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "165",
+      "145",
+      "175",
+      "155"
     ],
-    "answer": "A"
+    "answer": "155"
   },
   {
-    "question": "Math Q 57",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "27",
+      "18",
+      "9",
+      "36"
     ],
-    "answer": "A"
+    "answer": "27"
   },
   {
-    "question": "Math Q 58",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "6",
+      "2",
+      "8",
+      "4"
     ],
-    "answer": "A"
+    "answer": "4"
   },
   {
-    "question": "Math Q 59",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "6 cm²",
+      "8 cm²",
+      "7 cm²",
+      "5 cm²"
     ],
-    "answer": "A"
+    "answer": "6 cm²"
   },
   {
-    "question": "Math Q 60",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "x < 1",
+      "x < 3",
+      "x < 4",
+      "x < 2"
     ],
-    "answer": "A"
+    "answer": "x < 3"
   },
   {
-    "question": "Math Q 61",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "3x² - 6x",
+      "6x² - 3x",
+      "6x - 3",
+      "6x² - 6x"
     ],
-    "answer": "A"
+    "answer": "6x² - 6x"
   },
   {
-    "question": "Math Q 62",
+    "question": "What is the value of sin(30°)?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "0.5",
+      "√3/2",
+      "1",
+      "0"
     ],
-    "answer": "A"
+    "answer": "0.5"
   },
   {
-    "question": "Math Q 63",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "15π cm³",
+      "20π cm³",
+      "25π cm³",
+      "10π cm³"
     ],
-    "answer": "A"
+    "answer": "20π cm³"
   },
   {
-    "question": "Math Q 64",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = -1, y = 3",
+      "x = 2, y = 1"
     ],
-    "answer": "A"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Math Q 65",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "0.6",
+      "0.5",
+      "0.9",
+      "0.4"
     ],
-    "answer": "A"
+    "answer": "0.6"
   },
   {
-    "question": "Math Q 66",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "4x² + 9",
+      "4x² + 12x + 9",
+      "2x² + 12x + 9",
+      "4x + 9"
     ],
-    "answer": "A"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Math Q 67",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "32 cm",
+      "24 cm",
+      "8 cm",
+      "16 cm"
     ],
-    "answer": "A"
+    "answer": "32 cm"
   },
   {
-    "question": "Math Q 68",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "5",
+      "4",
+      "2",
+      "3"
     ],
-    "answer": "A"
+    "answer": "3"
   },
   {
-    "question": "Math Q 69",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "90",
+      "100",
+      "110",
+      "120"
     ],
-    "answer": "A"
+    "answer": "90"
   },
   {
-    "question": "Math Q 70",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "n + d",
+      "a + n + d",
+      "a + (n-1)d",
+      "a + nd"
     ],
-    "answer": "A"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "Math Q 71",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "x = 6",
+      "x = 4",
+      "x = 5",
+      "x = 3"
     ],
-    "answer": "A"
+    "answer": "x = 5"
   },
   {
-    "question": "Math Q 72",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "20π cm",
+      "10π cm",
+      "5π cm",
+      "30π cm"
     ],
-    "answer": "A"
+    "answer": "10π cm"
   },
   {
-    "question": "Math Q 73",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "l = 10",
+      "l = 8",
+      "l = 9",
+      "l = 7"
     ],
-    "answer": "A"
+    "answer": "l = 10"
   },
   {
-    "question": "Math Q 74",
+    "question": "What is tan(45°)?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "∞",
+      "1",
+      "0",
+      "√3"
     ],
-    "answer": "A"
+    "answer": "1"
   },
   {
-    "question": "Math Q 75",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "x = 2, 3",
+      "x = 2, 6",
+      "x = 1, 5",
+      "x = 1, 6"
     ],
-    "answer": "A"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Math Q 76",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "165",
+      "175",
+      "145",
+      "155"
     ],
-    "answer": "A"
+    "answer": "155"
   },
   {
-    "question": "Math Q 77",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "9",
+      "36",
+      "27",
+      "18"
     ],
-    "answer": "A"
+    "answer": "27"
   },
   {
-    "question": "Math Q 78",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "6",
+      "4",
+      "8",
+      "2"
     ],
-    "answer": "A"
+    "answer": "4"
   },
   {
-    "question": "Math Q 79",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "7 cm²",
+      "6 cm²",
+      "5 cm²",
+      "8 cm²"
     ],
-    "answer": "A"
+    "answer": "6 cm²"
   },
   {
-    "question": "Math Q 80",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "x < 3",
+      "x < 2",
+      "x < 4",
+      "x < 1"
     ],
-    "answer": "A"
+    "answer": "x < 3"
   },
   {
-    "question": "Math Q 81",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "6x² - 6x",
+      "6x² - 3x",
+      "3x² - 6x",
+      "6x - 3"
     ],
-    "answer": "A"
+    "answer": "6x² - 6x"
   },
   {
-    "question": "Math Q 82",
+    "question": "What is the value of sin(30°)?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "1",
+      "0",
+      "0.5",
+      "√3/2"
     ],
-    "answer": "A"
+    "answer": "0.5"
   },
   {
-    "question": "Math Q 83",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "15π cm³",
+      "10π cm³",
+      "25π cm³",
+      "20π cm³"
     ],
-    "answer": "A"
+    "answer": "20π cm³"
   },
   {
-    "question": "Math Q 84",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = 2, y = 1",
+      "x = -1, y = 3"
     ],
-    "answer": "A"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Math Q 85",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "0.5",
+      "0.9",
+      "0.4",
+      "0.6"
     ],
-    "answer": "A"
+    "answer": "0.6"
   },
   {
-    "question": "Math Q 86",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "4x² + 9",
+      "2x² + 12x + 9",
+      "4x² + 12x + 9",
+      "4x + 9"
     ],
-    "answer": "A"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Math Q 87",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "8 cm",
+      "24 cm",
+      "16 cm",
+      "32 cm"
     ],
-    "answer": "A"
+    "answer": "32 cm"
   },
   {
-    "question": "Math Q 88",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "2",
+      "5",
+      "3",
+      "4"
     ],
-    "answer": "A"
+    "answer": "3"
   },
   {
-    "question": "Math Q 89",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "110",
+      "120",
+      "90",
+      "100"
     ],
-    "answer": "A"
+    "answer": "90"
   },
   {
-    "question": "Math Q 90",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "n + d",
+      "a + (n-1)d",
+      "a + nd",
+      "a + n + d"
     ],
-    "answer": "A"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "Math Q 91",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "x = 6",
+      "x = 4",
+      "x = 3",
+      "x = 5"
     ],
-    "answer": "A"
+    "answer": "x = 5"
   },
   {
-    "question": "Math Q 92",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "30π cm",
+      "20π cm",
+      "10π cm",
+      "5π cm"
     ],
-    "answer": "A"
+    "answer": "10π cm"
   },
   {
-    "question": "Math Q 93",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "l = 8",
+      "l = 9",
+      "l = 7",
+      "l = 10"
     ],
-    "answer": "A"
+    "answer": "l = 10"
   },
   {
-    "question": "Math Q 94",
+    "question": "What is tan(45°)?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "√3",
+      "0",
+      "∞",
+      "1"
     ],
-    "answer": "A"
+    "answer": "1"
   },
   {
-    "question": "Math Q 95",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "x = 1, 6",
+      "x = 1, 5",
+      "x = 2, 3",
+      "x = 2, 6"
     ],
-    "answer": "A"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Math Q 96",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "165",
+      "175",
+      "145",
+      "155"
     ],
-    "answer": "A"
+    "answer": "155"
   },
   {
-    "question": "Math Q 97",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "36",
+      "27",
+      "18",
+      "9"
     ],
-    "answer": "A"
+    "answer": "27"
   },
   {
-    "question": "Math Q 98",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "2",
+      "8",
+      "6",
+      "4"
     ],
-    "answer": "A"
+    "answer": "4"
   },
   {
-    "question": "Math Q 99",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "7 cm²",
+      "8 cm²",
+      "5 cm²",
+      "6 cm²"
     ],
-    "answer": "A"
+    "answer": "6 cm²"
   },
   {
-    "question": "Math Q 100",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "x < 3",
+      "x < 4",
+      "x < 2",
+      "x < 1"
     ],
-    "answer": "A"
+    "answer": "x < 3"
   },
   {
-    "question": "Math Q 101",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "6x - 3",
+      "3x² - 6x",
+      "6x² - 6x",
+      "6x² - 3x"
     ],
-    "answer": "A"
+    "answer": "6x² - 6x"
   },
   {
-    "question": "Math Q 102",
+    "question": "What is the value of sin(30°)?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "1",
+      "√3/2",
+      "0",
+      "0.5"
     ],
-    "answer": "A"
+    "answer": "0.5"
   },
   {
-    "question": "Math Q 103",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "10π cm³",
+      "25π cm³",
+      "20π cm³",
+      "15π cm³"
     ],
-    "answer": "A"
+    "answer": "20π cm³"
   },
   {
-    "question": "Math Q 104",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "x = -1, y = 3",
+      "x = 3, y = -1",
+      "x = 1, y = 2",
+      "x = 2, y = 1"
     ],
-    "answer": "A"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Math Q 105",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "0.6",
+      "0.5",
+      "0.9",
+      "0.4"
     ],
-    "answer": "A"
+    "answer": "0.6"
   },
   {
-    "question": "Math Q 106",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "4x² + 12x + 9",
+      "2x² + 12x + 9",
+      "4x² + 9",
+      "4x + 9"
     ],
-    "answer": "A"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Math Q 107",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "32 cm",
+      "16 cm",
+      "24 cm",
+      "8 cm"
     ],
-    "answer": "A"
+    "answer": "32 cm"
   },
   {
-    "question": "Math Q 108",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "3",
+      "4",
+      "2",
+      "5"
     ],
-    "answer": "A"
+    "answer": "3"
   },
   {
-    "question": "Math Q 109",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "90",
+      "100",
+      "120",
+      "110"
     ],
-    "answer": "A"
+    "answer": "90"
   },
   {
-    "question": "Math Q 110",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "n + d",
+      "a + (n-1)d",
+      "a + n + d",
+      "a + nd"
     ],
-    "answer": "A"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "Math Q 111",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "x = 5",
+      "x = 4",
+      "x = 6",
+      "x = 3"
     ],
-    "answer": "A"
+    "answer": "x = 5"
   },
   {
-    "question": "Math Q 112",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "5π cm",
+      "30π cm",
+      "10π cm",
+      "20π cm"
     ],
-    "answer": "A"
+    "answer": "10π cm"
   },
   {
-    "question": "Math Q 113",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "l = 10",
+      "l = 7",
+      "l = 8",
+      "l = 9"
     ],
-    "answer": "A"
+    "answer": "l = 10"
   },
   {
-    "question": "Math Q 114",
+    "question": "What is tan(45°)?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "0",
+      "∞",
+      "1",
+      "√3"
     ],
-    "answer": "A"
+    "answer": "1"
   },
   {
-    "question": "Math Q 115",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "x = 2, 6",
+      "x = 1, 5",
+      "x = 2, 3",
+      "x = 1, 6"
     ],
-    "answer": "A"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Math Q 116",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "145",
+      "175",
+      "155",
+      "165"
     ],
-    "answer": "A"
+    "answer": "155"
   },
   {
-    "question": "Math Q 117",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "9",
+      "36",
+      "18",
+      "27"
     ],
-    "answer": "A"
+    "answer": "27"
   },
   {
-    "question": "Math Q 118",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "6",
+      "2",
+      "8",
+      "4"
     ],
-    "answer": "A"
+    "answer": "4"
   },
   {
-    "question": "Math Q 119",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "5 cm²",
+      "7 cm²",
+      "6 cm²",
+      "8 cm²"
     ],
-    "answer": "A"
+    "answer": "6 cm²"
   },
   {
-    "question": "Math Q 120",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "x < 1",
+      "x < 2",
+      "x < 3",
+      "x < 4"
     ],
-    "answer": "A"
+    "answer": "x < 3"
   },
   {
-    "question": "Math Q 121",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "6x - 3",
+      "6x² - 6x",
+      "3x² - 6x",
+      "6x² - 3x"
     ],
-    "answer": "A"
+    "answer": "6x² - 6x"
   },
   {
-    "question": "Math Q 122",
+    "question": "What is the value of sin(30°)?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "0.5",
+      "0",
+      "1",
+      "√3/2"
     ],
-    "answer": "A"
+    "answer": "0.5"
   },
   {
-    "question": "Math Q 123",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "15π cm³",
+      "25π cm³",
+      "10π cm³",
+      "20π cm³"
     ],
-    "answer": "A"
+    "answer": "20π cm³"
   },
   {
-    "question": "Math Q 124",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "x = 2, y = 1",
+      "x = -1, y = 3",
+      "x = 1, y = 2",
+      "x = 3, y = -1"
     ],
-    "answer": "A"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Math Q 125",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "0.9",
+      "0.5",
+      "0.6",
+      "0.4"
     ],
-    "answer": "A"
+    "answer": "0.6"
   },
   {
-    "question": "Math Q 126",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "4x² + 12x + 9",
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 9"
     ],
-    "answer": "A"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Math Q 127",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "32 cm",
+      "24 cm",
+      "8 cm",
+      "16 cm"
     ],
-    "answer": "A"
+    "answer": "32 cm"
   },
   {
-    "question": "Math Q 128",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "2",
+      "3",
+      "4",
+      "5"
     ],
-    "answer": "A"
+    "answer": "3"
   },
   {
-    "question": "Math Q 129",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "110",
+      "100",
+      "90",
+      "120"
     ],
-    "answer": "A"
+    "answer": "90"
   },
   {
-    "question": "Math Q 130",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "a + nd",
+      "a + (n-1)d",
+      "a + n + d",
+      "n + d"
     ],
-    "answer": "A"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "Math Q 131",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "x = 3",
+      "x = 6",
+      "x = 5",
+      "x = 4"
     ],
-    "answer": "A"
+    "answer": "x = 5"
   },
   {
-    "question": "Math Q 132",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "30π cm",
+      "5π cm",
+      "20π cm",
+      "10π cm"
     ],
-    "answer": "A"
+    "answer": "10π cm"
   },
   {
-    "question": "Math Q 133",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "l = 8",
+      "l = 9",
+      "l = 7",
+      "l = 10"
     ],
-    "answer": "A"
+    "answer": "l = 10"
   },
   {
-    "question": "Math Q 134",
+    "question": "What is tan(45°)?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "0",
+      "1",
+      "∞",
+      "√3"
     ],
-    "answer": "A"
+    "answer": "1"
   },
   {
-    "question": "Math Q 135",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "x = 1, 5",
+      "x = 1, 6",
+      "x = 2, 3",
+      "x = 2, 6"
     ],
-    "answer": "A"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Math Q 136",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "155",
+      "145",
+      "165",
+      "175"
     ],
-    "answer": "A"
+    "answer": "155"
   },
   {
-    "question": "Math Q 137",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "27",
+      "36",
+      "18",
+      "9"
     ],
-    "answer": "A"
+    "answer": "27"
   },
   {
-    "question": "Math Q 138",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "6",
+      "8",
+      "2",
+      "4"
     ],
-    "answer": "A"
+    "answer": "4"
   },
   {
-    "question": "Math Q 139",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "5 cm²",
+      "8 cm²",
+      "7 cm²",
+      "6 cm²"
     ],
-    "answer": "A"
+    "answer": "6 cm²"
   },
   {
-    "question": "Math Q 140",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "x < 1",
+      "x < 2",
+      "x < 3",
+      "x < 4"
     ],
-    "answer": "A"
+    "answer": "x < 3"
   },
   {
-    "question": "Math Q 141",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "6x² - 3x",
+      "6x - 3",
+      "3x² - 6x",
+      "6x² - 6x"
     ],
-    "answer": "A"
+    "answer": "6x² - 6x"
   },
   {
-    "question": "Math Q 142",
+    "question": "What is the value of sin(30°)?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "1",
+      "0",
+      "0.5",
+      "√3/2"
     ],
-    "answer": "A"
+    "answer": "0.5"
   },
   {
-    "question": "Math Q 143",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "25π cm³",
+      "20π cm³",
+      "15π cm³",
+      "10π cm³"
     ],
-    "answer": "A"
+    "answer": "20π cm³"
   },
   {
-    "question": "Math Q 144",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "x = 2, y = 1",
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = -1, y = 3"
     ],
-    "answer": "A"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Math Q 145",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "0.6",
+      "0.4",
+      "0.9",
+      "0.5"
     ],
-    "answer": "A"
+    "answer": "0.6"
   },
   {
-    "question": "Math Q 146",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "4x² + 12x + 9",
+      "4x + 9",
+      "4x² + 9",
+      "2x² + 12x + 9"
     ],
-    "answer": "A"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Math Q 147",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "24 cm",
+      "32 cm",
+      "8 cm",
+      "16 cm"
     ],
-    "answer": "A"
+    "answer": "32 cm"
   },
   {
-    "question": "Math Q 148",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "3",
+      "5",
+      "2",
+      "4"
     ],
-    "answer": "A"
+    "answer": "3"
   },
   {
-    "question": "Math Q 149",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "90",
+      "120",
+      "100",
+      "110"
     ],
-    "answer": "A"
+    "answer": "90"
   },
   {
-    "question": "Math Q 150",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "a + nd",
+      "a + (n-1)d",
+      "n + d",
+      "a + n + d"
     ],
-    "answer": "A"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "Math Q 151",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "x = 4",
+      "x = 5",
+      "x = 6",
+      "x = 3"
     ],
-    "answer": "A"
+    "answer": "x = 5"
   },
   {
-    "question": "Math Q 152",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "20π cm",
+      "5π cm",
+      "10π cm",
+      "30π cm"
     ],
-    "answer": "A"
+    "answer": "10π cm"
   },
   {
-    "question": "Math Q 153",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "l = 9",
+      "l = 8",
+      "l = 7",
+      "l = 10"
     ],
-    "answer": "A"
+    "answer": "l = 10"
   },
   {
-    "question": "Math Q 154",
+    "question": "What is tan(45°)?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "0",
+      "1",
+      "∞",
+      "√3"
     ],
-    "answer": "A"
+    "answer": "1"
   },
   {
-    "question": "Math Q 155",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "x = 1, 6",
+      "x = 2, 6",
+      "x = 1, 5",
+      "x = 2, 3"
     ],
-    "answer": "A"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Math Q 156",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "155",
+      "165",
+      "145",
+      "175"
     ],
-    "answer": "A"
+    "answer": "155"
   },
   {
-    "question": "Math Q 157",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "9",
+      "36",
+      "18",
+      "27"
     ],
-    "answer": "A"
+    "answer": "27"
   },
   {
-    "question": "Math Q 158",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "4",
+      "6",
+      "8",
+      "2"
     ],
-    "answer": "A"
+    "answer": "4"
   },
   {
-    "question": "Math Q 159",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "5 cm²",
+      "8 cm²",
+      "7 cm²",
+      "6 cm²"
     ],
-    "answer": "A"
+    "answer": "6 cm²"
   },
   {
-    "question": "Math Q 160",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "x < 4",
+      "x < 2",
+      "x < 1",
+      "x < 3"
     ],
-    "answer": "A"
+    "answer": "x < 3"
   },
   {
-    "question": "Math Q 161",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "6x² - 3x",
+      "6x - 3",
+      "3x² - 6x",
+      "6x² - 6x"
     ],
-    "answer": "A"
+    "answer": "6x² - 6x"
   },
   {
-    "question": "Math Q 162",
+    "question": "What is the value of sin(30°)?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "0.5",
+      "√3/2",
+      "1",
+      "0"
     ],
-    "answer": "A"
+    "answer": "0.5"
   },
   {
-    "question": "Math Q 163",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "15π cm³",
+      "25π cm³",
+      "20π cm³",
+      "10π cm³"
     ],
-    "answer": "A"
+    "answer": "20π cm³"
   },
   {
-    "question": "Math Q 164",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "x = 3, y = -1",
+      "x = 2, y = 1",
+      "x = 1, y = 2",
+      "x = -1, y = 3"
     ],
-    "answer": "A"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Math Q 165",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "0.9",
+      "0.6",
+      "0.5",
+      "0.4"
     ],
-    "answer": "A"
+    "answer": "0.6"
   },
   {
-    "question": "Math Q 166",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "2x² + 12x + 9",
+      "4x + 9",
+      "4x² + 9",
+      "4x² + 12x + 9"
     ],
-    "answer": "A"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Math Q 167",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "16 cm",
+      "8 cm",
+      "32 cm",
+      "24 cm"
     ],
-    "answer": "A"
+    "answer": "32 cm"
   },
   {
-    "question": "Math Q 168",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "4",
+      "3",
+      "5",
+      "2"
     ],
-    "answer": "A"
+    "answer": "3"
   },
   {
-    "question": "Math Q 169",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "110",
+      "120",
+      "90",
+      "100"
     ],
-    "answer": "A"
+    "answer": "90"
   },
   {
-    "question": "Math Q 170",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "a + n + d",
+      "n + d",
+      "a + (n-1)d",
+      "a + nd"
     ],
-    "answer": "A"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "Math Q 171",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "x = 5",
+      "x = 6",
+      "x = 4",
+      "x = 3"
     ],
-    "answer": "A"
+    "answer": "x = 5"
   },
   {
-    "question": "Math Q 172",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "5π cm",
+      "30π cm",
+      "10π cm",
+      "20π cm"
     ],
-    "answer": "A"
+    "answer": "10π cm"
   },
   {
-    "question": "Math Q 173",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "l = 7",
+      "l = 8",
+      "l = 9",
+      "l = 10"
     ],
-    "answer": "A"
+    "answer": "l = 10"
   },
   {
-    "question": "Math Q 174",
+    "question": "What is tan(45°)?",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "0",
+      "√3",
+      "∞",
+      "1"
     ],
-    "answer": "A"
+    "answer": "1"
   },
   {
-    "question": "Math Q 175",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "x = 1, 6",
+      "x = 1, 5",
+      "x = 2, 6",
+      "x = 2, 3"
     ],
-    "answer": "A"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Math Q 176",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "175",
+      "155",
+      "165",
+      "145"
     ],
-    "answer": "A"
+    "answer": "155"
   },
   {
-    "question": "Math Q 177",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "9",
+      "36",
+      "27",
+      "18"
     ],
-    "answer": "A"
+    "answer": "27"
   },
   {
-    "question": "Math Q 178",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "2",
+      "4",
+      "8",
+      "6"
     ],
-    "answer": "A"
+    "answer": "4"
   },
   {
-    "question": "Math Q 179",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "7 cm²",
+      "6 cm²",
+      "8 cm²",
+      "5 cm²"
     ],
-    "answer": "A"
+    "answer": "6 cm²"
   },
   {
-    "question": "Math Q 180",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "x < 2",
+      "x < 3",
+      "x < 4",
+      "x < 1"
     ],
-    "answer": "A"
+    "answer": "x < 3"
   },
   {
-    "question": "Math Q 181",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "6x - 3",
+      "3x² - 6x",
+      "6x² - 3x",
+      "6x² - 6x"
     ],
-    "answer": "A"
+    "answer": "6x² - 6x"
   },
   {
-    "question": "Math Q 182",
+    "question": "What is the value of sin(30°)?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "0.5",
+      "0",
+      "√3/2",
+      "1"
     ],
-    "answer": "A"
+    "answer": "0.5"
   },
   {
-    "question": "Math Q 183",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "25π cm³",
+      "20π cm³",
+      "10π cm³",
+      "15π cm³"
     ],
-    "answer": "A"
+    "answer": "20π cm³"
   },
   {
-    "question": "Math Q 184",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "x = -1, y = 3",
+      "x = 1, y = 2",
+      "x = 3, y = -1",
+      "x = 2, y = 1"
     ],
-    "answer": "A"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Math Q 185",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "0.4",
+      "0.9",
+      "0.6",
+      "0.5"
     ],
-    "answer": "A"
+    "answer": "0.6"
   },
   {
-    "question": "Math Q 186",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "4x² + 12x + 9",
+      "4x² + 9",
+      "4x + 9",
+      "2x² + 12x + 9"
     ],
-    "answer": "A"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Math Q 187",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "32 cm",
+      "8 cm",
+      "16 cm",
+      "24 cm"
     ],
-    "answer": "A"
+    "answer": "32 cm"
   },
   {
-    "question": "Math Q 188",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "2",
+      "5",
+      "3",
+      "4"
     ],
-    "answer": "A"
+    "answer": "3"
   },
   {
-    "question": "Math Q 189",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "110",
+      "100",
+      "90",
+      "120"
     ],
-    "answer": "A"
+    "answer": "90"
   },
   {
-    "question": "Math Q 190",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "a + nd",
+      "a + (n-1)d",
+      "a + n + d",
+      "n + d"
     ],
-    "answer": "A"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "Math Q 191",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "x = 5",
+      "x = 3",
+      "x = 6",
+      "x = 4"
     ],
-    "answer": "A"
+    "answer": "x = 5"
   },
   {
-    "question": "Math Q 192",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "10π cm",
+      "5π cm",
+      "30π cm",
+      "20π cm"
     ],
-    "answer": "A"
+    "answer": "10π cm"
   },
   {
-    "question": "Math Q 193",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "l = 7",
+      "l = 8",
+      "l = 10",
+      "l = 9"
     ],
-    "answer": "A"
+    "answer": "l = 10"
   },
   {
-    "question": "Math Q 194",
+    "question": "What is tan(45°)?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "∞",
+      "1",
+      "√3",
+      "0"
     ],
-    "answer": "A"
+    "answer": "1"
   },
   {
-    "question": "Math Q 195",
+    "question": "Solve the quadratic equation: x² - 5x + 6 = 0",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "x = 2, 3",
+      "x = 1, 6",
+      "x = 2, 6",
+      "x = 1, 5"
     ],
-    "answer": "A"
+    "answer": "x = 2, 3"
   },
   {
-    "question": "Math Q 196",
+    "question": "Find the sum of the arithmetic sequence: 2, 5, 8, ... to the 10th term",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "165",
+      "175",
+      "155",
+      "145"
     ],
-    "answer": "A"
+    "answer": "155"
   },
   {
-    "question": "Math Q 197",
+    "question": "Simplify: (2√3 + √3)²",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "27",
+      "36",
+      "9",
+      "18"
     ],
-    "answer": "A"
+    "answer": "27"
   },
   {
-    "question": "Math Q 198",
+    "question": "If log₂ 16 = x, find x",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "2",
+      "6",
+      "4",
+      "8"
     ],
-    "answer": "A"
+    "answer": "4"
   },
   {
-    "question": "Math Q 199",
+    "question": "Find the area of a triangle with sides 3cm, 4cm, 5cm",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "8 cm²",
+      "6 cm²",
+      "7 cm²",
+      "5 cm²"
     ],
-    "answer": "A"
+    "answer": "6 cm²"
   },
   {
-    "question": "Math Q 200",
+    "question": "Solve: 3x + 2 < 11",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "x < 4",
+      "x < 1",
+      "x < 3",
+      "x < 2"
     ],
-    "answer": "A"
+    "answer": "x < 3"
   },
   {
-    "question": "Math Q 201",
+    "question": "Find the derivative of f(x) = 2x³ - 3x²",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "6x² - 3x",
+      "3x² - 6x",
+      "6x - 3",
+      "6x² - 6x"
     ],
-    "answer": "A"
+    "answer": "6x² - 6x"
   },
   {
-    "question": "Math Q 202",
+    "question": "What is the value of sin(30°)?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "1",
+      "0",
+      "0.5",
+      "√3/2"
     ],
-    "answer": "A"
+    "answer": "0.5"
   },
   {
-    "question": "Math Q 203",
+    "question": "Calculate the volume of a cylinder with radius 2cm and height 5cm",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "25π cm³",
+      "20π cm³",
+      "10π cm³",
+      "15π cm³"
     ],
-    "answer": "A"
+    "answer": "20π cm³"
   },
   {
-    "question": "Math Q 204",
+    "question": "Solve the simultaneous equations: 2x + y = 5, x - y = 1",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "x = 3, y = -1",
+      "x = -1, y = 3",
+      "x = 2, y = 1",
+      "x = 1, y = 2"
     ],
-    "answer": "A"
+    "answer": "x = 2, y = 1"
   },
   {
-    "question": "Math Q 205",
+    "question": "If cos(θ) = 0.8, find sin(θ)",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "0.6",
+      "0.4",
+      "0.5",
+      "0.9"
     ],
-    "answer": "A"
+    "answer": "0.6"
   },
   {
-    "question": "Math Q 206",
+    "question": "Expand (2x + 3)²",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "4x + 9",
+      "2x² + 12x + 9",
+      "4x² + 9",
+      "4x² + 12x + 9"
     ],
-    "answer": "A"
+    "answer": "4x² + 12x + 9"
   },
   {
-    "question": "Math Q 207",
+    "question": "Find the perimeter of a square with area 64 cm²",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "32 cm",
+      "16 cm",
+      "8 cm",
+      "24 cm"
     ],
-    "answer": "A"
+    "answer": "32 cm"
   },
   {
-    "question": "Math Q 208",
+    "question": "If 3ⁿ = 27, find n",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "2",
+      "5",
+      "3",
+      "4"
     ],
-    "answer": "A"
+    "answer": "3"
   },
   {
-    "question": "Math Q 209",
+    "question": "Calculate: 10% of 500 + 20% of 200",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "100",
+      "90",
+      "110",
+      "120"
     ],
-    "answer": "A"
+    "answer": "90"
   },
   {
-    "question": "Math Q 210",
+    "question": "What is the formula for the nth term of an arithmetic progression?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "a + (n-1)d",
+      "a + nd",
+      "n + d",
+      "a + n + d"
     ],
-    "answer": "A"
+    "answer": "a + (n-1)d"
   },
   {
-    "question": "Math Q 211",
+    "question": "Solve: 2^x = 32",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "x = 4",
+      "x = 3",
+      "x = 5",
+      "x = 6"
     ],
-    "answer": "A"
+    "answer": "x = 5"
   },
   {
-    "question": "Math Q 212",
+    "question": "Find the circumference of a circle with diameter 10cm",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "20π cm",
+      "30π cm",
+      "10π cm",
+      "5π cm"
     ],
-    "answer": "A"
+    "answer": "10π cm"
   },
   {
-    "question": "Math Q 213",
+    "question": "If P = 2l + 2w, find l when P = 30 and w = 5",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "l = 9",
+      "l = 8",
+      "l = 10",
+      "l = 7"
     ],
-    "answer": "A"
+    "answer": "l = 10"
   },
   {
-    "question": "Math Q 214",
+    "question": "What is tan(45°)?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "∞",
+      "1",
+      "0",
+      "√3"
     ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 215",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 216",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 217",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 218",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 219",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 220",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 221",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 222",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 223",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 224",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 225",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 226",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 227",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 228",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 229",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 230",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 231",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 232",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 233",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 234",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 235",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 236",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 237",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 238",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 239",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 240",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 241",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 242",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 243",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 244",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 245",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 246",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 247",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 248",
-    "options": [
-      "D",
-      "B",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 249",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 250",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 251",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 252",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 253",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 254",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 255",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 256",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 257",
-    "options": [
-      "D",
-      "B",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 258",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 259",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 260",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 261",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 262",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 263",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 264",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 265",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 266",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 267",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 268",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 269",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 270",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 271",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 272",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 273",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 274",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 275",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 276",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 277",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 278",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 279",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 280",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 281",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 282",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 283",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 284",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 285",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 286",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 287",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 288",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 289",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 290",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 291",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 292",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 293",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 294",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 295",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 296",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 297",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Math Q 298",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
+    "answer": "1"
   }
 ]

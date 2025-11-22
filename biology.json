@@ -1,176 +1,376 @@
 [
   {
-    "question": "Energy organelle",
+    "question": "Identify the organelle responsible for energy production:",
     "options": [
+      "Golgi apparatus",
       "Nucleus",
       "Mitochondrion",
-      "Golgi",
       "Ribosome"
     ],
     "answer": "Mitochondrion"
   },
   {
-    "question": "Plant food making",
+    "question": "The process by which plants make food is called:",
     "options": [
       "fermentation",
-      "photosynthesis",
+      "digestion",
       "respiration",
-      "digestion"
+      "photosynthesis"
     ],
     "answer": "photosynthesis"
   },
   {
-    "question": "Oxygenated blood lungs",
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
     "options": [
-      "Pulmonary artery",
       "Vena cava",
+      "Pulmonary artery",
       "Aorta",
       "Pulmonary vein"
     ],
     "answer": "Pulmonary vein"
   },
   {
-    "question": "Life unit",
+    "question": "The basic unit of life is the:",
     "options": [
+      "cell",
       "molecule",
       "tissue",
-      "atom",
-      "cell"
+      "atom"
     ],
     "answer": "cell"
   },
   {
-    "question": "Chromosomes line up",
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
     "options": [
-      "Telophase",
       "Anaphase",
-      "Metaphase",
-      "Prophase"
+      "Telophase",
+      "Prophase",
+      "Metaphase"
     ],
     "answer": "Metaphase"
   },
   {
-    "question": "Amylase breaks",
+    "question": "What is the function of the enzyme amylase?",
     "options": [
-      "nucleic",
-      "proteins",
-      "starch",
-      "fats"
+      "breaks down starch",
+      "breaks down fats",
+      "breaks down proteins",
+      "breaks down nucleic acids"
     ],
-    "answer": "starch"
+    "answer": "breaks down starch"
   },
   {
-    "question": "No movement joint",
+    "question": "Which type of joint allows no movement?",
     "options": [
-      "Fixed",
-      "Ball",
       "Gliding",
-      "Hinge"
+      "Ball-and-socket",
+      "Hinge",
+      "Fixed"
     ],
     "answer": "Fixed"
   },
   {
-    "question": "Chlorophyll light",
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
     "options": [
-      "orange red",
-      "red blue",
-      "blue violet",
-      "green yellow"
+      "blue and violet",
+      "orange and red",
+      "red and blue",
+      "green and yellow"
     ],
-    "answer": "red blue"
+    "answer": "red and blue"
   },
   {
-    "question": "Blood sugar hormone",
+    "question": "Identify the hormone responsible for regulating blood sugar:",
     "options": [
-      "Thyroxine",
       "Insulin",
-      "Glucagon",
-      "Adrenaline"
+      "Thyroxine",
+      "Adrenaline",
+      "Glucagon"
     ],
     "answer": "Insulin"
   },
   {
-    "question": "Test cross",
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
     "options": [
-      "AA aa",
-      "all",
-      "Aa aa",
-      "homozygous"
+      "AA, Aa, aa",
+      "Aa and aa",
+      "AA and aa",
+      "all homozygous"
     ],
-    "answer": "Aa aa"
+    "answer": "Aa and aa"
   },
   {
-    "question": "Backflow structure",
+    "question": "The structure of the heart that prevents backward flow of blood:",
     "options": [
       "Septum",
-      "Ventricle",
       "Atrium",
+      "Ventricle",
       "Valve"
     ],
     "answer": "Valve"
   },
   {
-    "question": "Aerobic respiration",
+    "question": "Which statement about aerobic respiration is true?",
     "options": [
-      "2 ATP",
-      "lactic",
-      "requires O₂",
-      "cytoplasm"
+      "produces 2 ATP",
+      "occurs in cytoplasm",
+      "requires oxygen",
+      "produces lactic acid"
     ],
-    "answer": "requires O₂"
+    "answer": "requires oxygen"
   },
   {
-    "question": "Digestion organ",
+    "question": "Identify the accessory organ of digestion:",
     "options": [
       "Esophagus",
-      "Pancreas",
       "Stomach",
-      "intestine"
+      "Small intestine",
+      "Pancreas"
     ],
     "answer": "Pancreas"
   },
   {
-    "question": "Water roots to leaves",
+    "question": "The process by which water moves from roots to leaves is called:",
     "options": [
+      "transpiration",
       "osmosis",
       "turgor",
-      "transpiration",
       "diffusion"
     ],
     "answer": "transpiration"
   },
   {
-    "question": "Universal donor",
+    "question": "Which blood type is the universal donor?",
     "options": [
-      "O pos",
-      "B pos",
-      "A pos",
-      "AB pos"
+      "O positive",
+      "B positive",
+      "AB positive",
+      "A positive"
     ],
-    "answer": "O pos"
+    "answer": "O positive"
   },
   {
-    "question": "DNA base pairing",
+    "question": "Identify the base pairing rule in DNA:",
     "options": [
-      "A-U",
-      "A-T",
-      "A-C",
-      "A-G"
+      "A-T, G-C",
+      "A-G, T-C",
+      "A-C, G-T",
+      "A-U, G-C"
     ],
-    "answer": "A-T"
+    "answer": "A-T, G-C"
   },
   {
-    "question": "Human chromosomes",
+    "question": "The number of chromosomes in a human body cell is:",
     "options": [
-      "69",
       "46",
-      "92",
-      "23"
+      "23",
+      "69",
+      "92"
     ],
     "answer": "46"
   },
   {
-    "question": "H₂O₂ enzyme",
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
+    "options": [
+      "Amylase",
+      "Catalase",
+      "Lipase",
+      "Protease"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "question": "The term for an organism that feeds on dead organic matter:",
+    "options": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Decomposer"
+    ],
+    "answer": "Decomposer"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "fight infections",
+      "transport oxygen",
+      "transport nutrients",
+      "regulate temperature"
+    ],
+    "answer": "fight infections"
+  },
+  {
+    "question": "Identify the organelle responsible for energy production:",
+    "options": [
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "question": "The process by which plants make food is called:",
+    "options": [
+      "photosynthesis",
+      "digestion",
+      "respiration",
+      "fermentation"
+    ],
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
+    "options": [
+      "Aorta",
+      "Pulmonary vein",
+      "Pulmonary artery",
+      "Vena cava"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "question": "The basic unit of life is the:",
+    "options": [
+      "cell",
+      "tissue",
+      "atom",
+      "molecule"
+    ],
+    "answer": "cell"
+  },
+  {
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
+    "options": [
+      "Prophase",
+      "Anaphase",
+      "Telophase",
+      "Metaphase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What is the function of the enzyme amylase?",
+    "options": [
+      "breaks down proteins",
+      "breaks down nucleic acids",
+      "breaks down starch",
+      "breaks down fats"
+    ],
+    "answer": "breaks down starch"
+  },
+  {
+    "question": "Which type of joint allows no movement?",
+    "options": [
+      "Hinge",
+      "Fixed",
+      "Gliding",
+      "Ball-and-socket"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
+    "options": [
+      "orange and red",
+      "red and blue",
+      "blue and violet",
+      "green and yellow"
+    ],
+    "answer": "red and blue"
+  },
+  {
+    "question": "Identify the hormone responsible for regulating blood sugar:",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Adrenaline",
+      "Thyroxine"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
+    "options": [
+      "AA, Aa, aa",
+      "AA and aa",
+      "all homozygous",
+      "Aa and aa"
+    ],
+    "answer": "Aa and aa"
+  },
+  {
+    "question": "The structure of the heart that prevents backward flow of blood:",
+    "options": [
+      "Atrium",
+      "Septum",
+      "Ventricle",
+      "Valve"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "question": "Which statement about aerobic respiration is true?",
+    "options": [
+      "occurs in cytoplasm",
+      "requires oxygen",
+      "produces lactic acid",
+      "produces 2 ATP"
+    ],
+    "answer": "requires oxygen"
+  },
+  {
+    "question": "Identify the accessory organ of digestion:",
+    "options": [
+      "Esophagus",
+      "Stomach",
+      "Small intestine",
+      "Pancreas"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The process by which water moves from roots to leaves is called:",
+    "options": [
+      "diffusion",
+      "transpiration",
+      "turgor",
+      "osmosis"
+    ],
+    "answer": "transpiration"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": [
+      "AB positive",
+      "B positive",
+      "A positive",
+      "O positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "Identify the base pairing rule in DNA:",
+    "options": [
+      "A-U, G-C",
+      "A-T, G-C",
+      "A-C, G-T",
+      "A-G, T-C"
+    ],
+    "answer": "A-T, G-C"
+  },
+  {
+    "question": "The number of chromosomes in a human body cell is:",
+    "options": [
+      "23",
+      "92",
+      "69",
+      "46"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
     "options": [
       "Catalase",
       "Lipase",
@@ -180,2823 +380,2623 @@
     "answer": "Catalase"
   },
   {
-    "question": "Dead matter",
+    "question": "The term for an organism that feeds on dead organic matter:",
+    "options": [
+      "Carnivore",
+      "Omnivore",
+      "Decomposer",
+      "Herbivore"
+    ],
+    "answer": "Decomposer"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "fight infections",
+      "regulate temperature",
+      "transport oxygen",
+      "transport nutrients"
+    ],
+    "answer": "fight infections"
+  },
+  {
+    "question": "Identify the organelle responsible for energy production:",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondrion",
+      "Golgi apparatus"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "question": "The process by which plants make food is called:",
+    "options": [
+      "photosynthesis",
+      "fermentation",
+      "respiration",
+      "digestion"
+    ],
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
+    "options": [
+      "Pulmonary vein",
+      "Vena cava",
+      "Aorta",
+      "Pulmonary artery"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "question": "The basic unit of life is the:",
+    "options": [
+      "tissue",
+      "cell",
+      "molecule",
+      "atom"
+    ],
+    "answer": "cell"
+  },
+  {
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
+    "options": [
+      "Telophase",
+      "Anaphase",
+      "Metaphase",
+      "Prophase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What is the function of the enzyme amylase?",
+    "options": [
+      "breaks down starch",
+      "breaks down fats",
+      "breaks down proteins",
+      "breaks down nucleic acids"
+    ],
+    "answer": "breaks down starch"
+  },
+  {
+    "question": "Which type of joint allows no movement?",
+    "options": [
+      "Ball-and-socket",
+      "Fixed",
+      "Gliding",
+      "Hinge"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
+    "options": [
+      "orange and red",
+      "red and blue",
+      "green and yellow",
+      "blue and violet"
+    ],
+    "answer": "red and blue"
+  },
+  {
+    "question": "Identify the hormone responsible for regulating blood sugar:",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Thyroxine",
+      "Glucagon"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
+    "options": [
+      "AA, Aa, aa",
+      "Aa and aa",
+      "all homozygous",
+      "AA and aa"
+    ],
+    "answer": "Aa and aa"
+  },
+  {
+    "question": "The structure of the heart that prevents backward flow of blood:",
+    "options": [
+      "Ventricle",
+      "Septum",
+      "Valve",
+      "Atrium"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "question": "Which statement about aerobic respiration is true?",
+    "options": [
+      "produces 2 ATP",
+      "occurs in cytoplasm",
+      "produces lactic acid",
+      "requires oxygen"
+    ],
+    "answer": "requires oxygen"
+  },
+  {
+    "question": "Identify the accessory organ of digestion:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Pancreas",
+      "Esophagus"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The process by which water moves from roots to leaves is called:",
+    "options": [
+      "diffusion",
+      "osmosis",
+      "transpiration",
+      "turgor"
+    ],
+    "answer": "transpiration"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": [
+      "B positive",
+      "O positive",
+      "AB positive",
+      "A positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "Identify the base pairing rule in DNA:",
+    "options": [
+      "A-G, T-C",
+      "A-T, G-C",
+      "A-U, G-C",
+      "A-C, G-T"
+    ],
+    "answer": "A-T, G-C"
+  },
+  {
+    "question": "The number of chromosomes in a human body cell is:",
+    "options": [
+      "92",
+      "23",
+      "69",
+      "46"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
+    "options": [
+      "Protease",
+      "Lipase",
+      "Catalase",
+      "Amylase"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "question": "The term for an organism that feeds on dead organic matter:",
+    "options": [
+      "Herbivore",
+      "Decomposer",
+      "Omnivore",
+      "Carnivore"
+    ],
+    "answer": "Decomposer"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "transport oxygen",
+      "transport nutrients",
+      "fight infections",
+      "regulate temperature"
+    ],
+    "answer": "fight infections"
+  },
+  {
+    "question": "Identify the organelle responsible for energy production:",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Golgi apparatus",
+      "Mitochondrion"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "question": "The process by which plants make food is called:",
+    "options": [
+      "fermentation",
+      "photosynthesis",
+      "respiration",
+      "digestion"
+    ],
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
+    "options": [
+      "Pulmonary vein",
+      "Pulmonary artery",
+      "Aorta",
+      "Vena cava"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "question": "The basic unit of life is the:",
+    "options": [
+      "atom",
+      "tissue",
+      "molecule",
+      "cell"
+    ],
+    "answer": "cell"
+  },
+  {
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
+    "options": [
+      "Telophase",
+      "Anaphase",
+      "Metaphase",
+      "Prophase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What is the function of the enzyme amylase?",
+    "options": [
+      "breaks down nucleic acids",
+      "breaks down starch",
+      "breaks down fats",
+      "breaks down proteins"
+    ],
+    "answer": "breaks down starch"
+  },
+  {
+    "question": "Which type of joint allows no movement?",
+    "options": [
+      "Fixed",
+      "Gliding",
+      "Ball-and-socket",
+      "Hinge"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
+    "options": [
+      "blue and violet",
+      "orange and red",
+      "green and yellow",
+      "red and blue"
+    ],
+    "answer": "red and blue"
+  },
+  {
+    "question": "Identify the hormone responsible for regulating blood sugar:",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Thyroxine",
+      "Glucagon"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
+    "options": [
+      "Aa and aa",
+      "all homozygous",
+      "AA, Aa, aa",
+      "AA and aa"
+    ],
+    "answer": "Aa and aa"
+  },
+  {
+    "question": "The structure of the heart that prevents backward flow of blood:",
+    "options": [
+      "Septum",
+      "Valve",
+      "Atrium",
+      "Ventricle"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "question": "Which statement about aerobic respiration is true?",
+    "options": [
+      "occurs in cytoplasm",
+      "produces 2 ATP",
+      "requires oxygen",
+      "produces lactic acid"
+    ],
+    "answer": "requires oxygen"
+  },
+  {
+    "question": "Identify the accessory organ of digestion:",
+    "options": [
+      "Small intestine",
+      "Esophagus",
+      "Pancreas",
+      "Stomach"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The process by which water moves from roots to leaves is called:",
+    "options": [
+      "osmosis",
+      "transpiration",
+      "diffusion",
+      "turgor"
+    ],
+    "answer": "transpiration"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": [
+      "O positive",
+      "B positive",
+      "A positive",
+      "AB positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "Identify the base pairing rule in DNA:",
+    "options": [
+      "A-U, G-C",
+      "A-T, G-C",
+      "A-G, T-C",
+      "A-C, G-T"
+    ],
+    "answer": "A-T, G-C"
+  },
+  {
+    "question": "The number of chromosomes in a human body cell is:",
+    "options": [
+      "92",
+      "69",
+      "46",
+      "23"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
+    "options": [
+      "Lipase",
+      "Catalase",
+      "Amylase",
+      "Protease"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "question": "The term for an organism that feeds on dead organic matter:",
+    "options": [
+      "Omnivore",
+      "Carnivore",
+      "Decomposer",
+      "Herbivore"
+    ],
+    "answer": "Decomposer"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "fight infections",
+      "transport nutrients",
+      "regulate temperature",
+      "transport oxygen"
+    ],
+    "answer": "fight infections"
+  },
+  {
+    "question": "Identify the organelle responsible for energy production:",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondrion",
+      "Golgi apparatus"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "question": "The process by which plants make food is called:",
+    "options": [
+      "fermentation",
+      "photosynthesis",
+      "respiration",
+      "digestion"
+    ],
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
+    "options": [
+      "Vena cava",
+      "Pulmonary vein",
+      "Aorta",
+      "Pulmonary artery"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "question": "The basic unit of life is the:",
+    "options": [
+      "molecule",
+      "tissue",
+      "cell",
+      "atom"
+    ],
+    "answer": "cell"
+  },
+  {
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
+    "options": [
+      "Anaphase",
+      "Metaphase",
+      "Telophase",
+      "Prophase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What is the function of the enzyme amylase?",
+    "options": [
+      "breaks down fats",
+      "breaks down nucleic acids",
+      "breaks down starch",
+      "breaks down proteins"
+    ],
+    "answer": "breaks down starch"
+  },
+  {
+    "question": "Which type of joint allows no movement?",
+    "options": [
+      "Gliding",
+      "Fixed",
+      "Hinge",
+      "Ball-and-socket"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
+    "options": [
+      "red and blue",
+      "green and yellow",
+      "orange and red",
+      "blue and violet"
+    ],
+    "answer": "red and blue"
+  },
+  {
+    "question": "Identify the hormone responsible for regulating blood sugar:",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Thyroxine",
+      "Adrenaline"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
+    "options": [
+      "Aa and aa",
+      "AA, Aa, aa",
+      "all homozygous",
+      "AA and aa"
+    ],
+    "answer": "Aa and aa"
+  },
+  {
+    "question": "The structure of the heart that prevents backward flow of blood:",
+    "options": [
+      "Septum",
+      "Valve",
+      "Ventricle",
+      "Atrium"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "question": "Which statement about aerobic respiration is true?",
+    "options": [
+      "requires oxygen",
+      "occurs in cytoplasm",
+      "produces lactic acid",
+      "produces 2 ATP"
+    ],
+    "answer": "requires oxygen"
+  },
+  {
+    "question": "Identify the accessory organ of digestion:",
+    "options": [
+      "Esophagus",
+      "Pancreas",
+      "Small intestine",
+      "Stomach"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The process by which water moves from roots to leaves is called:",
+    "options": [
+      "osmosis",
+      "diffusion",
+      "transpiration",
+      "turgor"
+    ],
+    "answer": "transpiration"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": [
+      "AB positive",
+      "A positive",
+      "O positive",
+      "B positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "Identify the base pairing rule in DNA:",
+    "options": [
+      "A-C, G-T",
+      "A-T, G-C",
+      "A-G, T-C",
+      "A-U, G-C"
+    ],
+    "answer": "A-T, G-C"
+  },
+  {
+    "question": "The number of chromosomes in a human body cell is:",
+    "options": [
+      "92",
+      "23",
+      "46",
+      "69"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
+    "options": [
+      "Lipase",
+      "Protease",
+      "Amylase",
+      "Catalase"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "question": "The term for an organism that feeds on dead organic matter:",
+    "options": [
+      "Carnivore",
+      "Omnivore",
+      "Decomposer",
+      "Herbivore"
+    ],
+    "answer": "Decomposer"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "regulate temperature",
+      "transport oxygen",
+      "transport nutrients",
+      "fight infections"
+    ],
+    "answer": "fight infections"
+  },
+  {
+    "question": "Identify the organelle responsible for energy production:",
+    "options": [
+      "Nucleus",
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Ribosome"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "question": "The process by which plants make food is called:",
+    "options": [
+      "digestion",
+      "fermentation",
+      "respiration",
+      "photosynthesis"
+    ],
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
+    "options": [
+      "Pulmonary vein",
+      "Vena cava",
+      "Aorta",
+      "Pulmonary artery"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "question": "The basic unit of life is the:",
+    "options": [
+      "molecule",
+      "atom",
+      "tissue",
+      "cell"
+    ],
+    "answer": "cell"
+  },
+  {
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
+    "options": [
+      "Metaphase",
+      "Prophase",
+      "Telophase",
+      "Anaphase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What is the function of the enzyme amylase?",
+    "options": [
+      "breaks down starch",
+      "breaks down nucleic acids",
+      "breaks down fats",
+      "breaks down proteins"
+    ],
+    "answer": "breaks down starch"
+  },
+  {
+    "question": "Which type of joint allows no movement?",
+    "options": [
+      "Hinge",
+      "Gliding",
+      "Fixed",
+      "Ball-and-socket"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
+    "options": [
+      "orange and red",
+      "green and yellow",
+      "red and blue",
+      "blue and violet"
+    ],
+    "answer": "red and blue"
+  },
+  {
+    "question": "Identify the hormone responsible for regulating blood sugar:",
+    "options": [
+      "Glucagon",
+      "Adrenaline",
+      "Thyroxine",
+      "Insulin"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
+    "options": [
+      "AA and aa",
+      "all homozygous",
+      "Aa and aa",
+      "AA, Aa, aa"
+    ],
+    "answer": "Aa and aa"
+  },
+  {
+    "question": "The structure of the heart that prevents backward flow of blood:",
+    "options": [
+      "Valve",
+      "Atrium",
+      "Ventricle",
+      "Septum"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "question": "Which statement about aerobic respiration is true?",
+    "options": [
+      "requires oxygen",
+      "occurs in cytoplasm",
+      "produces 2 ATP",
+      "produces lactic acid"
+    ],
+    "answer": "requires oxygen"
+  },
+  {
+    "question": "Identify the accessory organ of digestion:",
+    "options": [
+      "Esophagus",
+      "Small intestine",
+      "Pancreas",
+      "Stomach"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The process by which water moves from roots to leaves is called:",
+    "options": [
+      "transpiration",
+      "osmosis",
+      "turgor",
+      "diffusion"
+    ],
+    "answer": "transpiration"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": [
+      "AB positive",
+      "A positive",
+      "B positive",
+      "O positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "Identify the base pairing rule in DNA:",
+    "options": [
+      "A-U, G-C",
+      "A-G, T-C",
+      "A-T, G-C",
+      "A-C, G-T"
+    ],
+    "answer": "A-T, G-C"
+  },
+  {
+    "question": "The number of chromosomes in a human body cell is:",
+    "options": [
+      "46",
+      "92",
+      "23",
+      "69"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
+    "options": [
+      "Catalase",
+      "Amylase",
+      "Lipase",
+      "Protease"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "question": "The term for an organism that feeds on dead organic matter:",
+    "options": [
+      "Carnivore",
+      "Omnivore",
+      "Herbivore",
+      "Decomposer"
+    ],
+    "answer": "Decomposer"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "fight infections",
+      "regulate temperature",
+      "transport oxygen",
+      "transport nutrients"
+    ],
+    "answer": "fight infections"
+  },
+  {
+    "question": "Identify the organelle responsible for energy production:",
+    "options": [
+      "Mitochondrion",
+      "Nucleus",
+      "Golgi apparatus",
+      "Ribosome"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "question": "The process by which plants make food is called:",
+    "options": [
+      "photosynthesis",
+      "digestion",
+      "respiration",
+      "fermentation"
+    ],
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
+    "options": [
+      "Aorta",
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Vena cava"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "question": "The basic unit of life is the:",
+    "options": [
+      "molecule",
+      "tissue",
+      "atom",
+      "cell"
+    ],
+    "answer": "cell"
+  },
+  {
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
+    "options": [
+      "Prophase",
+      "Telophase",
+      "Metaphase",
+      "Anaphase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What is the function of the enzyme amylase?",
+    "options": [
+      "breaks down nucleic acids",
+      "breaks down starch",
+      "breaks down fats",
+      "breaks down proteins"
+    ],
+    "answer": "breaks down starch"
+  },
+  {
+    "question": "Which type of joint allows no movement?",
+    "options": [
+      "Ball-and-socket",
+      "Fixed",
+      "Hinge",
+      "Gliding"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
+    "options": [
+      "green and yellow",
+      "orange and red",
+      "blue and violet",
+      "red and blue"
+    ],
+    "answer": "red and blue"
+  },
+  {
+    "question": "Identify the hormone responsible for regulating blood sugar:",
+    "options": [
+      "Glucagon",
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
+    "options": [
+      "Aa and aa",
+      "AA, Aa, aa",
+      "AA and aa",
+      "all homozygous"
+    ],
+    "answer": "Aa and aa"
+  },
+  {
+    "question": "The structure of the heart that prevents backward flow of blood:",
+    "options": [
+      "Atrium",
+      "Septum",
+      "Ventricle",
+      "Valve"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "question": "Which statement about aerobic respiration is true?",
+    "options": [
+      "produces 2 ATP",
+      "produces lactic acid",
+      "requires oxygen",
+      "occurs in cytoplasm"
+    ],
+    "answer": "requires oxygen"
+  },
+  {
+    "question": "Identify the accessory organ of digestion:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Esophagus",
+      "Pancreas"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The process by which water moves from roots to leaves is called:",
+    "options": [
+      "diffusion",
+      "osmosis",
+      "turgor",
+      "transpiration"
+    ],
+    "answer": "transpiration"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": [
+      "AB positive",
+      "O positive",
+      "A positive",
+      "B positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "Identify the base pairing rule in DNA:",
+    "options": [
+      "A-T, G-C",
+      "A-G, T-C",
+      "A-U, G-C",
+      "A-C, G-T"
+    ],
+    "answer": "A-T, G-C"
+  },
+  {
+    "question": "The number of chromosomes in a human body cell is:",
+    "options": [
+      "23",
+      "46",
+      "69",
+      "92"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
+    "options": [
+      "Protease",
+      "Catalase",
+      "Amylase",
+      "Lipase"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "question": "The term for an organism that feeds on dead organic matter:",
+    "options": [
+      "Carnivore",
+      "Omnivore",
+      "Decomposer",
+      "Herbivore"
+    ],
+    "answer": "Decomposer"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "transport oxygen",
+      "fight infections",
+      "transport nutrients",
+      "regulate temperature"
+    ],
+    "answer": "fight infections"
+  },
+  {
+    "question": "Identify the organelle responsible for energy production:",
+    "options": [
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Nucleus"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "question": "The process by which plants make food is called:",
+    "options": [
+      "digestion",
+      "photosynthesis",
+      "fermentation",
+      "respiration"
+    ],
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
+    "options": [
+      "Vena cava",
+      "Aorta",
+      "Pulmonary artery",
+      "Pulmonary vein"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "question": "The basic unit of life is the:",
+    "options": [
+      "molecule",
+      "atom",
+      "cell",
+      "tissue"
+    ],
+    "answer": "cell"
+  },
+  {
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
+    "options": [
+      "Telophase",
+      "Anaphase",
+      "Prophase",
+      "Metaphase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What is the function of the enzyme amylase?",
+    "options": [
+      "breaks down nucleic acids",
+      "breaks down proteins",
+      "breaks down fats",
+      "breaks down starch"
+    ],
+    "answer": "breaks down starch"
+  },
+  {
+    "question": "Which type of joint allows no movement?",
+    "options": [
+      "Gliding",
+      "Ball-and-socket",
+      "Fixed",
+      "Hinge"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
+    "options": [
+      "blue and violet",
+      "orange and red",
+      "red and blue",
+      "green and yellow"
+    ],
+    "answer": "red and blue"
+  },
+  {
+    "question": "Identify the hormone responsible for regulating blood sugar:",
+    "options": [
+      "Thyroxine",
+      "Insulin",
+      "Glucagon",
+      "Adrenaline"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
+    "options": [
+      "Aa and aa",
+      "AA, Aa, aa",
+      "all homozygous",
+      "AA and aa"
+    ],
+    "answer": "Aa and aa"
+  },
+  {
+    "question": "The structure of the heart that prevents backward flow of blood:",
+    "options": [
+      "Septum",
+      "Atrium",
+      "Valve",
+      "Ventricle"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "question": "Which statement about aerobic respiration is true?",
+    "options": [
+      "produces lactic acid",
+      "requires oxygen",
+      "produces 2 ATP",
+      "occurs in cytoplasm"
+    ],
+    "answer": "requires oxygen"
+  },
+  {
+    "question": "Identify the accessory organ of digestion:",
+    "options": [
+      "Stomach",
+      "Esophagus",
+      "Small intestine",
+      "Pancreas"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The process by which water moves from roots to leaves is called:",
+    "options": [
+      "diffusion",
+      "turgor",
+      "osmosis",
+      "transpiration"
+    ],
+    "answer": "transpiration"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": [
+      "O positive",
+      "B positive",
+      "A positive",
+      "AB positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "Identify the base pairing rule in DNA:",
+    "options": [
+      "A-C, G-T",
+      "A-G, T-C",
+      "A-T, G-C",
+      "A-U, G-C"
+    ],
+    "answer": "A-T, G-C"
+  },
+  {
+    "question": "The number of chromosomes in a human body cell is:",
+    "options": [
+      "23",
+      "69",
+      "46",
+      "92"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
+    "options": [
+      "Lipase",
+      "Protease",
+      "Amylase",
+      "Catalase"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "question": "The term for an organism that feeds on dead organic matter:",
     "options": [
       "Carnivore",
       "Decomposer",
+      "Omnivore",
+      "Herbivore"
+    ],
+    "answer": "Decomposer"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "fight infections",
+      "regulate temperature",
+      "transport oxygen",
+      "transport nutrients"
+    ],
+    "answer": "fight infections"
+  },
+  {
+    "question": "Identify the organelle responsible for energy production:",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondrion",
+      "Golgi apparatus"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "question": "The process by which plants make food is called:",
+    "options": [
+      "digestion",
+      "fermentation",
+      "respiration",
+      "photosynthesis"
+    ],
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
+    "options": [
+      "Aorta",
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Vena cava"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "question": "The basic unit of life is the:",
+    "options": [
+      "atom",
+      "cell",
+      "tissue",
+      "molecule"
+    ],
+    "answer": "cell"
+  },
+  {
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Telophase",
+      "Anaphase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What is the function of the enzyme amylase?",
+    "options": [
+      "breaks down nucleic acids",
+      "breaks down proteins",
+      "breaks down fats",
+      "breaks down starch"
+    ],
+    "answer": "breaks down starch"
+  },
+  {
+    "question": "Which type of joint allows no movement?",
+    "options": [
+      "Hinge",
+      "Gliding",
+      "Ball-and-socket",
+      "Fixed"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
+    "options": [
+      "green and yellow",
+      "red and blue",
+      "blue and violet",
+      "orange and red"
+    ],
+    "answer": "red and blue"
+  },
+  {
+    "question": "Identify the hormone responsible for regulating blood sugar:",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Glucagon",
+      "Thyroxine"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
+    "options": [
+      "AA, Aa, aa",
+      "Aa and aa",
+      "all homozygous",
+      "AA and aa"
+    ],
+    "answer": "Aa and aa"
+  },
+  {
+    "question": "The structure of the heart that prevents backward flow of blood:",
+    "options": [
+      "Ventricle",
+      "Valve",
+      "Septum",
+      "Atrium"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "question": "Which statement about aerobic respiration is true?",
+    "options": [
+      "occurs in cytoplasm",
+      "requires oxygen",
+      "produces 2 ATP",
+      "produces lactic acid"
+    ],
+    "answer": "requires oxygen"
+  },
+  {
+    "question": "Identify the accessory organ of digestion:",
+    "options": [
+      "Pancreas",
+      "Esophagus",
+      "Stomach",
+      "Small intestine"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The process by which water moves from roots to leaves is called:",
+    "options": [
+      "turgor",
+      "diffusion",
+      "osmosis",
+      "transpiration"
+    ],
+    "answer": "transpiration"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": [
+      "B positive",
+      "A positive",
+      "O positive",
+      "AB positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "Identify the base pairing rule in DNA:",
+    "options": [
+      "A-U, G-C",
+      "A-T, G-C",
+      "A-G, T-C",
+      "A-C, G-T"
+    ],
+    "answer": "A-T, G-C"
+  },
+  {
+    "question": "The number of chromosomes in a human body cell is:",
+    "options": [
+      "92",
+      "23",
+      "69",
+      "46"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
+    "options": [
+      "Amylase",
+      "Protease",
+      "Lipase",
+      "Catalase"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "question": "The term for an organism that feeds on dead organic matter:",
+    "options": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Decomposer"
+    ],
+    "answer": "Decomposer"
+  },
+  {
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "fight infections",
+      "transport nutrients",
+      "regulate temperature",
+      "transport oxygen"
+    ],
+    "answer": "fight infections"
+  },
+  {
+    "question": "Identify the organelle responsible for energy production:",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondrion"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "question": "The process by which plants make food is called:",
+    "options": [
+      "respiration",
+      "digestion",
+      "fermentation",
+      "photosynthesis"
+    ],
+    "answer": "photosynthesis"
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
+    "options": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Vena cava",
+      "Aorta"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "question": "The basic unit of life is the:",
+    "options": [
+      "atom",
+      "molecule",
+      "tissue",
+      "cell"
+    ],
+    "answer": "cell"
+  },
+  {
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
+    "options": [
+      "Anaphase",
+      "Telophase",
+      "Prophase",
+      "Metaphase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What is the function of the enzyme amylase?",
+    "options": [
+      "breaks down fats",
+      "breaks down proteins",
+      "breaks down starch",
+      "breaks down nucleic acids"
+    ],
+    "answer": "breaks down starch"
+  },
+  {
+    "question": "Which type of joint allows no movement?",
+    "options": [
+      "Fixed",
+      "Ball-and-socket",
+      "Gliding",
+      "Hinge"
+    ],
+    "answer": "Fixed"
+  },
+  {
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
+    "options": [
+      "red and blue",
+      "green and yellow",
+      "blue and violet",
+      "orange and red"
+    ],
+    "answer": "red and blue"
+  },
+  {
+    "question": "Identify the hormone responsible for regulating blood sugar:",
+    "options": [
+      "Adrenaline",
+      "Thyroxine",
+      "Insulin",
+      "Glucagon"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
+    "options": [
+      "AA and aa",
+      "AA, Aa, aa",
+      "Aa and aa",
+      "all homozygous"
+    ],
+    "answer": "Aa and aa"
+  },
+  {
+    "question": "The structure of the heart that prevents backward flow of blood:",
+    "options": [
+      "Ventricle",
+      "Septum",
+      "Atrium",
+      "Valve"
+    ],
+    "answer": "Valve"
+  },
+  {
+    "question": "Which statement about aerobic respiration is true?",
+    "options": [
+      "produces lactic acid",
+      "requires oxygen",
+      "occurs in cytoplasm",
+      "produces 2 ATP"
+    ],
+    "answer": "requires oxygen"
+  },
+  {
+    "question": "Identify the accessory organ of digestion:",
+    "options": [
+      "Esophagus",
+      "Small intestine",
+      "Pancreas",
+      "Stomach"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The process by which water moves from roots to leaves is called:",
+    "options": [
+      "osmosis",
+      "turgor",
+      "transpiration",
+      "diffusion"
+    ],
+    "answer": "transpiration"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": [
+      "AB positive",
+      "A positive",
+      "B positive",
+      "O positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "Identify the base pairing rule in DNA:",
+    "options": [
+      "A-C, G-T",
+      "A-G, T-C",
+      "A-U, G-C",
+      "A-T, G-C"
+    ],
+    "answer": "A-T, G-C"
+  },
+  {
+    "question": "The number of chromosomes in a human body cell is:",
+    "options": [
+      "92",
+      "69",
+      "46",
+      "23"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
+    "options": [
+      "Lipase",
+      "Protease",
+      "Catalase",
+      "Amylase"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "question": "The term for an organism that feeds on dead organic matter:",
+    "options": [
+      "Decomposer",
+      "Carnivore",
       "Herbivore",
       "Omnivore"
     ],
     "answer": "Decomposer"
   },
   {
-    "question": "White blood",
+    "question": "What is the primary function of white blood cells?",
     "options": [
-      "O₂",
-      "temp",
-      "nutrients",
-      "infections"
+      "transport oxygen",
+      "regulate temperature",
+      "transport nutrients",
+      "fight infections"
     ],
-    "answer": "infections"
+    "answer": "fight infections"
   },
   {
-    "question": "DNA replication",
+    "question": "Identify the organelle responsible for energy production:",
     "options": [
-      "dispersive",
-      "conservative",
-      "semi",
-      "none"
+      "Golgi apparatus",
+      "Ribosome",
+      "Mitochondrion",
+      "Nucleus"
     ],
-    "answer": "semi"
+    "answer": "Mitochondrion"
   },
   {
-    "question": "Stop codon",
+    "question": "The process by which plants make food is called:",
     "options": [
-      "start",
-      "stop",
-      "wobble",
-      "amino"
+      "fermentation",
+      "respiration",
+      "digestion",
+      "photosynthesis"
     ],
-    "answer": "stop"
+    "answer": "photosynthesis"
   },
   {
-    "question": "Cristae function",
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
     "options": [
-      "ATP",
-      "lipid",
-      "protein",
-      "carb"
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Vena cava",
+      "Aorta"
     ],
-    "answer": "ATP"
+    "answer": "Pulmonary vein"
   },
   {
-    "question": "Signal path",
+    "question": "The basic unit of life is the:",
     "options": [
-      "receptor",
-      "kinase",
-      "messenger",
-      "all"
+      "molecule",
+      "tissue",
+      "cell",
+      "atom"
     ],
-    "answer": "all"
+    "answer": "cell"
   },
   {
-    "question": "Epistasis",
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
     "options": [
-      "mutation",
-      "one masks",
-      "independent",
-      "linked"
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
     ],
-    "answer": "one masks"
+    "answer": "Metaphase"
   },
   {
-    "question": "Energy transfer",
+    "question": "What is the function of the enzyme amylase?",
     "options": [
-      "75%",
-      "25%",
-      "50%",
-      "10%"
+      "breaks down fats",
+      "breaks down starch",
+      "breaks down nucleic acids",
+      "breaks down proteins"
     ],
-    "answer": "10%"
+    "answer": "breaks down starch"
   },
   {
-    "question": "Capacity limited",
+    "question": "Which type of joint allows no movement?",
     "options": [
-      "space",
-      "all",
-      "predation",
-      "food"
+      "Ball-and-socket",
+      "Hinge",
+      "Gliding",
+      "Fixed"
     ],
-    "answer": "all"
+    "answer": "Fixed"
   },
   {
-    "question": "Depolarization",
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
     "options": [
-      "Na⁺",
-      "K⁺ out",
-      "Cl⁻",
-      "K⁺"
+      "green and yellow",
+      "blue and violet",
+      "orange and red",
+      "red and blue"
     ],
-    "answer": "Na⁺"
+    "answer": "red and blue"
   },
   {
-    "question": "Hardy-Weinberg",
+    "question": "Identify the hormone responsible for regulating blood sugar:",
     "options": [
-      "no migration",
-      "all",
-      "large",
-      "no mutation"
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin",
+      "Glucagon"
     ],
-    "answer": "all"
+    "answer": "Insulin"
   },
   {
-    "question": "Radiation",
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
     "options": [
-      "mutations",
-      "similar",
-      "diverse",
-      "extinct"
+      "AA and aa",
+      "Aa and aa",
+      "all homozygous",
+      "AA, Aa, aa"
     ],
-    "answer": "diverse"
+    "answer": "Aa and aa"
   },
   {
-    "question": "C4 plants",
+    "question": "The structure of the heart that prevents backward flow of blood:",
     "options": [
-      "4-carbon",
-      "3-carbon",
-      "5-carbon",
-      "glucose"
+      "Ventricle",
+      "Atrium",
+      "Valve",
+      "Septum"
     ],
-    "answer": "4-carbon"
+    "answer": "Valve"
   },
   {
-    "question": "Photosystem I",
+    "question": "Which statement about aerobic respiration is true?",
     "options": [
-      "P680",
-      "P660",
-      "P430",
-      "P700"
+      "occurs in cytoplasm",
+      "produces lactic acid",
+      "requires oxygen",
+      "produces 2 ATP"
     ],
-    "answer": "P700"
+    "answer": "requires oxygen"
   },
   {
-    "question": "DNA",
+    "question": "Identify the accessory organ of digestion:",
     "options": [
-      "single",
-      "triple",
-      "double",
-      "no"
+      "Esophagus",
+      "Small intestine",
+      "Stomach",
+      "Pancreas"
     ],
-    "answer": "double"
+    "answer": "Pancreas"
   },
   {
-    "question": "Mitochondria",
+    "question": "The process by which water moves from roots to leaves is called:",
     "options": [
-      "protein",
-      "all",
-      "ATP",
-      "lipid"
+      "transpiration",
+      "diffusion",
+      "osmosis",
+      "turgor"
     ],
-    "answer": "ATP"
+    "answer": "transpiration"
   },
   {
-    "question": "Transcription",
+    "question": "Which blood type is the universal donor?",
     "options": [
-      "mRNA",
-      "DNA",
-      "protein",
-      "ATP"
+      "AB positive",
+      "O positive",
+      "B positive",
+      "A positive"
     ],
-    "answer": "mRNA"
+    "answer": "O positive"
   },
   {
-    "question": "Translation",
+    "question": "Identify the base pairing rule in DNA:",
     "options": [
-      "ribosome",
-      "mitochondria",
-      "nucleus",
-      "membrane"
+      "A-C, G-T",
+      "A-G, T-C",
+      "A-T, G-C",
+      "A-U, G-C"
     ],
-    "answer": "ribosome"
+    "answer": "A-T, G-C"
   },
   {
-    "question": "Photosynthesis",
+    "question": "The number of chromosomes in a human body cell is:",
     "options": [
-      "both",
-      "light indep",
-      "neither",
-      "light dep"
+      "92",
+      "23",
+      "46",
+      "69"
     ],
-    "answer": "both"
+    "answer": "46"
   },
   {
-    "question": "Cell division",
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
     "options": [
-      "none",
-      "mitosis",
-      "both",
-      "meiosis"
+      "Catalase",
+      "Protease",
+      "Lipase",
+      "Amylase"
     ],
-    "answer": "both"
+    "answer": "Catalase"
   },
   {
-    "question": "Enzyme reaction",
+    "question": "The term for an organism that feeds on dead organic matter:",
     "options": [
-      "random",
-      "E+P",
-      "E+S",
-      "S"
+      "Carnivore",
+      "Herbivore",
+      "Omnivore",
+      "Decomposer"
     ],
-    "answer": "E+S"
+    "answer": "Decomposer"
   },
   {
-    "question": "Meiosis produces",
+    "question": "What is the primary function of white blood cells?",
     "options": [
-      "same",
-      "double",
-      "haploid",
-      "diploid"
+      "regulate temperature",
+      "transport oxygen",
+      "fight infections",
+      "transport nutrients"
     ],
-    "answer": "haploid"
+    "answer": "fight infections"
   },
   {
-    "question": "Biology Q 40",
+    "question": "Identify the organelle responsible for energy production:",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Nucleus",
+      "Ribosome"
     ],
-    "answer": "A"
+    "answer": "Mitochondrion"
   },
   {
-    "question": "Biology Q 41",
+    "question": "The process by which plants make food is called:",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "digestion",
+      "respiration",
+      "photosynthesis",
+      "fermentation"
     ],
-    "answer": "A"
+    "answer": "photosynthesis"
   },
   {
-    "question": "Biology Q 42",
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "Pulmonary artery",
+      "Vena cava",
+      "Aorta",
+      "Pulmonary vein"
     ],
-    "answer": "A"
+    "answer": "Pulmonary vein"
   },
   {
-    "question": "Biology Q 43",
+    "question": "The basic unit of life is the:",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "tissue",
+      "molecule",
+      "cell",
+      "atom"
     ],
-    "answer": "A"
+    "answer": "cell"
   },
   {
-    "question": "Biology Q 44",
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "Telophase",
+      "Metaphase",
+      "Prophase",
+      "Anaphase"
     ],
-    "answer": "A"
+    "answer": "Metaphase"
   },
   {
-    "question": "Biology Q 45",
+    "question": "What is the function of the enzyme amylase?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "breaks down proteins",
+      "breaks down starch",
+      "breaks down fats",
+      "breaks down nucleic acids"
     ],
-    "answer": "A"
+    "answer": "breaks down starch"
   },
   {
-    "question": "Biology Q 46",
+    "question": "Which type of joint allows no movement?",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Gliding",
+      "Hinge",
+      "Ball-and-socket",
+      "Fixed"
     ],
-    "answer": "A"
+    "answer": "Fixed"
   },
   {
-    "question": "Biology Q 47",
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "orange and red",
+      "red and blue",
+      "green and yellow",
+      "blue and violet"
     ],
-    "answer": "A"
+    "answer": "red and blue"
   },
   {
-    "question": "Biology Q 48",
+    "question": "Identify the hormone responsible for regulating blood sugar:",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Adrenaline",
+      "Insulin",
+      "Thyroxine",
+      "Glucagon"
     ],
-    "answer": "A"
+    "answer": "Insulin"
   },
   {
-    "question": "Biology Q 49",
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "all homozygous",
+      "Aa and aa",
+      "AA and aa",
+      "AA, Aa, aa"
     ],
-    "answer": "A"
+    "answer": "Aa and aa"
   },
   {
-    "question": "Biology Q 50",
+    "question": "The structure of the heart that prevents backward flow of blood:",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "Valve",
+      "Atrium",
+      "Ventricle",
+      "Septum"
     ],
-    "answer": "A"
+    "answer": "Valve"
   },
   {
-    "question": "Biology Q 51",
+    "question": "Which statement about aerobic respiration is true?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "produces lactic acid",
+      "produces 2 ATP",
+      "requires oxygen",
+      "occurs in cytoplasm"
     ],
-    "answer": "A"
+    "answer": "requires oxygen"
   },
   {
-    "question": "Biology Q 52",
+    "question": "Identify the accessory organ of digestion:",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Esophagus",
+      "Small intestine",
+      "Pancreas",
+      "Stomach"
     ],
-    "answer": "A"
+    "answer": "Pancreas"
   },
   {
-    "question": "Biology Q 53",
+    "question": "The process by which water moves from roots to leaves is called:",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "turgor",
+      "transpiration",
+      "osmosis",
+      "diffusion"
     ],
-    "answer": "A"
+    "answer": "transpiration"
   },
   {
-    "question": "Biology Q 54",
+    "question": "Which blood type is the universal donor?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "O positive",
+      "A positive",
+      "AB positive",
+      "B positive"
     ],
-    "answer": "A"
+    "answer": "O positive"
   },
   {
-    "question": "Biology Q 55",
+    "question": "Identify the base pairing rule in DNA:",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "A-G, T-C",
+      "A-T, G-C",
+      "A-U, G-C",
+      "A-C, G-T"
     ],
-    "answer": "A"
+    "answer": "A-T, G-C"
   },
   {
-    "question": "Biology Q 56",
+    "question": "The number of chromosomes in a human body cell is:",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "69",
+      "92",
+      "23",
+      "46"
     ],
-    "answer": "A"
+    "answer": "46"
   },
   {
-    "question": "Biology Q 57",
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Lipase",
+      "Protease",
+      "Catalase",
+      "Amylase"
     ],
-    "answer": "A"
+    "answer": "Catalase"
   },
   {
-    "question": "Biology Q 58",
+    "question": "The term for an organism that feeds on dead organic matter:",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Omnivore",
+      "Herbivore",
+      "Carnivore",
+      "Decomposer"
     ],
-    "answer": "A"
+    "answer": "Decomposer"
   },
   {
-    "question": "Biology Q 59",
+    "question": "What is the primary function of white blood cells?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "transport oxygen",
+      "transport nutrients",
+      "fight infections",
+      "regulate temperature"
     ],
-    "answer": "A"
+    "answer": "fight infections"
   },
   {
-    "question": "Biology Q 60",
+    "question": "Identify the organelle responsible for energy production:",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
+      "Golgi apparatus",
+      "Nucleus",
+      "Mitochondrion",
+      "Ribosome"
     ],
-    "answer": "A"
+    "answer": "Mitochondrion"
   },
   {
-    "question": "Biology Q 61",
+    "question": "The process by which plants make food is called:",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "respiration",
+      "fermentation",
+      "digestion",
+      "photosynthesis"
     ],
-    "answer": "A"
+    "answer": "photosynthesis"
   },
   {
-    "question": "Biology Q 62",
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Pulmonary vein",
+      "Pulmonary artery",
+      "Vena cava",
+      "Aorta"
     ],
-    "answer": "A"
+    "answer": "Pulmonary vein"
   },
   {
-    "question": "Biology Q 63",
+    "question": "The basic unit of life is the:",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "atom",
+      "cell",
+      "tissue",
+      "molecule"
     ],
-    "answer": "A"
+    "answer": "cell"
   },
   {
-    "question": "Biology Q 64",
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "Anaphase",
+      "Metaphase",
+      "Telophase",
+      "Prophase"
     ],
-    "answer": "A"
+    "answer": "Metaphase"
   },
   {
-    "question": "Biology Q 65",
+    "question": "What is the function of the enzyme amylase?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "breaks down starch",
+      "breaks down proteins",
+      "breaks down nucleic acids",
+      "breaks down fats"
     ],
-    "answer": "A"
+    "answer": "breaks down starch"
   },
   {
-    "question": "Biology Q 66",
+    "question": "Which type of joint allows no movement?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "Fixed",
+      "Hinge",
+      "Gliding",
+      "Ball-and-socket"
     ],
-    "answer": "A"
+    "answer": "Fixed"
   },
   {
-    "question": "Biology Q 67",
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "blue and violet",
+      "red and blue",
+      "orange and red",
+      "green and yellow"
     ],
-    "answer": "A"
+    "answer": "red and blue"
   },
   {
-    "question": "Biology Q 68",
+    "question": "Identify the hormone responsible for regulating blood sugar:",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Adrenaline",
+      "Glucagon",
+      "Thyroxine",
+      "Insulin"
     ],
-    "answer": "A"
+    "answer": "Insulin"
   },
   {
-    "question": "Biology Q 69",
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "AA, Aa, aa",
+      "AA and aa",
+      "all homozygous",
+      "Aa and aa"
     ],
-    "answer": "A"
+    "answer": "Aa and aa"
   },
   {
-    "question": "Biology Q 70",
+    "question": "The structure of the heart that prevents backward flow of blood:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Valve",
+      "Atrium",
+      "Septum",
+      "Ventricle"
     ],
-    "answer": "A"
+    "answer": "Valve"
   },
   {
-    "question": "Biology Q 71",
+    "question": "Which statement about aerobic respiration is true?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "requires oxygen",
+      "produces 2 ATP",
+      "occurs in cytoplasm",
+      "produces lactic acid"
     ],
-    "answer": "A"
+    "answer": "requires oxygen"
   },
   {
-    "question": "Biology Q 72",
+    "question": "Identify the accessory organ of digestion:",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Stomach",
+      "Pancreas",
+      "Esophagus",
+      "Small intestine"
     ],
-    "answer": "A"
+    "answer": "Pancreas"
   },
   {
-    "question": "Biology Q 73",
+    "question": "The process by which water moves from roots to leaves is called:",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "diffusion",
+      "transpiration",
+      "osmosis",
+      "turgor"
     ],
-    "answer": "A"
+    "answer": "transpiration"
   },
   {
-    "question": "Biology Q 74",
+    "question": "Which blood type is the universal donor?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "A positive",
+      "AB positive",
+      "B positive",
+      "O positive"
     ],
-    "answer": "A"
+    "answer": "O positive"
   },
   {
-    "question": "Biology Q 75",
+    "question": "Identify the base pairing rule in DNA:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "A-U, G-C",
+      "A-T, G-C",
+      "A-C, G-T",
+      "A-G, T-C"
     ],
-    "answer": "A"
+    "answer": "A-T, G-C"
   },
   {
-    "question": "Biology Q 76",
+    "question": "The number of chromosomes in a human body cell is:",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "69",
+      "92",
+      "46",
+      "23"
     ],
-    "answer": "A"
+    "answer": "46"
   },
   {
-    "question": "Biology Q 77",
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Protease",
+      "Lipase",
+      "Amylase",
+      "Catalase"
     ],
-    "answer": "A"
+    "answer": "Catalase"
   },
   {
-    "question": "Biology Q 78",
+    "question": "The term for an organism that feeds on dead organic matter:",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "Omnivore",
+      "Herbivore",
+      "Carnivore",
+      "Decomposer"
     ],
-    "answer": "A"
+    "answer": "Decomposer"
   },
   {
-    "question": "Biology Q 79",
+    "question": "What is the primary function of white blood cells?",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "transport oxygen",
+      "regulate temperature",
+      "transport nutrients",
+      "fight infections"
     ],
-    "answer": "A"
+    "answer": "fight infections"
   },
   {
-    "question": "Biology Q 80",
+    "question": "Identify the organelle responsible for energy production:",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "Ribosome",
+      "Nucleus",
+      "Golgi apparatus",
+      "Mitochondrion"
     ],
-    "answer": "A"
+    "answer": "Mitochondrion"
   },
   {
-    "question": "Biology Q 81",
+    "question": "The process by which plants make food is called:",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "fermentation",
+      "photosynthesis",
+      "digestion",
+      "respiration"
     ],
-    "answer": "A"
+    "answer": "photosynthesis"
   },
   {
-    "question": "Biology Q 82",
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "Pulmonary artery",
+      "Vena cava",
+      "Pulmonary vein",
+      "Aorta"
     ],
-    "answer": "A"
+    "answer": "Pulmonary vein"
   },
   {
-    "question": "Biology Q 83",
+    "question": "The basic unit of life is the:",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "tissue",
+      "atom",
+      "molecule",
+      "cell"
     ],
-    "answer": "A"
+    "answer": "cell"
   },
   {
-    "question": "Biology Q 84",
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Metaphase",
+      "Anaphase",
+      "Telophase",
+      "Prophase"
     ],
-    "answer": "A"
+    "answer": "Metaphase"
   },
   {
-    "question": "Biology Q 85",
+    "question": "What is the function of the enzyme amylase?",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "breaks down starch",
+      "breaks down nucleic acids",
+      "breaks down proteins",
+      "breaks down fats"
     ],
-    "answer": "A"
+    "answer": "breaks down starch"
   },
   {
-    "question": "Biology Q 86",
+    "question": "Which type of joint allows no movement?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "Hinge",
+      "Fixed",
+      "Ball-and-socket",
+      "Gliding"
     ],
-    "answer": "A"
+    "answer": "Fixed"
   },
   {
-    "question": "Biology Q 87",
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "blue and violet",
+      "orange and red",
+      "red and blue",
+      "green and yellow"
     ],
-    "answer": "A"
+    "answer": "red and blue"
   },
   {
-    "question": "Biology Q 88",
+    "question": "Identify the hormone responsible for regulating blood sugar:",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin",
+      "Glucagon"
     ],
-    "answer": "A"
+    "answer": "Insulin"
   },
   {
-    "question": "Biology Q 89",
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "AA, Aa, aa",
+      "Aa and aa",
+      "all homozygous",
+      "AA and aa"
     ],
-    "answer": "A"
+    "answer": "Aa and aa"
   },
   {
-    "question": "Biology Q 90",
+    "question": "The structure of the heart that prevents backward flow of blood:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Septum",
+      "Valve",
+      "Atrium",
+      "Ventricle"
     ],
-    "answer": "A"
+    "answer": "Valve"
   },
   {
-    "question": "Biology Q 91",
+    "question": "Which statement about aerobic respiration is true?",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "requires oxygen",
+      "occurs in cytoplasm",
+      "produces 2 ATP",
+      "produces lactic acid"
     ],
-    "answer": "A"
+    "answer": "requires oxygen"
   },
   {
-    "question": "Biology Q 92",
+    "question": "Identify the accessory organ of digestion:",
     "options": [
-      "C",
-      "D",
-      "B",
-      "A"
+      "Small intestine",
+      "Pancreas",
+      "Esophagus",
+      "Stomach"
     ],
-    "answer": "A"
+    "answer": "Pancreas"
   },
   {
-    "question": "Biology Q 93",
+    "question": "The process by which water moves from roots to leaves is called:",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "transpiration",
+      "diffusion",
+      "turgor",
+      "osmosis"
     ],
-    "answer": "A"
+    "answer": "transpiration"
   },
   {
-    "question": "Biology Q 94",
+    "question": "Which blood type is the universal donor?",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
+      "A positive",
+      "O positive",
+      "AB positive",
+      "B positive"
     ],
-    "answer": "A"
+    "answer": "O positive"
   },
   {
-    "question": "Biology Q 95",
+    "question": "Identify the base pairing rule in DNA:",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "A-G, T-C",
+      "A-U, G-C",
+      "A-T, G-C",
+      "A-C, G-T"
     ],
-    "answer": "A"
+    "answer": "A-T, G-C"
   },
   {
-    "question": "Biology Q 96",
+    "question": "The number of chromosomes in a human body cell is:",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "69",
+      "23",
+      "46",
+      "92"
     ],
-    "answer": "A"
+    "answer": "46"
   },
   {
-    "question": "Biology Q 97",
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Amylase",
+      "Catalase",
+      "Protease",
+      "Lipase"
     ],
-    "answer": "A"
+    "answer": "Catalase"
   },
   {
-    "question": "Biology Q 98",
+    "question": "The term for an organism that feeds on dead organic matter:",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "Omnivore",
+      "Carnivore",
+      "Decomposer",
+      "Herbivore"
     ],
-    "answer": "A"
+    "answer": "Decomposer"
   },
   {
-    "question": "Biology Q 99",
+    "question": "What is the primary function of white blood cells?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "regulate temperature",
+      "transport nutrients",
+      "fight infections",
+      "transport oxygen"
     ],
-    "answer": "A"
+    "answer": "fight infections"
   },
   {
-    "question": "Biology Q 100",
+    "question": "Identify the organelle responsible for energy production:",
     "options": [
-      "B",
-      "D",
-      "A",
-      "C"
+      "Nucleus",
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondrion"
     ],
-    "answer": "A"
+    "answer": "Mitochondrion"
   },
   {
-    "question": "Biology Q 101",
+    "question": "The process by which plants make food is called:",
     "options": [
-      "D",
-      "B",
-      "A",
-      "C"
+      "photosynthesis",
+      "digestion",
+      "fermentation",
+      "respiration"
     ],
-    "answer": "A"
+    "answer": "photosynthesis"
   },
   {
-    "question": "Biology Q 102",
+    "question": "Which blood vessel carries oxygenated blood from the lungs?",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "Pulmonary vein",
+      "Pulmonary artery",
+      "Aorta",
+      "Vena cava"
     ],
-    "answer": "A"
+    "answer": "Pulmonary vein"
   },
   {
-    "question": "Biology Q 103",
+    "question": "The basic unit of life is the:",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "cell",
+      "atom",
+      "molecule",
+      "tissue"
     ],
-    "answer": "A"
+    "answer": "cell"
   },
   {
-    "question": "Biology Q 104",
+    "question": "Identify the stage of mitosis where chromosomes line up at the equator:",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Anaphase",
+      "Prophase",
+      "Metaphase",
+      "Telophase"
     ],
-    "answer": "A"
+    "answer": "Metaphase"
   },
   {
-    "question": "Biology Q 105",
+    "question": "What is the function of the enzyme amylase?",
     "options": [
-      "C",
-      "D",
-      "A",
-      "B"
+      "breaks down fats",
+      "breaks down nucleic acids",
+      "breaks down starch",
+      "breaks down proteins"
     ],
-    "answer": "A"
+    "answer": "breaks down starch"
   },
   {
-    "question": "Biology Q 106",
+    "question": "Which type of joint allows no movement?",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "Hinge",
+      "Ball-and-socket",
+      "Fixed",
+      "Gliding"
     ],
-    "answer": "A"
+    "answer": "Fixed"
   },
   {
-    "question": "Biology Q 107",
+    "question": "The wavelengths of light most absorbed by chlorophyll are:",
     "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "blue and violet",
+      "red and blue",
+      "green and yellow",
+      "orange and red"
     ],
-    "answer": "A"
+    "answer": "red and blue"
   },
   {
-    "question": "Biology Q 108",
+    "question": "Identify the hormone responsible for regulating blood sugar:",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "Glucagon",
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin"
     ],
-    "answer": "A"
+    "answer": "Insulin"
   },
   {
-    "question": "Biology Q 109",
+    "question": "What is the genotype of a test cross involving a heterozygous and homozygous recessive?",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "Aa and aa",
+      "all homozygous",
+      "AA and aa",
+      "AA, Aa, aa"
     ],
-    "answer": "A"
+    "answer": "Aa and aa"
   },
   {
-    "question": "Biology Q 110",
+    "question": "The structure of the heart that prevents backward flow of blood:",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Valve",
+      "Septum",
+      "Ventricle",
+      "Atrium"
     ],
-    "answer": "A"
+    "answer": "Valve"
   },
   {
-    "question": "Biology Q 111",
+    "question": "Which statement about aerobic respiration is true?",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
+      "occurs in cytoplasm",
+      "produces lactic acid",
+      "requires oxygen",
+      "produces 2 ATP"
     ],
-    "answer": "A"
+    "answer": "requires oxygen"
   },
   {
-    "question": "Biology Q 112",
+    "question": "Identify the accessory organ of digestion:",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
+      "Esophagus",
+      "Pancreas",
+      "Small intestine",
+      "Stomach"
     ],
-    "answer": "A"
+    "answer": "Pancreas"
   },
   {
-    "question": "Biology Q 113",
+    "question": "The process by which water moves from roots to leaves is called:",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
+      "transpiration",
+      "osmosis",
+      "turgor",
+      "diffusion"
     ],
-    "answer": "A"
+    "answer": "transpiration"
   },
   {
-    "question": "Biology Q 114",
+    "question": "Which blood type is the universal donor?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "A positive",
+      "O positive",
+      "AB positive",
+      "B positive"
     ],
-    "answer": "A"
+    "answer": "O positive"
   },
   {
-    "question": "Biology Q 115",
+    "question": "Identify the base pairing rule in DNA:",
     "options": [
-      "C",
-      "A",
-      "D",
-      "B"
+      "A-U, G-C",
+      "A-C, G-T",
+      "A-T, G-C",
+      "A-G, T-C"
     ],
-    "answer": "A"
+    "answer": "A-T, G-C"
   },
   {
-    "question": "Biology Q 116",
+    "question": "The number of chromosomes in a human body cell is:",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "46",
+      "92",
+      "23",
+      "69"
     ],
-    "answer": "A"
+    "answer": "46"
   },
   {
-    "question": "Biology Q 117",
+    "question": "Which enzyme breaks down hydrogen peroxide in cells?",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "Lipase",
+      "Catalase",
+      "Amylase",
+      "Protease"
     ],
-    "answer": "A"
+    "answer": "Catalase"
   },
   {
-    "question": "Biology Q 118",
+    "question": "The term for an organism that feeds on dead organic matter:",
     "options": [
-      "A",
-      "B",
-      "D",
-      "C"
+      "Omnivore",
+      "Herbivore",
+      "Decomposer",
+      "Carnivore"
     ],
-    "answer": "A"
+    "answer": "Decomposer"
   },
   {
-    "question": "Biology Q 119",
+    "question": "What is the primary function of white blood cells?",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "regulate temperature",
+      "fight infections",
+      "transport nutrients",
+      "transport oxygen"
     ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 120",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 121",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 122",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 123",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 124",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 125",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 126",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 127",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 128",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 129",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 130",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 131",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 132",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 133",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 134",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 135",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 136",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 137",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 138",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 139",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 140",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 141",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 142",
-    "options": [
-      "D",
-      "B",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 143",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 144",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 145",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 146",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 147",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 148",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 149",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 150",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 151",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 152",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 153",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 154",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 155",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 156",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 157",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 158",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 159",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 160",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 161",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 162",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 163",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 164",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 165",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 166",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 167",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 168",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 169",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 170",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 171",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 172",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 173",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 174",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 175",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 176",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 177",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 178",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 179",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 180",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 181",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 182",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 183",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 184",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 185",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 186",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 187",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 188",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 189",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 190",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 191",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 192",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 193",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 194",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 195",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 196",
-    "options": [
-      "D",
-      "B",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 197",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 198",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 199",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 200",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 201",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 202",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 203",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 204",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 205",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 206",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 207",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 208",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 209",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 210",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 211",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 212",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 213",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 214",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 215",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 216",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 217",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 218",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 219",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 220",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 221",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 222",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 223",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 224",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 225",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 226",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 227",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 228",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 229",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 230",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 231",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 232",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 233",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 234",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 235",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 236",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 237",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 238",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 239",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 240",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 241",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 242",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 243",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 244",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 245",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 246",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 247",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 248",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 249",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 250",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 251",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 252",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 253",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 254",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 255",
-    "options": [
-      "D",
-      "B",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 256",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 257",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 258",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 259",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 260",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 261",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 262",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 263",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 264",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 265",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 266",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 267",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 268",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 269",
-    "options": [
-      "C",
-      "D",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 270",
-    "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 271",
-    "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 272",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 273",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 274",
-    "options": [
-      "C",
-      "D",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 275",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 276",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 277",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 278",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 279",
-    "options": [
-      "A",
-      "D",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 280",
-    "options": [
-      "D",
-      "B",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 281",
-    "options": [
-      "D",
-      "B",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 282",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 283",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 284",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 285",
-    "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 286",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 287",
-    "options": [
-      "B",
-      "D",
-      "A",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 288",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 289",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 290",
-    "options": [
-      "A",
-      "C",
-      "B",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 291",
-    "options": [
-      "D",
-      "C",
-      "B",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 292",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 293",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 294",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 295",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 296",
-    "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 297",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 298",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "answer": "A"
-  },
-  {
-    "question": "Biology Q 299",
-    "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "answer": "A"
+    "answer": "fight infections"
   }
 ]

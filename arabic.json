@@ -1,186 +1,216 @@
 [
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
+      "كتبتم",
+      "كتبن",
+      "كتبوا",
+      "كتبنا"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "'المكتبة' تعني:",
+    "options": [
       "office",
-      "desk",
       "library",
+      "desk",
       "school"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "ين",
+      "اء",
+      "ون",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "school",
-      "office",
-      "desk"
+      "meal",
+      "food",
+      "drink",
+      "water"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "school",
-      "desk",
-      "office",
-      "library"
+      "يقرا",
+      "أقرأ",
+      "اقرا",
+      "قراءة"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "month",
+      "year",
+      "week",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "إن",
+      "ليس",
+      "أن",
+      "لكن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "بيتان",
+      "البيوت",
+      "بيوت",
+      "بيتات"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "my sister",
+      "your sister",
+      "his sister",
+      "her sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "school",
+      "الجملة",
+      "الفعل",
+      "الحرف",
+      "الموصوف"
+    ],
+    "answer": "الموصوف"
+  },
+  {
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
+    "options": [
+      "كتبوا",
+      "كتبنا",
+      "كتبن",
+      "كتبتم"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "'المكتبة' تعني:",
+    "options": [
       "office",
+      "school",
       "library",
       "desk"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "ون",
+      "اء",
+      "ين",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "food",
+      "water",
+      "drink",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "أقرأ",
+      "قراءة",
+      "اقرا",
+      "يقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "month",
+      "year",
+      "day",
+      "week"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "لكن",
+      "أن",
+      "ليس",
+      "إن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "البيوت",
+      "بيتات",
+      "بيتان",
+      "بيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "your sister",
+      "his sister",
+      "my sister",
+      "her sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "الموصوف",
+      "الحرف",
+      "الجملة",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "كتبنا",
+      "كتبوا",
+      "كتبتم",
+      "كتبن"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "school",
       "office",
@@ -190,297 +220,297 @@
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "ون",
+      "اء",
+      "ين",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "food",
+      "water",
+      "drink",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "يقرا",
+      "اقرا",
+      "قراءة",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "library",
-      "office",
-      "school",
-      "desk"
+      "week",
+      "month",
+      "year",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "إن",
+      "لكن",
+      "أن",
+      "ليس"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "البيوت",
+      "بيتان",
+      "بيتات",
+      "بيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "her sister",
+      "your sister",
+      "his sister",
+      "my sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "الحرف",
+      "الفعل",
+      "الجملة",
+      "الموصوف"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "كتبنا",
+      "كتبتم",
+      "كتبوا",
+      "كتبن"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "office",
+      "school",
       "desk",
-      "library",
-      "school"
+      "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "ات",
+      "ين",
+      "ون",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "school",
-      "desk",
-      "office"
+      "food",
+      "drink",
+      "meal",
+      "water"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "يقرا",
+      "أقرأ",
+      "اقرا",
+      "قراءة"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "year",
+      "week",
+      "month",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "لكن",
+      "ليس",
+      "أن",
+      "إن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "البيوت",
+      "بيتان",
+      "بيتات",
+      "بيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "her sister",
+      "my sister",
+      "your sister",
+      "his sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "الموصوف",
+      "الجملة",
+      "الفعل",
+      "الحرف"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "كتبتم",
+      "كتبنا",
+      "كتبن",
+      "كتبوا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "library",
-      "office",
       "school",
-      "desk"
+      "desk",
+      "office"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "ون",
+      "اء",
+      "ين",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "food",
+      "water",
+      "meal",
+      "drink"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
+      "اقرا",
+      "يقرا",
+      "أقرأ",
+      "قراءة"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "desk",
-      "office",
-      "school",
-      "library"
+      "month",
+      "year",
+      "day",
+      "week"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "إن",
+      "لكن",
+      "ليس",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "بيوت",
+      "بيتات",
+      "بيتان",
+      "البيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "your sister",
+      "her sister",
+      "my sister",
+      "his sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "الحرف",
+      "الموصوف",
+      "الجملة",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "كتبتم",
+      "كتبن",
+      "كتبوا",
+      "كتبنا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "desk",
       "office",
@@ -490,1187 +520,1197 @@
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "اء",
+      "ات",
+      "ون",
+      "ين"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "water",
+      "meal",
+      "food",
+      "drink"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "قراءة",
+      "يقرا",
+      "أقرأ",
+      "اقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "day",
+      "week",
+      "year",
+      "month"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "لكن",
+      "إن",
+      "أن",
+      "ليس"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "بيوت",
+      "البيوت",
+      "بيتان",
+      "بيتات"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "my sister",
+      "her sister",
+      "your sister",
+      "his sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "الجملة",
+      "الفعل",
+      "الحرف",
+      "الموصوف"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "كتبن",
+      "كتبوا",
+      "كتبنا",
+      "كتبتم"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "office",
-      "library",
       "desk",
-      "school"
+      "school",
+      "library",
+      "office"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
+      "ون",
+      "ات",
+      "ين",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "food",
+      "meal",
+      "drink",
+      "water"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "اقرا",
+      "قراءة",
+      "يقرا",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "desk",
-      "office",
-      "library"
+      "week",
+      "day",
+      "month",
+      "year"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "ليس",
+      "إن",
+      "أن",
+      "لكن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "بيتات",
+      "بيوت",
+      "بيتان",
+      "البيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "your sister",
+      "his sister",
+      "her sister",
+      "my sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "school",
-      "office",
-      "desk"
+      "الموصوف",
+      "الحرف",
+      "الجملة",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "كتبن",
+      "كتبتم",
+      "كتبوا",
+      "كتبنا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "desk",
-      "school",
       "library",
+      "school",
       "office"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "ون",
+      "اء",
+      "ين",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "school",
-      "desk",
-      "office"
+      "water",
+      "food",
+      "drink",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "يقرا",
+      "قراءة",
+      "أقرأ",
+      "اقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "week",
+      "year",
+      "month",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "لكن",
+      "ليس",
+      "أن",
+      "إن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "البيوت",
+      "بيتان",
+      "بيتات",
+      "بيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "desk",
-      "office",
-      "library",
-      "school"
+      "her sister",
+      "his sister",
+      "your sister",
+      "my sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "الحرف",
+      "الفعل",
+      "الجملة",
+      "الموصوف"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "كتبتم",
+      "كتبوا",
+      "كتبن",
+      "كتبنا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "office",
-      "school",
       "desk",
+      "school",
       "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "ات",
+      "ون",
+      "اء",
+      "ين"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "drink",
+      "food",
+      "meal",
+      "water"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "أقرأ",
+      "يقرا",
+      "قراءة",
+      "اقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "month",
+      "week",
+      "year",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "أن",
+      "ليس",
+      "لكن",
+      "إن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "البيوت",
+      "بيتان",
+      "بيوت",
+      "بيتات"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "his sister",
+      "your sister",
+      "her sister",
+      "my sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "office",
-      "school",
-      "desk"
+      "الفعل",
+      "الموصوف",
+      "الحرف",
+      "الجملة"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "كتبنا",
+      "كتبتم",
+      "كتبوا",
+      "كتبن"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "office",
       "library",
-      "desk",
-      "school"
+      "school",
+      "office",
+      "desk"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "ات",
+      "ين",
+      "ون",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "meal",
+      "drink",
+      "water",
+      "food"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "يقرا",
+      "أقرأ",
+      "اقرا",
+      "قراءة"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "day",
+      "month",
+      "year",
+      "week"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "أن",
+      "لكن",
+      "ليس",
+      "إن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "البيوت",
+      "بيوت",
+      "بيتان",
+      "بيتات"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "his sister",
+      "her sister",
+      "your sister",
+      "my sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "school",
-      "desk",
-      "office"
+      "الموصوف",
+      "الحرف",
+      "الجملة",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "كتبتم",
+      "كتبن",
+      "كتبنا",
+      "كتبوا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
+      "school",
       "desk",
       "library",
-      "office",
-      "school"
+      "office"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "اء",
+      "ات",
+      "ين",
+      "ون"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "food",
+      "drink",
+      "water",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "أقرأ",
+      "اقرا",
+      "قراءة",
+      "يقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "desk",
-      "office",
-      "school",
-      "library"
+      "week",
+      "year",
+      "day",
+      "month"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
+      "أن",
+      "إن",
+      "ليس",
+      "لكن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
+      "البيوت",
+      "بيوت",
+      "بيتات",
+      "بيتان"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "library",
-      "office",
-      "school",
-      "desk"
+      "your sister",
+      "her sister",
+      "my sister",
+      "his sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "الفعل",
+      "الحرف",
+      "الموصوف",
+      "الجملة"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "school",
-      "desk",
-      "office",
-      "library"
+      "كتبتم",
+      "كتبوا",
+      "كتبن",
+      "كتبنا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "library",
       "school",
+      "library",
       "office",
       "desk"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "اء",
+      "ين",
+      "ون",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "food",
+      "drink",
+      "meal",
+      "water"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "office",
-      "school",
-      "library"
+      "يقرا",
+      "اقرا",
+      "قراءة",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "year",
+      "day",
+      "week",
+      "month"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "إن",
+      "ليس",
+      "لكن",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "library",
-      "school",
-      "desk",
-      "office"
+      "بيوت",
+      "البيوت",
+      "بيتات",
+      "بيتان"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "her sister",
+      "your sister",
+      "his sister",
+      "my sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "الفعل",
+      "الحرف",
+      "الجملة",
+      "الموصوف"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "كتبوا",
+      "كتبنا",
+      "كتبن",
+      "كتبتم"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "library",
-      "desk",
       "office",
+      "desk",
+      "library",
       "school"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "ين",
+      "ات",
+      "اء",
+      "ون"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "drink",
+      "food",
+      "meal",
+      "water"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "قراءة",
+      "اقرا",
+      "يقرا",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "month",
+      "week",
+      "day",
+      "year"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "لكن",
+      "ليس",
+      "إن",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "library",
-      "school",
-      "office",
-      "desk"
+      "بيتات",
+      "البيوت",
+      "بيوت",
+      "بيتان"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "his sister",
+      "her sister",
+      "your sister",
+      "my sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "الجملة",
+      "الفعل",
+      "الحرف",
+      "الموصوف"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "كتبوا",
+      "كتبنا",
+      "كتبن",
+      "كتبتم"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "school",
       "library",
-      "desk",
-      "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'Maktaba' meaning",
-    "options": [
       "school",
       "office",
-      "library",
       "desk"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "ين",
+      "اء",
+      "ات",
+      "ون"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "school",
-      "office",
-      "desk"
+      "water",
+      "food",
+      "drink",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "library",
-      "office",
-      "school",
-      "desk"
+      "اقرا",
+      "قراءة",
+      "أقرأ",
+      "يقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "day",
+      "year",
+      "month",
+      "week"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "ليس",
+      "إن",
+      "لكن",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "بيتات",
+      "بيوت",
+      "البيوت",
+      "بيتان"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "your sister",
+      "his sister",
+      "my sister",
+      "her sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "الموصوف",
+      "الحرف",
+      "الفعل",
+      "الجملة"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "library",
-      "school",
-      "desk",
-      "office"
+      "كتبن",
+      "كتبوا",
+      "كتبنا",
+      "كتبتم"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "desk",
       "library",
+      "desk",
       "office",
       "school"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "ات",
+      "اء",
+      "ين",
+      "ون"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "water",
+      "drink",
+      "meal",
+      "food"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
+      "قراءة",
+      "اقرا",
+      "يقرا",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "month",
+      "week",
+      "day",
+      "year"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "ليس",
+      "لكن",
+      "إن",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "بيوت",
+      "بيتان",
+      "بيتات",
+      "البيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "your sister",
+      "my sister",
+      "his sister",
+      "her sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "الحرف",
+      "الجملة",
+      "الموصوف",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "كتبنا",
+      "كتبوا",
+      "كتبتم",
+      "كتبن"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "school",
-      "desk",
       "office",
+      "desk",
       "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "ات",
+      "ون",
+      "ين",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "meal",
+      "water",
+      "drink",
+      "food"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
+      "قراءة",
+      "يقرا",
+      "اقرا",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "week",
+      "year",
+      "month",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "library",
-      "school",
-      "office",
-      "desk"
+      "ليس",
+      "أن",
+      "إن",
+      "لكن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "desk",
-      "office",
-      "library",
-      "school"
+      "البيوت",
+      "بيوت",
+      "بيتات",
+      "بيتان"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "my sister",
+      "your sister",
+      "his sister",
+      "her sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "الحرف",
+      "الفعل",
+      "الموصوف",
+      "الجملة"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "كتبن",
+      "كتبوا",
+      "كتبنا",
+      "كتبتم"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "desk",
       "library",
       "office",
-      "school"
+      "school",
+      "desk"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "desk",
-      "office",
-      "library"
+      "ين",
+      "ون",
+      "ات",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
+      "water",
+      "food",
+      "drink",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "أقرأ",
+      "يقرا",
+      "قراءة",
+      "اقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "day",
+      "year",
+      "week",
+      "month"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "إن",
+      "لكن",
+      "ليس",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "بيتات",
+      "البيوت",
+      "بيوت",
+      "بيتان"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "her sister",
+      "my sister",
+      "his sister",
+      "your sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
+  },
+  {
+    "question": "النعت يتبع:",
+    "options": [
+      "الحرف",
+      "الفعل",
+      "الموصوف",
+      "الجملة"
+    ],
+    "answer": "الموصوف"
+  },
+  {
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
+    "options": [
+      "كتبن",
+      "كتبنا",
+      "كتبوا",
+      "كتبتم"
+    ],
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "office",
       "library",
@@ -1680,287 +1720,297 @@
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "ون",
+      "ين",
+      "اء",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "drink",
+      "meal",
+      "water",
+      "food"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "يقرا",
+      "اقرا",
+      "قراءة",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "week",
+      "year",
+      "month",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "school",
-      "desk",
-      "office",
-      "library"
+      "أن",
+      "إن",
+      "لكن",
+      "ليس"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "البيوت",
+      "بيتات",
+      "بيوت",
+      "بيتان"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "her sister",
+      "my sister",
+      "his sister",
+      "your sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "desk",
-      "office",
-      "library",
-      "school"
+      "الموصوف",
+      "الحرف",
+      "الجملة",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
+  },
+  {
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
+    "options": [
+      "كتبنا",
+      "كتبوا",
+      "كتبن",
+      "كتبتم"
+    ],
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "school",
-      "desk",
       "office",
+      "desk",
       "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "ين",
+      "ون",
+      "ات",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "drink",
+      "meal",
+      "water",
+      "food"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "قراءة",
+      "يقرا",
+      "أقرأ",
+      "اقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "day",
+      "month",
+      "week",
+      "year"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "لكن",
+      "إن",
+      "ليس",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "بيتات",
+      "البيوت",
+      "بيوت",
+      "بيتان"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "his sister",
+      "my sister",
+      "her sister",
+      "your sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "الفعل",
+      "الموصوف",
+      "الحرف",
+      "الجملة"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "كتبتم",
+      "كتبن",
+      "كتبوا",
+      "كتبنا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "library",
       "school",
       "office",
-      "desk"
+      "desk",
+      "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "ون",
+      "ين",
+      "ات",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "drink",
+      "food",
+      "water",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "أقرأ",
+      "اقرا",
+      "يقرا",
+      "قراءة"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "week",
+      "month",
+      "day",
+      "year"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "لكن",
+      "أن",
+      "إن",
+      "ليس"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "البيوت",
+      "بيتان",
+      "بيوت",
+      "بيتات"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
+      "her sister",
+      "your sister",
+      "his sister",
+      "my sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "الحرف",
+      "الموصوف",
+      "الفعل",
+      "الجملة"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "desk",
-      "office",
-      "library",
-      "school"
+      "كتبوا",
+      "كتبنا",
+      "كتبتم",
+      "كتبن"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "office",
       "library",
@@ -1970,607 +2020,597 @@
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "ين",
+      "ات",
+      "ون",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "food",
+      "water",
+      "drink",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "library",
-      "office",
-      "school",
-      "desk"
+      "اقرا",
+      "يقرا",
+      "أقرأ",
+      "قراءة"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "year",
+      "day",
+      "week",
+      "month"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "إن",
+      "ليس",
+      "أن",
+      "لكن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "بيتان",
+      "بيتات",
+      "البيوت",
+      "بيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "her sister",
+      "my sister",
+      "your sister",
+      "his sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "الفعل",
+      "الحرف",
+      "الموصوف",
+      "الجملة"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "كتبوا",
+      "كتبن",
+      "كتبتم",
+      "كتبنا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
+      "desk",
       "office",
       "school",
-      "desk",
       "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "ون",
+      "اء",
+      "ات",
+      "ين"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "school",
-      "office",
-      "desk"
+      "water",
+      "meal",
+      "food",
+      "drink"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "اقرا",
+      "قراءة",
+      "يقرا",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "week",
+      "month",
+      "year",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "لكن",
+      "ليس",
+      "إن",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "البيوت",
+      "بيتان",
+      "بيوت",
+      "بيتات"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "his sister",
+      "my sister",
+      "her sister",
+      "your sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "الحرف",
+      "الجملة",
+      "الموصوف",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "كتبن",
+      "كتبنا",
+      "كتبوا",
+      "كتبتم"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "desk",
       "school",
-      "library",
-      "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'Maktaba' meaning",
-    "options": [
       "desk",
-      "school",
       "office",
       "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "اء",
+      "ات",
+      "ين",
+      "ون"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "water",
+      "meal",
+      "drink",
+      "food"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "اقرا",
+      "يقرا",
+      "قراءة",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "day",
+      "month",
+      "year",
+      "week"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "لكن",
+      "ليس",
+      "أن",
+      "إن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "بيوت",
+      "البيوت",
+      "بيتات",
+      "بيتان"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "his sister",
+      "your sister",
+      "my sister",
+      "her sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "الموصوف",
+      "الحرف",
+      "الفعل",
+      "الجملة"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "school",
-      "desk",
-      "office",
-      "library"
+      "كتبن",
+      "كتبوا",
+      "كتبنا",
+      "كتبتم"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "library",
       "desk",
+      "school",
       "office",
-      "school"
+      "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "ات",
+      "ين",
+      "ون",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "water",
+      "food",
+      "drink",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "قراءة",
+      "اقرا",
+      "يقرا",
+      "أقرأ"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "week",
+      "year",
+      "month",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "ليس",
+      "لكن",
+      "أن",
+      "إن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "بيتات",
+      "البيوت",
+      "بيتان",
+      "بيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "her sister",
+      "my sister",
+      "your sister",
+      "his sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "الفعل",
+      "الجملة",
+      "الحرف",
+      "الموصوف"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "كتبوا",
+      "كتبن",
+      "كتبتم",
+      "كتبنا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
+      "school",
       "desk",
-      "library",
       "office",
-      "school"
+      "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "ين",
+      "ون",
+      "اء",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "meal",
+      "food",
+      "water",
+      "drink"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "أقرأ",
+      "قراءة",
+      "يقرا",
+      "اقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "year",
+      "month",
+      "week",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "ليس",
+      "لكن",
+      "إن",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "البيوت",
+      "بيوت",
+      "بيتان",
+      "بيتات"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "my sister",
+      "her sister",
+      "your sister",
+      "his sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "الموصوف",
+      "الفعل",
+      "الجملة",
+      "الحرف"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "library",
-      "office",
-      "school",
-      "desk"
+      "كتبن",
+      "كتبنا",
+      "كتبتم",
+      "كتبوا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "office",
       "desk",
       "library",
+      "office",
       "school"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "ون",
+      "ين",
+      "اء",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "desk",
-      "office",
-      "library",
-      "school"
+      "water",
+      "drink",
+      "food",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "اقرا",
+      "أقرأ",
+      "قراءة",
+      "يقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "month",
+      "day",
+      "year",
+      "week"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "إن",
+      "لكن",
+      "ليس",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "بيتان",
+      "بيوت",
+      "البيوت",
+      "بيتات"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
+      "his sister",
+      "my sister",
+      "your sister",
+      "her sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "الموصوف",
+      "الفعل",
+      "الحرف",
+      "الجملة"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "كتبوا",
+      "كتبنا",
+      "كتبن",
+      "كتبتم"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "desk",
       "library",
@@ -2580,423 +2620,383 @@
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "اء",
+      "ون",
+      "ين",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "school",
-      "office",
-      "desk"
+      "meal",
+      "food",
+      "drink",
+      "water"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "اقرا",
+      "يقرا",
+      "أقرأ",
+      "قراءة"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "library",
-      "desk",
-      "office"
+      "week",
+      "day",
+      "month",
+      "year"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
+      "أن",
+      "ليس",
+      "لكن",
+      "إن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
+      "البيوت",
+      "بيتات",
+      "بيتان",
+      "بيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "my sister",
+      "his sister",
+      "your sister",
+      "her sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "الحرف",
+      "الجملة",
+      "الموصوف",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "library",
-      "school",
-      "desk",
-      "office"
+      "كتبتم",
+      "كتبن",
+      "كتبوا",
+      "كتبنا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "school",
       "library",
-      "desk",
-      "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'Maktaba' meaning",
-    "options": [
       "desk",
-      "office",
-      "school",
-      "library"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'Maktaba' meaning",
-    "options": [
-      "library",
       "office",
-      "desk",
       "school"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'Maktaba' meaning",
-    "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
+      "اء",
+      "ون",
+      "ات",
+      "ين"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "library",
-      "office",
-      "school",
-      "desk"
+      "drink",
+      "food",
+      "water",
+      "meal"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
+      "يقرا",
+      "قراءة",
+      "أقرأ",
+      "اقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "office",
-      "library",
-      "school",
-      "desk"
+      "week",
+      "year",
+      "month",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "ليس",
+      "لكن",
+      "أن",
+      "إن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "بيتات",
+      "بيوت",
+      "بيتان",
+      "البيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "my sister",
+      "your sister",
+      "her sister",
+      "his sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "الحرف",
+      "الجملة",
+      "الموصوف",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
+      "كتبن",
+      "كتبوا",
+      "كتبتم",
+      "كتبنا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
       "desk",
-      "school",
       "office",
+      "school",
       "library"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "desk",
-      "office",
-      "library",
-      "school"
+      "ون",
+      "ات",
+      "ين",
+      "اء"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "water",
+      "drink",
+      "meal",
+      "food"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
+      "يقرا",
+      "أقرأ",
+      "اقرا",
+      "قراءة"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "office",
-      "school",
-      "library",
-      "desk"
+      "year",
+      "day",
+      "month",
+      "week"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "إن",
+      "ليس",
+      "لكن",
+      "أن"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "school",
-      "desk",
-      "office",
-      "library"
+      "بيوت",
+      "بيتات",
+      "بيتان",
+      "البيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "your sister",
+      "my sister",
+      "his sister",
+      "her sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "الفعل",
+      "الجملة",
+      "الموصوف",
+      "الحرف"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل الماضي 'كتب' في صيغة الجمع:",
     "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
+      "كتبن",
+      "كتبنا",
+      "كتبتم",
+      "كتبوا"
     ],
-    "answer": "library"
+    "answer": "كتبوا"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'المكتبة' تعني:",
     "options": [
-      "library",
       "school",
+      "library",
       "desk",
       "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'Maktaba' meaning",
-    "options": [
-      "library",
-      "office",
-      "school",
-      "desk"
     ],
     "answer": "library"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الجمع السالم المذكر ينتهي بـ:",
     "options": [
-      "school",
-      "library",
-      "office",
-      "desk"
+      "ات",
+      "اء",
+      "ون",
+      "ين"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'الطعام' معناه:",
     "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
+      "meal",
+      "food",
+      "drink",
+      "water"
     ],
-    "answer": "library"
+    "answer": "food"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الفعل 'قرأ' في المضارع:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "قراءة",
+      "أقرأ",
+      "يقرا",
+      "اقرا"
     ],
-    "answer": "library"
+    "answer": "أقرأ"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'يوم' معناه:",
     "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
+      "week",
+      "year",
+      "month",
+      "day"
     ],
-    "answer": "library"
+    "answer": "day"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "الحرف الذي ينصب المبتدأ والخبر:",
     "options": [
-      "library",
-      "school",
-      "desk",
-      "office"
+      "أن",
+      "إن",
+      "لكن",
+      "ليس"
     ],
-    "answer": "library"
+    "answer": "إن"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'البيت' جمعه:",
     "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
+      "بيوت",
+      "بيتان",
+      "بيتات",
+      "البيوت"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "'أختي' تعني:",
     "options": [
-      "school",
-      "desk",
-      "office",
-      "library"
+      "his sister",
+      "my sister",
+      "her sister",
+      "your sister"
     ],
-    "answer": "library"
+    "answer": "my sister"
   },
   {
-    "question": "'Maktaba' meaning",
+    "question": "النعت يتبع:",
     "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
+      "الجملة",
+      "الموصوف",
+      "الحرف",
+      "الفعل"
     ],
-    "answer": "library"
+    "answer": "الموصوف"
   }
 ]
