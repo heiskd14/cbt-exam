@@ -1,66 +1,16 @@
 [
   {
-    "question": "'Bonjour' means",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
-      "thank you",
-      "hello",
-      "welcome",
-      "goodbye"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "wishes",
-      "questions",
-      "commands",
-      "statements"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "wishes",
-      "statements",
-      "questions",
-      "commands"
+      "plus bon",
+      "bon plus",
+      "mieux",
+      "meilleur"
     ],
     "answer": 3
   },
   {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "je suis été",
-      "je fus",
-      "j'etais",
-      "j'ai été"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'ai été",
-      "je fus",
-      "je suis été",
-      "j'etais"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "drink",
-      "meal",
-      "food",
-      "restaurant"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The comparative of 'bon' is",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
       "bon plus",
       "meilleur",
@@ -70,1387 +20,57 @@
     "answer": 1
   },
   {
-    "question": "'Bibliothèque' means",
+    "question": "'Demain' means tomorrow",
     "options": [
-      "book store",
-      "library",
-      "school",
-      "office"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journaux",
-      "journalss",
-      "journales",
-      "journals"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "acteuress",
-      "actrice",
-      "acteur",
-      "actriss"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "allons",
-      "va",
-      "vais",
-      "vont"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "tête",
-      "suis",
-      "vais",
-      "fais"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "semi-regular",
-      "defective",
-      "regular",
-      "irregular"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "thank you",
-      "please",
-      "sorry",
-      "welcome"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "today",
-      "tomorrow",
+      "later",
       "yesterday",
-      "later"
+      "today",
+      "tomorrow"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
-    "question": "'Nourriture' means",
-    "options": [
-      "drink",
-      "meal",
-      "food",
-      "restaurant"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "vais",
-      "suis",
-      "tête",
-      "fais"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
+    "question": "Aller present: je vais",
     "options": [
       "allons",
+      "vont",
       "va",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "allons",
       "vais",
       "vont"
     ],
     "answer": 2
   },
   {
-    "question": "The plural of 'journal' is",
+    "question": "Passé composé 'être': j'ai été",
     "options": [
-      "journals",
-      "journalss",
-      "journales",
-      "journaux"
+      "fus",
+      "etais",
+      "suis été",
+      "ai été"
     ],
     "answer": 3
   },
   {
-    "question": "Complete: 'J'ai mal à la ____'",
+    "question": "'Acteur' feminine: actrice",
     "options": [
-      "fais",
-      "suis",
-      "vais",
-      "tête"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "acteuress",
       "actrice",
+      "acteuress",
       "actriss",
       "acteur"
     ],
-    "answer": 1
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "genitive",
-      "possessive",
-      "object",
-      "subject"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "je suis été",
-      "je fus",
-      "j'etais",
-      "j'ai été"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "vont",
-      "va",
-      "vais",
-      "allons"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "vont",
-      "va",
-      "vais",
-      "allons"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "welcome",
-      "please",
-      "thank you",
-      "sorry"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journales",
-      "journalss",
-      "journals",
-      "journaux"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "goodbye",
-      "excuse me",
-      "hello",
-      "thank you"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "thank you",
-      "welcome",
-      "sorry",
-      "please"
-    ],
     "answer": 0
   },
   {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "je suis été",
-      "j'ai été",
-      "j'etais",
-      "je fus"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "subject",
-      "possessive",
-      "object",
-      "genitive"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "acteur",
-      "acteuress",
-      "actriss",
-      "actrice"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "hello",
-      "goodbye",
-      "excuse me",
-      "thank you"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "hello",
-      "thank you",
-      "goodbye",
-      "excuse me"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'ai été",
-      "j'etais",
-      "je fus",
-      "je suis été"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "acteuress",
-      "actrice",
-      "actriss",
-      "acteur"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "acteuress",
-      "acteur",
-      "actrice",
-      "actriss"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journalss",
-      "journales",
-      "journals",
-      "journaux"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "va",
-      "vont",
-      "allons",
-      "vais"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "meilleur",
-      "bon plus",
-      "mieux",
-      "plus bon"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "welcome",
-      "sorry",
-      "please",
-      "thank you"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "possessive",
-      "subject",
-      "object",
-      "genitive"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "food",
-      "meal",
-      "restaurant",
-      "drink"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "today",
-      "later",
-      "yesterday",
-      "tomorrow"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "office",
-      "library",
-      "school",
-      "book store"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "school",
-      "office",
-      "book store",
-      "library"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "fais",
-      "suis",
-      "vais",
-      "tête"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "actriss",
-      "acteur",
-      "acteuress",
-      "actrice"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "va",
-      "vont",
-      "allons",
-      "vais"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "irregular",
-      "regular",
-      "defective",
-      "semi-regular"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "actriss",
-      "acteuress",
-      "acteur",
-      "actrice"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "meal",
-      "food",
-      "drink",
-      "restaurant"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "regular",
-      "irregular",
-      "defective",
-      "semi-regular"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "welcome",
-      "thank you",
-      "sorry",
-      "please"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "welcome",
-      "please",
-      "thank you",
-      "sorry"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "book store",
-      "library",
-      "school",
-      "office"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "possessive",
-      "object",
-      "subject",
-      "genitive"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "meilleur",
-      "mieux",
-      "plus bon",
-      "bon plus"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "welcome",
-      "thank you",
-      "hello",
-      "goodbye"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "thank you",
-      "welcome",
-      "please",
-      "sorry"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "hello",
-      "welcome",
-      "goodbye",
-      "thank you"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "library",
-      "office",
-      "school",
-      "book store"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journaux",
-      "journals",
-      "journales",
-      "journalss"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "goodbye",
-      "thank you",
-      "hello",
-      "welcome"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "subject",
-      "object",
-      "possessive",
-      "genitive"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "yesterday",
-      "later",
-      "tomorrow",
-      "today"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journaux",
-      "journalss",
-      "journals",
-      "journales"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journales",
-      "journals",
-      "journaux",
-      "journalss"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "statements",
-      "wishes",
-      "questions",
-      "commands"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "questions",
-      "wishes",
-      "commands",
-      "statements"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "statements",
-      "questions",
-      "wishes",
-      "commands"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "food",
-      "meal",
-      "restaurant",
-      "drink"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "sorry",
-      "please",
-      "thank you",
-      "welcome"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'ai été",
-      "je suis été",
-      "je fus",
-      "j'etais"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journales",
-      "journaux",
-      "journals",
-      "journalss"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "yesterday",
-      "today",
-      "later",
-      "tomorrow"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "fais",
-      "suis",
-      "tête",
-      "vais"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "questions",
-      "wishes",
-      "statements",
-      "commands"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "va",
-      "allons",
-      "vont",
-      "vais"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "goodbye",
-      "welcome",
-      "hello",
-      "thank you"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "tomorrow",
-      "yesterday",
-      "later",
-      "today"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "subject",
-      "genitive",
-      "object",
-      "possessive"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "possessive",
-      "genitive",
-      "object",
-      "subject"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "semi-regular",
-      "defective",
-      "regular",
-      "irregular"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "book store",
-      "school",
-      "office",
-      "library"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journals",
-      "journaux",
-      "journales",
-      "journalss"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "acteur",
-      "actrice",
-      "actriss",
-      "acteuress"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "thank you",
-      "sorry",
-      "welcome",
-      "please"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "excuse me",
-      "goodbye",
-      "thank you",
-      "hello"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "meilleur",
-      "mieux",
-      "plus bon",
-      "bon plus"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "goodbye",
-      "hello",
-      "thank you",
-      "excuse me"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "bon plus",
-      "meilleur",
-      "mieux",
-      "plus bon"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "food",
-      "restaurant",
-      "drink",
-      "meal"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "vais",
-      "va",
-      "vont",
-      "allons"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "goodbye",
-      "excuse me",
-      "hello",
-      "thank you"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "office",
-      "book store",
-      "library",
-      "school"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "thank you",
-      "excuse me",
-      "hello",
-      "goodbye"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "mieux",
-      "meilleur",
-      "bon plus",
-      "plus bon"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "library",
-      "school",
-      "book store",
-      "office"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "tête",
-      "fais",
-      "suis",
-      "vais"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "goodbye",
-      "excuse me",
-      "hello",
-      "thank you"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "va",
-      "allons",
-      "vais",
-      "vont"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "meilleur",
-      "plus bon",
-      "mieux",
-      "bon plus"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "irregular",
-      "defective",
-      "regular",
-      "semi-regular"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "hello",
-      "excuse me",
-      "thank you",
-      "goodbye"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "je suis été",
-      "j'ai été",
-      "j'etais",
-      "je fus"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "regular",
-      "defective",
-      "irregular",
-      "semi-regular"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "wishes",
-      "statements",
-      "questions",
-      "commands"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "regular",
-      "defective",
-      "irregular",
-      "semi-regular"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journals",
-      "journales",
-      "journalss",
-      "journaux"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "welcome",
-      "hello",
-      "goodbye",
-      "thank you"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journaux",
-      "journalss",
-      "journals",
-      "journales"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "bon plus",
-      "plus bon",
-      "meilleur",
-      "mieux"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "thank you",
-      "welcome",
-      "goodbye",
-      "hello"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "irregular",
-      "regular",
-      "semi-regular",
-      "defective"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "semi-regular",
-      "defective",
-      "irregular",
-      "regular"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "goodbye",
-      "excuse me",
-      "thank you",
-      "hello"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "thank you",
-      "goodbye",
-      "welcome",
-      "hello"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "je suis été",
-      "je fus",
-      "j'etais",
-      "j'ai été"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "today",
-      "yesterday",
-      "tomorrow",
-      "later"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "mieux",
-      "bon plus",
-      "meilleur",
-      "plus bon"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "welcome",
-      "goodbye",
-      "thank you",
-      "hello"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "drink",
-      "restaurant",
-      "food",
-      "meal"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "later",
-      "today",
-      "tomorrow",
-      "yesterday"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "goodbye",
-      "welcome",
-      "thank you",
-      "hello"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "welcome",
-      "please",
-      "sorry",
-      "thank you"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "plus bon",
-      "mieux",
-      "meilleur",
-      "bon plus"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "possessive",
-      "genitive",
-      "object",
-      "subject"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'etais",
-      "je fus",
-      "j'ai été",
-      "je suis été"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journals",
-      "journaux",
-      "journales",
-      "journalss"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "tête",
-      "suis",
-      "fais",
-      "vais"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "goodbye",
-      "hello",
-      "welcome",
-      "thank you"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "va",
-      "allons",
-      "vais",
-      "vont"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "possessive",
-      "subject",
-      "object",
-      "genitive"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "genitive",
-      "object",
-      "possessive",
-      "subject"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "yesterday",
-      "today",
-      "later",
-      "tomorrow"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "library",
-      "book store",
-      "office",
-      "school"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "acteuress",
-      "actriss",
-      "acteur",
-      "actrice"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "actrice",
-      "actriss",
-      "acteur",
-      "acteuress"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "vais",
-      "vont",
-      "allons",
-      "va"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "welcome",
-      "please",
-      "sorry",
-      "thank you"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'etais",
-      "je suis été",
-      "je fus",
-      "j'ai été"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "please",
-      "thank you",
-      "welcome",
-      "sorry"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "vais",
-      "fais",
-      "tête",
-      "suis"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "please",
-      "thank you",
-      "sorry",
-      "welcome"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The comparative of 'bon' is",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
       "bon plus",
       "mieux",
@@ -1460,937 +80,87 @@
     "answer": 3
   },
   {
-    "question": "'Avoir' conjugation is",
+    "question": "'Demain' means tomorrow",
     "options": [
-      "irregular",
-      "defective",
-      "semi-regular",
-      "regular"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "actriss",
-      "acteur",
-      "acteuress",
-      "actrice"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "today",
-      "tomorrow",
-      "yesterday",
-      "later"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "food",
-      "restaurant",
-      "meal",
-      "drink"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "welcome",
-      "goodbye",
-      "hello",
-      "thank you"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "thank you",
-      "goodbye",
-      "hello",
-      "welcome"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "welcome",
-      "goodbye",
-      "thank you",
-      "hello"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "today",
-      "yesterday",
       "later",
+      "today",
+      "yesterday",
       "tomorrow"
     ],
     "answer": 3
   },
   {
-    "question": "The comparative of 'bon' is",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
-      "bon plus",
       "meilleur",
+      "bon plus",
       "plus bon",
       "mieux"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
-    "question": "The imperative mood is used for",
+    "question": "'Acteur' feminine: actrice",
     "options": [
-      "wishes",
-      "statements",
-      "commands",
-      "questions"
+      "acteuress",
+      "acteur",
+      "actrice",
+      "actriss"
     ],
     "answer": 2
   },
   {
-    "question": "'Nourriture' means",
-    "options": [
-      "restaurant",
-      "food",
-      "drink",
-      "meal"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journaux",
-      "journals",
-      "journales",
-      "journalss"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journalss",
-      "journaux",
-      "journals",
-      "journales"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "food",
-      "meal",
-      "drink",
-      "restaurant"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "wishes",
-      "commands",
-      "questions",
-      "statements"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'ai été",
-      "je suis été",
-      "je fus",
-      "j'etais"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "vais",
-      "vont",
-      "va",
-      "allons"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "food",
-      "meal",
-      "restaurant",
-      "drink"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "va",
-      "vont",
-      "vais",
-      "allons"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "goodbye",
-      "thank you",
-      "hello",
-      "excuse me"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "va",
-      "vont",
-      "allons",
-      "vais"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "sorry",
-      "thank you",
-      "welcome",
-      "please"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
-      "vont",
-      "va",
-      "vais",
-      "allons"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "office",
-      "school",
-      "book store",
-      "library"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "object",
-      "genitive",
-      "subject",
-      "possessive"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "welcome",
-      "goodbye",
-      "thank you",
-      "hello"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "statements",
-      "wishes",
-      "questions",
-      "commands"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The comparative of 'bon' is",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
       "meilleur",
       "plus bon",
-      "bon plus",
-      "mieux"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "regular",
-      "semi-regular",
-      "irregular",
-      "defective"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "food",
-      "drink",
-      "restaurant",
-      "meal"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "goodbye",
-      "welcome",
-      "thank you",
-      "hello"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journals",
-      "journales",
-      "journalss",
-      "journaux"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "questions",
-      "commands",
-      "wishes",
-      "statements"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "please",
-      "sorry",
-      "thank you",
-      "welcome"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "suis",
-      "fais",
-      "tête",
-      "vais"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'etais",
-      "je suis été",
-      "je fus",
-      "j'ai été"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'etais",
-      "j'ai été",
-      "je suis été",
-      "je fus"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "meilleur",
       "mieux",
-      "plus bon",
       "bon plus"
     ],
     "answer": 0
   },
   {
-    "question": "Complete: 'J'ai mal à la ____'",
+    "question": "Passé composé 'être': j'ai été",
     "options": [
+      "suis été",
+      "ai été",
+      "fus",
+      "etais"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
       "vais",
-      "fais",
-      "tête",
-      "suis"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "plus bon",
-      "bon plus",
-      "meilleur",
-      "mieux"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "acteur",
-      "acteuress",
-      "actriss",
-      "actrice"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "goodbye",
-      "hello",
-      "thank you",
-      "excuse me"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "goodbye",
-      "hello",
-      "thank you",
-      "excuse me"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "today",
-      "tomorrow",
-      "yesterday",
-      "later"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "object",
-      "subject",
-      "possessive",
-      "genitive"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "restaurant",
-      "meal",
-      "drink",
-      "food"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "book store",
-      "office",
-      "library",
-      "school"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "je fus",
-      "j'ai été",
-      "je suis été",
-      "j'etais"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "genitive",
-      "possessive",
-      "subject",
-      "object"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "suis",
-      "fais",
-      "vais",
-      "tête"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "hello",
-      "goodbye",
-      "thank you",
-      "excuse me"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "later",
-      "today",
-      "yesterday",
-      "tomorrow"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "semi-regular",
-      "defective",
-      "regular",
-      "irregular"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journals",
-      "journaux",
-      "journales",
-      "journalss"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "object",
-      "subject",
-      "possessive",
-      "genitive"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "drink",
-      "food",
-      "meal",
-      "restaurant"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "drink",
-      "restaurant",
-      "food",
-      "meal"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "subject",
-      "genitive",
-      "possessive",
-      "object"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "regular",
-      "defective",
-      "semi-regular",
-      "irregular"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "today",
-      "yesterday",
-      "later",
-      "tomorrow"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "school",
-      "office",
-      "book store",
-      "library"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "suis",
-      "tête",
-      "vais",
-      "fais"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "acteur",
-      "actriss",
-      "acteuress",
-      "actrice"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'ai été",
-      "j'etais",
-      "je fus",
-      "je suis été"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "questions",
-      "statements",
-      "wishes",
-      "commands"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "fais",
-      "tête",
-      "suis",
-      "vais"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "subject",
-      "genitive",
-      "possessive",
-      "object"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "thank you",
-      "please",
-      "welcome",
-      "sorry"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "tête",
-      "suis",
-      "fais",
-      "vais"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "actrice",
-      "acteuress",
-      "actriss",
-      "acteur"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "je fus",
-      "j'ai été",
-      "j'etais",
-      "je suis été"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "meilleur",
-      "mieux",
-      "bon plus",
-      "plus bon"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "food",
-      "restaurant",
-      "drink",
-      "meal"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "vais",
-      "fais",
-      "tête",
-      "suis"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
-    "options": [
       "vont",
-      "vais",
-      "va",
-      "allons"
+      "va"
     ],
     "answer": 1
   },
   {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "library",
-      "book store",
-      "office",
-      "school"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "yesterday",
-      "today",
-      "later",
-      "tomorrow"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "meilleur",
-      "bon plus",
-      "mieux",
-      "plus bon"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "office",
-      "school",
-      "library",
-      "book store"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journalss",
-      "journales",
-      "journaux",
-      "journals"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "library",
-      "book store",
-      "office",
-      "school"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Demain' means",
+    "question": "'Demain' means tomorrow",
     "options": [
       "today",
-      "later",
       "yesterday",
-      "tomorrow"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Merci' means",
-    "options": [
-      "welcome",
-      "please",
-      "thank you",
-      "sorry"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "actriss",
-      "acteuress",
-      "acteur",
-      "actrice"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "yesterday",
-      "today",
       "tomorrow",
       "later"
     ],
     "answer": 2
   },
   {
-    "question": "'Merci' means",
+    "question": "Aller present: je vais",
     "options": [
-      "sorry",
-      "please",
-      "welcome",
-      "thank you"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "restaurant",
-      "drink",
-      "meal",
-      "food"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "actriss",
-      "acteuress",
-      "acteur",
-      "actrice"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "commands",
-      "questions",
-      "wishes",
-      "statements"
+      "vais",
+      "vont",
+      "allons",
+      "va"
     ],
     "answer": 0
   },
   {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journalss",
-      "journals",
-      "journaux",
-      "journales"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
-      "mieux",
-      "plus bon",
-      "bon plus",
-      "meilleur"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "genitive",
-      "possessive",
-      "subject",
-      "object"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "j'ai été",
-      "j'etais",
-      "je fus",
-      "je suis été"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
+    "question": "Aller present: je vais",
     "options": [
       "vais",
       "allons",
@@ -2400,37 +170,147 @@
     "answer": 0
   },
   {
-    "question": "'Bibliothèque' means",
+    "question": "Aller present: je vais",
     "options": [
-      "office",
-      "library",
-      "book store",
-      "school"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The feminine of 'acteur' is",
-    "options": [
-      "actrice",
-      "actriss",
-      "acteuress",
-      "acteur"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "semi-regular",
-      "regular",
-      "defective",
-      "irregular"
+      "va",
+      "vont",
+      "allons",
+      "vais"
     ],
     "answer": 3
   },
   {
-    "question": "'Demain' means",
+    "question": "Aller present: je vais",
+    "options": [
+      "vont",
+      "va",
+      "allons",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "yesterday",
+      "tomorrow",
+      "today"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "tomorrow",
+      "yesterday",
+      "today"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "fus",
+      "ai été",
+      "etais"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "acteuress",
+      "actriss",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "mieux",
+      "bon plus",
+      "plus bon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vont",
+      "allons",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "tomorrow",
+      "today",
+      "yesterday"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "ai été",
+      "etais",
+      "suis été"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "fus",
+      "suis été",
+      "etais"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "fus",
+      "ai été",
+      "suis été"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "mieux",
+      "plus bon",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "yesterday",
+      "later",
+      "today"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
     "options": [
       "today",
       "yesterday",
@@ -2440,37 +320,317 @@
     "answer": 3
   },
   {
-    "question": "The passé composé of 'être' is",
+    "question": "Aller present: je vais",
     "options": [
-      "j'ai été",
-      "j'etais",
-      "je suis été",
-      "je fus"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "semi-regular",
-      "defective",
-      "regular",
-      "irregular"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "book store",
-      "office",
-      "library",
-      "school"
+      "vont",
+      "va",
+      "vais",
+      "allons"
     ],
     "answer": 2
   },
   {
-    "question": "In present tense, 'aller' (je) is",
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "va",
+      "allons",
+      "vont"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "bon plus",
+      "mieux",
+      "plus bon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "yesterday",
+      "today",
+      "tomorrow",
+      "later"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "bon plus",
+      "plus bon",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "fus",
+      "suis été",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "today",
+      "yesterday",
+      "later",
+      "tomorrow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "tomorrow",
+      "yesterday",
+      "today"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "etais",
+      "fus",
+      "suis été"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "meilleur",
+      "plus bon",
+      "bon plus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "acteur",
+      "acteuress",
+      "actriss"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "va",
+      "vais",
+      "vont"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "suis été",
+      "etais",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "yesterday",
+      "later"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "plus bon",
+      "meilleur",
+      "bon plus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "acteuress",
+      "acteur",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "allons",
+      "va",
+      "vont"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "acteuress",
+      "actrice",
+      "acteur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "actriss",
+      "actrice",
+      "acteuress"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "bon plus",
+      "plus bon",
+      "mieux"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "ai été",
+      "fus",
+      "suis été"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "actrice",
+      "acteur",
+      "actriss"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "actrice",
+      "acteur",
+      "actriss"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "fus",
+      "ai été",
+      "suis été"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "today",
+      "tomorrow",
+      "yesterday",
+      "later"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "later",
+      "yesterday"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "etais",
+      "fus",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "actriss",
+      "acteur",
+      "acteuress"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "ai été",
+      "etais",
+      "suis été"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "vont",
+      "va",
+      "allons"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "bon plus",
+      "plus bon",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aller present: je vais",
     "options": [
       "vais",
       "allons",
@@ -2480,207 +640,87 @@
     "answer": 0
   },
   {
-    "question": "The imperative mood is used for",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
-      "questions",
-      "commands",
-      "wishes",
-      "statements"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "tomorrow",
-      "yesterday",
-      "today",
-      "later"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "tête",
-      "vais",
-      "suis",
-      "fais"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "irregular",
-      "semi-regular",
-      "defective",
-      "regular"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "possessive",
-      "subject",
-      "object",
-      "genitive"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "restaurant",
-      "drink",
-      "food",
-      "meal"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
-      "later",
-      "today",
-      "tomorrow",
-      "yesterday"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "office",
-      "school",
-      "book store",
-      "library"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The plural of 'journal' is",
-    "options": [
-      "journales",
-      "journaux",
-      "journalss",
-      "journals"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "goodbye",
-      "thank you",
-      "hello",
-      "welcome"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "tête",
-      "suis",
-      "fais",
-      "vais"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The comparative of 'bon' is",
-    "options": [
+      "plus bon",
       "meilleur",
       "mieux",
+      "bon plus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "yesterday",
+      "later",
+      "tomorrow",
+      "today"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "tomorrow",
+      "today",
+      "yesterday"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "etais",
+      "suis été",
+      "fus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "meilleur",
       "plus bon",
       "bon plus"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
-    "question": "'Nourriture' means",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
-      "drink",
-      "restaurant",
-      "food",
-      "meal"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "excuse me",
-      "thank you",
-      "goodbye",
-      "hello"
+      "meilleur",
+      "bon plus",
+      "mieux",
+      "plus bon"
     ],
     "answer": 0
   },
   {
-    "question": "'Merci' means",
+    "question": "Aller present: je vais",
     "options": [
-      "thank you",
-      "sorry",
-      "please",
-      "welcome"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Complete: 'J'ai mal à la ____'",
-    "options": [
-      "suis",
       "vais",
-      "tête",
-      "fais"
+      "va",
+      "vont",
+      "allons"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
-    "question": "The feminine of 'acteur' is",
+    "question": "'Acteur' feminine: actrice",
     "options": [
-      "acteuress",
-      "acteur",
       "actriss",
+      "acteur",
+      "acteuress",
       "actrice"
     ],
     "answer": 3
   },
   {
-    "question": "The relative pronoun 'qui' replaces the",
-    "options": [
-      "possessive",
-      "subject",
-      "genitive",
-      "object"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Bibliothèque' means",
-    "options": [
-      "office",
-      "school",
-      "library",
-      "book store"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "semi-regular",
-      "irregular",
-      "defective",
-      "regular"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In present tense, 'aller' (je) is",
+    "question": "Aller present: je vais",
     "options": [
       "allons",
       "va",
@@ -2690,147 +730,477 @@
     "answer": 3
   },
   {
-    "question": "The imperative mood is used for",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
-      "statements",
-      "questions",
-      "commands",
-      "wishes"
+      "bon plus",
+      "mieux",
+      "meilleur",
+      "plus bon"
     ],
     "answer": 2
   },
   {
-    "question": "The passé composé of 'être' is",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
-      "j'etais",
-      "je fus",
-      "je suis été",
-      "j'ai été"
+      "meilleur",
+      "mieux",
+      "plus bon",
+      "bon plus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "va",
+      "allons",
+      "vont"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "mieux",
+      "plus bon",
+      "bon plus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "yesterday",
+      "today",
+      "tomorrow"
     ],
     "answer": 3
   },
   {
-    "question": "'Excusez-moi' means",
+    "question": "Aller present: je vais",
     "options": [
-      "excuse me",
-      "goodbye",
-      "hello",
-      "thank you"
+      "va",
+      "allons",
+      "vont",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "actriss",
+      "acteuress",
+      "acteur"
     ],
     "answer": 0
   },
   {
-    "question": "Complete: 'J'ai mal à la ____'",
+    "question": "Aller present: je vais",
     "options": [
-      "fais",
-      "vais",
-      "tête",
-      "suis"
+      "va",
+      "vont",
+      "allons",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "today",
+      "tomorrow",
+      "yesterday",
+      "later"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "yesterday",
+      "today",
+      "tomorrow",
+      "later"
     ],
     "answer": 2
   },
   {
-    "question": "'Excusez-moi' means",
+    "question": "'Demain' means tomorrow",
     "options": [
-      "excuse me",
-      "thank you",
-      "hello",
-      "goodbye"
+      "today",
+      "later",
+      "yesterday",
+      "tomorrow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "fus",
+      "etais",
+      "suis été"
     ],
     "answer": 0
   },
   {
-    "question": "The feminine of 'acteur' is",
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "fus",
+      "etais",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "ai été",
+      "fus",
+      "suis été"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "suis été",
+      "fus",
+      "etais"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "meilleur",
+      "bon plus",
+      "plus bon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "yesterday",
+      "tomorrow",
+      "today"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "plus bon",
+      "mieux",
+      "bon plus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "today",
+      "tomorrow",
+      "later",
+      "yesterday"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "fus",
+      "ai été",
+      "suis été"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "mieux",
+      "plus bon",
+      "bon plus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "fus",
+      "ai été",
+      "etais"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "tomorrow",
+      "yesterday",
+      "today"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "today",
+      "yesterday",
+      "tomorrow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "actrice",
+      "actriss",
+      "acteuress"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
     "options": [
       "acteuress",
+      "actrice",
       "acteur",
+      "actriss"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "later",
+      "yesterday"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "yesterday",
+      "later",
+      "tomorrow",
+      "today"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "vont",
+      "allons",
+      "va"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "acteuress",
+      "actrice",
+      "acteur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "acteur",
+      "acteuress",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "acteur",
+      "acteuress",
+      "actriss"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "etais",
+      "fus",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "ai été",
+      "suis été",
+      "etais"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "acteuress",
+      "actrice",
+      "acteur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "acteuress",
       "actriss",
       "actrice"
     ],
     "answer": 3
   },
   {
-    "question": "'Excusez-moi' means",
+    "question": "'Demain' means tomorrow",
     "options": [
-      "goodbye",
-      "hello",
-      "excuse me",
-      "thank you"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Excusez-moi' means",
-    "options": [
-      "goodbye",
-      "excuse me",
-      "thank you",
-      "hello"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Avoir' conjugation is",
-    "options": [
-      "irregular",
-      "defective",
-      "semi-regular",
-      "regular"
+      "tomorrow",
+      "yesterday",
+      "later",
+      "today"
     ],
     "answer": 0
   },
   {
-    "question": "The imperative mood is used for",
+    "question": "'Acteur' feminine: actrice",
     "options": [
-      "questions",
-      "statements",
-      "wishes",
-      "commands"
+      "actriss",
+      "acteur",
+      "actrice",
+      "acteuress"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vont",
+      "allons",
+      "vais"
     ],
     "answer": 3
   },
   {
-    "question": "'Avoir' conjugation is",
+    "question": "Passé composé 'être': j'ai été",
     "options": [
-      "irregular",
-      "regular",
-      "defective",
-      "semi-regular"
+      "ai été",
+      "etais",
+      "suis été",
+      "fus"
     ],
     "answer": 0
   },
   {
-    "question": "'Bibliothèque' means",
+    "question": "Aller present: je vais",
     "options": [
-      "book store",
-      "office",
-      "library",
-      "school"
+      "vais",
+      "allons",
+      "va",
+      "vont"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "suis été",
+      "ai été",
+      "etais"
     ],
     "answer": 2
   },
   {
-    "question": "The imperative mood is used for",
+    "question": "'Acteur' feminine: actrice",
     "options": [
-      "wishes",
-      "commands",
-      "questions",
-      "statements"
+      "actrice",
+      "acteur",
+      "actriss",
+      "acteuress"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "suis été",
+      "fus",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "acteuress",
+      "actrice",
+      "acteur"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "yesterday",
+      "tomorrow",
+      "later",
+      "today"
     ],
     "answer": 1
   },
   {
-    "question": "'Bonjour' means",
+    "question": "'Acteur' feminine: actrice",
     "options": [
-      "goodbye",
-      "hello",
-      "thank you",
-      "welcome"
+      "actrice",
+      "acteur",
+      "actriss",
+      "acteuress"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
-    "question": "In present tense, 'aller' (je) is",
+    "question": "Aller present: je vais",
     "options": [
       "va",
       "allons",
@@ -2840,107 +1210,1567 @@
     "answer": 2
   },
   {
-    "question": "'Excusez-moi' means",
+    "question": "Passé composé 'être': j'ai été",
     "options": [
-      "hello",
-      "excuse me",
-      "thank you",
-      "goodbye"
+      "fus",
+      "ai été",
+      "etais",
+      "suis été"
     ],
     "answer": 1
   },
   {
-    "question": "The imperative mood is used for",
+    "question": "Aller present: je vais",
     "options": [
-      "commands",
-      "wishes",
-      "statements",
-      "questions"
+      "va",
+      "vais",
+      "allons",
+      "vont"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "bon plus",
+      "meilleur",
+      "mieux"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "later",
+      "yesterday"
     ],
     "answer": 0
   },
   {
-    "question": "The comparative of 'bon' is",
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "actrice",
+      "actriss",
+      "acteuress"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "later",
+      "yesterday",
+      "today"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "mieux",
+      "meilleur",
+      "bon plus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "bon plus",
+      "plus bon",
+      "mieux"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "bon plus",
+      "meilleur",
+      "plus bon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "fus",
+      "suis été",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "acteur",
+      "actrice",
+      "acteuress"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "later",
+      "today",
+      "yesterday"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "mieux",
+      "bon plus",
+      "plus bon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "yesterday",
+      "today",
+      "later"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "suis été",
+      "etais",
+      "fus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "va",
+      "allons",
+      "vont"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "actrice",
+      "acteur",
+      "acteuress"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
     "options": [
       "plus bon",
       "meilleur",
+      "mieux",
+      "bon plus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "later",
+      "yesterday"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vont",
+      "va",
+      "vais",
+      "allons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vais",
+      "allons",
+      "vont"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "meilleur",
       "bon plus",
+      "plus bon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "acteuress",
+      "actriss",
+      "acteur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "meilleur",
+      "mieux",
+      "bon plus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "plus bon",
+      "bon plus",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "fus",
+      "suis été",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "etais",
+      "ai été",
+      "fus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "actrice",
+      "actriss",
+      "acteuress"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "suis été",
+      "ai été",
+      "fus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "actriss",
+      "acteuress",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "plus bon",
+      "meilleur",
+      "mieux"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "yesterday",
+      "tomorrow",
+      "today"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vont",
+      "vais",
+      "allons",
+      "va"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "meilleur",
+      "bon plus",
+      "plus bon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "vais",
+      "va",
+      "vont"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "yesterday",
+      "today",
+      "later"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "etais",
+      "suis été",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "suis été",
+      "etais",
+      "fus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "etais",
+      "fus",
+      "suis été"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "mieux",
+      "bon plus",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "today",
+      "yesterday",
+      "later",
+      "tomorrow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "bon plus",
+      "meilleur",
+      "mieux"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "actrice",
+      "acteur",
+      "actriss"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "va",
+      "vont",
+      "allons"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "yesterday",
+      "today",
+      "tomorrow",
+      "later"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "vais",
+      "va",
+      "vont"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "etais",
+      "suis été",
+      "fus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "meilleur",
+      "mieux",
+      "bon plus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "etais",
+      "suis été",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "yesterday",
+      "later"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "suis été",
+      "ai été",
+      "fus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "acteuress",
+      "actrice",
+      "actriss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "tomorrow",
+      "today",
+      "yesterday"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "acteuress",
+      "actriss",
+      "acteur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "actriss",
+      "acteuress",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "actriss",
+      "acteuress",
+      "acteur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "acteuress",
+      "actriss",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "actrice",
+      "acteur",
+      "actriss"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "etais",
+      "fus",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "meilleur",
+      "plus bon",
       "mieux"
     ],
     "answer": 1
   },
   {
-    "question": "'Avoir' conjugation is",
+    "question": "'Demain' means tomorrow",
     "options": [
-      "irregular",
-      "defective",
-      "regular",
-      "semi-regular"
+      "tomorrow",
+      "yesterday",
+      "later",
+      "today"
     ],
     "answer": 0
   },
   {
-    "question": "Complete: 'J'ai mal à la ____'",
+    "question": "'Acteur' feminine: actrice",
     "options": [
-      "vais",
-      "suis",
-      "fais",
-      "tête"
+      "acteur",
+      "actriss",
+      "acteuress",
+      "actrice"
     ],
     "answer": 3
   },
   {
-    "question": "'Bonjour' means",
+    "question": "Comparatif 'bon': meilleur",
     "options": [
-      "welcome",
-      "goodbye",
-      "hello",
-      "thank you"
+      "bon plus",
+      "mieux",
+      "meilleur",
+      "plus bon"
     ],
     "answer": 2
   },
   {
-    "question": "The imperative mood is used for",
+    "question": "'Demain' means tomorrow",
     "options": [
-      "questions",
-      "statements",
-      "commands",
-      "wishes"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "'Nourriture' means",
-    "options": [
-      "restaurant",
-      "food",
-      "meal",
-      "drink"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "'Bonjour' means",
-    "options": [
-      "goodbye",
-      "thank you",
-      "welcome",
-      "hello"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "'Demain' means",
-    "options": [
+      "yesterday",
       "later",
+      "tomorrow",
+      "today"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "suis été",
+      "fus",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "bon plus",
+      "mieux",
+      "plus bon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
       "today",
+      "later",
       "tomorrow",
       "yesterday"
     ],
     "answer": 2
   },
   {
-    "question": "The feminine of 'acteur' is",
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "yesterday",
+      "tomorrow",
+      "today"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "actriss",
+      "actrice",
+      "acteuress"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "fus",
+      "ai été",
+      "etais"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "vais",
+      "va",
+      "vont"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vais",
+      "allons",
+      "vont"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "yesterday",
+      "today",
+      "later"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "fus",
+      "suis été",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vont",
+      "allons",
+      "va",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "meilleur",
+      "bon plus",
+      "plus bon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "plus bon",
+      "mieux",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "mieux",
+      "bon plus",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "ai été",
+      "etais",
+      "suis été"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "acteuress",
+      "actriss",
+      "acteur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "plus bon",
+      "bon plus",
+      "mieux"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "mieux",
+      "bon plus",
+      "plus bon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "today",
+      "later",
+      "yesterday",
+      "tomorrow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "actriss",
+      "acteur",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "actrice",
+      "acteuress",
+      "acteur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "acteur",
+      "actriss",
+      "acteuress"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "vont",
+      "va",
+      "allons"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "actrice",
+      "actriss",
+      "acteur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "fus",
+      "ai été",
+      "etais"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "mieux",
+      "bon plus",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vont",
+      "vais",
+      "allons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "later",
+      "yesterday"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "va",
+      "vont",
+      "allons"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "allons",
+      "vais",
+      "vont"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "acteur",
+      "actriss",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "acteur",
+      "acteuress",
+      "actriss"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "suis été",
+      "fus",
+      "etais"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "etais",
+      "ai été",
+      "suis été"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "mieux",
+      "meilleur",
+      "bon plus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vais",
+      "allons",
+      "vont"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "acteuress",
+      "actriss",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "yesterday",
+      "today",
+      "later"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "va",
+      "vais",
+      "vont"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "meilleur",
+      "mieux",
+      "plus bon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "acteuress",
+      "actriss",
+      "acteur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "fus",
+      "ai été",
+      "suis été"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "va",
+      "vont",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "fus",
+      "etais",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "vont",
+      "allons",
+      "va"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "ai été",
+      "suis été",
+      "fus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "today",
+      "later",
+      "yesterday",
+      "tomorrow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "vont",
+      "allons",
+      "va"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "acteur",
+      "actriss",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "fus",
+      "etais",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "plus bon",
+      "meilleur",
+      "mieux"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vont",
+      "va",
+      "allons",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "yesterday",
+      "later",
+      "today",
+      "tomorrow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vont",
+      "allons",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "bon plus",
+      "meilleur",
+      "mieux"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "meilleur",
+      "mieux",
+      "plus bon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "vont",
+      "va",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "bon plus",
+      "meilleur",
+      "plus bon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "suis été",
+      "ai été",
+      "etais"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "acteur",
+      "actrice",
+      "actriss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "fus",
+      "ai été",
+      "suis été"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "suis été",
+      "fus",
+      "etais",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "plus bon",
+      "bon plus",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "tomorrow",
+      "yesterday",
+      "today"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vais",
+      "allons",
+      "vont"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "mieux",
+      "plus bon",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "acteuress",
+      "actrice",
+      "actriss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "meilleur",
+      "bon plus",
+      "mieux",
+      "plus bon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "acteur",
+      "actrice",
+      "actriss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "mieux",
+      "meilleur",
+      "plus bon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "later",
+      "yesterday",
+      "tomorrow",
+      "today"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vont",
+      "va",
+      "vais",
+      "allons"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "suis été",
+      "etais",
+      "fus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "acteur",
+      "actrice",
+      "actriss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "yesterday",
+      "today",
+      "later",
+      "tomorrow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "actrice",
+      "acteuress",
+      "acteur"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vont",
+      "allons",
+      "vais",
+      "va"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vais",
+      "vont",
+      "allons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "later",
+      "yesterday",
+      "today"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "vont",
+      "allons",
+      "va"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "meilleur",
+      "mieux",
+      "plus bon"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actriss",
+      "acteur",
+      "actrice",
+      "acteuress"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "etais",
+      "suis été",
+      "ai été",
+      "fus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "yesterday",
+      "later"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "vont",
+      "vais",
+      "va"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "bon plus",
+      "meilleur",
+      "plus bon",
+      "mieux"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "acteur",
+      "actrice",
+      "actriss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "suis été",
+      "ai été",
+      "etais"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "later",
+      "yesterday"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "later",
+      "yesterday"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "vont",
+      "va",
+      "vais"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteuress",
+      "acteur",
+      "actrice",
+      "actriss"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
     "options": [
       "actriss",
       "acteuress",
@@ -2950,52 +2780,222 @@
     "answer": 3
   },
   {
-    "question": "'Merci' means",
+    "question": "Aller present: je vais",
     "options": [
-      "sorry",
-      "thank you",
-      "welcome",
-      "please"
+      "allons",
+      "vont",
+      "vais",
+      "va"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "The relative pronoun 'qui' replaces the",
+    "question": "Passé composé 'être': j'ai été",
     "options": [
-      "genitive",
-      "object",
-      "possessive",
-      "subject"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The passé composé of 'être' is",
-    "options": [
-      "je fus",
-      "j'ai été",
-      "j'etais",
-      "je suis été"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The imperative mood is used for",
-    "options": [
-      "statements",
-      "wishes",
-      "questions",
-      "commands"
+      "fus",
+      "suis été",
+      "etais",
+      "ai été"
     ],
     "answer": 3
   },
   {
-    "question": "The plural of 'journal' is",
+    "question": "Aller present: je vais",
     "options": [
-      "journalss",
-      "journales",
-      "journaux",
-      "journals"
+      "vont",
+      "allons",
+      "vais",
+      "va"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "today",
+      "yesterday",
+      "later",
+      "tomorrow"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "yesterday",
+      "today",
+      "later"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "plus bon",
+      "meilleur",
+      "bon plus"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vais",
+      "va",
+      "allons",
+      "vont"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "plus bon",
+      "meilleur",
+      "mieux",
+      "bon plus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "fus",
+      "suis été",
+      "etais"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "suis été",
+      "etais",
+      "ai été"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "acteur",
+      "actriss",
+      "acteuress",
+      "actrice"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "va",
+      "vais",
+      "vont",
+      "allons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "actriss",
+      "acteuress",
+      "acteur"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "today",
+      "later",
+      "yesterday"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "ai été",
+      "etais",
+      "fus",
+      "suis été"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "vont",
+      "vais",
+      "allons",
+      "va"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "va",
+      "vais",
+      "vont"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "'Demain' means tomorrow",
+    "options": [
+      "tomorrow",
+      "later",
+      "today",
+      "yesterday"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Comparatif 'bon': meilleur",
+    "options": [
+      "mieux",
+      "bon plus",
+      "plus bon",
+      "meilleur"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Passé composé 'être': j'ai été",
+    "options": [
+      "fus",
+      "ai été",
+      "suis été",
+      "etais"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "'Acteur' feminine: actrice",
+    "options": [
+      "actrice",
+      "acteur",
+      "actriss",
+      "acteuress"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Aller present: je vais",
+    "options": [
+      "allons",
+      "vont",
+      "vais",
+      "va"
     ],
     "answer": 2
   }

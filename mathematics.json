@@ -1,356 +1,16 @@
 [
   {
-    "question": "Solve x² - 5x + 6 = 0",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "x = 1 or 6",
-      "x = 1 or 5",
-      "x = 2 or 3",
-      "x = 2 or 6"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
-    "options": [
-      "6x² - 6x",
-      "6x - 3",
-      "3x² - 6x",
-      "6x² - 3x"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "3"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 4",
-      "x < 3",
-      "x < 2",
-      "x < 1"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "0 to 100",
-      "0 to 2",
-      "0 to 1",
-      "-1 to 1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Solve 2(x - 3) = 10. Then x =",
-    "options": [
-      "6",
-      "5",
-      "8",
-      "4"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The area of a circle with radius r is",
-    "options": [
-      "2πr",
-      "πr²",
-      "πr",
-      "2πr²"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "2c",
-      "c/2",
-      "c²",
-      "c"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Expand (2x + 3)²",
-    "options": [
-      "2x² + 12x + 9",
-      "4x + 9",
-      "4x² + 12x + 9",
-      "4x² + 9"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
-    "options": [
-      "175",
-      "155",
-      "145",
-      "165"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Expand (2x + 3)²",
-    "options": [
-      "4x + 9",
-      "4x² + 12x + 9",
-      "2x² + 12x + 9",
-      "4x² + 9"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve 2(x - 3) = 10. Then x =",
-    "options": [
-      "6",
-      "8",
-      "5",
-      "4"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
-      "4",
-      "8",
-      "6",
-      "5"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "If log₂ 16 = x, then x equals",
-    "options": [
-      "6",
-      "4",
-      "8",
-      "2"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "c/2",
-      "c²",
-      "c",
-      "2c"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "in the middle",
-      "as average",
-      "most frequently",
-      "as range"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "4πr",
-      "πr²",
-      "πr",
-      "2πr"
+      "1 or 6",
+      "1 or 5",
+      "2 or 6",
+      "2 or 3"
     ],
     "answer": 3
   },
   {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
-    "options": [
-      "3x² - 6x",
-      "6x² - 3x",
-      "6x - 3",
-      "6x² - 6x"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "πr²",
-      "4πr",
-      "πr",
-      "2πr"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "πr",
-      "4πr",
-      "πr²",
-      "2πr"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "c²",
-      "c",
-      "c/2",
-      "2c"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "90°",
-      "360°",
-      "270°",
-      "180°"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 2 or 3",
-      "x = 1 or 5",
-      "x = 1 or 6",
-      "x = 2 or 6"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "90",
-      "110",
-      "120",
-      "100"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "4πr",
-      "2πr",
-      "πr²",
-      "πr"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 1",
-      "x < 3",
-      "x < 4",
-      "x < 2"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "5 cm²",
-      "8 cm²",
-      "6 cm²",
-      "7 cm²"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
-    "options": [
-      "6x² - 6x",
-      "6x² - 3x",
-      "3x² - 6x",
-      "6x - 3"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "7 cm²",
-      "5 cm²",
-      "8 cm²",
-      "6 cm²"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
-    "options": [
-      "165",
-      "155",
-      "145",
-      "175"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 1",
-      "x < 2",
-      "x < 4",
-      "x < 3"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
-    "options": [
-      "165",
-      "145",
-      "155",
-      "175"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "A square has area 64 cm². Its perimeter is",
-    "options": [
-      "16 cm",
-      "8 cm",
-      "24 cm",
-      "32 cm"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Simplify (2√3 + √3)²",
-    "options": [
-      "27",
-      "18",
-      "9",
-      "36"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "90°",
-      "270°",
-      "360°",
-      "180°"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Simplify (2√3 + √3)²",
+    "question": "(2√3 + √3)² = 27",
     "options": [
       "27",
       "36",
@@ -360,317 +20,97 @@
     "answer": 0
   },
   {
-    "question": "Expand (2x + 3)²",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "4x + 9",
-      "4x² + 9",
-      "2x² + 12x + 9",
-      "4x² + 12x + 9"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "cos(60°) =",
-    "options": [
-      "1",
-      "√3/2",
-      "0.5",
-      "0"
+      "7",
+      "5",
+      "6",
+      "8"
     ],
     "answer": 2
   },
   {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "3",
-      "1",
-      "-1",
-      "2"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
-    "options": [
-      "165",
-      "175",
-      "145",
-      "155"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "120",
-      "90",
-      "110",
-      "100"
+      "8",
+      "6",
+      "7",
+      "5"
     ],
     "answer": 1
   },
   {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
-    "options": [
-      "6x² - 6x",
-      "6x² - 3x",
-      "3x² - 6x",
-      "6x - 3"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "If 3ⁿ = 27, then n =",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
       "4",
-      "3",
-      "5",
-      "2"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "2c",
-      "c",
-      "c²",
-      "c/2"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "sin(30°) equals",
-    "options": [
-      "0.5",
-      "1",
-      "0",
-      "√3/2"
+      "2",
+      "6",
+      "8"
     ],
     "answer": 0
   },
   {
-    "question": "Calculate 10% of 500 + 20% of 200",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "120",
-      "90",
-      "100",
-      "110"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 3",
-      "x < 4",
-      "x < 1",
-      "x < 2"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "πr²",
-      "4πr",
-      "πr",
-      "2πr"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "most frequently",
-      "in the middle",
-      "as average",
-      "as range"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
-    "options": [
-      "165",
+      "145",
       "175",
       "155",
-      "145"
+      "165"
     ],
     "answer": 2
   },
   {
-    "question": "sin(30°) equals",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "0",
-      "√3/2",
-      "0.5",
-      "1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Expand (2x + 3)²",
-    "options": [
-      "4x² + 12x + 9",
-      "4x² + 9",
-      "4x + 9",
-      "2x² + 12x + 9"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "A square has area 64 cm². Its perimeter is",
-    "options": [
-      "32 cm",
-      "16 cm",
-      "8 cm",
-      "24 cm"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "in the middle",
-      "as average",
-      "most frequently",
-      "as range"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Solve 2(x - 3) = 10. Then x =",
-    "options": [
-      "8",
       "4",
-      "6",
-      "5"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "If 3ⁿ = 27, then n =",
-    "options": [
-      "5",
-      "4",
-      "3",
-      "2"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "25π cm³",
-      "15π cm³",
-      "10π cm³",
-      "20π cm³"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
-    "options": [
-      "175",
-      "165",
-      "145",
-      "155"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "10π cm³",
-      "25π cm³",
-      "15π cm³",
-      "20π cm³"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "as range",
-      "in the middle",
-      "most frequently",
-      "as average"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The area of a circle with radius r is",
-    "options": [
-      "πr²",
-      "πr",
-      "2πr²",
-      "2πr"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Solve 2(x - 3) = 10. Then x =",
-    "options": [
-      "6",
-      "4",
-      "8",
-      "5"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "0 to 1",
-      "-1 to 1",
-      "0 to 2",
-      "0 to 100"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
       "2",
-      "1",
-      "4",
-      "3"
+      "6",
+      "8"
     ],
     "answer": 0
   },
   {
-    "question": "cos(60°) =",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "1",
-      "√3/2",
-      "0",
-      "0.5"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
-      "8",
-      "6",
-      "5",
-      "4"
+      "36",
+      "27",
+      "18",
+      "9"
     ],
     "answer": 1
   },
   {
-    "question": "The circumference of a circle is",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "2πr",
-      "πr",
-      "4πr",
-      "πr²"
+      "1 or 6",
+      "1 or 5",
+      "2 or 6",
+      "2 or 3"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
-    "question": "Simplify (2√3 + √3)²",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "2 or 3",
+      "2 or 6",
+      "1 or 5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "9",
+      "18",
+      "27",
+      "36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
     "options": [
       "36",
       "18",
@@ -680,187 +120,7 @@
     "answer": 2
   },
   {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "6 cm²",
-      "8 cm²",
-      "5 cm²",
-      "7 cm²"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "cos(60°) =",
-    "options": [
-      "√3/2",
-      "0",
-      "1",
-      "0.5"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
-    "options": [
-      "165",
-      "155",
-      "175",
-      "145"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 4",
-      "x < 3",
-      "x < 1",
-      "x < 2"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 2 or 6",
-      "x = 1 or 6",
-      "x = 2 or 3",
-      "x = 1 or 5"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
-      "4",
-      "3",
-      "2",
-      "1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "8 cm²",
-      "6 cm²",
-      "5 cm²",
-      "7 cm²"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "quadrupled",
-      "tripled",
-      "halved",
-      "doubled"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "sin(30°) equals",
-    "options": [
-      "1",
-      "√3/2",
-      "0",
-      "0.5"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "90°",
-      "360°",
-      "270°",
-      "180°"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "cos(60°) =",
-    "options": [
-      "√3/2",
-      "0",
-      "0.5",
-      "1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "sin(30°) equals",
-    "options": [
-      "0",
-      "√3/2",
-      "0.5",
-      "1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "10π cm³",
-      "20π cm³",
-      "15π cm³",
-      "25π cm³"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
-    "options": [
-      "1",
-      "3",
-      "2",
-      "-1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 2 or 3",
-      "x = 1 or 5",
-      "x = 1 or 6",
-      "x = 2 or 6"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
-    "options": [
-      "2",
-      "-1",
-      "3",
-      "1"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Simplify (2√3 + √3)²",
-    "options": [
-      "18",
-      "27",
-      "9",
-      "36"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "sin(30°) equals",
-    "options": [
-      "1",
-      "0.5",
-      "0",
-      "√3/2"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Simplify (2√3 + √3)²",
+    "question": "(2√3 + √3)² = 27",
     "options": [
       "9",
       "18",
@@ -870,57 +130,907 @@
     "answer": 3
   },
   {
-    "question": "Expand (2x + 3)²",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "4x² + 9",
-      "4x² + 12x + 9",
-      "4x + 9",
-      "2x² + 12x + 9"
+      "145",
+      "175",
+      "165",
+      "155"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
-    "question": "The area of a circle with radius r is",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "πr²",
-      "2πr²",
-      "2πr",
-      "πr"
+      "8",
+      "6",
+      "4",
+      "2"
     ],
-    "answer": 0
+    "answer": 2
   },
   {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
       "4",
       "2",
-      "3",
-      "1"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "0 to 100",
-      "0 to 1",
-      "0 to 2",
-      "-1 to 1"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "20π cm³",
-      "10π cm³",
-      "25π cm³",
-      "15π cm³"
+      "6",
+      "8"
     ],
     "answer": 0
   },
   {
-    "question": "Simplify (2√3 + √3)²",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "165",
+      "175",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "175",
+      "155",
+      "145"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "175",
+      "155",
+      "145"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "18",
+      "36",
+      "9"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "36",
+      "9",
+      "18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "2 or 6",
+      "2 or 3",
+      "1 or 5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "9",
+      "18",
+      "27",
+      "36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "155",
+      "145",
+      "165",
+      "175"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "9",
+      "36",
+      "27",
+      "18"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "155",
+      "175",
+      "145"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "155",
+      "145",
+      "175"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "1 or 5",
+      "1 or 6",
+      "2 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "9",
+      "36",
+      "18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "9",
+      "27",
+      "18",
+      "36"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "27",
+      "36",
+      "9"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "175",
+      "165",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "9",
+      "27",
+      "36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "2 or 3",
+      "1 or 5",
+      "2 or 6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "175",
+      "145",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "145",
+      "155",
+      "175"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "36",
+      "18",
+      "9",
+      "27"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "165",
+      "145",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "2 or 6",
+      "2 or 3",
+      "1 or 6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "9",
+      "36",
+      "18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 5",
+      "1 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "145",
+      "165",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 6",
+      "2 or 3",
+      "1 or 5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 6",
+      "1 or 5",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "36",
+      "27",
+      "9"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "175",
+      "165",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "9",
+      "18",
+      "36"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "155",
+      "145",
+      "175",
+      "165"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "9",
+      "27",
+      "36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "155",
+      "165",
+      "175",
+      "145"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "1 or 6",
+      "2 or 3",
+      "2 or 6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "36",
+      "27",
+      "9",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "155",
+      "165",
+      "145"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "2",
+      "8",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 5",
+      "1 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "145",
+      "175",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "155",
+      "175",
+      "145"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "155",
+      "145",
+      "165",
+      "175"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "175",
+      "145",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "1 or 6",
+      "1 or 5",
+      "2 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "165",
+      "145",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "175",
+      "145",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "2 or 3",
+      "1 or 5",
+      "1 or 6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "2 or 3",
+      "1 or 6",
+      "2 or 6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "155",
+      "175",
+      "165",
+      "145"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "165",
+      "175",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "9",
+      "36",
+      "27"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "36",
+      "9",
+      "27"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "155",
+      "145",
+      "165"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "36",
+      "27",
+      "18",
+      "9"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "1 or 5",
+      "1 or 6",
+      "2 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "145",
+      "175",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "2 or 6",
+      "1 or 5",
+      "1 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "36",
+      "27",
+      "9"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "165",
+      "175",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "36",
+      "18",
+      "9",
+      "27"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "9",
+      "36",
+      "27"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "155",
+      "175",
+      "145"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "27",
+      "36",
+      "9"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
     "options": [
       "36",
       "9",
@@ -930,289 +1040,29 @@
     "answer": 2
   },
   {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
-      "3",
-      "2",
-      "1",
-      "4"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
-      "8",
-      "6",
-      "4",
-      "5"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
-    "options": [
-      "2",
-      "1",
-      "3",
-      "-1"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 1 or 6",
-      "x = 2 or 3",
-      "x = 1 or 5",
-      "x = 2 or 6"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "2πr",
-      "πr",
-      "4πr",
-      "πr²"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "πr",
-      "4πr",
-      "πr²",
-      "2πr"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Expand (2x + 3)²",
-    "options": [
-      "4x² + 12x + 9",
-      "2x² + 12x + 9",
-      "4x + 9",
-      "4x² + 9"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 4",
-      "x < 1",
-      "x < 2",
-      "x < 3"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "0 to 100",
-      "0 to 2",
-      "-1 to 1",
-      "0 to 1"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "sin(30°) equals",
-    "options": [
-      "1",
-      "0",
-      "0.5",
-      "√3/2"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "c²",
-      "c/2",
-      "c",
-      "2c"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
-    "options": [
-      "3x² - 6x",
-      "6x² - 6x",
-      "6x - 3",
-      "6x² - 3x"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "0 to 100",
-      "0 to 1",
-      "0 to 2",
-      "-1 to 1"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "If log₂ 16 = x, then x equals",
-    "options": [
-      "6",
-      "4",
-      "8",
-      "2"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "A square has area 64 cm². Its perimeter is",
-    "options": [
-      "16 cm",
-      "24 cm",
-      "8 cm",
-      "32 cm"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 2 or 3",
-      "x = 1 or 6",
-      "x = 2 or 6",
-      "x = 1 or 5"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "cos(60°) =",
-    "options": [
-      "0",
-      "√3/2",
-      "0.5",
-      "1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "360°",
-      "90°",
-      "180°",
-      "270°"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "If log₂ 16 = x, then x equals",
-    "options": [
-      "2",
-      "4",
-      "6",
-      "8"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "sin(30°) equals",
-    "options": [
-      "1",
-      "0.5",
-      "0",
-      "√3/2"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "If log₂ 16 = x, then x equals",
-    "options": [
-      "6",
-      "8",
-      "2",
-      "4"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 3",
-      "x < 2",
-      "x < 4",
-      "x < 1"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Simplify (2√3 + √3)²",
+    "question": "(2√3 + √3)² = 27",
     "options": [
       "27",
-      "9",
       "18",
+      "9",
       "36"
     ],
     "answer": 0
   },
   {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "6x - 3",
-      "6x² - 3x",
-      "6x² - 6x",
-      "3x² - 6x"
+      "1 or 6",
+      "2 or 3",
+      "2 or 6",
+      "1 or 5"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "question": "Solve the inequality 3x + 2 < 11",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "x < 2",
-      "x < 1",
-      "x < 4",
-      "x < 3"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
-      "5",
-      "8",
-      "4",
-      "6"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "20π cm³",
-      "10π cm³",
-      "25π cm³",
-      "15π cm³"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "110",
-      "120",
-      "90",
-      "100"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
-      "4",
+      "7",
       "6",
       "8",
       "5"
@@ -1220,1017 +1070,237 @@
     "answer": 1
   },
   {
-    "question": "Solve the inequality 3x + 2 < 11",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "x < 1",
-      "x < 2",
-      "x < 4",
-      "x < 3"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "110",
-      "100",
-      "120",
-      "90"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "If log₂ 16 = x, then x equals",
-    "options": [
-      "6",
-      "8",
-      "2",
-      "4"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
-      "8",
-      "5",
-      "6",
-      "4"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "10π cm³",
-      "25π cm³",
-      "15π cm³",
-      "20π cm³"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "4πr",
-      "2πr",
-      "πr²",
-      "πr"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The area of a circle with radius r is",
-    "options": [
-      "πr²",
-      "πr",
-      "2πr²",
-      "2πr"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The area of a circle with radius r is",
-    "options": [
-      "πr²",
-      "2πr²",
-      "πr",
-      "2πr"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "6 cm²",
-      "8 cm²",
-      "7 cm²",
-      "5 cm²"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "If log₂ 16 = x, then x equals",
-    "options": [
-      "6",
-      "8",
       "4",
-      "2"
+      "2",
+      "6",
+      "8"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
-    "question": "Solve x² - 5x + 6 = 0",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "x = 1 or 6",
-      "x = 2 or 3",
-      "x = 2 or 6",
-      "x = 1 or 5"
+      "7",
+      "5",
+      "8",
+      "6"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
-    "question": "Simplify (2√3 + √3)²",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "18",
       "9",
+      "18",
       "36",
       "27"
     ],
     "answer": 3
   },
   {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "3x² - 6x",
-      "6x² - 6x",
-      "6x² - 3x",
-      "6x - 3"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
-      "2",
       "4",
-      "3",
-      "1"
+      "6",
+      "8",
+      "2"
     ],
     "answer": 0
   },
   {
-    "question": "A square has area 64 cm². Its perimeter is",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "8 cm",
-      "32 cm",
-      "16 cm",
-      "24 cm"
+      "8",
+      "6",
+      "4",
+      "2"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "If 3ⁿ = 27, then n =",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
       "2",
-      "5",
-      "3",
+      "8",
+      "6",
       "4"
     ],
-    "answer": 2
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 1",
-      "x < 4",
-      "x < 2",
-      "x < 3"
-    ],
     "answer": 3
   },
   {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "4",
-      "3",
-      "1",
-      "2"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 2 or 6",
-      "x = 1 or 6",
-      "x = 2 or 3",
-      "x = 1 or 5"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "cos(60°) =",
-    "options": [
-      "√3/2",
-      "0",
-      "1",
-      "0.5"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "If 3ⁿ = 27, then n =",
-    "options": [
-      "2",
+      "7",
       "5",
-      "4",
-      "3"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Solve 2(x - 3) = 10. Then x =",
-    "options": [
-      "4",
-      "8",
-      "6",
-      "5"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
-    "options": [
-      "2",
-      "3",
-      "1",
-      "-1"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
-    "options": [
-      "3x² - 6x",
-      "6x² - 3x",
-      "6x - 3",
-      "6x² - 6x"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "2πr",
-      "πr",
-      "4πr",
-      "πr²"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "A square has area 64 cm². Its perimeter is",
-    "options": [
-      "32 cm",
-      "8 cm",
-      "16 cm",
-      "24 cm"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "cos(60°) =",
-    "options": [
-      "√3/2",
-      "0",
-      "0.5",
-      "1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "6 cm²",
-      "7 cm²",
-      "8 cm²",
-      "5 cm²"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "cos(60°) =",
-    "options": [
-      "0",
-      "1",
-      "0.5",
-      "√3/2"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "8 cm²",
-      "5 cm²",
-      "6 cm²",
-      "7 cm²"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "90",
-      "120",
-      "100",
-      "110"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "5 cm²",
-      "8 cm²",
-      "6 cm²",
-      "7 cm²"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "quadrupled",
-      "tripled",
-      "halved",
-      "doubled"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Solve 2(x - 3) = 10. Then x =",
-    "options": [
-      "5",
-      "4",
       "8",
       "6"
     ],
-    "answer": 2
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 1",
-      "x < 2",
-      "x < 4",
-      "x < 3"
-    ],
     "answer": 3
   },
   {
-    "question": "Solve 2(x - 3) = 10. Then x =",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "8",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "100",
-      "120",
-      "90",
-      "110"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
-      "4",
-      "6",
-      "5",
-      "8"
+      "175",
+      "155",
+      "165",
+      "145"
     ],
     "answer": 1
   },
   {
-    "question": "sin(30°) equals",
-    "options": [
-      "√3/2",
-      "0",
-      "0.5",
-      "1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "If log₂ 16 = x, then x equals",
-    "options": [
-      "6",
-      "4",
-      "2",
-      "8"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
-      "4",
-      "3",
-      "1",
-      "2"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "A square has area 64 cm². Its perimeter is",
-    "options": [
-      "8 cm",
-      "32 cm",
-      "24 cm",
-      "16 cm"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "3"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "A square has area 64 cm². Its perimeter is",
-    "options": [
-      "24 cm",
-      "8 cm",
-      "32 cm",
-      "16 cm"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "c",
-      "c/2",
-      "c²",
-      "2c"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
-      "5",
-      "4",
-      "6",
-      "8"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
-    "options": [
-      "1",
-      "3",
-      "2",
-      "-1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "0 to 2",
-      "0 to 1",
-      "-1 to 1",
-      "0 to 100"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "If 3ⁿ = 27, then n =",
-    "options": [
-      "4",
-      "5",
-      "3",
-      "2"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "90°",
-      "360°",
-      "180°",
-      "270°"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "If 3ⁿ = 27, then n =",
-    "options": [
-      "3",
-      "4",
-      "2",
-      "5"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 2 or 6",
-      "x = 1 or 6",
-      "x = 2 or 3",
-      "x = 1 or 5"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "as range",
-      "as average",
-      "most frequently",
-      "in the middle"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "If log₂ 16 = x, then x equals",
-    "options": [
-      "4",
-      "6",
-      "2",
-      "8"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The area of a circle with radius r is",
-    "options": [
-      "2πr",
-      "πr²",
-      "πr",
-      "2πr²"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
       "165",
-      "145",
+      "155",
       "175",
-      "155"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "110",
-      "120",
-      "100",
-      "90"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Expand (2x + 3)²",
-    "options": [
-      "2x² + 12x + 9",
-      "4x + 9",
-      "4x² + 9",
-      "4x² + 12x + 9"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "10π cm³",
-      "20π cm³",
-      "15π cm³",
-      "25π cm³"
+      "145"
     ],
     "answer": 1
   },
   {
-    "question": "If the radius of a circle is doubled, the area becomes",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "quadrupled",
-      "tripled",
-      "doubled",
-      "halved"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "0 to 2",
-      "0 to 100",
-      "0 to 1",
-      "-1 to 1"
+      "8",
+      "7",
+      "6",
+      "5"
     ],
     "answer": 2
   },
   {
-    "question": "The probability of an event ranges from",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "0 to 1",
-      "0 to 100",
-      "0 to 2",
-      "-1 to 1"
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "1 or 6",
+      "2 or 6",
+      "1 or 5"
     ],
     "answer": 0
   },
   {
-    "question": "Calculate 10% of 500 + 20% of 200",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "90",
-      "110",
-      "120",
-      "100"
+      "1 or 5",
+      "2 or 3",
+      "1 or 6",
+      "2 or 6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "1 or 6",
+      "2 or 3",
+      "2 or 6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
     ],
     "answer": 0
   },
   {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "3",
-      "2",
-      "1",
-      "-1"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Simplify (2√3 + √3)²",
-    "options": [
-      "9",
       "27",
       "18",
-      "36"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Simplify (2√3 + √3)²",
-    "options": [
-      "18",
-      "27",
       "36",
       "9"
     ],
-    "answer": 1
-  },
-  {
-    "question": "If 3ⁿ = 27, then n =",
-    "options": [
-      "2",
-      "5",
-      "4",
-      "3"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "most frequently",
-      "in the middle",
-      "as average",
-      "as range"
-    ],
     "answer": 0
   },
   {
-    "question": "The sum of interior angles of a triangle is",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "360°",
-      "180°",
-      "90°",
-      "270°"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
-    "options": [
-      "165",
-      "145",
+      "155",
       "175",
-      "155"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The area of a circle with radius r is",
-    "options": [
-      "πr²",
-      "πr",
-      "2πr²",
-      "2πr"
+      "165",
+      "145"
     ],
     "answer": 0
   },
   {
-    "question": "A square has area 64 cm². Its perimeter is",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "32 cm",
-      "16 cm",
-      "24 cm",
-      "8 cm"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The area of a circle with radius r is",
-    "options": [
-      "πr²",
-      "2πr",
-      "2πr²",
-      "πr"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "25π cm³",
-      "10π cm³",
-      "20π cm³",
-      "15π cm³"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "in the middle",
-      "most frequently",
-      "as range",
-      "as average"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Simplify (2√3 + √3)²",
-    "options": [
-      "9",
-      "27",
-      "18",
-      "36"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "7 cm²",
-      "5 cm²",
-      "8 cm²",
-      "6 cm²"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "110",
-      "120",
-      "90",
-      "100"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "120",
-      "110",
-      "100",
-      "90"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "tripled",
-      "doubled",
-      "halved",
-      "quadrupled"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "c",
-      "c/2",
-      "c²",
-      "2c"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "90°",
-      "270°",
-      "360°",
-      "180°"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "quadrupled",
-      "tripled",
-      "doubled",
-      "halved"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "270°",
-      "180°",
-      "360°",
-      "90°"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
-      "1",
-      "3",
-      "2",
-      "4"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "c",
-      "2c",
-      "c²",
-      "c/2"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "A square has area 64 cm². Its perimeter is",
-    "options": [
-      "8 cm",
-      "24 cm",
-      "16 cm",
-      "32 cm"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "as range",
-      "as average",
-      "in the middle",
-      "most frequently"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "180°",
-      "270°",
-      "90°",
-      "360°"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
-    "options": [
-      "6x² - 3x",
-      "3x² - 6x",
-      "6x - 3",
-      "6x² - 6x"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 1 or 6",
-      "x = 2 or 3",
-      "x = 2 or 6",
-      "x = 1 or 5"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Expand (2x + 3)²",
-    "options": [
-      "4x² + 9",
-      "4x + 9",
-      "4x² + 12x + 9",
-      "2x² + 12x + 9"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "cos(60°) =",
-    "options": [
-      "0.5",
-      "√3/2",
-      "0",
-      "1"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "2πr",
-      "πr",
-      "4πr",
-      "πr²"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
-      "4",
-      "6",
       "5",
+      "6",
+      "7",
       "8"
     ],
     "answer": 1
   },
   {
-    "question": "A square has area 64 cm². Its perimeter is",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "8 cm",
-      "32 cm",
-      "24 cm",
-      "16 cm"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "0 to 100",
-      "0 to 1",
-      "-1 to 1",
-      "0 to 2"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "360°",
-      "90°",
-      "180°",
-      "270°"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The circumference of a circle is",
-    "options": [
-      "πr²",
-      "πr",
-      "4πr",
-      "2πr"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
-    "options": [
-      "2",
-      "3",
-      "-1",
-      "1"
+      "27",
+      "18",
+      "36",
+      "9"
     ],
     "answer": 0
   },
   {
-    "question": "The probability of an event ranges from",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "-1 to 1",
-      "0 to 1",
-      "0 to 2",
-      "0 to 100"
+      "1 or 5",
+      "2 or 3",
+      "1 or 6",
+      "2 or 6"
     ],
     "answer": 1
   },
   {
-    "question": "If log₂ 16 = x, then x equals",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "1 or 5",
+      "2 or 6",
+      "1 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
       "8",
       "4",
@@ -2240,147 +1310,227 @@
     "answer": 1
   },
   {
-    "question": "sin(30°) equals",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "√3/2",
-      "0.5",
-      "0",
-      "1"
+      "145",
+      "175",
+      "165",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "2 or 3",
+      "2 or 6",
+      "1 or 5"
     ],
     "answer": 1
   },
   {
-    "question": "The mode is the value that appears",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "most frequently",
-      "as range",
-      "as average",
-      "in the middle"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Expand (2x + 3)²",
-    "options": [
-      "4x + 9",
-      "2x² + 12x + 9",
-      "4x² + 12x + 9",
-      "4x² + 9"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "sin(30°) equals",
-    "options": [
-      "√3/2",
-      "0.5",
-      "0",
-      "1"
+      "1 or 5",
+      "2 or 3",
+      "1 or 6",
+      "2 or 6"
     ],
     "answer": 1
   },
   {
-    "question": "The area of a circle with radius r is",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "2πr²",
-      "πr",
-      "πr²",
-      "2πr"
+      "18",
+      "36",
+      "9",
+      "27"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "2 or 3",
+      "1 or 6",
+      "1 or 5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "1 or 5",
+      "2 or 3",
+      "2 or 6"
     ],
     "answer": 2
   },
   {
-    "question": "If 3ⁿ = 27, then n =",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "3",
+      "6",
       "5",
-      "2",
-      "4"
+      "7",
+      "8"
     ],
     "answer": 0
   },
   {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "3x² - 6x",
-      "6x - 3",
-      "6x² - 6x",
-      "6x² - 3x"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
-    "options": [
-      "6 cm²",
-      "7 cm²",
-      "8 cm²",
-      "5 cm²"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "A square has area 64 cm². Its perimeter is",
-    "options": [
-      "32 cm",
-      "8 cm",
-      "24 cm",
-      "16 cm"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
-    "options": [
-      "-1",
-      "2",
-      "3",
-      "1"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
-    "options": [
+      "6",
       "8",
       "5",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "9",
+      "18",
+      "36"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
       "6",
-      "4"
+      "7",
+      "5",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "145",
+      "155",
+      "175"
     ],
     "answer": 2
   },
   {
-    "question": "If log₂ 16 = x, then x equals",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "8",
       "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "36",
+      "18",
+      "9",
+      "27"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "8",
       "2",
       "4"
     ],
     "answer": 3
   },
   {
-    "question": "If 3ⁿ = 27, then n =",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "5",
-      "2",
-      "3",
-      "4"
+      "1 or 6",
+      "2 or 3",
+      "1 or 5",
+      "2 or 6"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "20π cm³",
-      "15π cm³",
-      "10π cm³",
-      "25π cm³"
+      "18",
+      "36",
+      "9",
+      "27"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 5",
+      "1 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
     ],
     "answer": 0
   },
   {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "155",
+      "175",
+      "145",
+      "165"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "165",
+      "155",
+      "175"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
       "175",
       "155",
@@ -2390,97 +1540,437 @@
     "answer": 1
   },
   {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "c",
-      "c/2",
-      "2c",
-      "c²"
+      "165",
+      "175",
+      "155",
+      "145"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "2 or 6",
+      "1 or 5",
+      "2 or 3"
     ],
     "answer": 3
   },
   {
-    "question": "Solve 2(x - 3) = 10. Then x =",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "5",
+      "4",
       "8",
-      "6",
-      "4"
+      "2",
+      "6"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
-    "question": "Simplify (2√3 + √3)²",
+    "question": "(2√3 + √3)² = 27",
     "options": [
       "36",
-      "9",
+      "27",
       "18",
-      "27"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "If log₂ 16 = x, then x equals",
-    "options": [
-      "6",
-      "4",
-      "8",
-      "2"
+      "9"
     ],
     "answer": 1
   },
   {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "c/2",
-      "c",
-      "2c",
-      "c²"
+      "1 or 6",
+      "1 or 5",
+      "2 or 6",
+      "2 or 3"
     ],
     "answer": 3
   },
   {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "-1",
-      "3",
+      "145",
+      "175",
+      "155",
+      "165"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "9",
+      "27",
+      "36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "6",
       "2",
-      "1"
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "2",
+      "8",
+      "4",
+      "6"
     ],
     "answer": 2
   },
   {
-    "question": "cos(60°) =",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "1",
-      "0",
-      "0.5",
-      "√3/2"
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
     ],
     "answer": 2
   },
   {
-    "question": "Solve 2(x - 3) = 10. Then x =",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "6",
-      "8",
-      "5",
-      "4"
+      "1 or 5",
+      "1 or 6",
+      "2 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "9",
+      "36",
+      "27",
+      "18"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "155",
+      "145",
+      "165"
     ],
     "answer": 1
   },
   {
-    "question": "Solve 2(x - 3) = 10. Then x =",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "5",
+      "145",
+      "165",
+      "155",
+      "175"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
       "8",
       "6",
-      "4"
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "9",
+      "27",
+      "36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "18",
+      "9",
+      "36"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "2"
     ],
     "answer": 1
   },
   {
-    "question": "If log₂ 16 = x, then x equals",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "2 or 3",
+      "1 or 6",
+      "2 or 6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 6",
+      "1 or 5",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "36",
+      "27",
+      "9"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "8",
+      "6",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "27",
+      "9",
+      "36"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "27",
+      "9",
+      "36"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "2",
+      "8",
+      "4",
+      "6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "1 or 5",
+      "2 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "1 or 6",
+      "2 or 3",
+      "2 or 6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "165",
+      "155",
+      "145"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "27",
+      "9",
+      "36"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "145",
+      "155",
+      "175"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "155",
+      "175",
+      "145",
+      "165"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "1 or 5",
+      "2 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "155",
+      "145",
+      "175"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "2 or 3",
+      "1 or 5",
+      "1 or 6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "1 or 5",
+      "2 or 3",
+      "2 or 6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "1 or 6",
+      "1 or 5",
+      "2 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
       "6",
       "8",
@@ -2490,137 +1980,57 @@
     "answer": 2
   },
   {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "8 cm²",
-      "5 cm²",
-      "6 cm²",
-      "7 cm²"
+      "8",
+      "6",
+      "5",
+      "7"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "question": "sin(30°) equals",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "1",
-      "√3/2",
-      "0.5",
-      "0"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Solve the inequality 3x + 2 < 11",
-    "options": [
-      "x < 3",
-      "x < 1",
-      "x < 4",
-      "x < 2"
+      "27",
+      "36",
+      "18",
+      "9"
     ],
     "answer": 0
   },
   {
-    "question": "If the radius of a circle is doubled, the area becomes",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "doubled",
-      "halved",
-      "quadrupled",
-      "tripled"
+      "9",
+      "36",
+      "27",
+      "18"
     ],
     "answer": 2
   },
   {
-    "question": "The area of a triangle with sides 3cm, 4cm, and 5cm is",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "5 cm²",
-      "8 cm²",
-      "6 cm²",
-      "7 cm²"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "tripled",
-      "doubled",
-      "halved",
-      "quadrupled"
+      "175",
+      "165",
+      "145",
+      "155"
     ],
     "answer": 3
   },
   {
-    "question": "The area of a circle with radius r is",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "πr",
-      "2πr²",
-      "πr²",
-      "2πr"
+      "7",
+      "5",
+      "8",
+      "6"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
-    "question": "Calculate 10% of 500 + 20% of 200",
-    "options": [
-      "100",
-      "90",
-      "120",
-      "110"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "c",
-      "c²",
-      "c/2",
-      "2c"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In Pythagoras theorem for right triangles, a² + b² equals",
-    "options": [
-      "c²",
-      "c/2",
-      "c",
-      "2c"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "-1 to 1",
-      "0 to 1",
-      "0 to 100",
-      "0 to 2"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "doubled",
-      "tripled",
-      "quadrupled",
-      "halved"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "most frequently",
-      "in the middle",
-      "as average",
-      "as range"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
       "145",
       "155",
@@ -2630,373 +2040,963 @@
     "answer": 1
   },
   {
-    "question": "If 3ⁿ = 27, then n =",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
-      "2",
-      "3",
+      "8",
       "5",
-      "4"
+      "6",
+      "7"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "5",
+      "1 or 6",
+      "1 or 5",
+      "2 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "36",
+      "27",
+      "9"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "7",
       "8",
-      "4",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "6",
+      "2",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "7",
+      "5",
       "6"
     ],
     "answer": 3
   },
   {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "1",
-      "-1",
-      "2",
-      "3"
+      "18",
+      "27",
+      "36",
+      "9"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
-    "question": "cos(60°) =",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "0.5",
-      "0",
-      "1",
-      "√3/2"
+      "27",
+      "36",
+      "9",
+      "18"
     ],
     "answer": 0
   },
   {
-    "question": "sin(30°) equals",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "√3/2",
-      "0",
-      "1",
-      "0.5"
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "175",
+      "165",
+      "155"
     ],
     "answer": 3
   },
   {
-    "question": "If 3ⁿ = 27, then n =",
+    "question": "(2√3 + √3)² = 27",
     "options": [
-      "3",
-      "5",
-      "2",
-      "4"
+      "36",
+      "9",
+      "18",
+      "27"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
-    "question": "The sum of interior angles of a triangle is",
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
     "options": [
-      "270°",
-      "360°",
-      "180°",
-      "90°"
+      "1 or 6",
+      "1 or 5",
+      "2 or 6",
+      "2 or 3"
     ],
-    "answer": 2
+    "answer": 3
   },
   {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
-      "4",
-      "2",
-      "1",
-      "3"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Solve simultaneously: 2x + y = 5 and x - y = 1. Then x equals",
-    "options": [
-      "-1",
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "cos(60°) =",
-    "options": [
-      "0.5",
-      "0",
-      "1",
-      "√3/2"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The gradient of the line through (1, 2) and (3, 6) is",
-    "options": [
-      "1",
-      "4",
-      "2",
-      "3"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 2 or 3",
-      "x = 2 or 6",
-      "x = 1 or 6",
-      "x = 1 or 5"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
-    "options": [
-      "6x² - 6x",
-      "3x² - 6x",
-      "6x - 3",
-      "6x² - 3x"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The sum of the arithmetic sequence 2, 5, 8, ... to the 10th term is",
-    "options": [
-      "155",
-      "175",
-      "145",
-      "165"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "10π cm³",
-      "25π cm³",
-      "20π cm³",
-      "15π cm³"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Solve 2(x - 3) = 10. Then x =",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
       "6",
       "8",
       "5",
-      "4"
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
     ],
     "answer": 1
   },
   {
-    "question": "Expand (2x + 3)²",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "2x² + 12x + 9",
-      "4x + 9",
-      "4x² + 12x + 9",
-      "4x² + 9"
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "1 or 6",
+      "2 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "36",
+      "18",
+      "9"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 5",
+      "2 or 3",
+      "1 or 6"
     ],
     "answer": 2
   },
   {
-    "question": "The mode is the value that appears",
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
     "options": [
-      "as range",
-      "in the middle",
-      "most frequently",
-      "as average"
+      "155",
+      "165",
+      "175",
+      "145"
     ],
-    "answer": 2
+    "answer": 0
   },
   {
-    "question": "The median of the dataset 2, 4, 6, 8, 10 is",
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "2",
+      "8",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
       "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "2 or 6",
+      "1 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "2",
       "4",
+      "6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "36",
+      "9",
+      "18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "155",
+      "145",
+      "165",
+      "175"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "1 or 5",
+      "2 or 6",
+      "1 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "9",
+      "18",
+      "36",
+      "27"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "27",
+      "9",
+      "36"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "155",
+      "145",
+      "165"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "9",
+      "36",
+      "18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "155",
+      "165",
+      "175"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 5",
+      "2 or 3",
+      "1 or 6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "27",
+      "18",
+      "36",
+      "9"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "2 or 6",
+      "1 or 5",
+      "1 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "1 or 6",
+      "2 or 3",
+      "2 or 6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 6",
+      "1 or 5",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "6",
+      "2",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "155",
+      "165",
+      "175"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "145",
+      "175",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "8",
+      "6",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "155",
+      "175",
+      "165"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "165",
+      "175",
+      "145",
+      "155"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "5",
+      "7",
       "6",
       "8"
     ],
     "answer": 2
   },
   {
-    "question": "The area of a circle with radius r is",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "πr²",
-      "2πr²",
-      "πr",
-      "2πr"
+      "2",
+      "6",
+      "4",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "155",
+      "165",
+      "145",
+      "175"
     ],
     "answer": 0
   },
   {
-    "question": "If 3ⁿ = 27, then n =",
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
       "5",
-      "3",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "4",
+      "2",
+      "8",
+      "6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 5",
+      "2 or 3",
+      "1 or 6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "9",
+      "27",
+      "18",
+      "36"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "2 or 6",
+      "1 or 6",
+      "1 or 5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "1 or 5",
+      "2 or 6",
+      "1 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "145",
+      "155",
+      "175",
+      "165"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "36",
+      "27",
+      "9",
+      "18"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "2 or 6",
+      "1 or 5",
+      "1 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 3",
+      "1 or 5",
+      "1 or 6",
+      "2 or 6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 6",
+      "1 or 5",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "155",
+      "165",
+      "145"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "2 or 6",
+      "1 or 6",
+      "1 or 5",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 6",
+      "2 or 6",
+      "1 or 5",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "2 or 6",
+      "1 or 6",
+      "2 or 3"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "18",
+      "27",
+      "36",
+      "9"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "8",
+      "6",
       "4",
       "2"
     ],
+    "answer": 2
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
     "answer": 1
   },
   {
-    "question": "Find the derivative of f(x) = 2x³ - 3x²",
+    "question": "If log₂ 16 = x, then x = 4",
     "options": [
-      "3x² - 6x",
-      "6x - 3",
-      "6x² - 6x",
-      "6x² - 3x"
+      "6",
+      "2",
+      "8",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "(2√3 + √3)² = 27",
+    "options": [
+      "9",
+      "27",
+      "18",
+      "36"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve x² - 5x + 6 = 0: x = 2 or 3",
+    "options": [
+      "1 or 5",
+      "2 or 6",
+      "2 or 3",
+      "1 or 6"
     ],
     "answer": 2
   },
   {
-    "question": "Solve 2(x - 3) = 10. Then x =",
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sum of arithmetic 2, 5, 8 to 10th term: 155",
+    "options": [
+      "175",
+      "145",
+      "155",
+      "165"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Triangle area sides 3, 4, 5 = 6 cm²",
     "options": [
       "6",
       "8",
-      "5",
+      "7",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If log₂ 16 = x, then x = 4",
+    "options": [
+      "6",
+      "8",
+      "2",
       "4"
     ],
-    "answer": 1
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "10π cm³",
-      "15π cm³",
-      "20π cm³",
-      "25π cm³"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "quadrupled",
-      "tripled",
-      "doubled",
-      "halved"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "doubled",
-      "tripled",
-      "halved",
-      "quadrupled"
-    ],
     "answer": 3
-  },
-  {
-    "question": "The probability of an event ranges from",
-    "options": [
-      "0 to 2",
-      "0 to 100",
-      "0 to 1",
-      "-1 to 1"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Solve x² - 5x + 6 = 0",
-    "options": [
-      "x = 2 or 6",
-      "x = 2 or 3",
-      "x = 1 or 6",
-      "x = 1 or 5"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "quadrupled",
-      "halved",
-      "doubled",
-      "tripled"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The area of a circle with radius r is",
-    "options": [
-      "2πr",
-      "πr²",
-      "πr",
-      "2πr²"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Expand (2x + 3)²",
-    "options": [
-      "4x² + 12x + 9",
-      "4x + 9",
-      "2x² + 12x + 9",
-      "4x² + 9"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "A square has area 64 cm². Its perimeter is",
-    "options": [
-      "16 cm",
-      "8 cm",
-      "24 cm",
-      "32 cm"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "The volume of a cylinder with radius 2cm and height 5cm is",
-    "options": [
-      "25π cm³",
-      "15π cm³",
-      "10π cm³",
-      "20π cm³"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "Expand (2x + 3)²",
-    "options": [
-      "4x² + 12x + 9",
-      "4x + 9",
-      "2x² + 12x + 9",
-      "4x² + 9"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The mode is the value that appears",
-    "options": [
-      "most frequently",
-      "in the middle",
-      "as range",
-      "as average"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "The sum of interior angles of a triangle is",
-    "options": [
-      "90°",
-      "270°",
-      "360°",
-      "180°"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "If the radius of a circle is doubled, the area becomes",
-    "options": [
-      "doubled",
-      "quadrupled",
-      "halved",
-      "tripled"
-    ],
-    "answer": 1
   }
 ]
