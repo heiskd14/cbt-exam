@@ -1,46 +1,2856 @@
 [
   {
-    "question": "Ụlọ nke 'mother' bụ:",
+    "question": "Ụlọ nke 'mother' bụ",
     "options": [
-      "mama",
-      "nne",
+      "ụmụ",
       "nna",
-      "ụmụ"
+      "mama",
+      "nne"
     ],
     "answer": "nne"
   },
   {
-    "question": "Ido 'yesterday' bụ:",
+    "question": "Ido 'yesterday' bụ",
     "options": [
-      "echi",
       "iri",
       "taa",
+      "echi",
       "jiya"
     ],
     "answer": "jiya"
   },
   {
-    "question": "Okwu maka 'school' bụ:",
+    "question": "In Igbo, 'school' means",
     "options": [
+      "ụlọ mma",
+      "ụlọ",
+      "ụlọ akwụkwọ",
+      "ụlọ eze"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "ụta",
+      "isi",
+      "nri",
+      "aka"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "spirit guide",
+      "community",
+      "ancestor",
+      "family"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "akwụkwọ",
+      "akwụkwọ mma",
+      "okwu",
+      "ihe"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "nwa",
+      "ụmụ",
+      "enyi",
+      "mma"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "community",
+      "power",
+      "wealth",
+      "individualism"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "ike",
+      "isi",
+      "ụkwụ",
+      "aka"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "mmiri",
+      "anyanwu",
+      "ọnwa",
+      "ifọ"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "anyanwu",
+      "ala",
+      "ụta",
+      "mmiri"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "dị",
+      "bu",
+      "lụ",
+      "nù"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụlọ",
+      "ụmụ",
+      "ala",
+      "obodo"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwoke",
+      "nwata",
+      "ụmụ",
+      "nwanyị"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "3 tones",
+      "4 tones",
+      "5 tones",
+      "2 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Ghana",
+      "Chad",
+      "Cameroon",
+      "Nigeria"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "centralized",
+      "military",
+      "decentralized",
+      "monarchical"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Mmuo",
+      "Gelede",
+      "Egungun",
+      "Oro"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "13 months",
+      "12 months",
+      "10 months",
+      "11 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "nne",
+      "mama",
+      "ụmụ",
+      "nna"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "jiya",
+      "iri",
+      "echi",
+      "taa"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ",
+      "ụlọ eze",
+      "ụlọ mma",
+      "ụlọ akwụkwọ"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "isi",
+      "ụta",
+      "nri",
+      "aka"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "spirit guide",
+      "ancestor",
+      "community",
+      "family"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "okwu",
+      "ihe",
+      "akwụkwọ",
+      "akwụkwọ mma"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "enyi",
+      "nwa",
+      "mma",
+      "ụmụ"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "power",
+      "individualism",
+      "community",
+      "wealth"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "ụkwụ",
+      "aka",
+      "isi",
+      "ike"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "ifọ",
+      "anyanwu",
+      "ọnwa",
+      "mmiri"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "ụta",
+      "ala",
+      "anyanwu",
+      "mmiri"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "nù",
+      "dị",
+      "lụ",
+      "bu"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "obodo",
+      "ụlọ",
+      "ụmụ",
+      "ala"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwata",
+      "nwoke",
+      "nwanyị",
+      "ụmụ"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "4 tones",
+      "3 tones",
+      "5 tones",
+      "2 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Nigeria",
+      "Chad",
+      "Cameroon",
+      "Ghana"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "military",
+      "monarchical",
+      "centralized",
+      "decentralized"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Mmuo",
+      "Gelede",
+      "Egungun",
+      "Oro"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "11 months",
+      "10 months",
+      "13 months",
+      "12 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "nna",
+      "nne",
+      "ụmụ",
+      "mama"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "echi",
+      "iri",
+      "jiya",
+      "taa"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ eze",
       "ụlọ akwụkwọ",
       "ụlọ",
+      "ụlọ mma"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "isi",
+      "nri",
+      "ụta",
+      "aka"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "spirit guide",
+      "ancestor",
+      "community",
+      "family"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "akwụkwọ mma",
+      "akwụkwọ",
+      "ihe",
+      "okwu"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "ụmụ",
+      "nwa",
+      "enyi",
+      "mma"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "individualism",
+      "wealth",
+      "community",
+      "power"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "ụkwụ",
+      "aka",
+      "ike",
+      "isi"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "mmiri",
+      "anyanwu",
+      "ọnwa",
+      "ifọ"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "anyanwu",
+      "ala",
+      "ụta",
+      "mmiri"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "dị",
+      "nù",
+      "bu",
+      "lụ"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụmụ",
+      "ụlọ",
+      "obodo",
+      "ala"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwanyị",
+      "nwoke",
+      "nwata",
+      "ụmụ"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "5 tones",
+      "4 tones",
+      "2 tones",
+      "3 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Ghana",
+      "Chad",
+      "Cameroon",
+      "Nigeria"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "military",
+      "decentralized",
+      "monarchical",
+      "centralized"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Egungun",
+      "Gelede",
+      "Mmuo",
+      "Oro"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "10 months",
+      "11 months",
+      "13 months",
+      "12 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "nne",
+      "ụmụ",
+      "nna",
+      "mama"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "jiya",
+      "taa",
+      "echi",
+      "iri"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ",
+      "ụlọ akwụkwọ",
+      "ụlọ eze",
+      "ụlọ mma"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "nri",
+      "ụta",
+      "isi",
+      "aka"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "family",
+      "ancestor",
+      "community",
+      "spirit guide"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "ihe",
+      "akwụkwọ mma",
+      "akwụkwọ",
+      "okwu"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "nwa",
+      "mma",
+      "ụmụ",
+      "enyi"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "community",
+      "individualism",
+      "power",
+      "wealth"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "aka",
+      "ụkwụ",
+      "ike",
+      "isi"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "mmiri",
+      "ọnwa",
+      "ifọ",
+      "anyanwu"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "mmiri",
+      "ụta",
+      "anyanwu",
+      "ala"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "nù",
+      "bu",
+      "lụ",
+      "dị"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ala",
+      "obodo",
+      "ụmụ",
+      "ụlọ"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwoke",
+      "ụmụ",
+      "nwanyị",
+      "nwata"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "5 tones",
+      "3 tones",
+      "4 tones",
+      "2 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Ghana",
+      "Chad",
+      "Cameroon",
+      "Nigeria"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "monarchical",
+      "military",
+      "decentralized",
+      "centralized"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Mmuo",
+      "Oro",
+      "Egungun",
+      "Gelede"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "11 months",
+      "10 months",
+      "13 months",
+      "12 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "ụmụ",
+      "nna",
+      "nne",
+      "mama"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "jiya",
+      "iri",
+      "taa",
+      "echi"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ mma",
+      "ụlọ akwụkwọ",
+      "ụlọ eze",
+      "ụlọ"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "nri",
+      "aka",
+      "isi",
+      "ụta"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "ancestor",
+      "family",
+      "community",
+      "spirit guide"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "ihe",
+      "okwu",
+      "akwụkwọ mma",
+      "akwụkwọ"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "enyi",
+      "ụmụ",
+      "mma",
+      "nwa"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "wealth",
+      "individualism",
+      "community",
+      "power"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "ike",
+      "aka",
+      "isi",
+      "ụkwụ"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "anyanwu",
+      "mmiri",
+      "ọnwa",
+      "ifọ"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "ụta",
+      "mmiri",
+      "ala",
+      "anyanwu"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "nù",
+      "lụ",
+      "bu",
+      "dị"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụmụ",
+      "ụlọ",
+      "ala",
+      "obodo"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwoke",
+      "nwata",
+      "nwanyị",
+      "ụmụ"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "3 tones",
+      "5 tones",
+      "2 tones",
+      "4 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Nigeria",
+      "Chad",
+      "Cameroon",
+      "Ghana"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "decentralized",
+      "military",
+      "centralized",
+      "monarchical"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Mmuo",
+      "Oro",
+      "Egungun",
+      "Gelede"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "13 months",
+      "10 months",
+      "11 months",
+      "12 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "mama",
+      "nne",
+      "ụmụ",
+      "nna"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "iri",
+      "taa",
+      "echi",
+      "jiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ eze",
+      "ụlọ",
+      "ụlọ akwụkwọ",
+      "ụlọ mma"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "nri",
+      "isi",
+      "ụta",
+      "aka"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "spirit guide",
+      "family",
+      "ancestor",
+      "community"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "ihe",
+      "okwu",
+      "akwụkwọ mma",
+      "akwụkwọ"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "ụmụ",
+      "enyi",
+      "mma",
+      "nwa"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "wealth",
+      "individualism",
+      "community",
+      "power"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "aka",
+      "isi",
+      "ụkwụ",
+      "ike"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "mmiri",
+      "anyanwu",
+      "ifọ",
+      "ọnwa"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "mmiri",
+      "ụta",
+      "anyanwu",
+      "ala"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "lụ",
+      "nù",
+      "bu",
+      "dị"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụmụ",
+      "ala",
+      "ụlọ",
+      "obodo"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwoke",
+      "nwata",
+      "nwanyị",
+      "ụmụ"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "3 tones",
+      "2 tones",
+      "5 tones",
+      "4 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Chad",
+      "Cameroon",
+      "Nigeria",
+      "Ghana"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "centralized",
+      "monarchical",
+      "decentralized",
+      "military"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Oro",
+      "Gelede",
+      "Egungun",
+      "Mmuo"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "13 months",
+      "12 months",
+      "11 months",
+      "10 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "nna",
+      "ụmụ",
+      "nne",
+      "mama"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "echi",
+      "jiya",
+      "iri",
+      "taa"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ akwụkwọ",
+      "ụlọ mma",
+      "ụlọ",
+      "ụlọ eze"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "nri",
+      "ụta",
+      "aka",
+      "isi"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "community",
+      "ancestor",
+      "family",
+      "spirit guide"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "okwu",
+      "ihe",
+      "akwụkwọ",
+      "akwụkwọ mma"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "mma",
+      "ụmụ",
+      "nwa",
+      "enyi"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "individualism",
+      "community",
+      "power",
+      "wealth"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "aka",
+      "ike",
+      "isi",
+      "ụkwụ"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "mmiri",
+      "anyanwu",
+      "ifọ",
+      "ọnwa"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "ala",
+      "mmiri",
+      "anyanwu",
+      "ụta"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "dị",
+      "lụ",
+      "bu",
+      "nù"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụlọ",
+      "ala",
+      "obodo",
+      "ụmụ"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "ụmụ",
+      "nwoke",
+      "nwanyị",
+      "nwata"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "4 tones",
+      "2 tones",
+      "3 tones",
+      "5 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Cameroon",
+      "Ghana",
+      "Nigeria",
+      "Chad"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "centralized",
+      "decentralized",
+      "military",
+      "monarchical"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Egungun",
+      "Oro",
+      "Gelede",
+      "Mmuo"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "11 months",
+      "10 months",
+      "12 months",
+      "13 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "ụmụ",
+      "nne",
+      "mama",
+      "nna"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "taa",
+      "jiya",
+      "iri",
+      "echi"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ akwụkwọ",
+      "ụlọ eze",
+      "ụlọ mma",
+      "ụlọ"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "ụta",
+      "aka",
+      "isi",
+      "nri"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "ancestor",
+      "family",
+      "community",
+      "spirit guide"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "akwụkwọ mma",
+      "okwu",
+      "akwụkwọ",
+      "ihe"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "nwa",
+      "ụmụ",
+      "enyi",
+      "mma"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "wealth",
+      "individualism",
+      "power",
+      "community"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "aka",
+      "ụkwụ",
+      "isi",
+      "ike"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "ifọ",
+      "mmiri",
+      "anyanwu",
+      "ọnwa"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "ụta",
+      "anyanwu",
+      "ala",
+      "mmiri"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "bu",
+      "nù",
+      "lụ",
+      "dị"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụmụ",
+      "ala",
+      "ụlọ",
+      "obodo"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwanyị",
+      "ụmụ",
+      "nwoke",
+      "nwata"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "5 tones",
+      "2 tones",
+      "4 tones",
+      "3 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Ghana",
+      "Nigeria",
+      "Chad",
+      "Cameroon"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "monarchical",
+      "decentralized",
+      "centralized",
+      "military"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Gelede",
+      "Egungun",
+      "Mmuo",
+      "Oro"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "11 months",
+      "12 months",
+      "13 months",
+      "10 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "nne",
+      "mama",
+      "ụmụ",
+      "nna"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "echi",
+      "taa",
+      "iri",
+      "jiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ eze",
+      "ụlọ",
+      "ụlọ akwụkwọ",
+      "ụlọ mma"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "isi",
+      "nri",
+      "ụta",
+      "aka"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "family",
+      "community",
+      "spirit guide",
+      "ancestor"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "okwu",
+      "akwụkwọ",
+      "ihe",
+      "akwụkwọ mma"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "ụmụ",
+      "enyi",
+      "mma",
+      "nwa"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "wealth",
+      "power",
+      "community",
+      "individualism"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "isi",
+      "aka",
+      "ụkwụ",
+      "ike"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "ifọ",
+      "anyanwu",
+      "ọnwa",
+      "mmiri"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "anyanwu",
+      "ụta",
+      "mmiri",
+      "ala"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "dị",
+      "nù",
+      "lụ",
+      "bu"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ala",
+      "obodo",
+      "ụlọ",
+      "ụmụ"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwata",
+      "nwoke",
+      "nwanyị",
+      "ụmụ"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "2 tones",
+      "4 tones",
+      "3 tones",
+      "5 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Ghana",
+      "Nigeria",
+      "Cameroon",
+      "Chad"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "centralized",
+      "monarchical",
+      "decentralized",
+      "military"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Oro",
+      "Mmuo",
+      "Gelede",
+      "Egungun"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "12 months",
+      "11 months",
+      "13 months",
+      "10 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "nne",
+      "ụmụ",
+      "nna",
+      "mama"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "jiya",
+      "echi",
+      "taa",
+      "iri"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ",
+      "ụlọ akwụkwọ",
       "ụlọ mma",
       "ụlọ eze"
     ],
     "answer": "ụlọ akwụkwọ"
   },
   {
-    "question": "Idụ 'food' a Igbo bụ:",
+    "question": "Idụ 'food' a Igbo bụ",
     "options": [
-      "nri",
-      "isi",
       "aka",
-      "ụta"
+      "isi",
+      "ụta",
+      "nri"
     ],
     "answer": "nri"
   },
   {
-    "question": "Ederede 'book' bụ:",
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "family",
+      "spirit guide",
+      "community",
+      "ancestor"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "okwu",
+      "akwụkwọ mma",
+      "akwụkwọ",
+      "ihe"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "mma",
+      "nwa",
+      "enyi",
+      "ụmụ"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "individualism",
+      "power",
+      "community",
+      "wealth"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "ike",
+      "aka",
+      "ụkwụ",
+      "isi"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "anyanwu",
+      "ọnwa",
+      "mmiri",
+      "ifọ"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "ụta",
+      "anyanwu",
+      "mmiri",
+      "ala"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "nù",
+      "dị",
+      "bu",
+      "lụ"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụmụ",
+      "ụlọ",
+      "obodo",
+      "ala"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwoke",
+      "nwanyị",
+      "nwata",
+      "ụmụ"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "3 tones",
+      "5 tones",
+      "4 tones",
+      "2 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Ghana",
+      "Nigeria",
+      "Chad",
+      "Cameroon"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "decentralized",
+      "military",
+      "monarchical",
+      "centralized"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Mmuo",
+      "Egungun",
+      "Gelede",
+      "Oro"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "10 months",
+      "12 months",
+      "11 months",
+      "13 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "mama",
+      "nna",
+      "nne",
+      "ụmụ"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "iri",
+      "taa",
+      "jiya",
+      "echi"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ",
+      "ụlọ akwụkwọ",
+      "ụlọ eze",
+      "ụlọ mma"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "ụta",
+      "nri",
+      "aka",
+      "isi"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "ancestor",
+      "spirit guide",
+      "community",
+      "family"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "okwu",
+      "akwụkwọ",
+      "ihe",
+      "akwụkwọ mma"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "mma",
+      "nwa",
+      "enyi",
+      "ụmụ"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "power",
+      "community",
+      "wealth",
+      "individualism"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "isi",
+      "ụkwụ",
+      "ike",
+      "aka"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "ifọ",
+      "mmiri",
+      "anyanwu",
+      "ọnwa"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "anyanwu",
+      "ụta",
+      "mmiri",
+      "ala"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "dị",
+      "lụ",
+      "bu",
+      "nù"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụlọ",
+      "obodo",
+      "ụmụ",
+      "ala"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwanyị",
+      "nwoke",
+      "nwata",
+      "ụmụ"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "5 tones",
+      "3 tones",
+      "2 tones",
+      "4 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Ghana",
+      "Chad",
+      "Cameroon",
+      "Nigeria"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "monarchical",
+      "centralized",
+      "decentralized",
+      "military"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Oro",
+      "Mmuo",
+      "Gelede",
+      "Egungun"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "13 months",
+      "12 months",
+      "10 months",
+      "11 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "ụmụ",
+      "nna",
+      "nne",
+      "mama"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "iri",
+      "taa",
+      "jiya",
+      "echi"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ eze",
+      "ụlọ mma",
+      "ụlọ akwụkwọ",
+      "ụlọ"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "ụta",
+      "isi",
+      "aka",
+      "nri"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "spirit guide",
+      "family",
+      "ancestor",
+      "community"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "akwụkwọ mma",
+      "ihe",
+      "okwu",
+      "akwụkwọ"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "ụmụ",
+      "mma",
+      "enyi",
+      "nwa"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "community",
+      "power",
+      "individualism",
+      "wealth"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "ụkwụ",
+      "aka",
+      "ike",
+      "isi"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "mmiri",
+      "anyanwu",
+      "ifọ",
+      "ọnwa"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "ala",
+      "mmiri",
+      "anyanwu",
+      "ụta"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "lụ",
+      "dị",
+      "bu",
+      "nù"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụlọ",
+      "obodo",
+      "ụmụ",
+      "ala"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwanyị",
+      "nwoke",
+      "nwata",
+      "ụmụ"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "4 tones",
+      "5 tones",
+      "3 tones",
+      "2 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Cameroon",
+      "Nigeria",
+      "Chad",
+      "Ghana"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "centralized",
+      "decentralized",
+      "monarchical",
+      "military"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Egungun",
+      "Gelede",
+      "Oro",
+      "Mmuo"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "13 months",
+      "10 months",
+      "11 months",
+      "12 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "ụmụ",
+      "nne",
+      "mama",
+      "nna"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "taa",
+      "echi",
+      "jiya",
+      "iri"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ mma",
+      "ụlọ eze",
+      "ụlọ",
+      "ụlọ akwụkwọ"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "isi",
+      "ụta",
+      "aka",
+      "nri"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "family",
+      "spirit guide",
+      "community",
+      "ancestor"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "ihe",
+      "akwụkwọ mma",
+      "akwụkwọ",
+      "okwu"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "mma",
+      "enyi",
+      "ụmụ",
+      "nwa"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "individualism",
+      "wealth",
+      "community",
+      "power"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "ike",
+      "ụkwụ",
+      "aka",
+      "isi"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "mmiri",
+      "anyanwu",
+      "ifọ",
+      "ọnwa"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "anyanwu",
+      "ụta",
+      "ala",
+      "mmiri"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "nù",
+      "lụ",
+      "dị",
+      "bu"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụlọ",
+      "ụmụ",
+      "obodo",
+      "ala"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "ụmụ",
+      "nwanyị",
+      "nwoke",
+      "nwata"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "4 tones",
+      "3 tones",
+      "2 tones",
+      "5 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Chad",
+      "Ghana",
+      "Cameroon",
+      "Nigeria"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "military",
+      "decentralized",
+      "centralized",
+      "monarchical"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Gelede",
+      "Oro",
+      "Mmuo",
+      "Egungun"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "11 months",
+      "10 months",
+      "12 months",
+      "13 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "nne",
+      "ụmụ",
+      "mama",
+      "nna"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "iri",
+      "taa",
+      "jiya",
+      "echi"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ eze",
+      "ụlọ akwụkwọ",
+      "ụlọ",
+      "ụlọ mma"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "ụta",
+      "isi",
+      "nri",
+      "aka"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "community",
+      "family",
+      "ancestor",
+      "spirit guide"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
+    "options": [
+      "akwụkwọ mma",
+      "akwụkwọ",
+      "okwu",
+      "ihe"
+    ],
+    "answer": "akwụkwọ"
+  },
+  {
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
+    "options": [
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "ụmụ",
+      "nwa",
+      "enyi",
+      "mma"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "wealth",
+      "individualism",
+      "power",
+      "community"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "aka",
+      "ike",
+      "isi",
+      "ụkwụ"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "anyanwu",
+      "mmiri",
+      "ọnwa",
+      "ifọ"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "ụta",
+      "anyanwu",
+      "mmiri",
+      "ala"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "nù",
+      "lụ",
+      "bu",
+      "dị"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ala",
+      "obodo",
+      "ụmụ",
+      "ụlọ"
+    ],
+    "answer": "obodo"
+  },
+  {
+    "question": "Okwu maka 'man'",
+    "options": [
+      "nwata",
+      "ụmụ",
+      "nwanyị",
+      "nwoke"
+    ],
+    "answer": "nwoke"
+  },
+  {
+    "question": "Igbo language has how many tones",
+    "options": [
+      "3 tones",
+      "5 tones",
+      "2 tones",
+      "4 tones"
+    ],
+    "answer": "3 tones"
+  },
+  {
+    "question": "The Igbo people are from",
+    "options": [
+      "Cameroon",
+      "Chad",
+      "Ghana",
+      "Nigeria"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "Traditional Igbo government was",
+    "options": [
+      "military",
+      "monarchical",
+      "decentralized",
+      "centralized"
+    ],
+    "answer": "decentralized"
+  },
+  {
+    "question": "Igbo masquerade performances are called",
+    "options": [
+      "Egungun",
+      "Gelede",
+      "Oro",
+      "Mmuo"
+    ],
+    "answer": "Mmuo"
+  },
+  {
+    "question": "The Igbo calendar traditionally has",
+    "options": [
+      "13 months",
+      "10 months",
+      "12 months",
+      "11 months"
+    ],
+    "answer": "13 months"
+  },
+  {
+    "question": "Ụlọ nke 'mother' bụ",
+    "options": [
+      "nne",
+      "nna",
+      "mama",
+      "ụmụ"
+    ],
+    "answer": "nne"
+  },
+  {
+    "question": "Ido 'yesterday' bụ",
+    "options": [
+      "iri",
+      "taa",
+      "jiya",
+      "echi"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "In Igbo, 'school' means",
+    "options": [
+      "ụlọ",
+      "ụlọ eze",
+      "ụlọ akwụkwọ",
+      "ụlọ mma"
+    ],
+    "answer": "ụlọ akwụkwọ"
+  },
+  {
+    "question": "Idụ 'food' a Igbo bụ",
+    "options": [
+      "isi",
+      "aka",
+      "ụta",
+      "nri"
+    ],
+    "answer": "nri"
+  },
+  {
+    "question": "The Igbo concept of 'chi' refers to",
+    "options": [
+      "ancestor",
+      "community",
+      "spirit guide",
+      "family"
+    ],
+    "answer": "spirit guide"
+  },
+  {
+    "question": "Ederede 'book' bụ",
     "options": [
       "akwụkwọ",
       "akwụkwọ mma",
@@ -50,2953 +2860,143 @@
     "answer": "akwụkwọ"
   },
   {
-    "question": "Ụlọ nke 'mother' bụ:",
+    "question": "Ka ụta: 'Mma ___ mmụọ'",
     "options": [
-      "mama",
-      "nne",
-      "nna",
+      "bu",
+      "bu",
+      "bu",
+      "bu"
+    ],
+    "answer": "bu"
+  },
+  {
+    "question": "Okwu maka 'friend' a Igbo",
+    "options": [
+      "enyi",
+      "ụmụ",
+      "mma",
+      "nwa"
+    ],
+    "answer": "enyi"
+  },
+  {
+    "question": "Igbo culture emphasizes",
+    "options": [
+      "community",
+      "wealth",
+      "power",
+      "individualism"
+    ],
+    "answer": "community"
+  },
+  {
+    "question": "Ụlọ ti 'hand' a Igbo",
+    "options": [
+      "ike",
+      "isi",
+      "ụkwụ",
+      "aka"
+    ],
+    "answer": "aka"
+  },
+  {
+    "question": "Ederede maka 'sun'",
+    "options": [
+      "ọnwa",
+      "mmiri",
+      "ifọ",
+      "anyanwu"
+    ],
+    "answer": "anyanwu"
+  },
+  {
+    "question": "Okwu a 'water' bụ",
+    "options": [
+      "mmiri",
+      "ala",
+      "ụta",
+      "anyanwu"
+    ],
+    "answer": "mmiri"
+  },
+  {
+    "question": "Ịkụ: 'Ị ___ mma'",
+    "options": [
+      "lụ",
+      "nù",
+      "bu",
+      "dị"
+    ],
+    "answer": "dị"
+  },
+  {
+    "question": "Mbọ maka 'village'",
+    "options": [
+      "ụlọ",
+      "ala",
+      "obodo",
       "ụmụ"
     ],
-    "answer": "nne"
+    "answer": "obodo"
   },
   {
-    "question": "Ido 'yesterday' bụ:",
+    "question": "Okwu maka 'man'",
     "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
+      "nwanyị",
+      "ụmụ",
+      "nwata",
+      "nwoke"
     ],
-    "answer": "jiya"
+    "answer": "nwoke"
   },
   {
-    "question": "Okwu maka 'school' bụ:",
+    "question": "Igbo language has how many tones",
     "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
+      "4 tones",
+      "5 tones",
+      "2 tones",
+      "3 tones"
     ],
-    "answer": "ụlọ akwụkwọ"
+    "answer": "3 tones"
   },
   {
-    "question": "Idụ 'food' a Igbo bụ:",
+    "question": "The Igbo people are from",
     "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
+      "Ghana",
+      "Chad",
+      "Nigeria",
+      "Cameroon"
     ],
-    "answer": "nri"
+    "answer": "Nigeria"
   },
   {
-    "question": "Ederede 'book' bụ:",
+    "question": "Traditional Igbo government was",
     "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
+      "centralized",
+      "decentralized",
+      "military",
+      "monarchical"
     ],
-    "answer": "akwụkwọ"
+    "answer": "decentralized"
   },
   {
-    "question": "Ụlọ nke 'mother' bụ:",
+    "question": "Igbo masquerade performances are called",
     "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
+      "Gelede",
+      "Oro",
+      "Egungun",
+      "Mmuo"
     ],
-    "answer": "nne"
+    "answer": "Mmuo"
   },
   {
-    "question": "Ido 'yesterday' bụ:",
+    "question": "The Igbo calendar traditionally has",
     "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
+      "12 months",
+      "10 months",
+      "11 months",
+      "13 months"
     ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
-  },
-  {
-    "question": "Ụlọ nke 'mother' bụ:",
-    "options": [
-      "mama",
-      "nne",
-      "nna",
-      "ụmụ"
-    ],
-    "answer": "nne"
-  },
-  {
-    "question": "Ido 'yesterday' bụ:",
-    "options": [
-      "echi",
-      "iri",
-      "taa",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "Okwu maka 'school' bụ:",
-    "options": [
-      "ụlọ akwụkwọ",
-      "ụlọ",
-      "ụlọ mma",
-      "ụlọ eze"
-    ],
-    "answer": "ụlọ akwụkwọ"
-  },
-  {
-    "question": "Idụ 'food' a Igbo bụ:",
-    "options": [
-      "nri",
-      "isi",
-      "aka",
-      "ụta"
-    ],
-    "answer": "nri"
-  },
-  {
-    "question": "Ederede 'book' bụ:",
-    "options": [
-      "akwụkwọ",
-      "akwụkwọ mma",
-      "ihe",
-      "okwu"
-    ],
-    "answer": "akwụkwọ"
+    "answer": "13 months"
   }
 ]

@@ -1,6 +1,206 @@
 [
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃CH₂CH₂OH",
+      "CH₃CHO",
+      "CH₃CH₂COOH",
+      "CH₃COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
+    "options": [
+      "benzyl alcohol",
+      "benzoic acid",
+      "acetophenone",
+      "toluene"
+    ],
+    "answer": "acetophenone"
+  },
+  {
+    "question": "SN2 mechanism is",
+    "options": [
+      "bimolecular with inversion",
+      "free radical",
+      "unimolecular",
+      "with retention"
+    ],
+    "answer": "bimolecular with inversion"
+  },
+  {
+    "question": "Oxidation state of Mn in KMnO₄",
+    "options": [
+      "+5",
+      "+7",
+      "+6",
+      "+4"
+    ],
+    "answer": "+7"
+  },
+  {
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "options": [
+      "12",
+      "8",
+      "16",
+      "5"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Weak acid is",
+    "options": [
+      "H₂SO₄",
+      "HNO₃",
+      "CH₃COOH",
+      "HCl"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-80",
+      "-30",
+      "+80",
+      "-20"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "1×10⁻¹⁰",
+      "2×10⁻⁵",
+      "1×10⁻⁵",
+      "1×10⁻²⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "positive",
+      "undefined",
+      "zero",
+      "negative"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "all forces",
+      "van der Waals",
+      "hydrogen bonds",
+      "covalent bonds"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp³",
+      "sp",
+      "sp³d",
+      "sp²"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "atomic number",
+      "properties",
+      "protons",
+      "neutrons"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "ether",
+      "alkane",
+      "alcohol",
+      "alkyl halide"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "98",
+      "106",
+      "102",
+      "94"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+5",
+      "-3",
+      "-5",
+      "+3"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "electron acceptor",
+      "base",
+      "electron donor",
+      "proton donor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "pH",
+      "temperature",
+      "molarity",
+      "saturation"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "variable",
+      "zero",
+      "negative",
+      "positive"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
     "options": [
       "CH₃CHO",
       "CH₃COOH",
@@ -10,137 +210,1037 @@
     "answer": "CH₃COOH"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
     "options": [
       "acetophenone",
       "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
+      "benzoic acid",
+      "toluene"
     ],
     "answer": "acetophenone"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "SN2 mechanism is",
     "options": [
-      "unimolecular",
       "bimolecular with inversion",
-      "bimolecular with retention",
+      "with retention",
+      "unimolecular",
       "free radical"
     ],
     "answer": "bimolecular with inversion"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Oxidation state of Mn in KMnO₄",
     "options": [
       "+7",
       "+6",
-      "+5",
-      "+4"
+      "+4",
+      "+5"
     ],
     "answer": "+7"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
     "options": [
-      "5",
       "8",
       "12",
+      "5",
       "16"
     ],
     "answer": "8"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "Weak acid is",
     "options": [
-      "CH₃CHO",
+      "HCl",
       "CH₃COOH",
+      "H₂SO₄",
+      "HNO₃"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "+80",
+      "-20",
+      "-30",
+      "-80"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "2×10⁻⁵",
+      "1×10⁻²⁰",
+      "1×10⁻⁵",
+      "1×10⁻¹⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "positive",
+      "undefined",
+      "negative",
+      "zero"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "hydrogen bonds",
+      "van der Waals",
+      "all forces",
+      "covalent bonds"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "8",
+      "6",
+      "2",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp³",
+      "sp²",
+      "sp³d",
+      "sp"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "protons",
+      "neutrons",
+      "atomic number",
+      "properties"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alkyl halide",
+      "alkane",
+      "alcohol",
+      "ether"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "98",
+      "94",
+      "106",
+      "102"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "-5",
+      "+3",
+      "-3",
+      "+5"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "base",
+      "electron acceptor",
+      "proton donor",
+      "electron donor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "temperature",
+      "molarity",
+      "saturation",
+      "pH"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "zero",
+      "variable",
+      "positive",
+      "negative"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
       "CH₃CH₂COOH",
+      "CH₃COOH",
+      "CH₃CHO",
       "CH₃CH₂CH₂OH"
     ],
     "answer": "CH₃COOH"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
     "options": [
+      "benzoic acid",
       "acetophenone",
-      "benzyl alcohol",
       "toluene",
-      "benzoic acid"
+      "benzyl alcohol"
     ],
     "answer": "acetophenone"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "SN2 mechanism is",
     "options": [
-      "unimolecular",
+      "free radical",
       "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
+      "unimolecular",
+      "with retention"
     ],
     "answer": "bimolecular with inversion"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Oxidation state of Mn in KMnO₄",
     "options": [
-      "+7",
-      "+6",
       "+5",
-      "+4"
+      "+4",
+      "+6",
+      "+7"
     ],
     "answer": "+7"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
     "options": [
       "5",
       "8",
-      "12",
-      "16"
+      "16",
+      "12"
     ],
     "answer": "8"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "Weak acid is",
     "options": [
-      "CH₃CHO",
+      "HCl",
+      "HNO₃",
       "CH₃COOH",
+      "H₂SO₄"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-20",
+      "+80",
+      "-80",
+      "-30"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "2×10⁻⁵",
+      "1×10⁻²⁰",
+      "1×10⁻⁵",
+      "1×10⁻¹⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "undefined",
+      "negative",
+      "zero",
+      "positive"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "all forces",
+      "hydrogen bonds",
+      "van der Waals",
+      "covalent bonds"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp³",
+      "sp",
+      "sp²",
+      "sp³d"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "neutrons",
+      "properties",
+      "protons",
+      "atomic number"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alcohol",
+      "alkane",
+      "ether",
+      "alkyl halide"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "94",
+      "106",
+      "98",
+      "102"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+5",
+      "-5",
+      "+3",
+      "-3"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "proton donor",
+      "electron donor",
+      "base",
+      "electron acceptor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "molarity",
+      "saturation",
+      "temperature",
+      "pH"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "zero",
+      "positive",
+      "negative",
+      "variable"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
       "CH₃CH₂COOH",
+      "CH₃COOH",
+      "CH₃CHO",
       "CH₃CH₂CH₂OH"
     ],
     "answer": "CH₃COOH"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
     "options": [
+      "benzoic acid",
       "acetophenone",
       "benzyl alcohol",
+      "toluene"
+    ],
+    "answer": "acetophenone"
+  },
+  {
+    "question": "SN2 mechanism is",
+    "options": [
+      "free radical",
+      "unimolecular",
+      "bimolecular with inversion",
+      "with retention"
+    ],
+    "answer": "bimolecular with inversion"
+  },
+  {
+    "question": "Oxidation state of Mn in KMnO₄",
+    "options": [
+      "+4",
+      "+7",
+      "+6",
+      "+5"
+    ],
+    "answer": "+7"
+  },
+  {
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "5"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Weak acid is",
+    "options": [
+      "HNO₃",
+      "HCl",
+      "CH₃COOH",
+      "H₂SO₄"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-20",
+      "+80",
+      "-80",
+      "-30"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "1×10⁻²⁰",
+      "1×10⁻¹⁰",
+      "1×10⁻⁵",
+      "2×10⁻⁵"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "undefined",
+      "positive",
+      "zero",
+      "negative"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "all forces",
+      "covalent bonds",
+      "van der Waals",
+      "hydrogen bonds"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp",
+      "sp³d",
+      "sp³",
+      "sp²"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "properties",
+      "neutrons",
+      "protons",
+      "atomic number"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alkane",
+      "alkyl halide",
+      "ether",
+      "alcohol"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "106",
+      "102",
+      "98",
+      "94"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+5",
+      "-3",
+      "+3",
+      "-5"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "base",
+      "electron acceptor",
+      "proton donor",
+      "electron donor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "pH",
+      "saturation",
+      "temperature",
+      "molarity"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "variable",
+      "positive",
+      "zero",
+      "negative"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃CHO",
+      "CH₃CH₂CH₂OH",
+      "CH₃COOH",
+      "CH₃CH₂COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
+    "options": [
+      "acetophenone",
       "toluene",
+      "benzyl alcohol",
       "benzoic acid"
     ],
     "answer": "acetophenone"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "SN2 mechanism is",
     "options": [
-      "unimolecular",
       "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
+      "unimolecular",
+      "free radical",
+      "with retention"
     ],
     "answer": "bimolecular with inversion"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Oxidation state of Mn in KMnO₄",
     "options": [
       "+7",
-      "+6",
       "+5",
+      "+6",
       "+4"
     ],
     "answer": "+7"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "options": [
+      "16",
+      "8",
+      "5",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Weak acid is",
+    "options": [
+      "H₂SO₄",
+      "HNO₃",
+      "CH₃COOH",
+      "HCl"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-20",
+      "+80",
+      "-30",
+      "-80"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "2×10⁻⁵",
+      "1×10⁻⁵",
+      "1×10⁻²⁰",
+      "1×10⁻¹⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "positive",
+      "undefined",
+      "zero",
+      "negative"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "covalent bonds",
+      "hydrogen bonds",
+      "all forces",
+      "van der Waals"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "8",
+      "4",
+      "2",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "sp³d"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "properties",
+      "neutrons",
+      "protons",
+      "atomic number"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alkyl halide",
+      "ether",
+      "alkane",
+      "alcohol"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "94",
+      "102",
+      "106",
+      "98"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+3",
+      "-3",
+      "-5",
+      "+5"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "proton donor",
+      "electron acceptor",
+      "electron donor",
+      "base"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "molarity",
+      "saturation",
+      "pH",
+      "temperature"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "negative",
+      "variable",
+      "positive",
+      "zero"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃COOH",
+      "CH₃CHO",
+      "CH₃CH₂CH₂OH",
+      "CH₃CH₂COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
+    "options": [
+      "benzyl alcohol",
+      "benzoic acid",
+      "toluene",
+      "acetophenone"
+    ],
+    "answer": "acetophenone"
+  },
+  {
+    "question": "SN2 mechanism is",
+    "options": [
+      "unimolecular",
+      "free radical",
+      "with retention",
+      "bimolecular with inversion"
+    ],
+    "answer": "bimolecular with inversion"
+  },
+  {
+    "question": "Oxidation state of Mn in KMnO₄",
+    "options": [
+      "+5",
+      "+7",
+      "+6",
+      "+4"
+    ],
+    "answer": "+7"
+  },
+  {
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "options": [
+      "12",
+      "8",
+      "5",
+      "16"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Weak acid is",
+    "options": [
+      "HNO₃",
+      "H₂SO₄",
+      "HCl",
+      "CH₃COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "+80",
+      "-80",
+      "-30",
+      "-20"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "2×10⁻⁵",
+      "1×10⁻⁵",
+      "1×10⁻²⁰",
+      "1×10⁻¹⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "undefined",
+      "zero",
+      "positive",
+      "negative"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "hydrogen bonds",
+      "van der Waals",
+      "all forces",
+      "covalent bonds"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "4",
+      "8",
+      "6",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp",
+      "sp³d",
+      "sp³",
+      "sp²"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "atomic number",
+      "protons",
+      "neutrons",
+      "properties"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "ether",
+      "alcohol",
+      "alkyl halide",
+      "alkane"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "106",
+      "102",
+      "94",
+      "98"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "-5",
+      "+3",
+      "+5",
+      "-3"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "base",
+      "proton donor",
+      "electron donor",
+      "electron acceptor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "pH",
+      "molarity",
+      "temperature",
+      "saturation"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "variable",
+      "positive",
+      "negative",
+      "zero"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃CH₂COOH",
+      "CH₃COOH",
+      "CH₃CH₂CH₂OH",
+      "CH₃CHO"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
+    "options": [
+      "acetophenone",
+      "benzoic acid",
+      "benzyl alcohol",
+      "toluene"
+    ],
+    "answer": "acetophenone"
+  },
+  {
+    "question": "SN2 mechanism is",
+    "options": [
+      "bimolecular with inversion",
+      "free radical",
+      "with retention",
+      "unimolecular"
+    ],
+    "answer": "bimolecular with inversion"
+  },
+  {
+    "question": "Oxidation state of Mn in KMnO₄",
+    "options": [
+      "+4",
+      "+7",
+      "+6",
+      "+5"
+    ],
+    "answer": "+7"
+  },
+  {
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
     "options": [
       "5",
       "8",
@@ -150,2853 +1250,1753 @@
     "answer": "8"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "Weak acid is",
+    "options": [
+      "HCl",
+      "HNO₃",
+      "H₂SO₄",
+      "CH₃COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-20",
+      "-80",
+      "-30",
+      "+80"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "1×10⁻¹⁰",
+      "1×10⁻⁵",
+      "1×10⁻²⁰",
+      "2×10⁻⁵"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "positive",
+      "zero",
+      "negative",
+      "undefined"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "van der Waals",
+      "covalent bonds",
+      "hydrogen bonds",
+      "all forces"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "8",
+      "4",
+      "2",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp³d",
+      "sp",
+      "sp³",
+      "sp²"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "protons",
+      "properties",
+      "neutrons",
+      "atomic number"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alkane",
+      "alcohol",
+      "alkyl halide",
+      "ether"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "106",
+      "94",
+      "102",
+      "98"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+5",
+      "+3",
+      "-3",
+      "-5"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "proton donor",
+      "base",
+      "electron acceptor",
+      "electron donor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "temperature",
+      "molarity",
+      "pH",
+      "saturation"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "zero",
+      "variable",
+      "positive",
+      "negative"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
     "options": [
       "CH₃CHO",
-      "CH₃COOH",
       "CH₃CH₂COOH",
+      "CH₃COOH",
       "CH₃CH₂CH₂OH"
     ],
     "answer": "CH₃COOH"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
     "options": [
-      "acetophenone",
-      "benzyl alcohol",
       "toluene",
-      "benzoic acid"
+      "benzoic acid",
+      "acetophenone",
+      "benzyl alcohol"
     ],
     "answer": "acetophenone"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "SN2 mechanism is",
     "options": [
       "unimolecular",
       "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
+      "free radical",
+      "with retention"
     ],
     "answer": "bimolecular with inversion"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Oxidation state of Mn in KMnO₄",
     "options": [
       "+7",
-      "+6",
       "+5",
-      "+4"
+      "+4",
+      "+6"
     ],
     "answer": "+7"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
     "options": [
+      "12",
+      "16",
+      "5",
+      "8"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Weak acid is",
+    "options": [
+      "HNO₃",
+      "HCl",
+      "H₂SO₄",
+      "CH₃COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-20",
+      "-30",
+      "-80",
+      "+80"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "2×10⁻⁵",
+      "1×10⁻⁵",
+      "1×10⁻¹⁰",
+      "1×10⁻²⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "undefined",
+      "zero",
+      "negative",
+      "positive"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "hydrogen bonds",
+      "van der Waals",
+      "all forces",
+      "covalent bonds"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "2",
+      "8",
+      "4",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp²",
+      "sp",
+      "sp³",
+      "sp³d"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "properties",
+      "protons",
+      "neutrons",
+      "atomic number"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alcohol",
+      "ether",
+      "alkyl halide",
+      "alkane"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "94",
+      "102",
+      "106",
+      "98"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "-3",
+      "-5",
+      "+3",
+      "+5"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "base",
+      "electron acceptor",
+      "proton donor",
+      "electron donor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "pH",
+      "temperature",
+      "saturation",
+      "molarity"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "zero",
+      "positive",
+      "variable",
+      "negative"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃CH₂CH₂OH",
+      "CH₃COOH",
+      "CH₃CHO",
+      "CH₃CH₂COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
+    "options": [
+      "acetophenone",
+      "toluene",
+      "benzoic acid",
+      "benzyl alcohol"
+    ],
+    "answer": "acetophenone"
+  },
+  {
+    "question": "SN2 mechanism is",
+    "options": [
+      "with retention",
+      "free radical",
+      "bimolecular with inversion",
+      "unimolecular"
+    ],
+    "answer": "bimolecular with inversion"
+  },
+  {
+    "question": "Oxidation state of Mn in KMnO₄",
+    "options": [
+      "+6",
+      "+4",
+      "+7",
+      "+5"
+    ],
+    "answer": "+7"
+  },
+  {
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "options": [
+      "12",
       "5",
       "8",
-      "12",
       "16"
     ],
     "answer": "8"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "Weak acid is",
     "options": [
+      "H₂SO₄",
+      "HCl",
+      "CH₃COOH",
+      "HNO₃"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-30",
+      "-80",
+      "+80",
+      "-20"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "1×10⁻⁵",
+      "1×10⁻¹⁰",
+      "1×10⁻²⁰",
+      "2×10⁻⁵"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "negative",
+      "undefined",
+      "positive",
+      "zero"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "covalent bonds",
+      "hydrogen bonds",
+      "van der Waals",
+      "all forces"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "6",
+      "2",
+      "8",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp³",
+      "sp²",
+      "sp",
+      "sp³d"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "neutrons",
+      "properties",
+      "protons",
+      "atomic number"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alkyl halide",
+      "alcohol",
+      "alkane",
+      "ether"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "98",
+      "94",
+      "106",
+      "102"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+5",
+      "-3",
+      "-5",
+      "+3"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "proton donor",
+      "electron donor",
+      "electron acceptor",
+      "base"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "saturation",
+      "temperature",
+      "molarity",
+      "pH"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "variable",
+      "negative",
+      "zero",
+      "positive"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃CH₂COOH",
       "CH₃CHO",
       "CH₃COOH",
-      "CH₃CH₂COOH",
       "CH₃CH₂CH₂OH"
     ],
     "answer": "CH₃COOH"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
     "options": [
+      "benzoic acid",
       "acetophenone",
-      "benzyl alcohol",
       "toluene",
-      "benzoic acid"
+      "benzyl alcohol"
     ],
     "answer": "acetophenone"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "SN2 mechanism is",
     "options": [
       "unimolecular",
+      "with retention",
+      "free radical",
+      "bimolecular with inversion"
+    ],
+    "answer": "bimolecular with inversion"
+  },
+  {
+    "question": "Oxidation state of Mn in KMnO₄",
+    "options": [
+      "+4",
+      "+5",
+      "+6",
+      "+7"
+    ],
+    "answer": "+7"
+  },
+  {
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "5"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Weak acid is",
+    "options": [
+      "H₂SO₄",
+      "CH₃COOH",
+      "HNO₃",
+      "HCl"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-30",
+      "-20",
+      "-80",
+      "+80"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "2×10⁻⁵",
+      "1×10⁻⁵",
+      "1×10⁻¹⁰",
+      "1×10⁻²⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "negative",
+      "zero",
+      "positive",
+      "undefined"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "van der Waals",
+      "covalent bonds",
+      "all forces",
+      "hydrogen bonds"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp³d",
+      "sp",
+      "sp³",
+      "sp²"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "protons",
+      "properties",
+      "neutrons",
+      "atomic number"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alkane",
+      "ether",
+      "alcohol",
+      "alkyl halide"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "106",
+      "98",
+      "94",
+      "102"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+5",
+      "-3",
+      "+3",
+      "-5"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "electron acceptor",
+      "electron donor",
+      "base",
+      "proton donor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "saturation",
+      "pH",
+      "molarity",
+      "temperature"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "negative",
+      "positive",
+      "zero",
+      "variable"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃CHO",
+      "CH₃CH₂COOH",
+      "CH₃CH₂CH₂OH",
+      "CH₃COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
+    "options": [
+      "benzoic acid",
+      "acetophenone",
+      "benzyl alcohol",
+      "toluene"
+    ],
+    "answer": "acetophenone"
+  },
+  {
+    "question": "SN2 mechanism is",
+    "options": [
+      "unimolecular",
+      "with retention",
       "bimolecular with inversion",
-      "bimolecular with retention",
       "free radical"
     ],
     "answer": "bimolecular with inversion"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Oxidation state of Mn in KMnO₄",
     "options": [
       "+7",
-      "+6",
+      "+4",
       "+5",
-      "+4"
+      "+6"
     ],
     "answer": "+7"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
     "options": [
+      "8",
+      "5",
+      "16",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Weak acid is",
+    "options": [
+      "HNO₃",
+      "H₂SO₄",
+      "CH₃COOH",
+      "HCl"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-80",
+      "-20",
+      "+80",
+      "-30"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "1×10⁻²⁰",
+      "1×10⁻⁵",
+      "2×10⁻⁵",
+      "1×10⁻¹⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "zero",
+      "negative",
+      "undefined",
+      "positive"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "van der Waals",
+      "all forces",
+      "hydrogen bonds",
+      "covalent bonds"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp",
+      "sp³",
+      "sp²",
+      "sp³d"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "protons",
+      "neutrons",
+      "atomic number",
+      "properties"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alcohol",
+      "ether",
+      "alkyl halide",
+      "alkane"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "94",
+      "102",
+      "98",
+      "106"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+5",
+      "-5",
+      "+3",
+      "-3"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "proton donor",
+      "base",
+      "electron donor",
+      "electron acceptor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "pH",
+      "saturation",
+      "molarity",
+      "temperature"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "variable",
+      "negative",
+      "zero",
+      "positive"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃COOH",
+      "CH₃CH₂CH₂OH",
+      "CH₃CHO",
+      "CH₃CH₂COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
+    "options": [
+      "benzoic acid",
+      "toluene",
+      "benzyl alcohol",
+      "acetophenone"
+    ],
+    "answer": "acetophenone"
+  },
+  {
+    "question": "SN2 mechanism is",
+    "options": [
+      "bimolecular with inversion",
+      "with retention",
+      "free radical",
+      "unimolecular"
+    ],
+    "answer": "bimolecular with inversion"
+  },
+  {
+    "question": "Oxidation state of Mn in KMnO₄",
+    "options": [
+      "+4",
+      "+6",
+      "+5",
+      "+7"
+    ],
+    "answer": "+7"
+  },
+  {
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "options": [
+      "16",
+      "12",
+      "5",
+      "8"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Weak acid is",
+    "options": [
+      "H₂SO₄",
+      "HCl",
+      "HNO₃",
+      "CH₃COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-20",
+      "+80",
+      "-80",
+      "-30"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "1×10⁻⁵",
+      "1×10⁻¹⁰",
+      "2×10⁻⁵",
+      "1×10⁻²⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "undefined",
+      "zero",
+      "positive",
+      "negative"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "van der Waals",
+      "covalent bonds",
+      "hydrogen bonds",
+      "all forces"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp",
+      "sp³d",
+      "sp²",
+      "sp³"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "properties",
+      "neutrons",
+      "atomic number",
+      "protons"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alkyl halide",
+      "alcohol",
+      "alkane",
+      "ether"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "106",
+      "98",
+      "102",
+      "94"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+3",
+      "-5",
+      "-3",
+      "+5"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "electron donor",
+      "base",
+      "electron acceptor",
+      "proton donor"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "pH",
+      "saturation",
+      "molarity",
+      "temperature"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "negative",
+      "variable",
+      "positive",
+      "zero"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃COOH",
+      "CH₃CH₂COOH",
+      "CH₃CH₂CH₂OH",
+      "CH₃CHO"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
+    "options": [
+      "benzoic acid",
+      "acetophenone",
+      "benzyl alcohol",
+      "toluene"
+    ],
+    "answer": "acetophenone"
+  },
+  {
+    "question": "SN2 mechanism is",
+    "options": [
+      "free radical",
+      "bimolecular with inversion",
+      "with retention",
+      "unimolecular"
+    ],
+    "answer": "bimolecular with inversion"
+  },
+  {
+    "question": "Oxidation state of Mn in KMnO₄",
+    "options": [
+      "+4",
+      "+7",
+      "+6",
+      "+5"
+    ],
+    "answer": "+7"
+  },
+  {
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
+    "options": [
+      "12",
       "5",
       "8",
-      "12",
       "16"
     ],
     "answer": "8"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "Weak acid is",
     "options": [
-      "CH₃CHO",
+      "HCl",
+      "H₂SO₄",
+      "HNO₃",
+      "CH₃COOH"
+    ],
+    "answer": "CH₃COOH"
+  },
+  {
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
+    "options": [
+      "-20",
+      "-80",
+      "+80",
+      "-30"
+    ],
+    "answer": "-80"
+  },
+  {
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
+    "options": [
+      "2×10⁻⁵",
+      "1×10⁻¹⁰",
+      "1×10⁻⁵",
+      "1×10⁻²⁰"
+    ],
+    "answer": "1×10⁻¹⁰"
+  },
+  {
+    "question": "Endothermic reaction has ΔH",
+    "options": [
+      "negative",
+      "positive",
+      "undefined",
+      "zero"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "hydrogen bonds",
+      "van der Waals",
+      "covalent bonds",
+      "all forces"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp³",
+      "sp",
+      "sp²",
+      "sp³d"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "atomic number",
+      "neutrons",
+      "properties",
+      "protons"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alkyl halide",
+      "alkane",
+      "ether",
+      "alcohol"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "94",
+      "98",
+      "106",
+      "102"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "-5",
+      "-3",
+      "+5",
+      "+3"
+    ],
+    "answer": "+5"
+  },
+  {
+    "question": "Lewis acid is",
+    "options": [
+      "electron donor",
+      "electron acceptor",
+      "proton donor",
+      "base"
+    ],
+    "answer": "electron acceptor"
+  },
+  {
+    "question": "Solubility product Ksp describes",
+    "options": [
+      "temperature",
+      "molarity",
+      "pH",
+      "saturation"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "zero",
+      "negative",
+      "variable",
+      "positive"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
       "CH₃COOH",
       "CH₃CH₂COOH",
+      "CH₃CHO",
       "CH₃CH₂CH₂OH"
     ],
     "answer": "CH₃COOH"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
     "options": [
-      "acetophenone",
       "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
+      "acetophenone",
+      "benzoic acid",
+      "toluene"
     ],
     "answer": "acetophenone"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "SN2 mechanism is",
     "options": [
       "unimolecular",
       "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
+      "free radical",
+      "with retention"
     ],
     "answer": "bimolecular with inversion"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Oxidation state of Mn in KMnO₄",
     "options": [
-      "+7",
-      "+6",
       "+5",
-      "+4"
+      "+7",
+      "+4",
+      "+6"
     ],
     "answer": "+7"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
     "options": [
-      "5",
       "8",
-      "12",
-      "16"
+      "5",
+      "16",
+      "12"
     ],
     "answer": "8"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "Weak acid is",
     "options": [
-      "CH₃CHO",
+      "HCl",
+      "H₂SO₄",
       "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
+      "HNO₃"
     ],
     "answer": "CH₃COOH"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
     "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
+      "-80",
+      "+80",
+      "-20",
+      "-30"
     ],
-    "answer": "acetophenone"
+    "answer": "-80"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
     "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
+      "2×10⁻⁵",
+      "1×10⁻¹⁰",
+      "1×10⁻⁵",
+      "1×10⁻²⁰"
     ],
-    "answer": "bimolecular with inversion"
+    "answer": "1×10⁻¹⁰"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Endothermic reaction has ΔH",
     "options": [
-      "+7",
-      "+6",
+      "zero",
+      "positive",
+      "negative",
+      "undefined"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "pH of 0.01 M HCl",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "van der Waals",
+      "hydrogen bonds",
+      "all forces",
+      "covalent bonds"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "C hybridization in H₂C=CH₂",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³d",
+      "sp³"
+    ],
+    "answer": "sp²"
+  },
+  {
+    "question": "Isotopes differ in",
+    "options": [
+      "properties",
+      "neutrons",
+      "atomic number",
+      "protons"
+    ],
+    "answer": "neutrons"
+  },
+  {
+    "question": "Alkene + H₂SO₄ (cold) →",
+    "options": [
+      "alkane",
+      "alcohol",
+      "alkyl halide",
+      "ether"
+    ],
+    "answer": "alcohol"
+  },
+  {
+    "question": "Molar mass H₂SO₄",
+    "options": [
+      "106",
+      "102",
+      "98",
+      "94"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "+3",
+      "-3",
       "+5",
-      "+4"
+      "-5"
     ],
-    "answer": "+7"
+    "answer": "+5"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "Lewis acid is",
     "options": [
-      "5",
-      "8",
-      "12",
-      "16"
+      "electron donor",
+      "electron acceptor",
+      "base",
+      "proton donor"
     ],
-    "answer": "8"
+    "answer": "electron acceptor"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "Solubility product Ksp describes",
     "options": [
-      "CH₃CHO",
-      "CH₃COOH",
+      "molarity",
+      "saturation",
+      "pH",
+      "temperature"
+    ],
+    "answer": "saturation"
+  },
+  {
+    "question": "Bond dissociation energy is",
+    "options": [
+      "zero",
+      "negative",
+      "variable",
+      "positive"
+    ],
+    "answer": "positive"
+  },
+  {
+    "question": "CH₃CH₂OH + KMnO₄ (acidic) →",
+    "options": [
+      "CH₃CH₂CH₂OH",
       "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
+      "CH₃COOH",
+      "CH₃CHO"
     ],
     "answer": "CH₃COOH"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "Friedel-Crafts acylation of benzene with CH₃COCl",
     "options": [
-      "acetophenone",
       "benzyl alcohol",
       "toluene",
+      "acetophenone",
       "benzoic acid"
     ],
     "answer": "acetophenone"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "SN2 mechanism is",
     "options": [
-      "unimolecular",
+      "free radical",
       "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
+      "unimolecular",
+      "with retention"
     ],
     "answer": "bimolecular with inversion"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Oxidation state of Mn in KMnO₄",
     "options": [
-      "+7",
       "+6",
-      "+5",
-      "+4"
+      "+4",
+      "+7",
+      "+5"
     ],
     "answer": "+7"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O, H⁺ coefficient",
     "options": [
       "5",
-      "8",
       "12",
+      "8",
       "16"
     ],
     "answer": "8"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "Weak acid is",
     "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
+      "HNO₃",
+      "HCl",
+      "H₂SO₄",
+      "CH₃COOH"
     ],
     "answer": "CH₃COOH"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "ΔG° with ΔH° = -50, ΔS° = 0.1, T = 300K",
     "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
+      "+80",
+      "-80",
+      "-20",
+      "-30"
     ],
-    "answer": "acetophenone"
+    "answer": "-80"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "Ksp where [Ag⁺] = [Cl⁻] = 1×10⁻⁵",
     "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
+      "1×10⁻²⁰",
+      "1×10⁻⁵",
+      "2×10⁻⁵",
+      "1×10⁻¹⁰"
     ],
-    "answer": "bimolecular with inversion"
+    "answer": "1×10⁻¹⁰"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Endothermic reaction has ΔH",
     "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
+      "undefined",
+      "negative",
+      "positive",
+      "zero"
     ],
-    "answer": "+7"
+    "answer": "positive"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "pH of 0.01 M HCl",
     "options": [
-      "5",
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Enzyme-substrate stabilized by",
+    "options": [
+      "covalent bonds",
+      "van der Waals",
+      "hydrogen bonds",
+      "all forces"
+    ],
+    "answer": "all forces"
+  },
+  {
+    "question": "Coordination number of Pt²⁺ in [PtCl₄]²⁻",
+    "options": [
+      "4",
       "8",
-      "12",
-      "16"
+      "2",
+      "6"
     ],
-    "answer": "8"
+    "answer": "4"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "C hybridization in H₂C=CH₂",
     "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
+      "sp²",
+      "sp³",
+      "sp³d",
+      "sp"
     ],
-    "answer": "CH₃COOH"
+    "answer": "sp²"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "Isotopes differ in",
     "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
+      "neutrons",
+      "protons",
+      "atomic number",
+      "properties"
     ],
-    "answer": "acetophenone"
+    "answer": "neutrons"
   },
   {
-    "question": "SN2 reaction mechanism is",
+    "question": "Alkene + H₂SO₄ (cold) →",
     "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
+      "alkane",
+      "ether",
+      "alcohol",
+      "alkyl halide"
     ],
-    "answer": "bimolecular with inversion"
+    "answer": "alcohol"
   },
   {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
+    "question": "Molar mass H₂SO₄",
     "options": [
-      "+7",
-      "+6",
+      "106",
+      "102",
+      "98",
+      "94"
+    ],
+    "answer": "98"
+  },
+  {
+    "question": "Oxidation state of N in NO₃⁻",
+    "options": [
+      "-3",
       "+5",
-      "+4"
+      "-5",
+      "+3"
     ],
-    "answer": "+7"
+    "answer": "+5"
   },
   {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
+    "question": "Lewis acid is",
     "options": [
-      "5",
-      "8",
-      "12",
-      "16"
+      "electron donor",
+      "proton donor",
+      "electron acceptor",
+      "base"
     ],
-    "answer": "8"
+    "answer": "electron acceptor"
   },
   {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
+    "question": "Solubility product Ksp describes",
     "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
+      "molarity",
+      "temperature",
+      "saturation",
+      "pH"
     ],
-    "answer": "CH₃COOH"
+    "answer": "saturation"
   },
   {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
+    "question": "Bond dissociation energy is",
     "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
+      "positive",
+      "zero",
+      "negative",
+      "variable"
     ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
-  },
-  {
-    "question": "Identify the product of CH₃CH₂OH + KMnO₄ (acidic)",
-    "options": [
-      "CH₃CHO",
-      "CH₃COOH",
-      "CH₃CH₂COOH",
-      "CH₃CH₂CH₂OH"
-    ],
-    "answer": "CH₃COOH"
-  },
-  {
-    "question": "What is the structure of the major product of Friedel-Crafts acylation of benzene with CH₃COCl?",
-    "options": [
-      "acetophenone",
-      "benzyl alcohol",
-      "toluene",
-      "benzoic acid"
-    ],
-    "answer": "acetophenone"
-  },
-  {
-    "question": "SN2 reaction mechanism is",
-    "options": [
-      "unimolecular",
-      "bimolecular with inversion",
-      "bimolecular with retention",
-      "free radical"
-    ],
-    "answer": "bimolecular with inversion"
-  },
-  {
-    "question": "What is the oxidation state of Mn in KMnO₄?",
-    "options": [
-      "+7",
-      "+6",
-      "+5",
-      "+4"
-    ],
-    "answer": "+7"
-  },
-  {
-    "question": "Balance: Fe²⁺ + MnO₄⁻ + H⁺ → Fe³⁺ + Mn²⁺ + H₂O. What is the coefficient of H⁺?",
-    "options": [
-      "5",
-      "8",
-      "12",
-      "16"
-    ],
-    "answer": "8"
+    "answer": "positive"
   }
 ]

@@ -1,3002 +1,3002 @@
 [
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "Projectile at 45°, range 100m, initial velocity",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "44.3",
+      "62.6",
+      "50",
+      "31.3"
     ],
-    "answer": "31.3 m/s"
+    "answer": "31.3"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "SHM: acceleration when v = v_max/2",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "±1/2·ω²A",
+      "±√3/2·ω²A",
       "±ω²A",
       "0"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "2N",
+      "0.25N",
+      "0.5N",
+      "1N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "1800V",
+      "18V",
+      "18000V",
+      "180V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
       "doubles",
+      "constant",
       "halves",
-      "quadruples",
-      "stays same"
+      "quadruples"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "Q = W",
+      "ΔU = Q - W",
+      "ΔU = Q + W",
+      "ΔU = W - Q"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "41.8°",
+      "30°",
+      "60°",
+      "48.6°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "17.5°",
+      "70°",
+      "35°",
+      "52.5°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻²⁷",
+      "1.99×10⁻¹⁹",
+      "3.98×10⁻¹⁹",
+      "6.63×10⁻¹⁹"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "4.1V",
+      "3.86V",
+      "1.43V",
+      "2.14V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/4",
+      "ML²/3",
+      "ML²/2",
+      "ML²/12"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "1/2πfC",
+      "√(R²+XL²)",
+      "2πfL",
+      "R"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "increases",
+      "unchanged",
+      "decreases",
+      "wavelength↑"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "0.8",
+      "1",
+      "1.67",
+      "1.25"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10¹⁰",
+      "3×10¹²",
+      "3×10⁸",
+      "3×10⁶"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "sinθ₁+sinθ₂=n",
+      "n₁/n₂=sinθ",
+      "n=sinθ",
+      "n₁sinθ₁=n₂sinθ₂"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "f = u + v",
+      "1/f = 1/u + 1/v",
+      "1/u - 1/v = 1/f",
+      "f/2"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GMm/r",
+      "GMm/r²",
+      "GM/r²",
+      "Gm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "sin(angle)",
+      "cos(angle)",
+      "tan(angle)",
+      "1"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "50",
+      "31.3",
+      "62.6",
+      "44.3"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
       "±ω²A",
-      "0"
+      "0",
+      "±√3/2·ω²A",
+      "±1/2·ω²A"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "1N",
+      "2N",
+      "0.25N",
+      "0.5N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "180V",
+      "1800V",
+      "18000V",
+      "18V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
-      "doubles",
+      "constant",
       "halves",
-      "quadruples",
-      "stays same"
+      "doubles",
+      "quadruples"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = Q - W",
+      "ΔU = Q + W",
+      "Q = W",
+      "ΔU = W - Q"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "60°",
+      "41.8°",
+      "30°",
+      "48.6°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "70°",
+      "52.5°",
+      "17.5°",
+      "35°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻¹⁹",
+      "3.98×10⁻²⁷",
+      "1.99×10⁻¹⁹",
+      "6.63×10⁻¹⁹"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "3.86V",
+      "2.14V",
+      "4.1V",
+      "1.43V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/4",
+      "ML²/3",
+      "ML²/2",
+      "ML²/12"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "R",
+      "2πfL",
+      "1/2πfC",
+      "√(R²+XL²)"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "decreases",
+      "increases",
+      "unchanged",
+      "wavelength↑"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1.67",
+      "1.25",
+      "0.8",
+      "1"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10¹²",
+      "3×10¹⁰",
+      "3×10⁸",
+      "3×10⁶"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "n₁/n₂=sinθ",
+      "sinθ₁+sinθ₂=n",
+      "n₁sinθ₁=n₂sinθ₂",
+      "n=sinθ"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "1/f = 1/u + 1/v",
+      "f = u + v",
+      "1/u - 1/v = 1/f",
+      "f/2"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GMm/r²",
+      "Gm/r",
+      "GMm/r",
+      "GM/r²"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "sin(angle)",
+      "tan(angle)",
+      "cos(angle)",
+      "1"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "31.3",
+      "44.3",
+      "62.6",
+      "50"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "0",
       "±ω²A",
-      "0"
+      "±√3/2·ω²A",
+      "±1/2·ω²A"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "0.25N",
+      "2N",
+      "1N",
+      "0.5N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "180V",
+      "18000V",
+      "1800V",
+      "18V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
-      "doubles",
-      "halves",
       "quadruples",
-      "stays same"
+      "halves",
+      "constant",
+      "doubles"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = W - Q",
+      "ΔU = Q - W",
+      "ΔU = Q + W",
+      "Q = W"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "48.6°",
+      "60°",
+      "30°",
+      "41.8°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "70°",
+      "17.5°",
+      "35°",
+      "52.5°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻¹⁹",
+      "6.63×10⁻¹⁹",
+      "3.98×10⁻²⁷",
+      "1.99×10⁻¹⁹"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "3.86V",
+      "2.14V",
+      "1.43V",
+      "4.1V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/3",
+      "ML²/4",
+      "ML²/12",
+      "ML²/2"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "2πfL",
+      "√(R²+XL²)",
+      "1/2πfC",
+      "R"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "wavelength↑",
+      "increases",
+      "decreases",
+      "unchanged"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "0.8",
+      "1",
+      "1.67",
+      "1.25"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁸",
+      "3×10¹⁰",
+      "3×10⁶",
+      "3×10¹²"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "n₁/n₂=sinθ",
+      "n=sinθ",
+      "n₁sinθ₁=n₂sinθ₂",
+      "sinθ₁+sinθ₂=n"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "f/2",
+      "1/f = 1/u + 1/v",
+      "f = u + v",
+      "1/u - 1/v = 1/f"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GMm/r²",
+      "GMm/r",
+      "GM/r²",
+      "Gm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "cos(angle)",
+      "sin(angle)",
+      "1",
+      "tan(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "44.3",
+      "62.6",
+      "31.3",
+      "50"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "±√3/2·ω²A",
       "±ω²A",
-      "0"
+      "0",
+      "±1/2·ω²A"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "0.5N",
+      "2N",
+      "0.25N",
+      "1N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "1800V",
+      "18V",
+      "18000V",
+      "180V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
-      "doubles",
       "halves",
       "quadruples",
-      "stays same"
+      "doubles",
+      "constant"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "Q = W",
+      "ΔU = Q - W",
+      "ΔU = Q + W",
+      "ΔU = W - Q"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "48.6°",
+      "41.8°",
+      "60°",
+      "30°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "35°",
+      "52.5°",
+      "17.5°",
+      "70°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻¹⁹",
+      "6.63×10⁻¹⁹",
+      "1.99×10⁻¹⁹",
+      "3.98×10⁻²⁷"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "2.14V",
+      "4.1V",
+      "1.43V",
+      "3.86V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/4",
+      "ML²/3",
+      "ML²/2",
+      "ML²/12"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "R",
+      "2πfL",
+      "1/2πfC",
+      "√(R²+XL²)"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "increases",
+      "decreases",
+      "wavelength↑",
+      "unchanged"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1.25",
+      "0.8",
+      "1",
+      "1.67"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁸",
+      "3×10¹⁰",
+      "3×10¹²",
+      "3×10⁶"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "n₁sinθ₁=n₂sinθ₂",
+      "n₁/n₂=sinθ",
+      "n=sinθ",
+      "sinθ₁+sinθ₂=n"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "1/f = 1/u + 1/v",
+      "f = u + v",
+      "f/2",
+      "1/u - 1/v = 1/f"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GMm/r",
+      "GM/r²",
+      "GMm/r²",
+      "Gm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "1",
+      "tan(angle)",
+      "cos(angle)",
+      "sin(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "44.3",
+      "50",
+      "62.6",
+      "31.3"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "±√3/2·ω²A",
+      "0",
       "±ω²A",
-      "0"
+      "±1/2·ω²A"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "0.25N",
+      "2N",
+      "1N",
+      "0.5N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "180V",
+      "18000V",
+      "1800V",
+      "18V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
       "doubles",
-      "halves",
       "quadruples",
-      "stays same"
+      "constant",
+      "halves"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = Q - W",
+      "ΔU = W - Q",
+      "ΔU = Q + W",
+      "Q = W"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "48.6°",
+      "41.8°",
+      "30°",
+      "60°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "17.5°",
+      "52.5°",
+      "35°",
+      "70°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "1.99×10⁻¹⁹",
+      "3.98×10⁻²⁷",
+      "6.63×10⁻¹⁹",
+      "3.98×10⁻¹⁹"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "4.1V",
+      "1.43V",
+      "3.86V",
+      "2.14V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/2",
+      "ML²/4",
+      "ML²/3",
+      "ML²/12"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "1/2πfC",
+      "√(R²+XL²)",
+      "R",
+      "2πfL"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "wavelength↑",
+      "unchanged",
+      "decreases",
+      "increases"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1",
+      "1.25",
+      "1.67",
+      "0.8"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁸",
+      "3×10¹⁰",
+      "3×10¹²",
+      "3×10⁶"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "n₁/n₂=sinθ",
+      "n=sinθ",
+      "sinθ₁+sinθ₂=n",
+      "n₁sinθ₁=n₂sinθ₂"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "f = u + v",
+      "f/2",
+      "1/f = 1/u + 1/v",
+      "1/u - 1/v = 1/f"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GMm/r",
+      "GMm/r²",
+      "Gm/r",
+      "GM/r²"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "sin(angle)",
+      "cos(angle)",
+      "tan(angle)",
+      "1"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "31.3",
+      "44.3",
+      "62.6",
+      "50"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "0",
       "±ω²A",
-      "0"
+      "±1/2·ω²A",
+      "±√3/2·ω²A"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "1N",
+      "2N",
+      "0.5N",
+      "0.25N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "18000V",
+      "1800V",
+      "180V",
+      "18V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
-      "doubles",
       "halves",
+      "doubles",
       "quadruples",
-      "stays same"
+      "constant"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = Q + W",
+      "ΔU = Q - W",
+      "Q = W",
+      "ΔU = W - Q"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "30°",
+      "48.6°",
+      "60°",
+      "41.8°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "70°",
+      "52.5°",
+      "17.5°",
+      "35°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻²⁷",
+      "1.99×10⁻¹⁹",
+      "6.63×10⁻¹⁹",
+      "3.98×10⁻¹⁹"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "4.1V",
+      "1.43V",
+      "3.86V",
+      "2.14V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/4",
+      "ML²/2",
+      "ML²/12",
+      "ML²/3"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "2πfL",
+      "√(R²+XL²)",
+      "R",
+      "1/2πfC"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "increases",
+      "unchanged",
+      "wavelength↑",
+      "decreases"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1",
+      "1.67",
+      "0.8",
+      "1.25"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁸",
+      "3×10⁶",
+      "3×10¹²",
+      "3×10¹⁰"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "sinθ₁+sinθ₂=n",
+      "n₁sinθ₁=n₂sinθ₂",
+      "n=sinθ",
+      "n₁/n₂=sinθ"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "1/u - 1/v = 1/f",
+      "f/2",
+      "f = u + v",
+      "1/f = 1/u + 1/v"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "Gm/r",
+      "GM/r²",
+      "GMm/r²",
+      "GMm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "tan(angle)",
+      "1",
+      "cos(angle)",
+      "sin(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "31.3",
+      "50",
+      "44.3",
+      "62.6"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "±1/2·ω²A",
+      "±√3/2·ω²A",
       "±ω²A",
       "0"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "0.25N",
+      "1N",
+      "2N",
+      "0.5N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "18V",
+      "180V",
+      "1800V",
+      "18000V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
-      "doubles",
-      "halves",
       "quadruples",
-      "stays same"
+      "halves",
+      "doubles",
+      "constant"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = Q + W",
+      "ΔU = Q - W",
+      "ΔU = W - Q",
+      "Q = W"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "60°",
+      "30°",
+      "48.6°",
+      "41.8°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "17.5°",
+      "35°",
+      "70°",
+      "52.5°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻¹⁹",
+      "1.99×10⁻¹⁹",
+      "6.63×10⁻¹⁹",
+      "3.98×10⁻²⁷"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "1.43V",
+      "2.14V",
+      "3.86V",
+      "4.1V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/4",
+      "ML²/12",
+      "ML²/3",
+      "ML²/2"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "√(R²+XL²)",
+      "R",
+      "2πfL",
+      "1/2πfC"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "wavelength↑",
+      "unchanged",
+      "increases",
+      "decreases"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1.25",
+      "0.8",
+      "1",
+      "1.67"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁶",
+      "3×10⁸",
+      "3×10¹²",
+      "3×10¹⁰"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "sinθ₁+sinθ₂=n",
+      "n=sinθ",
+      "n₁sinθ₁=n₂sinθ₂",
+      "n₁/n₂=sinθ"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "f/2",
+      "1/f = 1/u + 1/v",
+      "1/u - 1/v = 1/f",
+      "f = u + v"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "Gm/r",
+      "GMm/r²",
+      "GM/r²",
+      "GMm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "tan(angle)",
+      "cos(angle)",
+      "1",
+      "sin(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "44.3",
+      "50",
+      "31.3",
+      "62.6"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "0",
+      "±√3/2·ω²A",
       "±ω²A",
-      "0"
+      "±1/2·ω²A"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "1N",
+      "0.5N",
+      "0.25N",
+      "2N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "180V",
+      "1800V",
+      "18V",
+      "18000V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
-      "doubles",
-      "halves",
       "quadruples",
-      "stays same"
+      "constant",
+      "halves",
+      "doubles"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = Q + W",
+      "ΔU = W - Q",
+      "ΔU = Q - W",
+      "Q = W"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "41.8°",
+      "48.6°",
+      "30°",
+      "60°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "35°",
+      "52.5°",
+      "17.5°",
+      "70°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻¹⁹",
+      "1.99×10⁻¹⁹",
+      "6.63×10⁻¹⁹",
+      "3.98×10⁻²⁷"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "2.14V",
+      "4.1V",
+      "3.86V",
+      "1.43V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/4",
+      "ML²/3",
+      "ML²/2",
+      "ML²/12"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "1/2πfC",
+      "R",
+      "2πfL",
+      "√(R²+XL²)"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "wavelength↑",
+      "decreases",
+      "increases",
+      "unchanged"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "0.8",
+      "1.25",
+      "1",
+      "1.67"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁸",
+      "3×10⁶",
+      "3×10¹²",
+      "3×10¹⁰"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "sinθ₁+sinθ₂=n",
+      "n=sinθ",
+      "n₁sinθ₁=n₂sinθ₂",
+      "n₁/n₂=sinθ"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "1/u - 1/v = 1/f",
+      "f/2",
+      "f = u + v",
+      "1/f = 1/u + 1/v"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "Gm/r",
+      "GM/r²",
+      "GMm/r²",
+      "GMm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "tan(angle)",
+      "cos(angle)",
+      "1",
+      "sin(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "62.6",
+      "44.3",
+      "50",
+      "31.3"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
       "±ω²A",
+      "±√3/2·ω²A",
+      "±1/2·ω²A",
       "0"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "0.5N",
+      "2N",
+      "1N",
+      "0.25N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "18V",
+      "180V",
+      "1800V",
+      "18000V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
-      "doubles",
       "halves",
-      "quadruples",
-      "stays same"
+      "constant",
+      "doubles",
+      "quadruples"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = Q + W",
+      "ΔU = Q - W",
+      "Q = W",
+      "ΔU = W - Q"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
+      "60°",
+      "48.6°",
+      "41.8°",
+      "30°"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "41.8°"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "17.5°",
+      "52.5°",
+      "70°",
+      "35°"
     ],
-    "answer": "0.5 N"
+    "answer": "17.5°"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Photon energy λ = 500nm",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "3.98×10⁻²⁷",
+      "1.99×10⁻¹⁹",
+      "3.98×10⁻¹⁹",
+      "6.63×10⁻¹⁹"
     ],
-    "answer": "18000 V"
+    "answer": "3.98×10⁻¹⁹"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "4.1V",
+      "1.43V",
+      "2.14V",
+      "3.86V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/12",
+      "ML²/2",
+      "ML²/4",
+      "ML²/3"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "√(R²+XL²)",
+      "R",
+      "2πfL",
+      "1/2πfC"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "increases",
+      "wavelength↑",
+      "decreases",
+      "unchanged"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1.25",
+      "1",
+      "1.67",
+      "0.8"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁶",
+      "3×10¹²",
+      "3×10¹⁰",
+      "3×10⁸"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "n₁sinθ₁=n₂sinθ₂",
+      "n=sinθ",
+      "sinθ₁+sinθ₂=n",
+      "n₁/n₂=sinθ"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "f/2",
+      "f = u + v",
+      "1/u - 1/v = 1/f",
+      "1/f = 1/u + 1/v"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GM/r²",
+      "Gm/r",
+      "GMm/r²",
+      "GMm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "1",
+      "cos(angle)",
+      "sin(angle)",
+      "tan(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "31.3",
+      "62.6",
+      "50",
+      "44.3"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "±1/2·ω²A",
+      "±√3/2·ω²A",
+      "0",
+      "±ω²A"
+    ],
+    "answer": "±√3/2·ω²A"
+  },
+  {
+    "question": "Force on 2A current in 0.5T over 0.5m",
+    "options": [
+      "1N",
+      "2N",
+      "0.5N",
+      "0.25N"
+    ],
+    "answer": "0.5N"
+  },
+  {
+    "question": "Potential at 2m from +4μC charge",
+    "options": [
+      "18V",
+      "18000V",
+      "180V",
+      "1800V"
+    ],
+    "answer": "18000V"
+  },
+  {
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
       "doubles",
-      "halves",
       "quadruples",
-      "stays same"
+      "constant",
+      "halves"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "Q = W",
+      "ΔU = Q - W",
+      "ΔU = W - Q",
+      "ΔU = Q + W"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "60°",
+      "48.6°",
+      "41.8°",
+      "30°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "35°",
+      "70°",
+      "52.5°",
+      "17.5°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻¹⁹",
+      "1.99×10⁻¹⁹",
+      "6.63×10⁻¹⁹",
+      "3.98×10⁻²⁷"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "1.43V",
+      "3.86V",
+      "2.14V",
+      "4.1V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/3",
+      "ML²/4",
+      "ML²/2",
+      "ML²/12"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "√(R²+XL²)",
+      "1/2πfC",
+      "2πfL",
+      "R"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "decreases",
+      "wavelength↑",
+      "increases",
+      "unchanged"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1.67",
+      "1",
+      "1.25",
+      "0.8"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁶",
+      "3×10¹²",
+      "3×10¹⁰",
+      "3×10⁸"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "sinθ₁+sinθ₂=n",
+      "n=sinθ",
+      "n₁/n₂=sinθ",
+      "n₁sinθ₁=n₂sinθ₂"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "1/u - 1/v = 1/f",
+      "f/2",
+      "f = u + v",
+      "1/f = 1/u + 1/v"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GMm/r",
+      "GM/r²",
+      "GMm/r²",
+      "Gm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "tan(angle)",
+      "sin(angle)",
+      "1",
+      "cos(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "31.3",
+      "44.3",
+      "50",
+      "62.6"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
       "±ω²A",
+      "±1/2·ω²A",
+      "±√3/2·ω²A",
       "0"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "0.25N",
+      "0.5N",
+      "2N",
+      "1N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "1800V",
+      "180V",
+      "18000V",
+      "18V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
       "doubles",
       "halves",
       "quadruples",
-      "stays same"
+      "constant"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = Q - W",
+      "ΔU = Q + W",
+      "Q = W",
+      "ΔU = W - Q"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
+      "41.8°",
+      "30°",
+      "48.6°",
+      "60°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "17.5°",
+      "35°",
+      "52.5°",
+      "70°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "6.63×10⁻¹⁹",
+      "1.99×10⁻¹⁹",
+      "3.98×10⁻¹⁹",
+      "3.98×10⁻²⁷"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "4.1V",
+      "1.43V",
+      "3.86V",
+      "2.14V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/2",
+      "ML²/4",
+      "ML²/12",
+      "ML²/3"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "√(R²+XL²)",
+      "1/2πfC",
+      "R",
+      "2πfL"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "unchanged",
+      "decreases",
+      "increases",
+      "wavelength↑"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1.67",
+      "1.25",
+      "1",
+      "0.8"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁸",
+      "3×10¹²",
+      "3×10¹⁰",
+      "3×10⁶"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "sinθ₁+sinθ₂=n",
+      "n₁/n₂=sinθ",
+      "n₁sinθ₁=n₂sinθ₂",
+      "n=sinθ"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "1/f = 1/u + 1/v",
+      "1/u - 1/v = 1/f",
+      "f/2",
+      "f = u + v"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GM/r²",
+      "GMm/r",
+      "Gm/r",
+      "GMm/r²"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "cos(angle)",
+      "tan(angle)",
+      "1",
+      "sin(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "62.6",
+      "44.3",
+      "31.3",
+      "50"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "0",
+      "±1/2·ω²A",
+      "±√3/2·ω²A",
+      "±ω²A"
+    ],
+    "answer": "±√3/2·ω²A"
+  },
+  {
+    "question": "Force on 2A current in 0.5T over 0.5m",
+    "options": [
+      "1N",
+      "0.5N",
+      "2N",
+      "0.25N"
+    ],
+    "answer": "0.5N"
+  },
+  {
+    "question": "Potential at 2m from +4μC charge",
+    "options": [
+      "1800V",
+      "18V",
+      "180V",
+      "18000V"
+    ],
+    "answer": "18000V"
+  },
+  {
+    "question": "Ideal gas at constant T, V doubles, P",
+    "options": [
+      "doubles",
+      "constant",
+      "quadruples",
+      "halves"
+    ],
+    "answer": "halves"
+  },
+  {
+    "question": "First law thermodynamics",
+    "options": [
+      "ΔU = Q + W",
+      "Q = W",
+      "ΔU = W - Q",
+      "ΔU = Q - W"
+    ],
+    "answer": "ΔU = Q + W"
+  },
+  {
+    "question": "Critical angle for n = 1.5",
+    "options": [
+      "30°",
+      "48.6°",
+      "60°",
+      "41.8°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "52.5°",
+      "35°",
+      "70°",
+      "17.5°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻²⁷",
+      "6.63×10⁻¹⁹",
+      "1.99×10⁻¹⁹",
+      "3.98×10⁻¹⁹"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "3.86V",
+      "1.43V",
+      "4.1V",
+      "2.14V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/3",
+      "ML²/2",
+      "ML²/12",
+      "ML²/4"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "R",
+      "√(R²+XL²)",
+      "1/2πfC",
+      "2πfL"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "wavelength↑",
+      "increases",
+      "unchanged",
+      "decreases"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "0.8",
+      "1.67",
+      "1",
+      "1.25"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁸",
+      "3×10¹²",
+      "3×10⁶",
+      "3×10¹⁰"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "n₁/n₂=sinθ",
+      "n=sinθ",
+      "sinθ₁+sinθ₂=n",
+      "n₁sinθ₁=n₂sinθ₂"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "f = u + v",
+      "1/f = 1/u + 1/v",
+      "1/u - 1/v = 1/f",
+      "f/2"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "Gm/r",
+      "GM/r²",
+      "GMm/r",
+      "GMm/r²"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "cos(angle)",
+      "tan(angle)",
+      "sin(angle)",
+      "1"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "31.3",
+      "62.6",
+      "50",
+      "44.3"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
       "±ω²A",
-      "0"
+      "0",
+      "±√3/2·ω²A",
+      "±1/2·ω²A"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "±√3/2·ω²A"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Force on 2A current in 0.5T over 0.5m",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "0.5N",
+      "0.25N",
+      "1N",
+      "2N"
     ],
-    "answer": "0.5 N"
+    "answer": "0.5N"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Potential at 2m from +4μC charge",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "1800V",
+      "18V",
+      "180V",
+      "18000V"
     ],
-    "answer": "18000 V"
+    "answer": "18000V"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
       "doubles",
       "halves",
-      "quadruples",
-      "stays same"
+      "constant",
+      "quadruples"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = Q - W",
+      "ΔU = W - Q",
+      "Q = W",
+      "ΔU = Q + W"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
+      "60°",
+      "41.8°",
+      "48.6°",
+      "30°"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "41.8°"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "52.5°",
+      "70°",
+      "17.5°",
+      "35°"
     ],
-    "answer": "0.5 N"
+    "answer": "17.5°"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Photon energy λ = 500nm",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "3.98×10⁻¹⁹",
+      "3.98×10⁻²⁷",
+      "1.99×10⁻¹⁹",
+      "6.63×10⁻¹⁹"
     ],
-    "answer": "18000 V"
+    "answer": "3.98×10⁻¹⁹"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "3.86V",
+      "4.1V",
+      "1.43V",
+      "2.14V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/4",
+      "ML²/12",
+      "ML²/3",
+      "ML²/2"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "1/2πfC",
+      "R",
+      "2πfL",
+      "√(R²+XL²)"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "unchanged",
+      "increases",
+      "wavelength↑",
+      "decreases"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1",
+      "0.8",
+      "1.67",
+      "1.25"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁸",
+      "3×10⁶",
+      "3×10¹²",
+      "3×10¹⁰"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "sinθ₁+sinθ₂=n",
+      "n₁sinθ₁=n₂sinθ₂",
+      "n=sinθ",
+      "n₁/n₂=sinθ"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "f/2",
+      "1/f = 1/u + 1/v",
+      "f = u + v",
+      "1/u - 1/v = 1/f"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GMm/r²",
+      "GMm/r",
+      "GM/r²",
+      "Gm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "cos(angle)",
+      "tan(angle)",
+      "sin(angle)",
+      "1"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "50",
+      "44.3",
+      "31.3",
+      "62.6"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "±√3/2·ω²A",
+      "0",
+      "±1/2·ω²A",
+      "±ω²A"
+    ],
+    "answer": "±√3/2·ω²A"
+  },
+  {
+    "question": "Force on 2A current in 0.5T over 0.5m",
+    "options": [
+      "2N",
+      "0.5N",
+      "0.25N",
+      "1N"
+    ],
+    "answer": "0.5N"
+  },
+  {
+    "question": "Potential at 2m from +4μC charge",
+    "options": [
+      "1800V",
+      "18000V",
+      "180V",
+      "18V"
+    ],
+    "answer": "18000V"
+  },
+  {
+    "question": "Ideal gas at constant T, V doubles, P",
+    "options": [
+      "doubles",
+      "constant",
+      "halves",
+      "quadruples"
+    ],
+    "answer": "halves"
+  },
+  {
+    "question": "First law thermodynamics",
+    "options": [
+      "Q = W",
+      "ΔU = W - Q",
+      "ΔU = Q + W",
+      "ΔU = Q - W"
+    ],
+    "answer": "ΔU = Q + W"
+  },
+  {
+    "question": "Critical angle for n = 1.5",
+    "options": [
+      "41.8°",
+      "48.6°",
+      "60°",
+      "30°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "52.5°",
+      "35°",
+      "17.5°",
+      "70°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻²⁷",
+      "3.98×10⁻¹⁹",
+      "6.63×10⁻¹⁹",
+      "1.99×10⁻¹⁹"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "4.1V",
+      "3.86V",
+      "1.43V",
+      "2.14V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/2",
+      "ML²/12",
+      "ML²/3",
+      "ML²/4"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "2πfL",
+      "√(R²+XL²)",
+      "R",
+      "1/2πfC"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "increases",
+      "unchanged",
+      "wavelength↑",
+      "decreases"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "0.8",
+      "1",
+      "1.25",
+      "1.67"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10⁶",
+      "3×10¹⁰",
+      "3×10¹²",
+      "3×10⁸"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "n=sinθ",
+      "n₁sinθ₁=n₂sinθ₂",
+      "sinθ₁+sinθ₂=n",
+      "n₁/n₂=sinθ"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "1/f = 1/u + 1/v",
+      "1/u - 1/v = 1/f",
+      "f/2",
+      "f = u + v"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "Gm/r",
+      "GMm/r",
+      "GMm/r²",
+      "GM/r²"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "1",
+      "sin(angle)",
+      "cos(angle)",
+      "tan(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "50",
+      "62.6",
+      "31.3",
+      "44.3"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "±1/2·ω²A",
+      "0",
+      "±√3/2·ω²A",
+      "±ω²A"
+    ],
+    "answer": "±√3/2·ω²A"
+  },
+  {
+    "question": "Force on 2A current in 0.5T over 0.5m",
+    "options": [
+      "0.25N",
+      "2N",
+      "0.5N",
+      "1N"
+    ],
+    "answer": "0.5N"
+  },
+  {
+    "question": "Potential at 2m from +4μC charge",
+    "options": [
+      "180V",
+      "18V",
+      "18000V",
+      "1800V"
+    ],
+    "answer": "18000V"
+  },
+  {
+    "question": "Ideal gas at constant T, V doubles, P",
+    "options": [
+      "doubles",
+      "quadruples",
+      "halves",
+      "constant"
+    ],
+    "answer": "halves"
+  },
+  {
+    "question": "First law thermodynamics",
+    "options": [
+      "ΔU = Q - W",
+      "ΔU = W - Q",
+      "Q = W",
+      "ΔU = Q + W"
+    ],
+    "answer": "ΔU = Q + W"
+  },
+  {
+    "question": "Critical angle for n = 1.5",
+    "options": [
+      "48.6°",
+      "41.8°",
+      "60°",
+      "30°"
+    ],
+    "answer": "41.8°"
+  },
+  {
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
+    "options": [
+      "52.5°",
+      "70°",
+      "35°",
+      "17.5°"
+    ],
+    "answer": "17.5°"
+  },
+  {
+    "question": "Photon energy λ = 500nm",
+    "options": [
+      "3.98×10⁻²⁷",
+      "1.99×10⁻¹⁹",
+      "6.63×10⁻¹⁹",
+      "3.98×10⁻¹⁹"
+    ],
+    "answer": "3.98×10⁻¹⁹"
+  },
+  {
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
+    "options": [
+      "1.43V",
+      "2.14V",
+      "4.1V",
+      "3.86V"
+    ],
+    "answer": "1.43V"
+  },
+  {
+    "question": "Moment of inertia rod about centre",
+    "options": [
+      "ML²/2",
+      "ML²/3",
+      "ML²/12",
+      "ML²/4"
+    ],
+    "answer": "ML²/12"
+  },
+  {
+    "question": "AC capacitor impedance",
+    "options": [
+      "1/2πfC",
+      "√(R²+XL²)",
+      "2πfL",
+      "R"
+    ],
+    "answer": "1/2πfC"
+  },
+  {
+    "question": "Doppler: observer approaches, frequency",
+    "options": [
+      "decreases",
+      "wavelength↑",
+      "unchanged",
+      "increases"
+    ],
+    "answer": "increases"
+  },
+  {
+    "question": "Lorentz γ for v = 0.6c",
+    "options": [
+      "1",
+      "1.25",
+      "1.67",
+      "0.8"
+    ],
+    "answer": "1.25"
+  },
+  {
+    "question": "Speed of light",
+    "options": [
+      "3×10¹⁰",
+      "3×10⁸",
+      "3×10⁶",
+      "3×10¹²"
+    ],
+    "answer": "3×10⁸"
+  },
+  {
+    "question": "Snell's law is",
+    "options": [
+      "n₁/n₂=sinθ",
+      "n₁sinθ₁=n₂sinθ₂",
+      "n=sinθ",
+      "sinθ₁+sinθ₂=n"
+    ],
+    "answer": "n₁sinθ₁=n₂sinθ₂"
+  },
+  {
+    "question": "Focal length mirror formula",
+    "options": [
+      "1/u - 1/v = 1/f",
+      "1/f = 1/u + 1/v",
+      "f/2",
+      "f = u + v"
+    ],
+    "answer": "1/f = 1/u + 1/v"
+  },
+  {
+    "question": "Gravitational force between masses",
+    "options": [
+      "GMm/r²",
+      "GM/r²",
+      "Gm/r",
+      "GMm/r"
+    ],
+    "answer": "GMm/r²"
+  },
+  {
+    "question": "Work is force × distance ×",
+    "options": [
+      "1",
+      "tan(angle)",
+      "cos(angle)",
+      "sin(angle)"
+    ],
+    "answer": "cos(angle)"
+  },
+  {
+    "question": "Projectile at 45°, range 100m, initial velocity",
+    "options": [
+      "62.6",
+      "50",
+      "31.3",
+      "44.3"
+    ],
+    "answer": "31.3"
+  },
+  {
+    "question": "SHM: acceleration when v = v_max/2",
+    "options": [
+      "0",
+      "±1/2·ω²A",
+      "±√3/2·ω²A",
+      "±ω²A"
+    ],
+    "answer": "±√3/2·ω²A"
+  },
+  {
+    "question": "Force on 2A current in 0.5T over 0.5m",
+    "options": [
+      "1N",
+      "0.25N",
+      "0.5N",
+      "2N"
+    ],
+    "answer": "0.5N"
+  },
+  {
+    "question": "Potential at 2m from +4μC charge",
+    "options": [
+      "1800V",
+      "180V",
+      "18V",
+      "18000V"
+    ],
+    "answer": "18000V"
+  },
+  {
+    "question": "Ideal gas at constant T, V doubles, P",
     "options": [
       "doubles",
       "halves",
-      "quadruples",
-      "stays same"
+      "constant",
+      "quadruples"
     ],
     "answer": "halves"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "First law thermodynamics",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ΔU = Q + W",
+      "Q = W",
+      "ΔU = Q - W",
+      "ΔU = W - Q"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ΔU = Q + W"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "Critical angle for n = 1.5",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
+      "41.8°",
+      "30°",
+      "48.6°",
+      "60°"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "41.8°"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Diffraction grating λ = 600nm, d = 2μm, θ",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "17.5°",
+      "70°",
+      "52.5°",
+      "35°"
     ],
-    "answer": "0.5 N"
+    "answer": "17.5°"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Photon energy λ = 500nm",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "6.63×10⁻¹⁹",
+      "3.98×10⁻²⁷",
+      "3.98×10⁻¹⁹",
+      "1.99×10⁻¹⁹"
     ],
-    "answer": "18000 V"
+    "answer": "3.98×10⁻¹⁹"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Work function 2.3 eV, λ = 300nm, stopping potential",
     "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
+      "2.14V",
+      "3.86V",
+      "4.1V",
+      "1.43V"
     ],
-    "answer": "halves"
+    "answer": "1.43V"
   },
   {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
+    "question": "Moment of inertia rod about centre",
     "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
+      "ML²/12",
+      "ML²/4",
+      "ML²/2",
+      "ML²/3"
     ],
-    "answer": "31.3 m/s"
+    "answer": "ML²/12"
   },
   {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
+    "question": "AC capacitor impedance",
     "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
+      "2πfL",
+      "√(R²+XL²)",
+      "1/2πfC",
+      "R"
     ],
-    "answer": "±(√3/2)ω²A"
+    "answer": "1/2πfC"
   },
   {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
+    "question": "Doppler: observer approaches, frequency",
     "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
+      "increases",
+      "wavelength↑",
+      "decreases",
+      "unchanged"
     ],
-    "answer": "0.5 N"
+    "answer": "increases"
   },
   {
-    "question": "Find the electric potential at 2m from a +4μC charge",
+    "question": "Lorentz γ for v = 0.6c",
     "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
+      "1.25",
+      "0.8",
+      "1.67",
+      "1"
     ],
-    "answer": "18000 V"
+    "answer": "1.25"
   },
   {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
+    "question": "Speed of light",
     "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
+      "3×10⁸",
+      "3×10¹²",
+      "3×10¹⁰",
+      "3×10⁶"
     ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
-  },
-  {
-    "question": "A projectile is launched at 45°. If range = 100m, find initial velocity.",
-    "options": [
-      "31.3 m/s",
-      "44.3 m/s",
-      "50 m/s",
-      "62.6 m/s"
-    ],
-    "answer": "31.3 m/s"
-  },
-  {
-    "question": "For SHM, x = A sin(ωt). Find acceleration when v = v_max/2",
-    "options": [
-      "±(√3/2)ω²A",
-      "±(1/2)ω²A",
-      "±ω²A",
-      "0"
-    ],
-    "answer": "±(√3/2)ω²A"
-  },
-  {
-    "question": "What is the magnetic force on a 2A current in a 0.5T field over 0.5m?",
-    "options": [
-      "0.25 N",
-      "0.5 N",
-      "1 N",
-      "2 N"
-    ],
-    "answer": "0.5 N"
-  },
-  {
-    "question": "Find the electric potential at 2m from a +4μC charge",
-    "options": [
-      "18000 V",
-      "18 V",
-      "180 V",
-      "1800 V"
-    ],
-    "answer": "18000 V"
-  },
-  {
-    "question": "For an ideal gas, PV = nRT. At constant T, if V doubles, P",
-    "options": [
-      "doubles",
-      "halves",
-      "quadruples",
-      "stays same"
-    ],
-    "answer": "halves"
+    "answer": "3×10⁸"
   }
 ]

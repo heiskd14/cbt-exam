@@ -3,9 +3,9 @@
     "question": "Maita ta gida ta nuna wa, itan nawa?",
     "options": [
       "bukatu",
-      "gida",
       "miji",
-      "jiya"
+      "jiya",
+      "gida"
     ],
     "answer": "gida"
   },
@@ -14,40 +14,190 @@
     "options": [
       "je",
       "tafi",
-      "zuwa",
-      "nema"
+      "nema",
+      "zuwa"
     ],
     "answer": "je"
   },
   {
-    "question": "Abin da ake sani a asali ne:",
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "rijiya",
+      "kasuwa",
+      "gida",
+      "gari"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
     "options": [
       "sauni",
-      "hanya",
       "magani",
-      "labari"
+      "labari",
+      "hanya"
     ],
     "answer": "labari"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "hello",
+      "thank you",
+      "goodbye",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
     "options": [
       "jiya",
       "jiya",
-      "gida",
-      "kudi"
+      "kudi",
+      "gida"
     ],
     "answer": "kudi"
   },
   {
     "question": "Yadda ake cewa 'mother' a Hausa?",
     "options": [
-      "mama",
+      "mata",
       "uwaye",
-      "babbar mache",
-      "mata"
+      "mama",
+      "babbar mache"
     ],
     "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "gida",
+      "yin",
+      "je",
+      "yi"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "simple",
+      "important",
+      "old",
+      "modern"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "gida",
+      "jiya",
+      "ba sannu",
+      "sannu"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "hadida",
+      "bukatuwa",
+      "sani",
+      "sha'awa"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "community",
+      "all factors",
+      "tradition",
+      "honesty"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "magani",
+      "kudi",
+      "sani",
+      "karatu"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "malam",
+      "karantewa",
+      "kakaree",
+      "ilimi"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiyar jiya",
+      "jiya a safiya",
+      "jiya",
+      "gida"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Nilo-Saharan",
+      "Khoisan",
+      "Niger-Congo",
+      "Afro-Asiatic"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "unimportant",
+      "very important",
+      "modern",
+      "secondary"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "trans-Saharan",
+      "maritime",
+      "local",
+      "regional"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "adds prefix",
+      "no change",
+      "changes ending",
+      "both methods"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "strings",
+      "drums",
+      "wind",
+      "all instruments"
+    ],
+    "answer": "drums"
   },
   {
     "question": "Maita ta gida ta nuna wa, itan nawa?",
@@ -62,15 +212,225 @@
   {
     "question": "Daidaita kalma: 'Na ___ garin'",
     "options": [
-      "je",
-      "tafi",
+      "nema",
       "zuwa",
+      "tafi",
+      "je"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "kasuwa",
+      "gida",
+      "rijiya",
+      "gari"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "sauni",
+      "magani",
+      "hanya",
+      "labari"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "goodbye",
+      "hello",
+      "thank you",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "jiya",
+      "kudi",
+      "jiya",
+      "gida"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
+      "babbar mache",
+      "mata",
+      "mama",
+      "uwaye"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "je",
+      "gida",
+      "yin",
+      "yi"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "old",
+      "modern",
+      "simple",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "sannu",
+      "gida",
+      "jiya",
+      "ba sannu"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "hadida",
+      "sani",
+      "bukatuwa",
+      "sha'awa"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "honesty",
+      "tradition",
+      "all factors",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "magani",
+      "kudi",
+      "karatu",
+      "sani"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "ilimi",
+      "karantewa",
+      "malam",
+      "kakaree"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiya",
+      "jiyar jiya",
+      "gida",
+      "jiya a safiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Khoisan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "modern",
+      "very important",
+      "secondary",
+      "unimportant"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "trans-Saharan",
+      "regional",
+      "local",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "no change",
+      "adds prefix",
+      "changes ending",
+      "both methods"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "wind",
+      "all instruments",
+      "drums",
+      "strings"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "gida",
+      "bukatu",
+      "miji",
+      "jiya"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "zuwa",
+      "tafi",
+      "je",
       "nema"
     ],
     "answer": "je"
   },
   {
-    "question": "Abin da ake sani a asali ne:",
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "kasuwa",
+      "rijiya",
+      "gida",
+      "gari"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
     "options": [
       "sauni",
       "hanya",
@@ -80,12 +440,1022 @@
     "answer": "labari"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "goodbye",
+      "thank you",
+      "hello",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "kudi",
+      "gida",
+      "jiya",
+      "jiya"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
+      "mama",
+      "babbar mache",
+      "mata",
+      "uwaye"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "yin",
+      "gida",
+      "yi",
+      "je"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "modern",
+      "important",
+      "old",
+      "simple"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "gida",
+      "ba sannu",
+      "jiya",
+      "sannu"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "bukatuwa",
+      "sani",
+      "hadida",
+      "sha'awa"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "tradition",
+      "community",
+      "honesty",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "kudi",
+      "magani",
+      "sani",
+      "karatu"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "malam",
+      "ilimi",
+      "karantewa",
+      "kakaree"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "gida",
+      "jiyar jiya",
+      "jiya",
+      "jiya a safiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "secondary",
+      "unimportant",
+      "very important",
+      "modern"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "regional",
+      "trans-Saharan",
+      "local",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "adds prefix",
+      "both methods",
+      "changes ending",
+      "no change"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "drums",
+      "wind",
+      "strings",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "gida",
+      "bukatu",
+      "jiya",
+      "miji"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "nema",
+      "je",
+      "zuwa",
+      "tafi"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "rijiya",
+      "kasuwa",
+      "gari",
+      "gida"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "sauni",
+      "labari",
+      "hanya",
+      "magani"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "goodbye",
+      "welcome",
+      "hello",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
     "options": [
       "jiya",
+      "gida",
+      "jiya",
+      "kudi"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
+      "mama",
+      "mata",
+      "uwaye",
+      "babbar mache"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "je",
+      "gida",
+      "yi",
+      "yin"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "old",
+      "important",
+      "modern",
+      "simple"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "jiya",
+      "ba sannu",
+      "sannu",
+      "gida"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "sha'awa",
+      "sani",
+      "bukatuwa",
+      "hadida"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "all factors",
+      "community",
+      "tradition",
+      "honesty"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "magani",
+      "sani",
+      "kudi",
+      "karatu"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "ilimi",
+      "kakaree",
+      "karantewa",
+      "malam"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "gida",
+      "jiya a safiya",
+      "jiyar jiya",
+      "jiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Khoisan",
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Afro-Asiatic"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "secondary",
+      "very important",
+      "unimportant",
+      "modern"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "trans-Saharan",
+      "maritime",
+      "regional",
+      "local"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "changes ending",
+      "both methods",
+      "no change",
+      "adds prefix"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "drums",
+      "strings",
+      "all instruments",
+      "wind"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "miji",
       "jiya",
       "gida",
+      "bukatu"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "tafi",
+      "nema",
+      "je",
+      "zuwa"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "gida",
+      "kasuwa",
+      "rijiya",
+      "gari"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "hanya",
+      "magani",
+      "labari",
+      "sauni"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "hello",
+      "goodbye",
+      "welcome",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "jiya",
+      "gida",
+      "jiya",
       "kudi"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
+      "babbar mache",
+      "mama",
+      "uwaye",
+      "mata"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "yi",
+      "gida",
+      "je",
+      "yin"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "simple",
+      "modern",
+      "old",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "gida",
+      "ba sannu",
+      "sannu",
+      "jiya"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "sha'awa",
+      "bukatuwa",
+      "sani",
+      "hadida"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "community",
+      "tradition",
+      "all factors",
+      "honesty"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "magani",
+      "kudi",
+      "karatu",
+      "sani"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "ilimi",
+      "kakaree",
+      "karantewa",
+      "malam"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiyar jiya",
+      "gida",
+      "jiya a safiya",
+      "jiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Khoisan",
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Afro-Asiatic"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "modern",
+      "unimportant",
+      "secondary",
+      "very important"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "regional",
+      "trans-Saharan",
+      "local",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "adds prefix",
+      "changes ending",
+      "no change",
+      "both methods"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "drums",
+      "strings",
+      "wind",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "gida",
+      "jiya",
+      "miji",
+      "bukatu"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "zuwa",
+      "je",
+      "tafi",
+      "nema"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "gida",
+      "rijiya",
+      "gari",
+      "kasuwa"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "labari",
+      "hanya",
+      "sauni",
+      "magani"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "welcome",
+      "goodbye",
+      "thank you",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "jiya",
+      "gida",
+      "jiya",
+      "kudi"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
+      "babbar mache",
+      "mama",
+      "uwaye",
+      "mata"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "yin",
+      "gida",
+      "je",
+      "yi"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "old",
+      "simple",
+      "modern",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "jiya",
+      "sannu",
+      "gida",
+      "ba sannu"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "sani",
+      "sha'awa",
+      "hadida",
+      "bukatuwa"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "all factors",
+      "tradition",
+      "honesty",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "magani",
+      "sani",
+      "karatu",
+      "kudi"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "karantewa",
+      "ilimi",
+      "kakaree",
+      "malam"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiya",
+      "jiya a safiya",
+      "jiyar jiya",
+      "gida"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Khoisan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "very important",
+      "unimportant",
+      "modern",
+      "secondary"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "regional",
+      "maritime",
+      "trans-Saharan",
+      "local"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "adds prefix",
+      "both methods",
+      "no change",
+      "changes ending"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "all instruments",
+      "strings",
+      "drums",
+      "wind"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "bukatu",
+      "jiya",
+      "miji",
+      "gida"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "tafi",
+      "nema",
+      "zuwa",
+      "je"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "gida",
+      "kasuwa",
+      "gari",
+      "rijiya"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "labari",
+      "hanya",
+      "sauni",
+      "magani"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "thank you",
+      "hello",
+      "welcome",
+      "goodbye"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "jiya",
+      "gida",
+      "kudi",
+      "jiya"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
+      "uwaye",
+      "babbar mache",
+      "mama",
+      "mata"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "je",
+      "yi",
+      "yin",
+      "gida"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "modern",
+      "important",
+      "old",
+      "simple"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "jiya",
+      "sannu",
+      "ba sannu",
+      "gida"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "bukatuwa",
+      "sha'awa",
+      "hadida",
+      "sani"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "community",
+      "tradition",
+      "honesty",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "kudi",
+      "magani",
+      "sani",
+      "karatu"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "kakaree",
+      "ilimi",
+      "karantewa",
+      "malam"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiya a safiya",
+      "gida",
+      "jiyar jiya",
+      "jiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Khoisan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "modern",
+      "unimportant",
+      "secondary",
+      "very important"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "trans-Saharan",
+      "local",
+      "regional",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "adds prefix",
+      "changes ending",
+      "both methods",
+      "no change"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "drums",
+      "strings",
+      "wind",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "gida",
+      "bukatu",
+      "miji",
+      "jiya"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "tafi",
+      "je",
+      "nema",
+      "zuwa"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "kasuwa",
+      "gida",
+      "gari",
+      "rijiya"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "sauni",
+      "hanya",
+      "labari",
+      "magani"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "goodbye",
+      "hello",
+      "welcome",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "kudi",
+      "jiya",
+      "jiya",
+      "gida"
     ],
     "answer": "kudi"
   },
@@ -100,11 +1470,541 @@
     "answer": "mama"
   },
   {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "gida",
+      "yi",
+      "yin",
+      "je"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "modern",
+      "important",
+      "old",
+      "simple"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "sannu",
+      "ba sannu",
+      "jiya",
+      "gida"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "sani",
+      "bukatuwa",
+      "sha'awa",
+      "hadida"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "tradition",
+      "all factors",
+      "community",
+      "honesty"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "sani",
+      "kudi",
+      "karatu",
+      "magani"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "karantewa",
+      "malam",
+      "ilimi",
+      "kakaree"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "gida",
+      "jiya a safiya",
+      "jiyar jiya",
+      "jiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "unimportant",
+      "very important",
+      "secondary",
+      "modern"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "local",
+      "trans-Saharan",
+      "regional",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "no change",
+      "adds prefix",
+      "changes ending",
+      "both methods"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "drums",
+      "all instruments",
+      "wind",
+      "strings"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "gida",
+      "bukatu",
+      "jiya",
+      "miji"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "tafi",
+      "je",
+      "zuwa",
+      "nema"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "kasuwa",
+      "rijiya",
+      "gari",
+      "gida"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "sauni",
+      "labari",
+      "magani",
+      "hanya"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "goodbye",
+      "thank you",
+      "hello",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "gida",
+      "kudi",
+      "jiya",
+      "jiya"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
+      "babbar mache",
+      "mata",
+      "mama",
+      "uwaye"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "yi",
+      "yin",
+      "je",
+      "gida"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "important",
+      "simple",
+      "modern",
+      "old"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "sannu",
+      "jiya",
+      "gida",
+      "ba sannu"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "sani",
+      "sha'awa",
+      "bukatuwa",
+      "hadida"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "community",
+      "all factors",
+      "honesty",
+      "tradition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "kudi",
+      "magani",
+      "sani",
+      "karatu"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "karantewa",
+      "ilimi",
+      "malam",
+      "kakaree"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiya a safiya",
+      "jiyar jiya",
+      "jiya",
+      "gida"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Khoisan",
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "secondary",
+      "unimportant",
+      "very important",
+      "modern"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "local",
+      "regional",
+      "trans-Saharan",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "adds prefix",
+      "both methods",
+      "no change",
+      "changes ending"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "wind",
+      "drums",
+      "strings",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "gida",
+      "miji",
+      "jiya",
+      "bukatu"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "tafi",
+      "nema",
+      "zuwa",
+      "je"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "gida",
+      "gari",
+      "kasuwa",
+      "rijiya"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "magani",
+      "sauni",
+      "hanya",
+      "labari"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "goodbye",
+      "thank you",
+      "hello",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "kudi",
+      "jiya",
+      "gida",
+      "jiya"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
+      "mama",
+      "uwaye",
+      "babbar mache",
+      "mata"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "yi",
+      "gida",
+      "je",
+      "yin"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "old",
+      "important",
+      "simple",
+      "modern"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "gida",
+      "ba sannu",
+      "jiya",
+      "sannu"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "hadida",
+      "sha'awa",
+      "bukatuwa",
+      "sani"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "community",
+      "tradition",
+      "all factors",
+      "honesty"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "magani",
+      "kudi",
+      "karatu",
+      "sani"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "karantewa",
+      "malam",
+      "ilimi",
+      "kakaree"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiyar jiya",
+      "jiya",
+      "gida",
+      "jiya a safiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Khoisan",
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "modern",
+      "very important",
+      "unimportant",
+      "secondary"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "trans-Saharan",
+      "regional",
+      "local",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "changes ending",
+      "adds prefix",
+      "both methods",
+      "no change"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "all instruments",
+      "strings",
+      "drums",
+      "wind"
+    ],
+    "answer": "drums"
+  },
+  {
     "question": "Maita ta gida ta nuna wa, itan nawa?",
     "options": [
       "bukatu",
-      "gida",
       "miji",
+      "gida",
       "jiya"
     ],
     "answer": "gida"
@@ -114,48 +2014,198 @@
     "options": [
       "je",
       "tafi",
-      "zuwa",
-      "nema"
+      "nema",
+      "zuwa"
     ],
     "answer": "je"
   },
   {
-    "question": "Abin da ake sani a asali ne:",
+    "question": "The Hausa word for 'house' is",
     "options": [
-      "sauni",
+      "kasuwa",
+      "gari",
+      "rijiya",
+      "gida"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
       "hanya",
       "magani",
+      "sauni",
       "labari"
     ],
     "answer": "labari"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
+    "question": "In Hausa, 'Sannu' means",
     "options": [
-      "jiya",
-      "jiya",
+      "thank you",
+      "welcome",
+      "goodbye",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "kudi",
       "gida",
-      "kudi"
+      "jiya",
+      "jiya"
     ],
     "answer": "kudi"
   },
   {
     "question": "Yadda ake cewa 'mother' a Hausa?",
     "options": [
-      "mama",
-      "uwaye",
       "babbar mache",
-      "mata"
+      "mata",
+      "uwaye",
+      "mama"
     ],
     "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "yi",
+      "gida",
+      "yin",
+      "je"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "modern",
+      "old",
+      "simple",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "ba sannu",
+      "gida",
+      "jiya",
+      "sannu"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "bukatuwa",
+      "sani",
+      "sha'awa",
+      "hadida"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "tradition",
+      "honesty",
+      "community",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "magani",
+      "sani",
+      "kudi",
+      "karatu"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "kakaree",
+      "karantewa",
+      "malam",
+      "ilimi"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiya",
+      "jiya a safiya",
+      "jiyar jiya",
+      "gida"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Khoisan",
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "modern",
+      "unimportant",
+      "very important",
+      "secondary"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "regional",
+      "trans-Saharan",
+      "maritime",
+      "local"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "no change",
+      "both methods",
+      "changes ending",
+      "adds prefix"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "wind",
+      "all instruments",
+      "drums",
+      "strings"
+    ],
+    "answer": "drums"
   },
   {
     "question": "Maita ta gida ta nuna wa, itan nawa?",
     "options": [
       "bukatu",
       "gida",
-      "miji",
-      "jiya"
+      "jiya",
+      "miji"
     ],
     "answer": "gida"
   },
@@ -163,28 +2213,248 @@
     "question": "Daidaita kalma: 'Na ___ garin'",
     "options": [
       "je",
-      "tafi",
+      "nema",
       "zuwa",
-      "nema"
+      "tafi"
     ],
     "answer": "je"
   },
   {
-    "question": "Abin da ake sani a asali ne:",
+    "question": "The Hausa word for 'house' is",
     "options": [
-      "sauni",
-      "hanya",
+      "kasuwa",
+      "rijiya",
+      "gida",
+      "gari"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "labari",
       "magani",
-      "labari"
+      "hanya",
+      "sauni"
     ],
     "answer": "labari"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
+    "question": "In Hausa, 'Sannu' means",
     "options": [
-      "jiya",
-      "jiya",
+      "goodbye",
+      "hello",
+      "welcome",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
       "gida",
+      "jiya",
+      "kudi",
+      "jiya"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
+      "babbar mache",
+      "mama",
+      "uwaye",
+      "mata"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "yin",
+      "je",
+      "gida",
+      "yi"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "old",
+      "important",
+      "simple",
+      "modern"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "ba sannu",
+      "sannu",
+      "jiya",
+      "gida"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "hadida",
+      "sha'awa",
+      "bukatuwa",
+      "sani"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "tradition",
+      "community",
+      "all factors",
+      "honesty"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "sani",
+      "kudi",
+      "magani",
+      "karatu"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "kakaree",
+      "karantewa",
+      "malam",
+      "ilimi"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "gida",
+      "jiya",
+      "jiya a safiya",
+      "jiyar jiya"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan",
+      "Niger-Congo"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "very important",
+      "modern",
+      "unimportant",
+      "secondary"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "maritime",
+      "local",
+      "regional",
+      "trans-Saharan"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "adds prefix",
+      "changes ending",
+      "no change",
+      "both methods"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "wind",
+      "drums",
+      "strings",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "miji",
+      "jiya",
+      "bukatu",
+      "gida"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "nema",
+      "zuwa",
+      "tafi",
+      "je"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "rijiya",
+      "gari",
+      "kasuwa",
+      "gida"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "magani",
+      "hanya",
+      "labari",
+      "sauni"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "goodbye",
+      "hello",
+      "thank you",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "gida",
+      "jiya",
+      "jiya",
       "kudi"
     ],
     "answer": "kudi"
@@ -193,18 +2463,348 @@
     "question": "Yadda ake cewa 'mother' a Hausa?",
     "options": [
       "mama",
+      "mata",
+      "babbar mache",
+      "uwaye"
+    ],
+    "answer": "mama"
+  },
+  {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "yin",
+      "je",
+      "gida",
+      "yi"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "old",
+      "simple",
+      "modern",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "gida",
+      "ba sannu",
+      "jiya",
+      "sannu"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "bukatuwa",
+      "hadida",
+      "sani",
+      "sha'awa"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "tradition",
+      "all factors",
+      "honesty",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "kudi",
+      "magani",
+      "sani",
+      "karatu"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "malam",
+      "kakaree",
+      "ilimi",
+      "karantewa"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiya",
+      "jiyar jiya",
+      "jiya a safiya",
+      "gida"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Afro-Asiatic",
+      "Khoisan",
+      "Nilo-Saharan",
+      "Niger-Congo"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "very important",
+      "secondary",
+      "modern",
+      "unimportant"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "local",
+      "maritime",
+      "regional",
+      "trans-Saharan"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "no change",
+      "both methods",
+      "changes ending",
+      "adds prefix"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "wind",
+      "all instruments",
+      "drums",
+      "strings"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "options": [
+      "bukatu",
+      "miji",
+      "jiya",
+      "gida"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Daidaita kalma: 'Na ___ garin'",
+    "options": [
+      "tafi",
+      "je",
+      "nema",
+      "zuwa"
+    ],
+    "answer": "je"
+  },
+  {
+    "question": "The Hausa word for 'house' is",
+    "options": [
+      "kasuwa",
+      "rijiya",
+      "gari",
+      "gida"
+    ],
+    "answer": "gida"
+  },
+  {
+    "question": "Abin da ake sani a asali ne",
+    "options": [
+      "hanya",
+      "labari",
+      "magani",
+      "sauni"
+    ],
+    "answer": "labari"
+  },
+  {
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "thank you",
+      "welcome",
+      "goodbye",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
+    "options": [
+      "gida",
+      "kudi",
+      "jiya",
+      "jiya"
+    ],
+    "answer": "kudi"
+  },
+  {
+    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "options": [
       "uwaye",
+      "mama",
       "babbar mache",
       "mata"
     ],
     "answer": "mama"
   },
   {
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "options": [
+      "gida",
+      "yin",
+      "yi",
+      "je"
+    ],
+    "answer": "yi"
+  },
+  {
+    "question": "Hausa greetings are",
+    "options": [
+      "old",
+      "simple",
+      "modern",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "options": [
+      "ba sannu",
+      "sannu",
+      "gida",
+      "jiya"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "sha'awa",
+      "sani",
+      "hadida",
+      "bukatuwa"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "honesty",
+      "tradition",
+      "all factors",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
+      "magani",
+      "sani",
+      "karatu",
+      "kudi"
+    ],
+    "answer": "sani"
+  },
+  {
+    "question": "Kalma ta 'teacher' a Hausa",
+    "options": [
+      "kakaree",
+      "malam",
+      "karantewa",
+      "ilimi"
+    ],
+    "answer": "malam"
+  },
+  {
+    "question": "Yadda ake nuna jiya",
+    "options": [
+      "jiyar jiya",
+      "jiya",
+      "jiya a safiya",
+      "gida"
+    ],
+    "answer": "jiya"
+  },
+  {
+    "question": "The Hausa language belongs to",
+    "options": [
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Khoisan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "In Hausa, family is",
+    "options": [
+      "modern",
+      "secondary",
+      "unimportant",
+      "very important"
+    ],
+    "answer": "very important"
+  },
+  {
+    "question": "Hausa trade was historically",
+    "options": [
+      "local",
+      "trans-Saharan",
+      "maritime",
+      "regional"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "The plural form in Hausa",
+    "options": [
+      "both methods",
+      "changes ending",
+      "no change",
+      "adds prefix"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music traditionally uses",
+    "options": [
+      "strings",
+      "wind",
+      "all instruments",
+      "drums"
+    ],
+    "answer": "drums"
+  },
+  {
     "question": "Maita ta gida ta nuna wa, itan nawa?",
     "options": [
-      "bukatu",
-      "gida",
       "miji",
+      "gida",
+      "bukatu",
       "jiya"
     ],
     "answer": "gida"
@@ -212,80 +2812,50 @@
   {
     "question": "Daidaita kalma: 'Na ___ garin'",
     "options": [
-      "je",
       "tafi",
+      "je",
       "zuwa",
       "nema"
     ],
     "answer": "je"
   },
   {
-    "question": "Abin da ake sani a asali ne:",
+    "question": "The Hausa word for 'house' is",
     "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
+      "gari",
+      "rijiya",
+      "kasuwa",
+      "gida"
     ],
     "answer": "gida"
   },
   {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
+    "question": "Abin da ake sani a asali ne",
     "options": [
       "sauni",
+      "labari",
       "hanya",
-      "magani",
-      "labari"
+      "magani"
     ],
     "answer": "labari"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
+    "question": "In Hausa, 'Sannu' means",
+    "options": [
+      "welcome",
+      "goodbye",
+      "thank you",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Suna da mutane biyu: Sani da Saniya",
     "options": [
       "jiya",
       "jiya",
-      "gida",
-      "kudi"
+      "kudi",
+      "gida"
     ],
     "answer": "kudi"
   },
@@ -293,2710 +2863,140 @@
     "question": "Yadda ake cewa 'mother' a Hausa?",
     "options": [
       "mama",
-      "uwaye",
       "babbar mache",
-      "mata"
+      "mata",
+      "uwaye"
     ],
     "answer": "mama"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "Daidaita: 'Jiya ne ___ aiki'",
     "options": [
-      "bukatu",
+      "yi",
       "gida",
-      "miji",
-      "jiya"
+      "yin",
+      "je"
     ],
-    "answer": "gida"
+    "answer": "yi"
   },
   {
-    "question": "Daidaita kalma: 'Na ___ garin'",
+    "question": "Hausa greetings are",
     "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
+      "old",
+      "simple",
+      "modern",
+      "important"
     ],
-    "answer": "je"
+    "answer": "important"
   },
   {
-    "question": "Abin da ake sani a asali ne:",
+    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
     "options": [
-      "sauni",
-      "hanya",
+      "gida",
+      "jiya",
+      "sannu",
+      "ba sannu"
+    ],
+    "answer": "sannu"
+  },
+  {
+    "question": "Hausa kalmar sha'awa ta nuna",
+    "options": [
+      "sha'awa",
+      "bukatuwa",
+      "hadida",
+      "sani"
+    ],
+    "answer": "bukatuwa"
+  },
+  {
+    "question": "Hausa culture values",
+    "options": [
+      "community",
+      "tradition",
+      "honesty",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Abin da tsohon jaji ka nuna ne",
+    "options": [
       "magani",
-      "labari"
+      "kudi",
+      "sani",
+      "karatu"
     ],
-    "answer": "labari"
+    "answer": "sani"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
+    "question": "Kalma ta 'teacher' a Hausa",
     "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
+      "malam",
+      "kakaree",
+      "ilimi",
+      "karantewa"
     ],
-    "answer": "gida"
+    "answer": "malam"
   },
   {
-    "question": "Daidaita kalma: 'Na ___ garin'",
+    "question": "Yadda ake nuna jiya",
     "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "Abin da ake sani a asali ne:",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
-    "options": [
+      "jiyar jiya",
+      "jiya a safiya",
       "jiya",
-      "jiya",
-      "gida",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
+      "gida"
     ],
-    "answer": "mama"
+    "answer": "jiya"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "The Hausa language belongs to",
     "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
+      "Khoisan",
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Niger-Congo"
     ],
-    "answer": "gida"
+    "answer": "Afro-Asiatic"
   },
   {
-    "question": "Daidaita kalma: 'Na ___ garin'",
+    "question": "In Hausa, family is",
     "options": [
-      "je",
-      "tafi",
-      "zuwa",
-      "nema"
+      "modern",
+      "very important",
+      "secondary",
+      "unimportant"
     ],
-    "answer": "je"
+    "answer": "very important"
   },
   {
-    "question": "Abin da ake sani a asali ne:",
+    "question": "Hausa trade was historically",
     "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
+      "trans-Saharan",
+      "maritime",
+      "local",
+      "regional"
     ],
-    "answer": "labari"
+    "answer": "trans-Saharan"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya. Saniya ba ta da...",
+    "question": "The plural form in Hausa",
     "options": [
-      "jiya",
-      "jiya",
-      "gida",
-      "kudi"
+      "adds prefix",
+      "both methods",
+      "no change",
+      "changes ending"
     ],
-    "answer": "kudi"
+    "answer": "both methods"
   },
   {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "question": "Hausa music traditionally uses",
     "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
+      "drums",
+      "all instruments",
+      "strings",
+      "wind"
     ],
-    "answer": "mama"
+    "answer": "drums"
   }
 ]

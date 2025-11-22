@@ -1,20 +1,220 @@
 [
   {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
+    "question": "Solve 5x² - 3x - 2 = 0",
     "options": [
-      "x = 1, -2/5",
       "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
+      "x = 1, -2/5",
+      "x = 1/2, -2",
+      "x = 2, -1/5"
     ],
     "answer": "x = 1, -2/5"
   },
   {
     "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
     "options": [
-      "6",
       "8",
+      "12",
       "10",
+      "6"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "options": [
+      "-1",
+      "-2",
+      "2",
+      "1"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "options": [
+      "y = e^(x²)",
+      "y = 2x",
+      "y = e^x",
+      "y = x²"
+    ],
+    "answer": "y = e^(x²)"
+  },
+  {
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "options": [
+      "2,3",
+      "1,2",
+      "0,4",
+      "1,3"
+    ],
+    "answer": "1,3"
+  },
+  {
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "0",
+      "1",
+      "undefined",
+      "∞"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n(n+1)(2n+1)/6",
+      "n³/3",
+      "n²(n+1)²/4",
+      "n(n+1)/2"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "6",
+      "12",
+      "8",
+      "9"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 4",
+      "x = 3",
+      "x = 2",
+      "x = 1"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "1/25",
+      "24/25",
+      "-7/25",
+      "7/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "2",
+      "1",
+      "∞",
+      "1/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 1, -4",
+      "x = 4, -1",
+      "x = 3, -2",
+      "x = 2, -3"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "160",
+      "80",
+      "60",
+      "20"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=2, y=1, z=0",
+      "Inconsistent",
+      "x=1, y=1, z=1",
+      "x=1, y=0, z=1"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "1/e^x",
+      "e^x + C",
+      "x·e^x",
+      "e^x"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 4",
+      "x = 1",
+      "x = 2",
+      "x = 3"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "1",
+      "-1/x²",
+      "1/x²",
+      "0"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "10π",
+      "15π",
+      "50π",
+      "25π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x < 2 or x > 3",
+      "all x",
+      "x ≤ 2",
+      "2 < x < 3"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = 1, -2/5",
+      "x = 1/2, -2",
+      "x = -1, 2/5",
+      "x = 2, -1/5"
+    ],
+    "answer": "x = 1, -2/5"
+  },
+  {
+    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "options": [
+      "10",
+      "8",
+      "6",
       "12"
     ],
     "answer": "10"
@@ -30,42 +230,592 @@
     "answer": "-2"
   },
   {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
+    "question": "dy/dx = 2xy with y(0)=1, find y",
     "options": [
-      "y = e^(x²)",
       "y = e^x",
-      "y = x²",
-      "y = 2x"
+      "y = 2x",
+      "y = e^(x²)",
+      "y = x²"
     ],
     "answer": "y = e^(x²)"
   },
   {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
     "options": [
-      "1,3",
       "2,3",
+      "1,3",
       "1,2",
       "0,4"
     ],
     "answer": "1,3"
   },
   {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
+    "question": "lim(x→0) sin(x)/x =",
     "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
+      "undefined",
+      "1",
+      "0",
+      "∞"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n(n+1)(2n+1)/6",
+      "n(n+1)/2",
+      "n²(n+1)²/4",
+      "n³/3"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "6",
+      "12",
+      "9",
+      "8"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 2",
+      "x = 3",
+      "x = 1",
+      "x = 4"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "-7/25",
+      "24/25",
+      "1/25",
+      "7/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "∞",
+      "1/2",
+      "1",
+      "2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 3, -2",
+      "x = 1, -4",
+      "x = 4, -1",
+      "x = 2, -3"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "80",
+      "20",
+      "160",
+      "60"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=1, y=1, z=1",
+      "x=1, y=0, z=1",
+      "x=2, y=1, z=0",
+      "Inconsistent"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "e^x",
+      "x·e^x",
+      "1/e^x",
+      "e^x + C"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 3",
+      "x = 1",
+      "x = 2",
+      "x = 4"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "0",
+      "-1/x²",
+      "1",
+      "1/x²"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "25π",
+      "10π",
+      "50π",
+      "15π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x < 2 or x > 3",
+      "x ≤ 2",
+      "all x",
+      "2 < x < 3"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
       "x = 2, -1/5",
-      "x = 1/2, -2"
+      "x = 1/2, -2",
+      "x = -1, 2/5",
+      "x = 1, -2/5"
     ],
     "answer": "x = 1, -2/5"
   },
   {
     "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
     "options": [
+      "10",
+      "6",
+      "12",
+      "8"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "options": [
+      "1",
+      "-2",
+      "2",
+      "-1"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "options": [
+      "y = e^(x²)",
+      "y = 2x",
+      "y = x²",
+      "y = e^x"
+    ],
+    "answer": "y = e^(x²)"
+  },
+  {
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "options": [
+      "1,2",
+      "2,3",
+      "1,3",
+      "0,4"
+    ],
+    "answer": "1,3"
+  },
+  {
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "∞",
+      "undefined",
+      "0",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n²(n+1)²/4",
+      "n³/3",
+      "n(n+1)/2",
+      "n(n+1)(2n+1)/6"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "12",
       "6",
       "8",
+      "9"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 2",
+      "x = 3",
+      "x = 4",
+      "x = 1"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "24/25",
+      "1/25",
+      "7/25",
+      "-7/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "1",
+      "1/2",
+      "∞",
+      "2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 2, -3",
+      "x = 4, -1",
+      "x = 3, -2",
+      "x = 1, -4"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "80",
+      "60",
+      "20",
+      "160"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "Inconsistent",
+      "x=2, y=1, z=0",
+      "x=1, y=0, z=1",
+      "x=1, y=1, z=1"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "1/e^x",
+      "x·e^x",
+      "e^x + C",
+      "e^x"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 4",
+      "x = 1",
+      "x = 3",
+      "x = 2"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "0",
+      "1/x²",
+      "-1/x²",
+      "1"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "15π",
+      "50π",
+      "25π",
+      "10π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x < 2 or x > 3",
+      "all x",
+      "2 < x < 3",
+      "x ≤ 2"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = 1/2, -2",
+      "x = -1, 2/5",
+      "x = 1, -2/5",
+      "x = 2, -1/5"
+    ],
+    "answer": "x = 1, -2/5"
+  },
+  {
+    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "options": [
+      "12",
+      "6",
       "10",
-      "12"
+      "8"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "options": [
+      "-1",
+      "2",
+      "-2",
+      "1"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "options": [
+      "y = e^(x²)",
+      "y = e^x",
+      "y = 2x",
+      "y = x²"
+    ],
+    "answer": "y = e^(x²)"
+  },
+  {
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "options": [
+      "0,4",
+      "2,3",
+      "1,3",
+      "1,2"
+    ],
+    "answer": "1,3"
+  },
+  {
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "∞",
+      "0",
+      "1",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n²(n+1)²/4",
+      "n(n+1)/2",
+      "n³/3",
+      "n(n+1)(2n+1)/6"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "6",
+      "12",
+      "9",
+      "8"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = 1"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "7/25",
+      "1/25",
+      "-7/25",
+      "24/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "2",
+      "∞",
+      "1",
+      "1/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 1, -4",
+      "x = 2, -3",
+      "x = 4, -1",
+      "x = 3, -2"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "160",
+      "80",
+      "60",
+      "20"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=2, y=1, z=0",
+      "x=1, y=1, z=1",
+      "Inconsistent",
+      "x=1, y=0, z=1"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "1/e^x",
+      "e^x",
+      "e^x + C",
+      "x·e^x"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 1",
+      "x = 4",
+      "x = 3",
+      "x = 2"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "1",
+      "0",
+      "1/x²",
+      "-1/x²"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "10π",
+      "25π",
+      "15π",
+      "50π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "all x",
+      "x < 2 or x > 3",
+      "2 < x < 3",
+      "x ≤ 2"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = -1, 2/5",
+      "x = 1/2, -2",
+      "x = 2, -1/5",
+      "x = 1, -2/5"
+    ],
+    "answer": "x = 1, -2/5"
+  },
+  {
+    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "options": [
+      "8",
+      "6",
+      "12",
+      "10"
     ],
     "answer": "10"
   },
@@ -80,27 +830,177 @@
     "answer": "-2"
   },
   {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
+    "question": "dy/dx = 2xy with y(0)=1, find y",
     "options": [
+      "y = 2x",
       "y = e^(x²)",
-      "y = e^x",
       "y = x²",
-      "y = 2x"
+      "y = e^x"
     ],
     "answer": "y = e^(x²)"
   },
   {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
     "options": [
       "1,3",
-      "2,3",
       "1,2",
-      "0,4"
+      "0,4",
+      "2,3"
     ],
     "answer": "1,3"
   },
   {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "0",
+      "1",
+      "undefined",
+      "∞"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n²(n+1)²/4",
+      "n(n+1)/2",
+      "n(n+1)(2n+1)/6",
+      "n³/3"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "9",
+      "6",
+      "8",
+      "12"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 4",
+      "x = 3",
+      "x = 2",
+      "x = 1"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "1/25",
+      "24/25",
+      "7/25",
+      "-7/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "2",
+      "1",
+      "∞",
+      "1/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 1, -4",
+      "x = 2, -3",
+      "x = 3, -2",
+      "x = 4, -1"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "80",
+      "160",
+      "20",
+      "60"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "Inconsistent",
+      "x=1, y=1, z=1",
+      "x=2, y=1, z=0",
+      "x=1, y=0, z=1"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "e^x + C",
+      "e^x",
+      "1/e^x",
+      "x·e^x"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 4",
+      "x = 1",
+      "x = 2",
+      "x = 3"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "-1/x²",
+      "1/x²",
+      "0",
+      "1"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "15π",
+      "25π",
+      "10π",
+      "50π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x ≤ 2",
+      "2 < x < 3",
+      "all x",
+      "x < 2 or x > 3"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
     "options": [
       "x = 1, -2/5",
       "x = -1, 2/5",
@@ -112,9 +1012,409 @@
   {
     "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
     "options": [
+      "12",
+      "8",
       "6",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "options": [
+      "1",
+      "-1",
+      "-2",
+      "2"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "options": [
+      "y = e^x",
+      "y = e^(x²)",
+      "y = 2x",
+      "y = x²"
+    ],
+    "answer": "y = e^(x²)"
+  },
+  {
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "options": [
+      "2,3",
+      "0,4",
+      "1,2",
+      "1,3"
+    ],
+    "answer": "1,3"
+  },
+  {
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "0",
+      "∞",
+      "1",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n²(n+1)²/4",
+      "n³/3",
+      "n(n+1)(2n+1)/6",
+      "n(n+1)/2"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "12",
+      "9",
+      "6",
+      "8"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 2",
+      "x = 4",
+      "x = 1",
+      "x = 3"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "1/25",
+      "7/25",
+      "-7/25",
+      "24/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "1",
+      "2",
+      "∞",
+      "1/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 1, -4",
+      "x = 4, -1",
+      "x = 2, -3",
+      "x = 3, -2"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "60",
+      "160",
+      "20",
+      "80"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "Inconsistent",
+      "x=1, y=1, z=1",
+      "x=2, y=1, z=0",
+      "x=1, y=0, z=1"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "e^x",
+      "x·e^x",
+      "1/e^x",
+      "e^x + C"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = 1"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "1",
+      "0",
+      "-1/x²",
+      "1/x²"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "50π",
+      "10π",
+      "25π",
+      "15π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "all x",
+      "x ≤ 2",
+      "x < 2 or x > 3",
+      "2 < x < 3"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = 1, -2/5",
+      "x = -1, 2/5",
+      "x = 1/2, -2",
+      "x = 2, -1/5"
+    ],
+    "answer": "x = 1, -2/5"
+  },
+  {
+    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "options": [
       "8",
       "10",
+      "12",
+      "6"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "options": [
+      "1",
+      "-1",
+      "2",
+      "-2"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "options": [
+      "y = x²",
+      "y = e^x",
+      "y = 2x",
+      "y = e^(x²)"
+    ],
+    "answer": "y = e^(x²)"
+  },
+  {
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "options": [
+      "2,3",
+      "1,2",
+      "0,4",
+      "1,3"
+    ],
+    "answer": "1,3"
+  },
+  {
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "1",
+      "∞",
+      "undefined",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n(n+1)/2",
+      "n²(n+1)²/4",
+      "n(n+1)(2n+1)/6",
+      "n³/3"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "8",
+      "9",
+      "12",
+      "6"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 4",
+      "x = 2",
+      "x = 1",
+      "x = 3"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "-7/25",
+      "1/25",
+      "7/25",
+      "24/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "∞",
+      "1",
+      "1/2",
+      "2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 2, -3",
+      "x = 3, -2",
+      "x = 4, -1",
+      "x = 1, -4"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "80",
+      "160",
+      "60",
+      "20"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=1, y=0, z=1",
+      "x=2, y=1, z=0",
+      "x=1, y=1, z=1",
+      "Inconsistent"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "e^x",
+      "e^x + C",
+      "1/e^x",
+      "x·e^x"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 2",
+      "x = 3",
+      "x = 1",
+      "x = 4"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "-1/x²",
+      "0",
+      "1",
+      "1/x²"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "10π",
+      "15π",
+      "50π",
+      "25π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "2 < x < 3",
+      "x ≤ 2",
+      "all x",
+      "x < 2 or x > 3"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = 1/2, -2",
+      "x = 1, -2/5",
+      "x = -1, 2/5",
+      "x = 2, -1/5"
+    ],
+    "answer": "x = 1, -2/5"
+  },
+  {
+    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "options": [
+      "10",
+      "6",
+      "8",
       "12"
     ],
     "answer": "10"
@@ -122,39 +1422,589 @@
   {
     "question": "If A = [[1,2],[3,4]], find det(A)",
     "options": [
+      "2",
       "-2",
       "-1",
+      "1"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "options": [
+      "y = e^x",
+      "y = 2x",
+      "y = e^(x²)",
+      "y = x²"
+    ],
+    "answer": "y = e^(x²)"
+  },
+  {
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "options": [
+      "0,4",
+      "1,3",
+      "1,2",
+      "2,3"
+    ],
+    "answer": "1,3"
+  },
+  {
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "undefined",
+      "0",
+      "∞",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n³/3",
+      "n(n+1)(2n+1)/6",
+      "n²(n+1)²/4",
+      "n(n+1)/2"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "9",
+      "6",
+      "12",
+      "8"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 4",
+      "x = 3",
+      "x = 1",
+      "x = 2"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "1/25",
+      "24/25",
+      "7/25",
+      "-7/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
       "1",
+      "2",
+      "∞",
+      "1/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 4, -1",
+      "x = 3, -2",
+      "x = 2, -3",
+      "x = 1, -4"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "60",
+      "160",
+      "20",
+      "80"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=1, y=0, z=1",
+      "x=2, y=1, z=0",
+      "Inconsistent",
+      "x=1, y=1, z=1"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "e^x",
+      "e^x + C",
+      "1/e^x",
+      "x·e^x"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 2",
+      "x = 3",
+      "x = 4",
+      "x = 1"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "1/x²",
+      "0",
+      "-1/x²",
+      "1"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "25π",
+      "10π",
+      "15π",
+      "50π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x < 2 or x > 3",
+      "2 < x < 3",
+      "all x",
+      "x ≤ 2"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = -1, 2/5",
+      "x = 2, -1/5",
+      "x = 1/2, -2",
+      "x = 1, -2/5"
+    ],
+    "answer": "x = 1, -2/5"
+  },
+  {
+    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "options": [
+      "12",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "options": [
+      "1",
+      "-2",
+      "-1",
       "2"
     ],
     "answer": "-2"
   },
   {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
+    "question": "dy/dx = 2xy with y(0)=1, find y",
     "options": [
       "y = e^(x²)",
       "y = e^x",
-      "y = x²",
-      "y = 2x"
+      "y = 2x",
+      "y = x²"
     ],
     "answer": "y = e^(x²)"
   },
   {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
     "options": [
-      "1,3",
-      "2,3",
       "1,2",
-      "0,4"
+      "0,4",
+      "2,3",
+      "1,3"
     ],
     "answer": "1,3"
   },
   {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "1",
+      "∞",
+      "0",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n³/3",
+      "n(n+1)/2",
+      "n(n+1)(2n+1)/6",
+      "n²(n+1)²/4"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "12",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 2",
+      "x = 3",
+      "x = 4",
+      "x = 1"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "-7/25",
+      "24/25",
+      "7/25",
+      "1/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "2",
+      "∞",
+      "1",
+      "1/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 4, -1",
+      "x = 1, -4",
+      "x = 3, -2",
+      "x = 2, -3"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "80",
+      "20",
+      "60",
+      "160"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=1, y=1, z=1",
+      "x=2, y=1, z=0",
+      "x=1, y=0, z=1",
+      "Inconsistent"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "1/e^x",
+      "x·e^x",
+      "e^x",
+      "e^x + C"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 1",
+      "x = 4",
+      "x = 2",
+      "x = 3"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "1",
+      "1/x²",
+      "-1/x²",
+      "0"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "15π",
+      "50π",
+      "25π",
+      "10π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x ≤ 2",
+      "2 < x < 3",
+      "all x",
+      "x < 2 or x > 3"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = -1, 2/5",
+      "x = 1, -2/5",
+      "x = 1/2, -2",
+      "x = 2, -1/5"
+    ],
+    "answer": "x = 1, -2/5"
+  },
+  {
+    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "options": [
+      "10",
+      "12",
+      "6",
+      "8"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "options": [
+      "2",
+      "1",
+      "-2",
+      "-1"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "options": [
+      "y = 2x",
+      "y = e^(x²)",
+      "y = e^x",
+      "y = x²"
+    ],
+    "answer": "y = e^(x²)"
+  },
+  {
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "options": [
+      "1,2",
+      "2,3",
+      "0,4",
+      "1,3"
+    ],
+    "answer": "1,3"
+  },
+  {
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n³/3",
+      "n(n+1)(2n+1)/6",
+      "n²(n+1)²/4",
+      "n(n+1)/2"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "12",
+      "9",
+      "6",
+      "8"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 4",
+      "x = 1",
+      "x = 2",
+      "x = 3"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "-7/25",
+      "7/25",
+      "24/25",
+      "1/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "∞",
+      "2",
+      "1/2",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 1, -4",
+      "x = 2, -3",
+      "x = 4, -1",
+      "x = 3, -2"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "20",
+      "60",
+      "160",
+      "80"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=1, y=0, z=1",
+      "x=2, y=1, z=0",
+      "Inconsistent",
+      "x=1, y=1, z=1"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "e^x + C",
+      "e^x",
+      "x·e^x",
+      "1/e^x"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 4",
+      "x = 1",
+      "x = 3",
+      "x = 2"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "1/x²",
+      "1",
+      "-1/x²",
+      "0"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "15π",
+      "50π",
+      "10π",
+      "25π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x < 2 or x > 3",
+      "x ≤ 2",
+      "2 < x < 3",
+      "all x"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
     "options": [
       "x = 1, -2/5",
-      "x = -1, 2/5",
       "x = 2, -1/5",
+      "x = -1, 2/5",
       "x = 1/2, -2"
     ],
     "answer": "x = 1, -2/5"
@@ -162,9 +2012,209 @@
   {
     "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
     "options": [
-      "6",
-      "8",
       "10",
+      "12",
+      "8",
+      "6"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "options": [
+      "-1",
+      "1",
+      "2",
+      "-2"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "options": [
+      "y = x²",
+      "y = e^(x²)",
+      "y = 2x",
+      "y = e^x"
+    ],
+    "answer": "y = e^(x²)"
+  },
+  {
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "options": [
+      "1,3",
+      "0,4",
+      "1,2",
+      "2,3"
+    ],
+    "answer": "1,3"
+  },
+  {
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "∞",
+      "0",
+      "undefined",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n²(n+1)²/4",
+      "n³/3",
+      "n(n+1)/2",
+      "n(n+1)(2n+1)/6"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "12",
+      "8",
+      "9",
+      "6"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 3",
+      "x = 4",
+      "x = 2",
+      "x = 1"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "1/25",
+      "-7/25",
+      "7/25",
+      "24/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "1",
+      "1/2",
+      "∞",
+      "2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 4, -1",
+      "x = 3, -2",
+      "x = 1, -4",
+      "x = 2, -3"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "20",
+      "160",
+      "60",
+      "80"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=1, y=0, z=1",
+      "x=2, y=1, z=0",
+      "Inconsistent",
+      "x=1, y=1, z=1"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "e^x + C",
+      "e^x",
+      "1/e^x",
+      "x·e^x"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 1",
+      "x = 2",
+      "x = 4",
+      "x = 3"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "1",
+      "1/x²",
+      "-1/x²",
+      "0"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "10π",
+      "25π",
+      "50π",
+      "15π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x < 2 or x > 3",
+      "x ≤ 2",
+      "all x",
+      "2 < x < 3"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = 1/2, -2",
+      "x = 2, -1/5",
+      "x = 1, -2/5",
+      "x = -1, 2/5"
+    ],
+    "answer": "x = 1, -2/5"
+  },
+  {
+    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "options": [
+      "10",
+      "8",
+      "6",
       "12"
     ],
     "answer": "10"
@@ -172,40 +2222,390 @@
   {
     "question": "If A = [[1,2],[3,4]], find det(A)",
     "options": [
-      "-2",
-      "-1",
       "1",
-      "2"
+      "2",
+      "-2",
+      "-1"
     ],
     "answer": "-2"
   },
   {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
+    "question": "dy/dx = 2xy with y(0)=1, find y",
     "options": [
+      "y = x²",
       "y = e^(x²)",
       "y = e^x",
-      "y = x²",
       "y = 2x"
     ],
     "answer": "y = e^(x²)"
   },
   {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
     "options": [
-      "1,3",
-      "2,3",
       "1,2",
-      "0,4"
+      "0,4",
+      "2,3",
+      "1,3"
     ],
     "answer": "1,3"
   },
   {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
+    "question": "lim(x→0) sin(x)/x =",
     "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
+      "undefined",
+      "0",
+      "∞",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n(n+1)(2n+1)/6",
+      "n²(n+1)²/4",
+      "n(n+1)/2",
+      "n³/3"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "12",
+      "9",
+      "8",
+      "6"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 4",
+      "x = 1",
+      "x = 2",
+      "x = 3"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "24/25",
+      "7/25",
+      "1/25",
+      "-7/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "1/2",
+      "∞",
+      "2",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 4, -1",
+      "x = 2, -3",
+      "x = 3, -2",
+      "x = 1, -4"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "20",
+      "60",
+      "80",
+      "160"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=1, y=0, z=1",
+      "x=1, y=1, z=1",
+      "Inconsistent",
+      "x=2, y=1, z=0"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "1/e^x",
+      "e^x",
+      "e^x + C",
+      "x·e^x"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 3",
+      "x = 2",
+      "x = 4",
+      "x = 1"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "1",
+      "0",
+      "-1/x²",
+      "1/x²"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "25π",
+      "10π",
+      "15π",
+      "50π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x ≤ 2",
+      "x < 2 or x > 3",
+      "2 < x < 3",
+      "all x"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = 1/2, -2",
       "x = 2, -1/5",
-      "x = 1/2, -2"
+      "x = 1, -2/5",
+      "x = -1, 2/5"
+    ],
+    "answer": "x = 1, -2/5"
+  },
+  {
+    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "options": [
+      "12",
+      "10",
+      "6",
+      "8"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "options": [
+      "1",
+      "-2",
+      "-1",
+      "2"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "dy/dx = 2xy with y(0)=1, find y",
+    "options": [
+      "y = x²",
+      "y = e^(x²)",
+      "y = 2x",
+      "y = e^x"
+    ],
+    "answer": "y = e^(x²)"
+  },
+  {
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
+    "options": [
+      "2,3",
+      "0,4",
+      "1,3",
+      "1,2"
+    ],
+    "answer": "1,3"
+  },
+  {
+    "question": "lim(x→0) sin(x)/x =",
+    "options": [
+      "undefined",
+      "0",
+      "1",
+      "∞"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n²(n+1)²/4",
+      "n³/3",
+      "n(n+1)(2n+1)/6",
+      "n(n+1)/2"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "9",
+      "6",
+      "12",
+      "8"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 4",
+      "x = 1",
+      "x = 2",
+      "x = 3"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "-7/25",
+      "24/25",
+      "1/25",
+      "7/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "∞",
+      "1",
+      "2",
+      "1/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 2, -3",
+      "x = 3, -2",
+      "x = 4, -1",
+      "x = 1, -4"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "160",
+      "60",
+      "80",
+      "20"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "Inconsistent",
+      "x=2, y=1, z=0",
+      "x=1, y=1, z=1",
+      "x=1, y=0, z=1"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "x·e^x",
+      "1/e^x",
+      "e^x",
+      "e^x + C"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 3",
+      "x = 4",
+      "x = 1",
+      "x = 2"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "-1/x²",
+      "1",
+      "0",
+      "1/x²"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "25π",
+      "50π",
+      "10π",
+      "15π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "x ≤ 2",
+      "x < 2 or x > 3",
+      "all x",
+      "2 < x < 3"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = 1/2, -2",
+      "x = 2, -1/5",
+      "x = -1, 2/5",
+      "x = 1, -2/5"
     ],
     "answer": "x = 1, -2/5"
   },
@@ -213,8 +2613,8 @@
     "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
     "options": [
       "6",
-      "8",
       "10",
+      "8",
       "12"
     ],
     "answer": "10"
@@ -223,64 +2623,214 @@
     "question": "If A = [[1,2],[3,4]], find det(A)",
     "options": [
       "-2",
-      "-1",
       "1",
-      "2"
+      "2",
+      "-1"
     ],
     "answer": "-2"
   },
   {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
+    "question": "dy/dx = 2xy with y(0)=1, find y",
     "options": [
       "y = e^(x²)",
-      "y = e^x",
       "y = x²",
-      "y = 2x"
+      "y = 2x",
+      "y = e^x"
     ],
     "answer": "y = e^(x²)"
   },
   {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
     "options": [
-      "1,3",
       "2,3",
+      "0,4",
       "1,2",
-      "0,4"
+      "1,3"
     ],
     "answer": "1,3"
   },
   {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
+    "question": "lim(x→0) sin(x)/x =",
     "options": [
+      "∞",
+      "1",
+      "undefined",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "1² + 2² + ... + n² =",
+    "options": [
+      "n³/3",
+      "n(n+1)/2",
+      "n²(n+1)²/4",
+      "n(n+1)(2n+1)/6"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
+      "9",
+      "8",
+      "6",
+      "12"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
+    "options": [
+      "x = 1",
+      "x = 3",
+      "x = 4",
+      "x = 2"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "-7/25",
+      "7/25",
+      "24/25",
+      "1/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "2",
+      "1/2",
+      "1",
+      "∞"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 1, -4",
+      "x = 4, -1",
+      "x = 3, -2",
+      "x = 2, -3"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "60",
+      "80",
+      "20",
+      "160"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=1, y=0, z=1",
+      "x=1, y=1, z=1",
+      "x=2, y=1, z=0",
+      "Inconsistent"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "∫e^x dx =",
+    "options": [
+      "x·e^x",
+      "e^x",
+      "1/e^x",
+      "e^x + C"
+    ],
+    "answer": "e^x + C"
+  },
+  {
+    "question": "Solve 2^x = 8",
+    "options": [
+      "x = 4",
+      "x = 1",
+      "x = 3",
+      "x = 2"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "If f(x) = 1/x, find f'(x)",
+    "options": [
+      "1",
+      "0",
+      "-1/x²",
+      "1/x²"
+    ],
+    "answer": "-1/x²"
+  },
+  {
+    "question": "Circle area with radius 5",
+    "options": [
+      "15π",
+      "50π",
+      "10π",
+      "25π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "Solve inequality: x² - 5x + 6 > 0",
+    "options": [
+      "2 < x < 3",
+      "x < 2 or x > 3",
+      "x ≤ 2",
+      "all x"
+    ],
+    "answer": "x < 2 or x > 3"
+  },
+  {
+    "question": "Solve 5x² - 3x - 2 = 0",
+    "options": [
+      "x = 1/2, -2",
       "x = 1, -2/5",
       "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
+      "x = 2, -1/5"
     ],
     "answer": "x = 1, -2/5"
   },
   {
     "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
     "options": [
-      "6",
       "8",
       "10",
-      "12"
+      "12",
+      "6"
     ],
     "answer": "10"
   },
   {
     "question": "If A = [[1,2],[3,4]], find det(A)",
     "options": [
-      "-2",
-      "-1",
       "1",
-      "2"
+      "2",
+      "-2",
+      "-1"
     ],
     "answer": "-2"
   },
   {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
+    "question": "dy/dx = 2xy with y(0)=1, find y",
     "options": [
       "y = e^(x²)",
       "y = e^x",
@@ -290,2713 +2840,163 @@
     "answer": "y = e^(x²)"
   },
   {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
+    "question": "Find eigenvalues of [[2,1],[1,2]]",
     "options": [
-      "1,3",
       "2,3",
       "1,2",
+      "1,3",
       "0,4"
     ],
     "answer": "1,3"
   },
   {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
+    "question": "lim(x→0) sin(x)/x =",
     "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
+      "undefined",
+      "∞",
+      "0",
+      "1"
     ],
-    "answer": "x = 1, -2/5"
+    "answer": "1"
   },
   {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
+    "question": "1² + 2² + ... + n² =",
     "options": [
-      "6",
+      "n(n+1)/2",
+      "n(n+1)(2n+1)/6",
+      "n³/3",
+      "n²(n+1)²/4"
+    ],
+    "answer": "n(n+1)(2n+1)/6"
+  },
+  {
+    "question": "Area under y = x² from 0 to 3",
+    "options": [
       "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
       "6",
-      "8",
-      "10",
-      "12"
+      "12",
+      "9"
     ],
-    "answer": "10"
+    "answer": "9"
   },
   {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
+    "question": "Solve log₂(x) + log₂(x-1) = 3",
     "options": [
-      "-2",
-      "-1",
+      "x = 4",
+      "x = 1",
+      "x = 3",
+      "x = 2"
+    ],
+    "answer": "x = 4"
+  },
+  {
+    "question": "If sin(θ) = 3/5, find cos(2θ)",
+    "options": [
+      "7/25",
+      "-7/25",
+      "1/25",
+      "24/25"
+    ],
+    "answer": "7/25"
+  },
+  {
+    "question": "Sum Σ(1/2)^n from n=1 to ∞",
+    "options": [
+      "2",
+      "∞",
+      "1/2",
+      "1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve |x - 2| + |x + 1| = 5",
+    "options": [
+      "x = 4, -1",
+      "x = 2, -3",
+      "x = 1, -4",
+      "x = 3, -2"
+    ],
+    "answer": "x = 2, -3"
+  },
+  {
+    "question": "Coefficient of x³ in (2x + 1)⁶",
+    "options": [
+      "60",
+      "20",
+      "160",
+      "80"
+    ],
+    "answer": "160"
+  },
+  {
+    "question": "x + 2y + 3z = 6; 2x + 3y + z = 5; 3x + y + 2z = 4",
+    "options": [
+      "x=1, y=1, z=1",
+      "Inconsistent",
+      "x=1, y=0, z=1",
+      "x=2, y=1, z=0"
+    ],
+    "answer": "x=1, y=1, z=1"
+  },
+  {
+    "question": "Maximum of f(x) = -x² + 6x - 5",
+    "options": [
+      "3",
       "1",
-      "2"
+      "2",
+      "4"
     ],
-    "answer": "-2"
+    "answer": "4"
   },
   {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
+    "question": "∫e^x dx =",
     "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
+      "e^x",
+      "e^x + C",
+      "x·e^x",
+      "1/e^x"
     ],
-    "answer": "y = e^(x²)"
+    "answer": "e^x + C"
   },
   {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
+    "question": "Solve 2^x = 8",
     "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
+      "x = 2",
+      "x = 4",
+      "x = 1",
+      "x = 3"
     ],
-    "answer": "1,3"
+    "answer": "x = 3"
   },
   {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
+    "question": "If f(x) = 1/x, find f'(x)",
     "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
+      "-1/x²",
+      "0",
       "1",
-      "2"
+      "1/x²"
     ],
-    "answer": "-2"
+    "answer": "-1/x²"
   },
   {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
+    "question": "Circle area with radius 5",
     "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
+      "25π",
+      "50π",
+      "10π",
+      "15π"
     ],
-    "answer": "y = e^(x²)"
+    "answer": "25π"
   },
   {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
+    "question": "Solve inequality: x² - 5x + 6 > 0",
     "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
+      "x < 2 or x > 3",
+      "all x",
+      "x ≤ 2",
+      "2 < x < 3"
     ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
-  },
-  {
-    "question": "Solve: 5x² - 3x - 2 = 0 using quadratic formula",
-    "options": [
-      "x = 1, -2/5",
-      "x = -1, 2/5",
-      "x = 2, -1/5",
-      "x = 1/2, -2"
-    ],
-    "answer": "x = 1, -2/5"
-  },
-  {
-    "question": "Find ∫(3x² + 2x - 1)dx from 0 to 2",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "10"
-  },
-  {
-    "question": "If A = [[1,2],[3,4]], find det(A)",
-    "options": [
-      "-2",
-      "-1",
-      "1",
-      "2"
-    ],
-    "answer": "-2"
-  },
-  {
-    "question": "Solve the differential equation: dy/dx = 2xy with y(0)=1",
-    "options": [
-      "y = e^(x²)",
-      "y = e^x",
-      "y = x²",
-      "y = 2x"
-    ],
-    "answer": "y = e^(x²)"
-  },
-  {
-    "question": "Find the eigenvalues of [[2,1],[1,2]]",
-    "options": [
-      "1,3",
-      "2,3",
-      "1,2",
-      "0,4"
-    ],
-    "answer": "1,3"
+    "answer": "x < 2 or x > 3"
   }
 ]

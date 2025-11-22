@@ -2,20 +2,20 @@
   {
     "question": "The word 'perspicacious' most nearly means",
     "options": [
-      "transparent",
-      "keen in judgment",
       "clear vision",
-      "curious"
+      "curious",
+      "transparent",
+      "keen in judgment"
     ],
     "answer": "keen in judgment"
   },
   {
     "question": "Which is NOT a synonym of 'ephemeral'?",
     "options": [
-      "fleeting",
       "temporary",
-      "permanent",
-      "transient"
+      "transient",
+      "fleeting",
+      "permanent"
     ],
     "answer": "permanent"
   },
@@ -23,8 +23,8 @@
     "question": "'Obfuscate' is to confuse as 'lucidity' is to",
     "options": [
       "clearness",
-      "darkness",
       "confusion",
+      "darkness",
       "opacity"
     ],
     "answer": "clearness"
@@ -40,7 +40,407 @@
     "answer": "paradox"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "Analyse the tone in: 'I simply adore waiting'",
+    "options": [
+      "nostalgic",
+      "sarcastic",
+      "sincere",
+      "melancholic"
+    ],
+    "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "crystal clear",
+      "confusing",
+      "vague",
+      "ambiguous"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "wise and discerning",
+      "courageous",
+      "foolish",
+      "stubborn"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "avoidable",
+      "inevitable",
+      "possible to avoid",
+      "doubtful"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "searching",
+      "fortunate discovery by chance",
+      "tranquility",
+      "being serene"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "flexible",
+      "easy-going",
+      "particular about details",
+      "careless"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "rhyming words",
+      "extended metaphor",
+      "opposite meaning",
+      "repeated initial sounds"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "power to weak",
+      "human qualities to objects",
+      "objects to humans",
+      "weakness to strong"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "conversation",
+      "group discussion",
+      "character speaking alone",
+      "narrator comment"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "literal language",
+      "hidden meanings through symbols",
+      "direct statements",
+      "obvious meaning"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "excited",
+      "optimistic",
+      "pessimistic",
+      "happy"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "cowardice",
+      "intelligence",
+      "kindness",
+      "bravery"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "bright sun",
+      "dark night",
+      "bittersweet experience",
+      "beautiful flower"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "genes assort independently",
+      "one gene masks another",
+      "mutation",
+      "genes are linked"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "exaggeration",
+      "repetition",
+      "direct comparison",
+      "substitution of names"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "understatement",
+      "extreme exaggeration",
+      "irony",
+      "sarcasm"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
+    "question": "The word 'perspicacious' most nearly means",
+    "options": [
+      "curious",
+      "transparent",
+      "keen in judgment",
+      "clear vision"
+    ],
+    "answer": "keen in judgment"
+  },
+  {
+    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "options": [
+      "fleeting",
+      "transient",
+      "temporary",
+      "permanent"
+    ],
+    "answer": "permanent"
+  },
+  {
+    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "options": [
+      "confusion",
+      "darkness",
+      "opacity",
+      "clearness"
+    ],
+    "answer": "clearness"
+  },
+  {
+    "question": "The juxtaposition of contrasting ideas creates",
+    "options": [
+      "paradox",
+      "synecdoche",
+      "metonymy",
+      "metaphor"
+    ],
+    "answer": "paradox"
+  },
+  {
+    "question": "Analyse the tone in: 'I simply adore waiting'",
+    "options": [
+      "nostalgic",
+      "melancholic",
+      "sarcastic",
+      "sincere"
+    ],
+    "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "confusing",
+      "vague",
+      "ambiguous",
+      "crystal clear"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "foolish",
+      "courageous",
+      "stubborn",
+      "wise and discerning"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "avoidable",
+      "possible to avoid",
+      "inevitable",
+      "doubtful"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "being serene",
+      "tranquility",
+      "fortunate discovery by chance",
+      "searching"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "careless",
+      "flexible",
+      "easy-going",
+      "particular about details"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "repeated initial sounds",
+      "extended metaphor",
+      "opposite meaning",
+      "rhyming words"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "power to weak",
+      "weakness to strong",
+      "human qualities to objects",
+      "objects to humans"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "character speaking alone",
+      "group discussion",
+      "conversation",
+      "narrator comment"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "hidden meanings through symbols",
+      "obvious meaning",
+      "direct statements",
+      "literal language"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "optimistic",
+      "excited",
+      "pessimistic",
+      "happy"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "bravery",
+      "intelligence",
+      "cowardice",
+      "kindness"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "bittersweet experience",
+      "beautiful flower",
+      "bright sun",
+      "dark night"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "genes are linked",
+      "one gene masks another",
+      "mutation",
+      "genes assort independently"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "substitution of names",
+      "exaggeration",
+      "repetition",
+      "direct comparison"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "extreme exaggeration",
+      "sarcasm",
+      "irony",
+      "understatement"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
+    "question": "The word 'perspicacious' most nearly means",
+    "options": [
+      "transparent",
+      "curious",
+      "keen in judgment",
+      "clear vision"
+    ],
+    "answer": "keen in judgment"
+  },
+  {
+    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "options": [
+      "temporary",
+      "permanent",
+      "fleeting",
+      "transient"
+    ],
+    "answer": "permanent"
+  },
+  {
+    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "options": [
+      "opacity",
+      "clearness",
+      "darkness",
+      "confusion"
+    ],
+    "answer": "clearness"
+  },
+  {
+    "question": "The juxtaposition of contrasting ideas creates",
+    "options": [
+      "metonymy",
+      "paradox",
+      "synecdoche",
+      "metaphor"
+    ],
+    "answer": "paradox"
+  },
+  {
+    "question": "Analyse the tone in: 'I simply adore waiting'",
     "options": [
       "sincere",
       "sarcastic",
@@ -48,6 +448,556 @@
       "nostalgic"
     ],
     "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "ambiguous",
+      "vague",
+      "crystal clear",
+      "confusing"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "courageous",
+      "stubborn",
+      "wise and discerning",
+      "foolish"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "possible to avoid",
+      "doubtful",
+      "avoidable",
+      "inevitable"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "tranquility",
+      "being serene",
+      "searching",
+      "fortunate discovery by chance"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "flexible",
+      "easy-going",
+      "particular about details",
+      "careless"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "repeated initial sounds",
+      "opposite meaning",
+      "rhyming words",
+      "extended metaphor"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "power to weak",
+      "weakness to strong",
+      "objects to humans",
+      "human qualities to objects"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "narrator comment",
+      "character speaking alone",
+      "group discussion",
+      "conversation"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "direct statements",
+      "hidden meanings through symbols",
+      "literal language",
+      "obvious meaning"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "happy",
+      "pessimistic",
+      "excited",
+      "optimistic"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "kindness",
+      "intelligence",
+      "bravery",
+      "cowardice"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "dark night",
+      "beautiful flower",
+      "bright sun",
+      "bittersweet experience"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "one gene masks another",
+      "mutation",
+      "genes are linked",
+      "genes assort independently"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "repetition",
+      "substitution of names",
+      "exaggeration",
+      "direct comparison"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "irony",
+      "sarcasm",
+      "understatement",
+      "extreme exaggeration"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
+    "question": "The word 'perspicacious' most nearly means",
+    "options": [
+      "clear vision",
+      "keen in judgment",
+      "curious",
+      "transparent"
+    ],
+    "answer": "keen in judgment"
+  },
+  {
+    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "options": [
+      "temporary",
+      "transient",
+      "fleeting",
+      "permanent"
+    ],
+    "answer": "permanent"
+  },
+  {
+    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "options": [
+      "clearness",
+      "confusion",
+      "darkness",
+      "opacity"
+    ],
+    "answer": "clearness"
+  },
+  {
+    "question": "The juxtaposition of contrasting ideas creates",
+    "options": [
+      "metonymy",
+      "metaphor",
+      "synecdoche",
+      "paradox"
+    ],
+    "answer": "paradox"
+  },
+  {
+    "question": "Analyse the tone in: 'I simply adore waiting'",
+    "options": [
+      "sincere",
+      "melancholic",
+      "nostalgic",
+      "sarcastic"
+    ],
+    "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "crystal clear",
+      "vague",
+      "confusing",
+      "ambiguous"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "foolish",
+      "wise and discerning",
+      "courageous",
+      "stubborn"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "possible to avoid",
+      "inevitable",
+      "doubtful",
+      "avoidable"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "being serene",
+      "fortunate discovery by chance",
+      "searching",
+      "tranquility"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "particular about details",
+      "flexible",
+      "easy-going",
+      "careless"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "extended metaphor",
+      "opposite meaning",
+      "repeated initial sounds",
+      "rhyming words"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "objects to humans",
+      "human qualities to objects",
+      "weakness to strong",
+      "power to weak"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "character speaking alone",
+      "narrator comment",
+      "group discussion",
+      "conversation"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "obvious meaning",
+      "direct statements",
+      "literal language",
+      "hidden meanings through symbols"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "optimistic",
+      "happy",
+      "pessimistic",
+      "excited"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "cowardice",
+      "intelligence",
+      "bravery",
+      "kindness"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "bittersweet experience",
+      "dark night",
+      "bright sun",
+      "beautiful flower"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "genes are linked",
+      "genes assort independently",
+      "mutation",
+      "one gene masks another"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "exaggeration",
+      "direct comparison",
+      "repetition",
+      "substitution of names"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "sarcasm",
+      "understatement",
+      "irony",
+      "extreme exaggeration"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
+    "question": "The word 'perspicacious' most nearly means",
+    "options": [
+      "clear vision",
+      "keen in judgment",
+      "curious",
+      "transparent"
+    ],
+    "answer": "keen in judgment"
+  },
+  {
+    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "options": [
+      "permanent",
+      "temporary",
+      "transient",
+      "fleeting"
+    ],
+    "answer": "permanent"
+  },
+  {
+    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "options": [
+      "opacity",
+      "confusion",
+      "clearness",
+      "darkness"
+    ],
+    "answer": "clearness"
+  },
+  {
+    "question": "The juxtaposition of contrasting ideas creates",
+    "options": [
+      "metonymy",
+      "paradox",
+      "metaphor",
+      "synecdoche"
+    ],
+    "answer": "paradox"
+  },
+  {
+    "question": "Analyse the tone in: 'I simply adore waiting'",
+    "options": [
+      "sincere",
+      "melancholic",
+      "nostalgic",
+      "sarcastic"
+    ],
+    "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "ambiguous",
+      "confusing",
+      "crystal clear",
+      "vague"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "foolish",
+      "courageous",
+      "wise and discerning",
+      "stubborn"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "doubtful",
+      "possible to avoid",
+      "avoidable",
+      "inevitable"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "being serene",
+      "searching",
+      "tranquility",
+      "fortunate discovery by chance"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "flexible",
+      "easy-going",
+      "particular about details",
+      "careless"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "rhyming words",
+      "extended metaphor",
+      "repeated initial sounds",
+      "opposite meaning"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "objects to humans",
+      "power to weak",
+      "human qualities to objects",
+      "weakness to strong"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "narrator comment",
+      "character speaking alone",
+      "conversation",
+      "group discussion"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "literal language",
+      "obvious meaning",
+      "hidden meanings through symbols",
+      "direct statements"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "optimistic",
+      "pessimistic",
+      "excited",
+      "happy"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "kindness",
+      "bravery",
+      "intelligence",
+      "cowardice"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "bright sun",
+      "bittersweet experience",
+      "dark night",
+      "beautiful flower"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "genes are linked",
+      "one gene masks another",
+      "genes assort independently",
+      "mutation"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "repetition",
+      "substitution of names",
+      "exaggeration",
+      "direct comparison"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "irony",
+      "understatement",
+      "extreme exaggeration",
+      "sarcasm"
+    ],
+    "answer": "extreme exaggeration"
   },
   {
     "question": "The word 'perspicacious' most nearly means",
@@ -63,9 +1013,409 @@
     "question": "Which is NOT a synonym of 'ephemeral'?",
     "options": [
       "fleeting",
-      "temporary",
+      "transient",
       "permanent",
-      "transient"
+      "temporary"
+    ],
+    "answer": "permanent"
+  },
+  {
+    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "options": [
+      "confusion",
+      "clearness",
+      "darkness",
+      "opacity"
+    ],
+    "answer": "clearness"
+  },
+  {
+    "question": "The juxtaposition of contrasting ideas creates",
+    "options": [
+      "metonymy",
+      "paradox",
+      "metaphor",
+      "synecdoche"
+    ],
+    "answer": "paradox"
+  },
+  {
+    "question": "Analyse the tone in: 'I simply adore waiting'",
+    "options": [
+      "sarcastic",
+      "melancholic",
+      "nostalgic",
+      "sincere"
+    ],
+    "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "ambiguous",
+      "crystal clear",
+      "confusing",
+      "vague"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "stubborn",
+      "courageous",
+      "wise and discerning",
+      "foolish"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "inevitable",
+      "doubtful",
+      "avoidable",
+      "possible to avoid"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "tranquility",
+      "being serene",
+      "fortunate discovery by chance",
+      "searching"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "particular about details",
+      "flexible",
+      "easy-going",
+      "careless"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "repeated initial sounds",
+      "rhyming words",
+      "opposite meaning",
+      "extended metaphor"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "objects to humans",
+      "power to weak",
+      "human qualities to objects",
+      "weakness to strong"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "group discussion",
+      "character speaking alone",
+      "conversation",
+      "narrator comment"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "hidden meanings through symbols",
+      "direct statements",
+      "literal language",
+      "obvious meaning"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "excited",
+      "happy",
+      "pessimistic",
+      "optimistic"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "bravery",
+      "cowardice",
+      "intelligence",
+      "kindness"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "bittersweet experience",
+      "dark night",
+      "beautiful flower",
+      "bright sun"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "one gene masks another",
+      "mutation",
+      "genes assort independently",
+      "genes are linked"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "repetition",
+      "exaggeration",
+      "direct comparison",
+      "substitution of names"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "understatement",
+      "sarcasm",
+      "irony",
+      "extreme exaggeration"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
+    "question": "The word 'perspicacious' most nearly means",
+    "options": [
+      "transparent",
+      "curious",
+      "clear vision",
+      "keen in judgment"
+    ],
+    "answer": "keen in judgment"
+  },
+  {
+    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "options": [
+      "transient",
+      "fleeting",
+      "temporary",
+      "permanent"
+    ],
+    "answer": "permanent"
+  },
+  {
+    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "options": [
+      "darkness",
+      "opacity",
+      "confusion",
+      "clearness"
+    ],
+    "answer": "clearness"
+  },
+  {
+    "question": "The juxtaposition of contrasting ideas creates",
+    "options": [
+      "metaphor",
+      "paradox",
+      "metonymy",
+      "synecdoche"
+    ],
+    "answer": "paradox"
+  },
+  {
+    "question": "Analyse the tone in: 'I simply adore waiting'",
+    "options": [
+      "melancholic",
+      "sincere",
+      "nostalgic",
+      "sarcastic"
+    ],
+    "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "ambiguous",
+      "vague",
+      "crystal clear",
+      "confusing"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "stubborn",
+      "wise and discerning",
+      "foolish",
+      "courageous"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "avoidable",
+      "inevitable",
+      "possible to avoid",
+      "doubtful"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "fortunate discovery by chance",
+      "tranquility",
+      "being serene",
+      "searching"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "careless",
+      "particular about details",
+      "easy-going",
+      "flexible"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "opposite meaning",
+      "repeated initial sounds",
+      "rhyming words",
+      "extended metaphor"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "weakness to strong",
+      "power to weak",
+      "objects to humans",
+      "human qualities to objects"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "narrator comment",
+      "conversation",
+      "character speaking alone",
+      "group discussion"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "direct statements",
+      "hidden meanings through symbols",
+      "literal language",
+      "obvious meaning"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "pessimistic",
+      "excited",
+      "optimistic",
+      "happy"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "kindness",
+      "bravery",
+      "intelligence",
+      "cowardice"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "beautiful flower",
+      "dark night",
+      "bright sun",
+      "bittersweet experience"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "genes assort independently",
+      "one gene masks another",
+      "mutation",
+      "genes are linked"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "repetition",
+      "direct comparison",
+      "exaggeration",
+      "substitution of names"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "sarcasm",
+      "irony",
+      "understatement",
+      "extreme exaggeration"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
+    "question": "The word 'perspicacious' most nearly means",
+    "options": [
+      "curious",
+      "keen in judgment",
+      "transparent",
+      "clear vision"
+    ],
+    "answer": "keen in judgment"
+  },
+  {
+    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "options": [
+      "permanent",
+      "transient",
+      "fleeting",
+      "temporary"
     ],
     "answer": "permanent"
   },
@@ -82,30 +1432,180 @@
   {
     "question": "The juxtaposition of contrasting ideas creates",
     "options": [
-      "paradox",
       "metaphor",
+      "paradox",
       "metonymy",
       "synecdoche"
     ],
     "answer": "paradox"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "Analyse the tone in: 'I simply adore waiting'",
     "options": [
       "sincere",
-      "sarcastic",
+      "nostalgic",
       "melancholic",
-      "nostalgic"
+      "sarcastic"
     ],
     "answer": "sarcastic"
   },
   {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "ambiguous",
+      "confusing",
+      "vague",
+      "crystal clear"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "stubborn",
+      "foolish",
+      "wise and discerning",
+      "courageous"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "possible to avoid",
+      "inevitable",
+      "doubtful",
+      "avoidable"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "being serene",
+      "searching",
+      "tranquility",
+      "fortunate discovery by chance"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "particular about details",
+      "easy-going",
+      "flexible",
+      "careless"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "opposite meaning",
+      "rhyming words",
+      "repeated initial sounds",
+      "extended metaphor"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "human qualities to objects",
+      "power to weak",
+      "objects to humans",
+      "weakness to strong"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "narrator comment",
+      "character speaking alone",
+      "conversation",
+      "group discussion"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "literal language",
+      "hidden meanings through symbols",
+      "obvious meaning",
+      "direct statements"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "optimistic",
+      "excited",
+      "happy",
+      "pessimistic"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "cowardice",
+      "bravery",
+      "intelligence",
+      "kindness"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "dark night",
+      "beautiful flower",
+      "bittersweet experience",
+      "bright sun"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "mutation",
+      "genes assort independently",
+      "one gene masks another",
+      "genes are linked"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "exaggeration",
+      "repetition",
+      "direct comparison",
+      "substitution of names"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "sarcasm",
+      "extreme exaggeration",
+      "understatement",
+      "irony"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
     "question": "The word 'perspicacious' most nearly means",
     "options": [
-      "transparent",
+      "curious",
       "keen in judgment",
       "clear vision",
-      "curious"
+      "transparent"
     ],
     "answer": "keen in judgment"
   },
@@ -113,48 +1613,198 @@
     "question": "Which is NOT a synonym of 'ephemeral'?",
     "options": [
       "fleeting",
+      "transient",
       "temporary",
-      "permanent",
-      "transient"
+      "permanent"
     ],
     "answer": "permanent"
   },
   {
     "question": "'Obfuscate' is to confuse as 'lucidity' is to",
     "options": [
-      "clearness",
-      "darkness",
       "confusion",
-      "opacity"
+      "opacity",
+      "clearness",
+      "darkness"
     ],
     "answer": "clearness"
   },
   {
     "question": "The juxtaposition of contrasting ideas creates",
     "options": [
+      "metonymy",
       "paradox",
       "metaphor",
-      "metonymy",
       "synecdoche"
     ],
     "answer": "paradox"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "Analyse the tone in: 'I simply adore waiting'",
     "options": [
-      "sincere",
+      "nostalgic",
       "sarcastic",
-      "melancholic",
-      "nostalgic"
+      "sincere",
+      "melancholic"
     ],
     "answer": "sarcastic"
   },
   {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "confusing",
+      "vague",
+      "ambiguous",
+      "crystal clear"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "courageous",
+      "wise and discerning",
+      "stubborn",
+      "foolish"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "inevitable",
+      "possible to avoid",
+      "doubtful",
+      "avoidable"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "being serene",
+      "searching",
+      "tranquility",
+      "fortunate discovery by chance"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "particular about details",
+      "flexible",
+      "careless",
+      "easy-going"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "repeated initial sounds",
+      "opposite meaning",
+      "rhyming words",
+      "extended metaphor"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "weakness to strong",
+      "human qualities to objects",
+      "power to weak",
+      "objects to humans"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "narrator comment",
+      "group discussion",
+      "character speaking alone",
+      "conversation"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "hidden meanings through symbols",
+      "direct statements",
+      "obvious meaning",
+      "literal language"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "happy",
+      "excited",
+      "pessimistic",
+      "optimistic"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "bravery",
+      "cowardice",
+      "kindness",
+      "intelligence"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "beautiful flower",
+      "bright sun",
+      "dark night",
+      "bittersweet experience"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "genes assort independently",
+      "one gene masks another",
+      "mutation",
+      "genes are linked"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "repetition",
+      "direct comparison",
+      "substitution of names",
+      "exaggeration"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "extreme exaggeration",
+      "sarcasm",
+      "irony",
+      "understatement"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
     "question": "The word 'perspicacious' most nearly means",
     "options": [
-      "transparent",
       "keen in judgment",
       "clear vision",
+      "transparent",
       "curious"
     ],
     "answer": "keen in judgment"
@@ -162,20 +1812,20 @@
   {
     "question": "Which is NOT a synonym of 'ephemeral'?",
     "options": [
+      "transient",
       "fleeting",
       "temporary",
-      "permanent",
-      "transient"
+      "permanent"
     ],
     "answer": "permanent"
   },
   {
     "question": "'Obfuscate' is to confuse as 'lucidity' is to",
     "options": [
-      "clearness",
-      "darkness",
+      "opacity",
       "confusion",
-      "opacity"
+      "clearness",
+      "darkness"
     ],
     "answer": "clearness"
   },
@@ -183,28 +1833,578 @@
     "question": "The juxtaposition of contrasting ideas creates",
     "options": [
       "paradox",
+      "synecdoche",
       "metaphor",
-      "metonymy",
-      "synecdoche"
+      "metonymy"
     ],
     "answer": "paradox"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "Analyse the tone in: 'I simply adore waiting'",
     "options": [
+      "sarcastic",
+      "nostalgic",
       "sincere",
+      "melancholic"
+    ],
+    "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "ambiguous",
+      "crystal clear",
+      "vague",
+      "confusing"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "stubborn",
+      "courageous",
+      "wise and discerning",
+      "foolish"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "doubtful",
+      "inevitable",
+      "avoidable",
+      "possible to avoid"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "being serene",
+      "searching",
+      "fortunate discovery by chance",
+      "tranquility"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "easy-going",
+      "careless",
+      "particular about details",
+      "flexible"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "repeated initial sounds",
+      "rhyming words",
+      "opposite meaning",
+      "extended metaphor"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "human qualities to objects",
+      "power to weak",
+      "weakness to strong",
+      "objects to humans"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "group discussion",
+      "conversation",
+      "narrator comment",
+      "character speaking alone"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "direct statements",
+      "literal language",
+      "hidden meanings through symbols",
+      "obvious meaning"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "happy",
+      "excited",
+      "optimistic",
+      "pessimistic"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "intelligence",
+      "bravery",
+      "kindness",
+      "cowardice"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "beautiful flower",
+      "bittersweet experience",
+      "dark night",
+      "bright sun"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "one gene masks another",
+      "mutation",
+      "genes are linked",
+      "genes assort independently"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "direct comparison",
+      "repetition",
+      "substitution of names",
+      "exaggeration"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "understatement",
+      "extreme exaggeration",
+      "sarcasm",
+      "irony"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
+    "question": "The word 'perspicacious' most nearly means",
+    "options": [
+      "curious",
+      "transparent",
+      "clear vision",
+      "keen in judgment"
+    ],
+    "answer": "keen in judgment"
+  },
+  {
+    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "options": [
+      "transient",
+      "temporary",
+      "fleeting",
+      "permanent"
+    ],
+    "answer": "permanent"
+  },
+  {
+    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "options": [
+      "clearness",
+      "confusion",
+      "darkness",
+      "opacity"
+    ],
+    "answer": "clearness"
+  },
+  {
+    "question": "The juxtaposition of contrasting ideas creates",
+    "options": [
+      "synecdoche",
+      "paradox",
+      "metaphor",
+      "metonymy"
+    ],
+    "answer": "paradox"
+  },
+  {
+    "question": "Analyse the tone in: 'I simply adore waiting'",
+    "options": [
+      "melancholic",
+      "sarcastic",
+      "nostalgic",
+      "sincere"
+    ],
+    "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "ambiguous",
+      "confusing",
+      "crystal clear",
+      "vague"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "courageous",
+      "wise and discerning",
+      "stubborn",
+      "foolish"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "avoidable",
+      "possible to avoid",
+      "doubtful",
+      "inevitable"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "fortunate discovery by chance",
+      "tranquility",
+      "searching",
+      "being serene"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "flexible",
+      "careless",
+      "easy-going",
+      "particular about details"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "extended metaphor",
+      "opposite meaning",
+      "repeated initial sounds",
+      "rhyming words"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "objects to humans",
+      "power to weak",
+      "weakness to strong",
+      "human qualities to objects"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "narrator comment",
+      "group discussion",
+      "character speaking alone",
+      "conversation"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "literal language",
+      "hidden meanings through symbols",
+      "direct statements",
+      "obvious meaning"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "excited",
+      "pessimistic",
+      "happy",
+      "optimistic"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "intelligence",
+      "kindness",
+      "bravery",
+      "cowardice"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "beautiful flower",
+      "dark night",
+      "bright sun",
+      "bittersweet experience"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "one gene masks another",
+      "genes assort independently",
+      "mutation",
+      "genes are linked"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "substitution of names",
+      "exaggeration",
+      "direct comparison",
+      "repetition"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "understatement",
+      "sarcasm",
+      "extreme exaggeration",
+      "irony"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
+    "question": "The word 'perspicacious' most nearly means",
+    "options": [
+      "clear vision",
+      "keen in judgment",
+      "curious",
+      "transparent"
+    ],
+    "answer": "keen in judgment"
+  },
+  {
+    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "options": [
+      "transient",
+      "permanent",
+      "fleeting",
+      "temporary"
+    ],
+    "answer": "permanent"
+  },
+  {
+    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "options": [
+      "clearness",
+      "opacity",
+      "darkness",
+      "confusion"
+    ],
+    "answer": "clearness"
+  },
+  {
+    "question": "The juxtaposition of contrasting ideas creates",
+    "options": [
+      "paradox",
+      "metonymy",
+      "synecdoche",
+      "metaphor"
+    ],
+    "answer": "paradox"
+  },
+  {
+    "question": "Analyse the tone in: 'I simply adore waiting'",
+    "options": [
       "sarcastic",
       "melancholic",
+      "sincere",
       "nostalgic"
     ],
     "answer": "sarcastic"
   },
   {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "confusing",
+      "vague",
+      "crystal clear",
+      "ambiguous"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "wise and discerning",
+      "courageous",
+      "stubborn",
+      "foolish"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "possible to avoid",
+      "inevitable",
+      "avoidable",
+      "doubtful"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "searching",
+      "being serene",
+      "tranquility",
+      "fortunate discovery by chance"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "easy-going",
+      "careless",
+      "particular about details",
+      "flexible"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "opposite meaning",
+      "extended metaphor",
+      "repeated initial sounds",
+      "rhyming words"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "weakness to strong",
+      "human qualities to objects",
+      "power to weak",
+      "objects to humans"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "group discussion",
+      "character speaking alone",
+      "conversation",
+      "narrator comment"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "hidden meanings through symbols",
+      "literal language",
+      "direct statements",
+      "obvious meaning"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "pessimistic",
+      "optimistic",
+      "happy",
+      "excited"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "cowardice",
+      "bravery",
+      "intelligence",
+      "kindness"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "beautiful flower",
+      "bittersweet experience",
+      "bright sun",
+      "dark night"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "genes assort independently",
+      "genes are linked",
+      "mutation",
+      "one gene masks another"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "exaggeration",
+      "repetition",
+      "substitution of names",
+      "direct comparison"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "irony",
+      "extreme exaggeration",
+      "understatement",
+      "sarcasm"
+    ],
+    "answer": "extreme exaggeration"
+  },
+  {
     "question": "The word 'perspicacious' most nearly means",
     "options": [
       "transparent",
-      "keen in judgment",
       "clear vision",
+      "keen in judgment",
       "curious"
     ],
     "answer": "keen in judgment"
@@ -212,10 +2412,10 @@
   {
     "question": "Which is NOT a synonym of 'ephemeral'?",
     "options": [
-      "fleeting",
+      "transient",
       "temporary",
-      "permanent",
-      "transient"
+      "fleeting",
+      "permanent"
     ],
     "answer": "permanent"
   },
@@ -232,40 +2432,190 @@
   {
     "question": "The juxtaposition of contrasting ideas creates",
     "options": [
-      "paradox",
-      "metaphor",
+      "synecdoche",
       "metonymy",
-      "synecdoche"
+      "paradox",
+      "metaphor"
     ],
     "answer": "paradox"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "Analyse the tone in: 'I simply adore waiting'",
     "options": [
-      "sincere",
-      "sarcastic",
       "melancholic",
-      "nostalgic"
+      "sincere",
+      "nostalgic",
+      "sarcastic"
     ],
     "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "confusing",
+      "crystal clear",
+      "vague",
+      "ambiguous"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "courageous",
+      "stubborn",
+      "wise and discerning",
+      "foolish"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "possible to avoid",
+      "inevitable",
+      "doubtful",
+      "avoidable"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "tranquility",
+      "fortunate discovery by chance",
+      "being serene",
+      "searching"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "particular about details",
+      "easy-going",
+      "careless",
+      "flexible"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "extended metaphor",
+      "rhyming words",
+      "repeated initial sounds",
+      "opposite meaning"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "objects to humans",
+      "human qualities to objects",
+      "power to weak",
+      "weakness to strong"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "narrator comment",
+      "group discussion",
+      "character speaking alone",
+      "conversation"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "obvious meaning",
+      "hidden meanings through symbols",
+      "direct statements",
+      "literal language"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "excited",
+      "happy",
+      "optimistic",
+      "pessimistic"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "kindness",
+      "cowardice",
+      "bravery",
+      "intelligence"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "bright sun",
+      "beautiful flower",
+      "bittersweet experience",
+      "dark night"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "one gene masks another",
+      "mutation",
+      "genes assort independently",
+      "genes are linked"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "substitution of names",
+      "repetition",
+      "exaggeration",
+      "direct comparison"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "understatement",
+      "irony",
+      "sarcasm",
+      "extreme exaggeration"
+    ],
+    "answer": "extreme exaggeration"
   },
   {
     "question": "The word 'perspicacious' most nearly means",
     "options": [
       "transparent",
       "keen in judgment",
-      "clear vision",
-      "curious"
+      "curious",
+      "clear vision"
     ],
     "answer": "keen in judgment"
   },
   {
     "question": "Which is NOT a synonym of 'ephemeral'?",
     "options": [
-      "fleeting",
+      "transient",
       "temporary",
       "permanent",
-      "transient"
+      "fleeting"
     ],
     "answer": "permanent"
   },
@@ -273,8 +2623,8 @@
     "question": "'Obfuscate' is to confuse as 'lucidity' is to",
     "options": [
       "clearness",
-      "darkness",
       "confusion",
+      "darkness",
       "opacity"
     ],
     "answer": "clearness"
@@ -282,40 +2632,190 @@
   {
     "question": "The juxtaposition of contrasting ideas creates",
     "options": [
-      "paradox",
-      "metaphor",
+      "synecdoche",
       "metonymy",
-      "synecdoche"
+      "paradox",
+      "metaphor"
     ],
     "answer": "paradox"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "Analyse the tone in: 'I simply adore waiting'",
     "options": [
-      "sincere",
       "sarcastic",
+      "nostalgic",
       "melancholic",
-      "nostalgic"
+      "sincere"
     ],
     "answer": "sarcastic"
+  },
+  {
+    "question": "'Pellucid' explanation would be",
+    "options": [
+      "crystal clear",
+      "confusing",
+      "ambiguous",
+      "vague"
+    ],
+    "answer": "crystal clear"
+  },
+  {
+    "question": "'Sagacious' means",
+    "options": [
+      "foolish",
+      "stubborn",
+      "wise and discerning",
+      "courageous"
+    ],
+    "answer": "wise and discerning"
+  },
+  {
+    "question": "'Ineluctable' means",
+    "options": [
+      "inevitable",
+      "possible to avoid",
+      "avoidable",
+      "doubtful"
+    ],
+    "answer": "inevitable"
+  },
+  {
+    "question": "'Serendipity' means",
+    "options": [
+      "searching",
+      "tranquility",
+      "being serene",
+      "fortunate discovery by chance"
+    ],
+    "answer": "fortunate discovery by chance"
+  },
+  {
+    "question": "'Fastidious' person is",
+    "options": [
+      "careless",
+      "flexible",
+      "easy-going",
+      "particular about details"
+    ],
+    "answer": "particular about details"
+  },
+  {
+    "question": "An alliteration is",
+    "options": [
+      "rhyming words",
+      "repeated initial sounds",
+      "opposite meaning",
+      "extended metaphor"
+    ],
+    "answer": "repeated initial sounds"
+  },
+  {
+    "question": "Personification gives",
+    "options": [
+      "human qualities to objects",
+      "weakness to strong",
+      "objects to humans",
+      "power to weak"
+    ],
+    "answer": "human qualities to objects"
+  },
+  {
+    "question": "A soliloquy is",
+    "options": [
+      "conversation",
+      "group discussion",
+      "narrator comment",
+      "character speaking alone"
+    ],
+    "answer": "character speaking alone"
+  },
+  {
+    "question": "Symbolism uses",
+    "options": [
+      "obvious meaning",
+      "literal language",
+      "direct statements",
+      "hidden meanings through symbols"
+    ],
+    "answer": "hidden meanings through symbols"
+  },
+  {
+    "question": "The antonym of 'sanguine' is",
+    "options": [
+      "pessimistic",
+      "happy",
+      "excited",
+      "optimistic"
+    ],
+    "answer": "pessimistic"
+  },
+  {
+    "question": "'Pusillanimous' behaviour shows",
+    "options": [
+      "bravery",
+      "intelligence",
+      "cowardice",
+      "kindness"
+    ],
+    "answer": "cowardice"
+  },
+  {
+    "question": "An oxymoron is",
+    "options": [
+      "dark night",
+      "beautiful flower",
+      "bright sun",
+      "bittersweet experience"
+    ],
+    "answer": "bittersweet experience"
+  },
+  {
+    "question": "Epistasis means",
+    "options": [
+      "mutation",
+      "one gene masks another",
+      "genes assort independently",
+      "genes are linked"
+    ],
+    "answer": "one gene masks another"
+  },
+  {
+    "question": "Metonymy uses",
+    "options": [
+      "exaggeration",
+      "direct comparison",
+      "substitution of names",
+      "repetition"
+    ],
+    "answer": "substitution of names"
+  },
+  {
+    "question": "Hyperbole is",
+    "options": [
+      "sarcasm",
+      "understatement",
+      "irony",
+      "extreme exaggeration"
+    ],
+    "answer": "extreme exaggeration"
   },
   {
     "question": "The word 'perspicacious' most nearly means",
     "options": [
-      "transparent",
       "keen in judgment",
       "clear vision",
-      "curious"
+      "curious",
+      "transparent"
     ],
     "answer": "keen in judgment"
   },
   {
     "question": "Which is NOT a synonym of 'ephemeral'?",
     "options": [
-      "fleeting",
-      "temporary",
       "permanent",
-      "transient"
+      "temporary",
+      "transient",
+      "fleeting"
     ],
     "answer": "permanent"
   },
@@ -323,2680 +2823,180 @@
     "question": "'Obfuscate' is to confuse as 'lucidity' is to",
     "options": [
       "clearness",
+      "opacity",
       "darkness",
-      "confusion",
-      "opacity"
+      "confusion"
     ],
     "answer": "clearness"
   },
   {
     "question": "The juxtaposition of contrasting ideas creates",
     "options": [
-      "paradox",
-      "metaphor",
+      "synecdoche",
       "metonymy",
-      "synecdoche"
+      "paradox",
+      "metaphor"
     ],
     "answer": "paradox"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "Analyse the tone in: 'I simply adore waiting'",
     "options": [
       "sincere",
-      "sarcastic",
       "melancholic",
-      "nostalgic"
+      "nostalgic",
+      "sarcastic"
     ],
     "answer": "sarcastic"
   },
   {
-    "question": "The word 'perspicacious' most nearly means",
+    "question": "'Pellucid' explanation would be",
     "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
+      "vague",
+      "confusing",
+      "crystal clear",
+      "ambiguous"
     ],
-    "answer": "keen in judgment"
+    "answer": "crystal clear"
   },
   {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "question": "'Sagacious' means",
     "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
+      "wise and discerning",
+      "courageous",
+      "foolish",
+      "stubborn"
     ],
-    "answer": "permanent"
+    "answer": "wise and discerning"
   },
   {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "question": "'Ineluctable' means",
     "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
+      "inevitable",
+      "doubtful",
+      "avoidable",
+      "possible to avoid"
     ],
-    "answer": "clearness"
+    "answer": "inevitable"
   },
   {
-    "question": "The juxtaposition of contrasting ideas creates",
+    "question": "'Serendipity' means",
     "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
+      "tranquility",
+      "being serene",
+      "fortunate discovery by chance",
+      "searching"
     ],
-    "answer": "paradox"
+    "answer": "fortunate discovery by chance"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "'Fastidious' person is",
     "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
+      "flexible",
+      "careless",
+      "easy-going",
+      "particular about details"
     ],
-    "answer": "sarcastic"
+    "answer": "particular about details"
   },
   {
-    "question": "The word 'perspicacious' most nearly means",
+    "question": "An alliteration is",
     "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
+      "rhyming words",
+      "repeated initial sounds",
+      "extended metaphor",
+      "opposite meaning"
     ],
-    "answer": "keen in judgment"
+    "answer": "repeated initial sounds"
   },
   {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "question": "Personification gives",
     "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
+      "power to weak",
+      "weakness to strong",
+      "objects to humans",
+      "human qualities to objects"
     ],
-    "answer": "permanent"
+    "answer": "human qualities to objects"
   },
   {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "question": "A soliloquy is",
     "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
+      "group discussion",
+      "conversation",
+      "character speaking alone",
+      "narrator comment"
     ],
-    "answer": "clearness"
+    "answer": "character speaking alone"
   },
   {
-    "question": "The juxtaposition of contrasting ideas creates",
+    "question": "Symbolism uses",
     "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
+      "hidden meanings through symbols",
+      "direct statements",
+      "literal language",
+      "obvious meaning"
     ],
-    "answer": "paradox"
+    "answer": "hidden meanings through symbols"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "The antonym of 'sanguine' is",
     "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
+      "happy",
+      "pessimistic",
+      "excited",
+      "optimistic"
     ],
-    "answer": "sarcastic"
+    "answer": "pessimistic"
   },
   {
-    "question": "The word 'perspicacious' most nearly means",
+    "question": "'Pusillanimous' behaviour shows",
     "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
+      "cowardice",
+      "intelligence",
+      "kindness",
+      "bravery"
     ],
-    "answer": "keen in judgment"
+    "answer": "cowardice"
   },
   {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
+    "question": "An oxymoron is",
     "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
+      "dark night",
+      "bright sun",
+      "beautiful flower",
+      "bittersweet experience"
     ],
-    "answer": "permanent"
+    "answer": "bittersweet experience"
   },
   {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
+    "question": "Epistasis means",
     "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
+      "genes are linked",
+      "one gene masks another",
+      "genes assort independently",
+      "mutation"
     ],
-    "answer": "clearness"
+    "answer": "one gene masks another"
   },
   {
-    "question": "The juxtaposition of contrasting ideas creates",
+    "question": "Metonymy uses",
     "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
+      "repetition",
+      "exaggeration",
+      "direct comparison",
+      "substitution of names"
     ],
-    "answer": "paradox"
+    "answer": "substitution of names"
   },
   {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
+    "question": "Hyperbole is",
     "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
+      "understatement",
+      "extreme exaggeration",
+      "irony",
+      "sarcasm"
     ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
-  },
-  {
-    "question": "The word 'perspicacious' most nearly means",
-    "options": [
-      "transparent",
-      "keen in judgment",
-      "clear vision",
-      "curious"
-    ],
-    "answer": "keen in judgment"
-  },
-  {
-    "question": "Which is NOT a synonym of 'ephemeral'?",
-    "options": [
-      "fleeting",
-      "temporary",
-      "permanent",
-      "transient"
-    ],
-    "answer": "permanent"
-  },
-  {
-    "question": "'Obfuscate' is to confuse as 'lucidity' is to",
-    "options": [
-      "clearness",
-      "darkness",
-      "confusion",
-      "opacity"
-    ],
-    "answer": "clearness"
-  },
-  {
-    "question": "The juxtaposition of contrasting ideas creates",
-    "options": [
-      "paradox",
-      "metaphor",
-      "metonymy",
-      "synecdoche"
-    ],
-    "answer": "paradox"
-  },
-  {
-    "question": "Analyse the tone in: 'I simply adore waiting in long queues'",
-    "options": [
-      "sincere",
-      "sarcastic",
-      "melancholic",
-      "nostalgic"
-    ],
-    "answer": "sarcastic"
+    "answer": "extreme exaggeration"
   }
 ]

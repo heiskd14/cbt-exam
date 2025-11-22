@@ -1,6 +1,6 @@
 [
   {
-    "question": "Quel est le passé composé de 'aller'?",
+    "question": "Le passé composé de 'aller' est",
     "options": [
       "j'ai allé",
       "je suis allé",
@@ -10,17 +10,217 @@
     "answer": "je suis allé"
   },
   {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
+    "question": "Conjuguez 'être' au futur: 'je ___'",
     "options": [
-      "serais",
-      "serai",
       "sois",
-      "étais"
+      "serais",
+      "étais",
+      "serai"
     ],
     "answer": "serai"
   },
   {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "ferai",
+      "ferais",
+      "fasse",
+      "fais"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "au",
+      "sur",
+      "de",
+      "dans"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français mieux que lui",
+      "Elle parle français meilleur que lui",
+      "Elle parle français plus bien que lui",
+      "Elle parle français bien plus que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrire",
+      "écris",
+      "écrit",
+      "écrites"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "initial",
+      "commencement",
+      "ouverture",
+      "fin"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "viendrait",
+      "irait",
+      "aurait",
+      "serait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "conditionnel",
+      "imparfait",
+      "présent",
+      "futur"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "où",
+      "dont",
+      "qui",
+      "que"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "dû",
+      "devoir",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "mieux",
+      "plus bon",
+      "bon plus",
+      "meilleur"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'irais si je pouvais",
+      "J'irais si je peux",
+      "Je vais si je peux",
+      "J'allais si je pouvais"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "ayez",
+      "avons",
+      "ayons",
+      "avez"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "suis",
+      "sois",
+      "serai",
+      "étais"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "un, une, des",
+      "mon, ma, mes",
+      "ce, ces",
+      "ce, cet, cette"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "jouais",
+      "jouerai",
+      "joue",
+      "ai joué"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "suis allé",
+      "irai",
+      "vais",
+      "irais"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "place",
+      "time",
+      "person",
+      "thing"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "time",
+      "possession",
+      "place",
+      "direction"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "j'allais",
+      "je suis allé",
+      "je vais",
+      "j'ai allé"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "serais",
+      "sois",
+      "étais",
+      "serai"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
     "options": [
       "fais",
       "fasse",
@@ -30,2973 +230,2773 @@
     "answer": "fasse"
   },
   {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "dans",
+      "au",
+      "de",
+      "sur"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français bien plus que lui",
+      "Elle parle français mieux que lui",
+      "Elle parle français plus bien que lui",
+      "Elle parle français meilleur que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écris",
+      "écrire",
+      "écrites",
+      "écrit"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "initial",
+      "ouverture",
+      "commencement",
+      "fin"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "serait",
+      "viendrait",
+      "aurait",
+      "irait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "conditionnel",
+      "présent",
+      "imparfait",
+      "futur"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "qui",
+      "dont",
+      "que",
+      "où"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "dû",
+      "dû",
+      "devoir"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "plus bon",
+      "meilleur",
+      "mieux",
+      "bon plus"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'allais si je pouvais",
+      "Je vais si je peux",
+      "J'irais si je pouvais",
+      "J'irais si je peux"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "avons",
+      "ayez",
+      "ayons",
+      "avez"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "sois",
+      "suis",
+      "étais",
+      "serai"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, ces",
+      "ce, cet, cette",
+      "un, une, des",
+      "mon, ma, mes"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "ai joué",
+      "jouais",
+      "joue",
+      "jouerai"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "irais",
+      "suis allé",
+      "irai",
+      "vais"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "person",
+      "place",
+      "thing",
+      "time"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "direction",
+      "possession",
+      "time",
+      "place"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "je suis allé",
+      "j'allais",
+      "je vais",
+      "j'ai allé"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "serai",
+      "serais",
+      "étais",
+      "sois"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "ferais",
+      "fasse",
+      "ferai",
+      "fais"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
     "options": [
       "de",
+      "sur",
+      "dans",
+      "au"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français plus bien que lui",
+      "Elle parle français mieux que lui",
+      "Elle parle français meilleur que lui",
+      "Elle parle français bien plus que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écris",
+      "écrites",
+      "écrit",
+      "écrire"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "ouverture",
+      "initial",
+      "commencement",
+      "fin"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "irait",
+      "viendrait",
+      "serait",
+      "aurait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "imparfait",
+      "présent",
+      "conditionnel",
+      "futur"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "où",
+      "que",
+      "qui",
+      "dont"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "dû",
+      "devoir",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "meilleur",
+      "bon plus",
+      "plus bon",
+      "mieux"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "Je vais si je peux",
+      "J'irais si je peux",
+      "J'irais si je pouvais",
+      "J'allais si je pouvais"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "avons",
+      "ayons",
+      "avez",
+      "ayez"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "étais",
+      "sois",
+      "suis",
+      "serai"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "mon, ma, mes",
+      "un, une, des",
+      "ce, cet, cette",
+      "ce, ces"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "ai joué",
+      "joue",
+      "jouais",
+      "jouerai"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "irai",
+      "vais",
+      "suis allé",
+      "irais"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "person",
+      "thing",
+      "place",
+      "time"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "place",
+      "possession",
+      "direction",
+      "time"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "je vais",
+      "j'ai allé",
+      "j'allais",
+      "je suis allé"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "serais",
+      "serai",
+      "sois",
+      "étais"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "ferais",
+      "ferai",
+      "fais",
+      "fasse"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "dans",
+      "de",
       "au",
+      "sur"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français mieux que lui",
+      "Elle parle français plus bien que lui",
+      "Elle parle français bien plus que lui",
+      "Elle parle français meilleur que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écris",
+      "écrites",
+      "écrit",
+      "écrire"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "fin",
+      "ouverture",
+      "initial",
+      "commencement"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "viendrait",
+      "irait",
+      "aurait",
+      "serait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "imparfait",
+      "conditionnel",
+      "futur",
+      "présent"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "qui",
+      "dont",
+      "que",
+      "où"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "devoir",
+      "dû",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "meilleur",
+      "plus bon",
+      "bon plus",
+      "mieux"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'allais si je pouvais",
+      "J'irais si je peux",
+      "Je vais si je peux",
+      "J'irais si je pouvais"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "avez",
+      "ayons",
+      "ayez",
+      "avons"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "sois",
+      "suis",
+      "étais",
+      "serai"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, ces",
+      "mon, ma, mes",
+      "ce, cet, cette",
+      "un, une, des"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "ai joué",
+      "joue",
+      "jouais",
+      "jouerai"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "irai",
+      "vais",
+      "suis allé",
+      "irais"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "thing",
+      "time",
+      "place",
+      "person"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "time",
+      "place",
+      "possession",
+      "direction"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "je suis allé",
+      "je vais",
+      "j'ai allé",
+      "j'allais"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "serai",
+      "étais",
+      "sois",
+      "serais"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "fais",
+      "ferais",
+      "ferai",
+      "fasse"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "sur",
+      "dans",
+      "au",
+      "de"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français plus bien que lui",
+      "Elle parle français bien plus que lui",
+      "Elle parle français meilleur que lui",
+      "Elle parle français mieux que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrites",
+      "écris",
+      "écrire",
+      "écrit"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "commencement",
+      "fin",
+      "initial",
+      "ouverture"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "viendrait",
+      "irait",
+      "aurait",
+      "serait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "conditionnel",
+      "futur",
+      "présent",
+      "imparfait"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "où",
+      "qui",
+      "dont",
+      "que"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "dû",
+      "devoir",
+      "devoir",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "plus bon",
+      "bon plus",
+      "mieux",
+      "meilleur"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'irais si je pouvais",
+      "Je vais si je peux",
+      "J'allais si je pouvais",
+      "J'irais si je peux"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "ayons",
+      "avez",
+      "avons",
+      "ayez"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "étais",
+      "sois",
+      "suis",
+      "serai"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, cet, cette",
+      "mon, ma, mes",
+      "ce, ces",
+      "un, une, des"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "ai joué",
+      "jouais",
+      "joue",
+      "jouerai"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "vais",
+      "irais",
+      "irai",
+      "suis allé"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "thing",
+      "person",
+      "time",
+      "place"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "place",
+      "time",
+      "possession",
+      "direction"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "je vais",
+      "je suis allé",
+      "j'ai allé",
+      "j'allais"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "étais",
+      "serais",
+      "sois",
+      "serai"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "fasse",
+      "fais",
+      "ferais",
+      "ferai"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "dans",
+      "sur",
+      "au",
+      "de"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français plus bien que lui",
+      "Elle parle français mieux que lui",
+      "Elle parle français meilleur que lui",
+      "Elle parle français bien plus que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrit",
+      "écris",
+      "écrites",
+      "écrire"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "commencement",
+      "ouverture",
+      "fin",
+      "initial"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "aurait",
+      "irait",
+      "viendrait",
+      "serait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "conditionnel",
+      "futur",
+      "présent",
+      "imparfait"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "où",
+      "qui",
+      "que",
+      "dont"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "devoir",
+      "dû",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "meilleur",
+      "plus bon",
+      "mieux",
+      "bon plus"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "Je vais si je peux",
+      "J'allais si je pouvais",
+      "J'irais si je peux",
+      "J'irais si je pouvais"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "ayons",
+      "avez",
+      "ayez",
+      "avons"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "suis",
+      "étais",
+      "serai",
+      "sois"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "mon, ma, mes",
+      "un, une, des",
+      "ce, ces",
+      "ce, cet, cette"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "jouais",
+      "ai joué",
+      "jouerai",
+      "joue"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "irais",
+      "suis allé",
+      "vais",
+      "irai"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "person",
+      "thing",
+      "place",
+      "time"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "place",
+      "direction",
+      "possession",
+      "time"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "j'allais",
+      "je vais",
+      "j'ai allé",
+      "je suis allé"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "sois",
+      "serai",
+      "étais",
+      "serais"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "ferai",
+      "fasse",
+      "fais",
+      "ferais"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "sur",
+      "de",
+      "au",
+      "dans"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français mieux que lui",
+      "Elle parle français plus bien que lui",
+      "Elle parle français bien plus que lui",
+      "Elle parle français meilleur que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrire",
+      "écrites",
+      "écris",
+      "écrit"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "initial",
+      "ouverture",
+      "fin",
+      "commencement"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "aurait",
+      "irait",
+      "serait",
+      "viendrait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "présent",
+      "futur",
+      "conditionnel",
+      "imparfait"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "où",
+      "qui",
+      "que",
+      "dont"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "devoir",
+      "dû",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "bon plus",
+      "mieux",
+      "meilleur",
+      "plus bon"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'irais si je pouvais",
+      "J'allais si je pouvais",
+      "Je vais si je peux",
+      "J'irais si je peux"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "avez",
+      "avons",
+      "ayez",
+      "ayons"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "sois",
+      "étais",
+      "serai",
+      "suis"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "mon, ma, mes",
+      "ce, cet, cette",
+      "un, une, des",
+      "ce, ces"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "joue",
+      "jouerai",
+      "ai joué",
+      "jouais"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "irais",
+      "suis allé",
+      "irai",
+      "vais"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "place",
+      "thing",
+      "time",
+      "person"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "possession",
+      "place",
+      "time",
+      "direction"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "j'allais",
+      "je vais",
+      "je suis allé",
+      "j'ai allé"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "serai",
+      "étais",
+      "sois",
+      "serais"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "fais",
+      "ferais",
+      "ferai",
+      "fasse"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "dans",
+      "de",
+      "au",
+      "sur"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français plus bien que lui",
+      "Elle parle français mieux que lui",
+      "Elle parle français bien plus que lui",
+      "Elle parle français meilleur que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrites",
+      "écrire",
+      "écrit",
+      "écris"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "initial",
+      "fin",
+      "commencement",
+      "ouverture"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "serait",
+      "viendrait",
+      "irait",
+      "aurait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "présent",
+      "imparfait",
+      "futur",
+      "conditionnel"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "où",
+      "dont",
+      "qui",
+      "que"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "dû",
+      "dû",
+      "devoir",
+      "devoir"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "mieux",
+      "bon plus",
+      "plus bon",
+      "meilleur"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "Je vais si je peux",
+      "J'irais si je pouvais",
+      "J'allais si je pouvais",
+      "J'irais si je peux"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "avez",
+      "ayons",
+      "avons",
+      "ayez"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "serai",
+      "sois",
+      "suis",
+      "étais"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, cet, cette",
+      "un, une, des",
+      "ce, ces",
+      "mon, ma, mes"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "jouais",
+      "joue",
+      "jouerai",
+      "ai joué"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "suis allé",
+      "irai",
+      "irais",
+      "vais"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "thing",
+      "place",
+      "person",
+      "time"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "time",
+      "direction",
+      "place",
+      "possession"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "je suis allé",
+      "je vais",
+      "j'ai allé",
+      "j'allais"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "sois",
+      "étais",
+      "serai",
+      "serais"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "ferais",
+      "fais",
+      "ferai",
+      "fasse"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "de",
+      "dans",
+      "sur",
+      "au"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français plus bien que lui",
+      "Elle parle français mieux que lui",
+      "Elle parle français meilleur que lui",
+      "Elle parle français bien plus que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrire",
+      "écris",
+      "écrites",
+      "écrit"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "ouverture",
+      "initial",
+      "commencement",
+      "fin"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "serait",
+      "irait",
+      "aurait",
+      "viendrait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "présent",
+      "imparfait",
+      "futur",
+      "conditionnel"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "dont",
+      "que",
+      "où",
+      "qui"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "dû",
+      "dû",
+      "devoir",
+      "devoir"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "meilleur",
+      "bon plus",
+      "plus bon",
+      "mieux"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'allais si je pouvais",
+      "J'irais si je pouvais",
+      "J'irais si je peux",
+      "Je vais si je peux"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "ayez",
+      "avons",
+      "avez",
+      "ayons"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "étais",
+      "suis",
+      "sois",
+      "serai"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, cet, cette",
+      "mon, ma, mes",
+      "un, une, des",
+      "ce, ces"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "ai joué",
+      "jouais",
+      "jouerai",
+      "joue"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "vais",
+      "irai",
+      "irais",
+      "suis allé"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "time",
+      "thing",
+      "person",
+      "place"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "possession",
+      "direction",
+      "time",
+      "place"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "j'ai allé",
+      "je vais",
+      "j'allais",
+      "je suis allé"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "serai",
+      "étais",
+      "serais",
+      "sois"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "ferais",
+      "fasse",
+      "fais",
+      "ferai"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "au",
+      "de",
       "sur",
       "dans"
     ],
     "answer": "au"
   },
   {
-    "question": "Traduisez: 'She speaks French better than he does'",
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français mieux que lui",
+      "Elle parle français meilleur que lui",
+      "Elle parle français bien plus que lui",
+      "Elle parle français plus bien que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrire",
+      "écrit",
+      "écrites",
+      "écris"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "fin",
+      "ouverture",
+      "commencement",
+      "initial"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "aurait",
+      "viendrait",
+      "serait",
+      "irait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "conditionnel",
+      "présent",
+      "imparfait",
+      "futur"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "que",
+      "qui",
+      "où",
+      "dont"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "devoir",
+      "dû",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "bon plus",
+      "meilleur",
+      "plus bon",
+      "mieux"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'allais si je pouvais",
+      "J'irais si je pouvais",
+      "J'irais si je peux",
+      "Je vais si je peux"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "avons",
+      "ayons",
+      "avez",
+      "ayez"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "sois",
+      "suis",
+      "étais",
+      "serai"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, cet, cette",
+      "un, une, des",
+      "ce, ces",
+      "mon, ma, mes"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "ai joué",
+      "jouais",
+      "joue",
+      "jouerai"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "suis allé",
+      "irai",
+      "vais",
+      "irais"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "person",
+      "time",
+      "place",
+      "thing"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "time",
+      "possession",
+      "place",
+      "direction"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "je suis allé",
+      "je vais",
+      "j'ai allé",
+      "j'allais"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "sois",
+      "serais",
+      "serai",
+      "étais"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "fasse",
+      "fais",
+      "ferai",
+      "ferais"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "sur",
+      "de",
+      "dans",
+      "au"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
     "options": [
       "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
       "Elle parle français mieux que lui",
+      "Elle parle français meilleur que lui",
       "Elle parle français bien plus que lui"
     ],
     "answer": "Elle parle français mieux que lui"
   },
   {
-    "question": "Quel est le passé composé de 'aller'?",
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrire",
+      "écris",
+      "écrites",
+      "écrit"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "fin",
+      "commencement",
+      "ouverture",
+      "initial"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "aurait",
+      "serait",
+      "viendrait",
+      "irait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "présent",
+      "futur",
+      "conditionnel",
+      "imparfait"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "où",
+      "que",
+      "qui",
+      "dont"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "dû",
+      "devoir",
+      "dû",
+      "devoir"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "bon plus",
+      "mieux",
+      "meilleur",
+      "plus bon"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'irais si je pouvais",
+      "J'irais si je peux",
+      "Je vais si je peux",
+      "J'allais si je pouvais"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "avez",
+      "ayez",
+      "ayons",
+      "avons"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "serai",
+      "étais",
+      "sois",
+      "suis"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, ces",
+      "un, une, des",
+      "mon, ma, mes",
+      "ce, cet, cette"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "joue",
+      "jouais",
+      "ai joué",
+      "jouerai"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "vais",
+      "irai",
+      "irais",
+      "suis allé"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "person",
+      "time",
+      "thing",
+      "place"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "place",
+      "possession",
+      "time",
+      "direction"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
     "options": [
       "j'ai allé",
       "je suis allé",
+      "je vais",
+      "j'allais"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "sois",
+      "serai",
+      "étais",
+      "serais"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "ferais",
+      "ferai",
+      "fais",
+      "fasse"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "au",
+      "de",
+      "sur",
+      "dans"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français meilleur que lui",
+      "Elle parle français mieux que lui",
+      "Elle parle français bien plus que lui",
+      "Elle parle français plus bien que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrites",
+      "écrire",
+      "écrit",
+      "écris"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "commencement",
+      "fin",
+      "initial",
+      "ouverture"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "aurait",
+      "viendrait",
+      "serait",
+      "irait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "conditionnel",
+      "imparfait",
+      "futur",
+      "présent"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "où",
+      "qui",
+      "que",
+      "dont"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "devoir",
+      "dû",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "bon plus",
+      "mieux",
+      "plus bon",
+      "meilleur"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'allais si je pouvais",
+      "J'irais si je pouvais",
+      "J'irais si je peux",
+      "Je vais si je peux"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "avez",
+      "avons",
+      "ayez",
+      "ayons"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "sois",
+      "suis",
+      "étais",
+      "serai"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, ces",
+      "un, une, des",
+      "mon, ma, mes",
+      "ce, cet, cette"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "ai joué",
+      "joue",
+      "jouerai",
+      "jouais"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "suis allé",
+      "vais",
+      "irai",
+      "irais"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "place",
+      "person",
+      "time",
+      "thing"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "possession",
+      "time",
+      "place",
+      "direction"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "je vais",
+      "je suis allé",
+      "j'ai allé",
+      "j'allais"
+    ],
+    "answer": "je suis allé"
+  },
+  {
+    "question": "Conjuguez 'être' au futur: 'je ___'",
+    "options": [
+      "serais",
+      "étais",
+      "sois",
+      "serai"
+    ],
+    "answer": "serai"
+  },
+  {
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
+    "options": [
+      "fasse",
+      "ferais",
+      "fais",
+      "ferai"
+    ],
+    "answer": "fasse"
+  },
+  {
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
+    "options": [
+      "au",
+      "de",
+      "sur",
+      "dans"
+    ],
+    "answer": "au"
+  },
+  {
+    "question": "She speaks French better than he does",
+    "options": [
+      "Elle parle français meilleur que lui",
+      "Elle parle français bien plus que lui",
+      "Elle parle français mieux que lui",
+      "Elle parle français plus bien que lui"
+    ],
+    "answer": "Elle parle français mieux que lui"
+  },
+  {
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
+    "options": [
+      "écrit",
+      "écrites",
+      "écrire",
+      "écris"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "ouverture",
+      "commencement",
+      "fin",
+      "initial"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "serait",
+      "viendrait",
+      "aurait",
+      "irait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "imparfait",
+      "présent",
+      "futur",
+      "conditionnel"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "dont",
+      "que",
+      "où",
+      "qui"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "dû",
+      "devoir",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "plus bon",
+      "mieux",
+      "bon plus",
+      "meilleur"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'irais si je pouvais",
+      "J'allais si je pouvais",
+      "Je vais si je peux",
+      "J'irais si je peux"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "ayez",
+      "avons",
+      "ayons",
+      "avez"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "sois",
+      "étais",
+      "serai",
+      "suis"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, cet, cette",
+      "mon, ma, mes",
+      "ce, ces",
+      "un, une, des"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "joue",
+      "jouerai",
+      "ai joué",
+      "jouais"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "vais",
+      "suis allé",
+      "irais",
+      "irai"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "person",
+      "thing",
+      "place",
+      "time"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "possession",
+      "time",
+      "place",
+      "direction"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
       "j'allais",
+      "j'ai allé",
+      "je suis allé",
       "je vais"
     ],
     "answer": "je suis allé"
   },
   {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
+    "question": "Conjuguez 'être' au futur: 'je ___'",
     "options": [
       "serais",
-      "serai",
       "sois",
-      "étais"
+      "étais",
+      "serai"
     ],
     "answer": "serai"
   },
   {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
     "options": [
-      "fais",
-      "fasse",
       "ferais",
-      "ferai"
+      "fasse",
+      "ferai",
+      "fais"
     ],
     "answer": "fasse"
   },
   {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
     "options": [
-      "de",
       "au",
       "sur",
-      "dans"
+      "dans",
+      "de"
     ],
     "answer": "au"
   },
   {
-    "question": "Traduisez: 'She speaks French better than he does'",
+    "question": "She speaks French better than he does",
     "options": [
+      "Elle parle français mieux que lui",
       "Elle parle français plus bien que lui",
       "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
       "Elle parle français bien plus que lui"
     ],
     "answer": "Elle parle français mieux que lui"
   },
   {
-    "question": "Quel est le passé composé de 'aller'?",
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
     "options": [
-      "j'ai allé",
-      "je suis allé",
+      "écrire",
+      "écrites",
+      "écris",
+      "écrit"
+    ],
+    "answer": "écrit"
+  },
+  {
+    "question": "L'antonyme de 'début' est",
+    "options": [
+      "fin",
+      "ouverture",
+      "initial",
+      "commencement"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "serait",
+      "viendrait",
+      "irait",
+      "aurait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "conditionnel",
+      "présent",
+      "futur",
+      "imparfait"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "dont",
+      "où",
+      "que",
+      "qui"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "dû",
+      "dû",
+      "devoir",
+      "devoir"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "meilleur",
+      "plus bon",
+      "mieux",
+      "bon plus"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "Je vais si je peux",
+      "J'allais si je pouvais",
+      "J'irais si je peux",
+      "J'irais si je pouvais"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "avons",
+      "ayons",
+      "avez",
+      "ayez"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "sois",
+      "suis",
+      "serai",
+      "étais"
+    ],
+    "answer": "sois"
+  },
+  {
+    "question": "Les adjectifs possessifs incluent",
+    "options": [
+      "ce, ces",
+      "mon, ma, mes",
+      "ce, cet, cette",
+      "un, une, des"
+    ],
+    "answer": "mon, ma, mes"
+  },
+  {
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
+    "options": [
+      "jouais",
+      "joue",
+      "jouerai",
+      "ai joué"
+    ],
+    "answer": "jouais"
+  },
+  {
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
+    "options": [
+      "suis allé",
+      "vais",
+      "irais",
+      "irai"
+    ],
+    "answer": "irais"
+  },
+  {
+    "question": "Où is used for",
+    "options": [
+      "place",
+      "person",
+      "thing",
+      "time"
+    ],
+    "answer": "place"
+  },
+  {
+    "question": "Dont is used for",
+    "options": [
+      "possession",
+      "time",
+      "place",
+      "direction"
+    ],
+    "answer": "possession"
+  },
+  {
+    "question": "Le passé composé de 'aller' est",
+    "options": [
+      "je vais",
       "j'allais",
-      "je vais"
+      "je suis allé",
+      "j'ai allé"
     ],
     "answer": "je suis allé"
   },
   {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
+    "question": "Conjuguez 'être' au futur: 'je ___'",
     "options": [
       "serais",
-      "serai",
       "sois",
-      "étais"
+      "étais",
+      "serai"
     ],
     "answer": "serai"
   },
   {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
+    "question": "Le subjonctif de 'faire': 'il faut que je ___'",
     "options": [
-      "fais",
-      "fasse",
       "ferais",
-      "ferai"
+      "fasse",
+      "ferai",
+      "fais"
     ],
     "answer": "fasse"
   },
   {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
+    "question": "Complétez: 'Je vais au cinéma ___ samedi'",
     "options": [
       "de",
-      "au",
       "sur",
+      "au",
       "dans"
     ],
     "answer": "au"
   },
   {
-    "question": "Traduisez: 'She speaks French better than he does'",
+    "question": "She speaks French better than he does",
     "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
       "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
+      "Elle parle français bien plus que lui",
+      "Elle parle français plus bien que lui",
+      "Elle parle français meilleur que lui"
     ],
     "answer": "Elle parle français mieux que lui"
   },
   {
-    "question": "Quel est le passé composé de 'aller'?",
+    "question": "Accord du participe avec 'avoir': 'Les lettres qu'il a ___'",
     "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
+      "écrire",
+      "écrites",
+      "écrit",
+      "écris"
     ],
-    "answer": "je suis allé"
+    "answer": "écrit"
   },
   {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
+    "question": "L'antonyme de 'début' est",
     "options": [
-      "serais",
-      "serai",
+      "fin",
+      "initial",
+      "commencement",
+      "ouverture"
+    ],
+    "answer": "fin"
+  },
+  {
+    "question": "'S'il avait su, il ___ venu'",
+    "options": [
+      "viendrait",
+      "irait",
+      "aurait",
+      "serait"
+    ],
+    "answer": "serait"
+  },
+  {
+    "question": "Le temps après 'si' est",
+    "options": [
+      "imparfait",
+      "conditionnel",
+      "présent",
+      "futur"
+    ],
+    "answer": "imparfait"
+  },
+  {
+    "question": "Pronom relatif correct: 'L'homme ___ j'ai rencontré'",
+    "options": [
+      "qui",
+      "où",
+      "dont",
+      "que"
+    ],
+    "answer": "que"
+  },
+  {
+    "question": "Passé récent: 'Je viens de ___'",
+    "options": [
+      "devoir",
+      "dû",
+      "devoir",
+      "dû"
+    ],
+    "answer": "devoir"
+  },
+  {
+    "question": "Comparatif de 'bon' est",
+    "options": [
+      "mieux",
+      "meilleur",
+      "plus bon",
+      "bon plus"
+    ],
+    "answer": "meilleur"
+  },
+  {
+    "question": "I would go if I could",
+    "options": [
+      "J'irais si je peux",
+      "Je vais si je peux",
+      "J'irais si je pouvais",
+      "J'allais si je pouvais"
+    ],
+    "answer": "J'irais si je pouvais"
+  },
+  {
+    "question": "Impératif de 'avoir': 'Nous ___!'",
+    "options": [
+      "ayez",
+      "avez",
+      "avons",
+      "ayons"
+    ],
+    "answer": "ayons"
+  },
+  {
+    "question": "Bien que je ___ malade, je suis venu",
+    "options": [
+      "étais",
       "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
       "serai",
-      "sois",
-      "étais"
+      "suis"
     ],
-    "answer": "serai"
+    "answer": "sois"
   },
   {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
+    "question": "Les adjectifs possessifs incluent",
     "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
+      "un, une, des",
+      "ce, ces",
+      "ce, cet, cette",
+      "mon, ma, mes"
     ],
-    "answer": "fasse"
+    "answer": "mon, ma, mes"
   },
   {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
+    "question": "Imparfait: 'Quand j'étais enfant, je ___'",
     "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
+      "jouais",
+      "ai joué",
+      "jouerai",
+      "joue"
     ],
-    "answer": "au"
+    "answer": "jouais"
   },
   {
-    "question": "Traduisez: 'She speaks French better than he does'",
+    "question": "Conditional: 'Si j'avais le temps, je ___'",
     "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
+      "vais",
+      "suis allé",
+      "irai",
+      "irais"
     ],
-    "answer": "Elle parle français mieux que lui"
+    "answer": "irais"
   },
   {
-    "question": "Quel est le passé composé de 'aller'?",
+    "question": "Où is used for",
     "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
+      "person",
+      "thing",
+      "place",
+      "time"
     ],
-    "answer": "je suis allé"
+    "answer": "place"
   },
   {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
+    "question": "Dont is used for",
     "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
+      "direction",
+      "place",
+      "possession",
+      "time"
     ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
-  },
-  {
-    "question": "Quel est le passé composé de 'aller'?",
-    "options": [
-      "j'ai allé",
-      "je suis allé",
-      "j'allais",
-      "je vais"
-    ],
-    "answer": "je suis allé"
-  },
-  {
-    "question": "Conjuguez 'être' au futur simple: 'je ___'",
-    "options": [
-      "serais",
-      "serai",
-      "sois",
-      "étais"
-    ],
-    "answer": "serai"
-  },
-  {
-    "question": "Le subjonctif présent de 'faire' est: 'il faut que je ___'",
-    "options": [
-      "fais",
-      "fasse",
-      "ferais",
-      "ferai"
-    ],
-    "answer": "fasse"
-  },
-  {
-    "question": "Quel mot complète: 'Je vais au cinéma ___ samedi'?",
-    "options": [
-      "de",
-      "au",
-      "sur",
-      "dans"
-    ],
-    "answer": "au"
-  },
-  {
-    "question": "Traduisez: 'She speaks French better than he does'",
-    "options": [
-      "Elle parle français plus bien que lui",
-      "Elle parle français meilleur que lui",
-      "Elle parle français mieux que lui",
-      "Elle parle français bien plus que lui"
-    ],
-    "answer": "Elle parle français mieux que lui"
+    "answer": "possession"
   }
 ]
