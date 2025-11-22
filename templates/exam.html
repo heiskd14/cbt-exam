@@ -53,11 +53,11 @@
 <div class="exam-body">
     <div class="question-section">
         <h2 class="question-number">Question {{ current_question + 1 }} of {{ total_questions }}</h2>
-        <p class="question-text">{{ question.question }}</p>
+        <p class="question-text">{{ question.Question }}</p>
         
         <form id="answer-form">
             <div class="options">
-                {% for option in question.options %}
+                {% for option in question.Options %}
                 {% set idx = loop.index0 %}
                 <label class="option {% if answers[current_question] == idx %}selected{% endif %}">
                     <input type="radio" 
