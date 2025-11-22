@@ -205,6 +205,18 @@ def navigate():
         new_subject = request.form.get('subject')
         session['current_subject'] = new_subject
         session['current_question'] = 0
+    elif action == 'prev_subject':
+        subjects = list(session['subject_questions'].keys())
+        current_idx = subjects.index(current_subject)
+        if current_idx > 0:
+            session['current_subject'] = subjects[current_idx - 1]
+            session['current_question'] = 0
+    elif action == 'next_subject':
+        subjects = list(session['subject_questions'].keys())
+        current_idx = subjects.index(current_subject)
+        if current_idx < len(subjects) - 1:
+            session['current_subject'] = subjects[current_idx + 1]
+            session['current_question'] = 0
     
     session.modified = True
     return redirect(url_for('exam'))

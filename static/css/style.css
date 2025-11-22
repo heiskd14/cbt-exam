@@ -113,11 +113,41 @@ html, body {
 
 .exam-header {
     background-color: #137a13;
-    padding: 15px 25px;
+    padding: 15px 10px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    gap: 10px;
+}
+
+.subject-navigation {
+    display: flex;
+    gap: 5px;
+}
+
+.subject-nav-btn {
+    background-color: #0f6610;
+    color: white;
+    border: none;
+    padding: 10px 12px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.subject-nav-btn:hover:not(:disabled) {
+    background-color: #065c06;
+}
+
+.subject-nav-btn:disabled {
+    background-color: #999;
+    cursor: not-allowed;
+    opacity: 0.6;
 }
 
 .subject-tabs {
@@ -131,8 +161,7 @@ html, body {
     scrollbar-width: thin;
     scroll-behavior: smooth;
     min-width: 0;
-    width: 100%;
-    max-width: calc(100vw - 200px);
+    max-width: 60vw;
 }
 
 .subject-tab {
@@ -189,14 +218,20 @@ html, body {
     background: rgba(255, 255, 255, 0.2);
     border: 2px solid #fff;
     color: white;
-    font-size: 16px;
-    font-weight: bold;
     cursor: pointer;
-    padding: 8px 12px;
+    padding: 8px 10px;
     border-radius: 6px;
     transition: all 0.3s;
     white-space: nowrap;
     flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calculator-btn svg {
+    width: 20px;
+    height: 20px;
 }
 
 .calculator-btn:hover {
