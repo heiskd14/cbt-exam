@@ -66,9 +66,9 @@ def select_subjects():
     
     selected_subjects = request.form.getlist('subjects')
     
-    if len(selected_subjects) != 4:
+    if len(selected_subjects) < 1:
         all_subjects = ["English", "Mathematics", "Chemistry", "Physics", "Biology"]
-        error = "Please select exactly 4 subjects"
+        error = "Please select at least 1 subject"
         return render_template('subject_selection.html', subjects=all_subjects, error=error)
     
     subject_files = {
@@ -86,7 +86,9 @@ def select_subjects():
         file = subject_files.get(subj)
         if file and os.path.exists(file):
             qs = load_questions(file)
-            subject_questions[subj] = random.sample(qs, min(30, len(qs)))
+            # 60 questions for English, 40 for others
+            num_questions = 60 if subj == "English" else 40
+            subject_questions[subj] = random.sample(qs, min(num_questions, len(qs)))
             subject_answers[subj] = [None] * len(subject_questions[subj])
     
     session['subject_questions'] = subject_questions

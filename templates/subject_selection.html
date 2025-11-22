@@ -5,16 +5,16 @@
 {% block content %}
 <div class="registration-container">
     <div class="registration-box">
-        <h1 class="registration-title">Select 4 Subjects</h1>
+        <h1 class="registration-title">Select Subjects</h1>
         <p style="text-align: center; margin-bottom: 20px; color: #666;">
-            Welcome {{ session.student_info.name }}! Please select exactly 4 subjects for your exam.
+            Welcome {{ session.student_info.name }}! Select at least 1 subject for your exam.
         </p>
         
         {% if error %}
         <div class="error-message">{{ error }}</div>
         {% endif %}
         
-        <form method="POST" action="{{ url_for('select_subjects') }}">
+        <form method="POST" action="{{ url_for('select_subjects') }}" style="width: 100%; overflow: visible;">
             <div class="subjects-grid">
                 {% for subject in subjects %}
                 <div class="subject-checkbox">
@@ -26,10 +26,10 @@
             </div>
             
             <div style="text-align: center; margin-top: 10px; color: #666; font-size: 14px;">
-                <span id="selection-count">Selected: 0/4</span>
+                <span id="selection-count">Selected: 0</span>
             </div>
             
-            <button type="submit" class="btn btn-primary" id="submit-btn" disabled style="margin-top: 30px;">
+            <button type="submit" class="btn btn-primary" id="submit-btn" disabled style="margin-top: 30px; width: 100%;">
                 Start Exam (2 Hours)
             </button>
         </form>
@@ -37,11 +37,31 @@
 </div>
 
 <style>
+    .registration-container {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+        padding: 20px 10px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    
+    .registration-box {
+        background: white;
+        padding: 30px 20px;
+        border-radius: 10px;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 500px;
+    }
+    
     .subjects-grid {
         display: grid;
         grid-template-columns: 1fr;
         gap: 15px;
         margin: 30px 0;
+        width: 100%;
+        overflow: visible;
     }
     
     .subject-checkbox {
@@ -53,19 +73,24 @@
         background: #f9f9f9;
         cursor: pointer;
         transition: all 0.3s ease;
+        width: 100%;
+        box-sizing: border-box;
     }
     
     .subject-checkbox:hover {
         border-color: #007bff;
         background: #f0f7ff;
+        transform: translateX(2px);
     }
     
     .subject-checkbox input[type="checkbox"] {
         width: 20px;
         height: 20px;
+        min-width: 20px;
         cursor: pointer;
         margin-right: 12px;
         accent-color: #007bff;
+        flex-shrink: 0;
     }
     
     .subject-checkbox label {
@@ -73,6 +98,7 @@
         cursor: pointer;
         flex: 1;
         margin: 0;
+        word-wrap: break-word;
     }
     
     .subject-checkbox input[type="checkbox"]:checked + label {
@@ -80,17 +106,27 @@
         color: #007bff;
     }
     
+    #submit-btn {
+        border: none;
+        padding: 12px 20px;
+        font-size: 16px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+    
     #submit-btn:disabled {
-        background-color: #ccc;
+        background-color: #ccc !important;
         cursor: not-allowed;
         opacity: 0.6;
     }
     
     #submit-btn:not(:disabled) {
         background-color: #28a745;
+        color: white;
     }
     
-    #submit-btn:not(:disabled):hover {
+    #submit-btn:not(:disabled):active {
         background-color: #218838;
     }
 </style>
@@ -100,8 +136,8 @@ function updateSelection() {
     const checkboxes = document.querySelectorAll('input[name="subjects"]');
     const checked = Array.from(checkboxes).filter(cb => cb.checked).length;
     
-    document.getElementById('selection-count').textContent = `Selected: ${checked}/4`;
-    document.getElementById('submit-btn').disabled = checked !== 4;
+    document.getElementById('selection-count').textContent = `Selected: ${checked}`;
+    document.getElementById('submit-btn').disabled = checked < 1;
 }
 
 // Initialize on page load
