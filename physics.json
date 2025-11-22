@@ -1,43 +1,743 @@
 [
   {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "10 Hz",
+      "2 Hz",
+      "20 Hz",
+      "5 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "8 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "30°",
+      "60°",
+      "45°",
+      "90°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Erg",
+      "Dyne",
+      "Newton",
+      "Joule"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.5",
+      "1.0",
+      "2.0",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "quadratic",
+      "linear",
+      "cubic",
+      "exponential"
+    ],
+    "answer": "linear"
+  },
+  {
     "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "25 m/s",
       "20 m/s",
+      "10 m/s",
       "15 m/s",
-      "10 m/s"
+      "25 m/s"
     ],
     "answer": "20 m/s"
   },
   {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
-      "3s",
-      "2s",
-      "4s",
-      "1s"
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.5 or 50%",
+      "0.8 or 80%"
     ],
-    "answer": "2s"
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "None",
+      "Radiation",
+      "Convection",
+      "Conduction"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.33",
+      "1.0",
+      "1.5",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "6Ω",
+      "3Ω",
+      "4Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Convection",
+      "Conduction",
+      "Radiation",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "forces are equal and opposite",
+      "one force is stronger",
+      "forces do not affect motion",
+      "stronger force wins"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "30°",
+      "60°",
+      "45°",
+      "90°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.5",
+      "1.33",
+      "1.0",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "linear",
+      "quadratic",
+      "exponential",
+      "cubic"
+    ],
+    "answer": "linear"
   },
   {
     "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
       "20W",
+      "80W",
+      "10W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "25J",
+      "100J",
+      "50J",
+      "200J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "one force is stronger",
+      "forces do not affect motion",
+      "stronger force wins",
+      "forces are equal and opposite"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.0",
+      "2.0",
+      "1.33",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "forces are equal and opposite",
+      "one force is stronger",
+      "stronger force wins",
+      "forces do not affect motion"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "6Ω",
+      "4Ω",
+      "3Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "stronger force wins",
+      "forces do not affect motion",
+      "one force is stronger",
+      "forces are equal and opposite"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "exponential",
+      "quadratic",
+      "linear",
+      "cubic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Erg",
+      "Joule",
+      "Dyne"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Dyne",
+      "Joule",
+      "Erg",
+      "Newton"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "20W",
+      "80W",
+      "10W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "50J",
+      "100J",
+      "25J",
+      "200J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
       "10W",
       "40W",
+      "20W",
       "80W"
     ],
     "answer": "20W"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "40W",
+      "20W",
+      "10W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "3s",
+      "4s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "exponential",
+      "linear",
+      "cubic",
+      "quadratic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "one force is stronger",
+      "forces do not affect motion",
+      "stronger force wins",
+      "forces are equal and opposite"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.8 or 80%",
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.5 or 50%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "6Ω",
+      "2Ω",
+      "4Ω",
+      "3Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.5",
+      "1.33",
+      "2.0",
+      "1.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.5",
+      "1.33",
+      "1.0",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "3s",
+      "4s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "45°",
+      "60°",
+      "30°",
+      "90°"
+    ],
+    "answer": "45°"
   },
   {
     "question": "What is the SI unit of force?",
     "options": [
       "Joule",
       "Newton",
-      "Erg",
-      "Dyne"
+      "Dyne",
+      "Erg"
     ],
     "answer": "Newton"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Radiation",
+      "Convection",
+      "Conduction",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "2s",
+      "1s",
+      "4s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "5 Hz",
+      "20 Hz",
+      "10 Hz",
+      "2 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "exponential",
+      "linear",
+      "quadratic",
+      "cubic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.8 or 80%",
+      "0.5 or 50%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "20 m/s",
+      "10 m/s",
+      "25 m/s",
+      "15 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "stronger force wins",
+      "forces do not affect motion",
+      "forces are equal and opposite",
+      "one force is stronger"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "20 m/s",
+      "10 m/s",
+      "15 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "2000 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "4200 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "10 Hz",
+      "20 Hz",
+      "5 Hz",
+      "2 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Erg",
+      "Joule",
+      "Dyne",
+      "Newton"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.33",
+      "1.5",
+      "2.0",
+      "1.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "10W",
+      "20W",
+      "40W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.5 or 50%",
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.8 or 80%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "forces are equal and opposite",
+      "one force is stronger",
+      "stronger force wins",
+      "forces do not affect motion"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.5",
+      "2.0",
+      "1.0",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.9 or 90%",
+      "0.8 or 80%",
+      "0.5 or 50%",
+      "1.0 or 100%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.5 or 50%",
+      "0.8 or 80%",
+      "0.9 or 90%",
+      "1.0 or 100%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "quadratic",
+      "linear",
+      "cubic",
+      "exponential"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "4 m/s²",
+      "8 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "100J",
+      "200J",
+      "25J",
+      "50J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "stronger force wins",
+      "forces do not affect motion",
+      "forces are equal and opposite",
+      "one force is stronger"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "one force is stronger",
+      "stronger force wins",
+      "forces do not affect motion",
+      "forces are equal and opposite"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "4Ω",
+      "6Ω",
+      "3Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "2s",
+      "4s",
+      "1s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "quadratic",
+      "cubic",
+      "exponential",
+      "linear"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "None",
+      "Conduction",
+      "Radiation",
+      "Convection"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "20 Hz",
+      "5 Hz",
+      "10 Hz",
+      "2 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "50J",
+      "200J",
+      "25J",
+      "100J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Dyne",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "5 m/s²",
+      "4 m/s²",
+      "6 m/s²",
+      "8 m/s²"
+    ],
+    "answer": "6 m/s²"
   },
   {
     "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
@@ -52,60 +752,200 @@
   {
     "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "4 m/s²",
-      "5 m/s²",
       "6 m/s²",
+      "5 m/s²",
+      "4 m/s²",
       "8 m/s²"
     ],
     "answer": "6 m/s²"
   },
   {
-    "question": "What is the refractive index of water?",
+    "question": "Identify the angle at which range is maximum for projectile motion:",
     "options": [
-      "1.33",
-      "1.0",
-      "1.5",
-      "2.0"
+      "60°",
+      "90°",
+      "30°",
+      "45°"
     ],
-    "answer": "1.33"
+    "answer": "45°"
   },
   {
-    "question": "Identify the type of heat transfer that requires a medium:",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "Radiation",
-      "Convection",
-      "Conduction",
-      "None"
+      "8 m/s²",
+      "6 m/s²",
+      "5 m/s²",
+      "4 m/s²"
     ],
-    "answer": "Convection"
+    "answer": "6 m/s²"
   },
   {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "10 Hz",
-      "2 Hz",
-      "20 Hz",
-      "5 Hz"
+      "6 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "8 m/s²"
     ],
-    "answer": "5 Hz"
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "2s",
+      "4s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "60°",
+      "45°",
+      "90°",
+      "30°"
+    ],
+    "answer": "45°"
   },
   {
     "question": "What is the specific heat capacity of water in SI units?",
     "options": [
+      "1000 J/(kg·K)",
       "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
       "8400 J/(kg·K)",
-      "1000 J/(kg·K)"
+      "2000 J/(kg·K)"
     ],
     "answer": "4200 J/(kg·K)"
   },
   {
     "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
+      "50J",
+      "100J",
       "25J",
+      "200J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Erg",
+      "Newton",
+      "Joule",
+      "Dyne"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "2000 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "stronger force wins",
+      "forces are equal and opposite",
+      "forces do not affect motion",
+      "one force is stronger"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.33",
+      "1.5",
+      "2.0",
+      "1.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "10W",
+      "40W",
+      "20W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Erg",
+      "Newton",
+      "Dyne"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "200J",
+      "100J",
+      "50J",
+      "25J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "2s",
+      "1s",
+      "4s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "50J",
+      "25J",
+      "200J",
+      "100J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "1.0 or 100%",
+      "0.5 or 50%",
+      "0.8 or 80%",
+      "0.9 or 90%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "10 m/s",
+      "25 m/s",
+      "15 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "50J",
       "100J",
       "200J",
-      "50J"
+      "25J"
     ],
     "answer": "200J"
   },
@@ -113,101 +953,71 @@
     "question": "Identify the angle at which range is maximum for projectile motion:",
     "options": [
       "45°",
-      "90°",
       "30°",
-      "60°"
+      "60°",
+      "90°"
     ],
     "answer": "45°"
   },
   {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "quadratic",
-      "cubic",
-      "exponential",
-      "linear"
+      "4 m/s²",
+      "6 m/s²",
+      "8 m/s²",
+      "5 m/s²"
     ],
-    "answer": "linear"
+    "answer": "6 m/s²"
   },
   {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
-      "1.0 or 100%",
-      "0.8 or 80%",
-      "0.5 or 50%",
-      "0.9 or 90%"
+      "4Ω",
+      "2Ω",
+      "6Ω",
+      "3Ω"
     ],
-    "answer": "0.8 or 80%"
+    "answer": "4Ω"
   },
   {
-    "question": "Which statement about Newton's 3rd law is correct?",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "one force is stronger",
-      "forces do not affect motion",
-      "forces are equal and opposite",
-      "stronger force wins"
+      "Radiation",
+      "None",
+      "Convection",
+      "Conduction"
     ],
-    "answer": "forces are equal and opposite"
+    "answer": "Convection"
   },
   {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
-      "25J",
-      "75J",
-      "50J",
-      "10J"
+      "6 m/s²",
+      "8 m/s²",
+      "4 m/s²",
+      "5 m/s²"
     ],
-    "answer": "25J"
+    "answer": "6 m/s²"
   },
   {
-    "question": "The center of gravity of a uniform rod is at:",
+    "question": "What is the refractive index of water?",
     "options": [
-      "the middle",
-      "1/4 from end",
-      "the end",
-      "1/3 from end"
+      "2.0",
+      "1.33",
+      "1.0",
+      "1.5"
     ],
-    "answer": "the middle"
+    "answer": "1.33"
   },
   {
-    "question": "What type of lens is used to correct myopia?",
+    "question": "What is the SI unit of force?",
     "options": [
-      "Cylindrical",
-      "Convex",
-      "Diverging",
-      "Concave"
+      "Erg",
+      "Dyne",
+      "Newton",
+      "Joule"
     ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 90°",
-      "angle > critical angle",
-      "angle = 0",
-      "angle < critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "1 Hz",
-      "2 Hz",
-      "4 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "20 m/s",
-      "10 m/s",
-      "25 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
+    "answer": "Newton"
   },
   {
     "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
@@ -220,54 +1030,64 @@
     "answer": "2s"
   },
   {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "question": "Identify the angle at which range is maximum for projectile motion:",
     "options": [
-      "20W",
-      "80W",
-      "40W",
-      "10W"
+      "90°",
+      "45°",
+      "60°",
+      "30°"
     ],
-    "answer": "20W"
+    "answer": "45°"
   },
   {
-    "question": "What is the SI unit of force?",
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
     "options": [
-      "Joule",
-      "Dyne",
-      "Erg",
-      "Newton"
+      "exponential",
+      "linear",
+      "cubic",
+      "quadratic"
     ],
-    "answer": "Newton"
+    "answer": "linear"
   },
   {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "2Ω",
-      "3Ω",
-      "6Ω",
-      "4Ω"
+      "20 m/s",
+      "25 m/s",
+      "15 m/s",
+      "10 m/s"
     ],
-    "answer": "4Ω"
+    "answer": "20 m/s"
   },
   {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "8 m/s²",
-      "6 m/s²",
-      "4 m/s²",
-      "5 m/s²"
+      "Convection",
+      "Radiation",
+      "Conduction",
+      "None"
     ],
-    "answer": "6 m/s²"
+    "answer": "Convection"
   },
   {
-    "question": "What is the refractive index of water?",
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
-      "2.0",
-      "1.33",
-      "1.5",
-      "1.0"
+      "1.0 or 100%",
+      "0.8 or 80%",
+      "0.9 or 90%",
+      "0.5 or 50%"
     ],
-    "answer": "1.33"
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "60°",
+      "90°",
+      "45°",
+      "30°"
+    ],
+    "answer": "45°"
   },
   {
     "question": "Identify the type of heat transfer that requires a medium:",
@@ -280,162 +1100,322 @@
     "answer": "Convection"
   },
   {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "20 Hz",
-      "10 Hz",
-      "2 Hz",
-      "5 Hz"
+      "Conduction",
+      "Radiation",
+      "Convection",
+      "None"
     ],
-    "answer": "5 Hz"
+    "answer": "Convection"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.33",
+      "2.0",
+      "1.0",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "20W",
+      "40W",
+      "10W",
+      "80W"
+    ],
+    "answer": "20W"
   },
   {
     "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
       "4200 J/(kg·K)",
-      "2000 J/(kg·K)"
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)"
     ],
     "answer": "4200 J/(kg·K)"
   },
   {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "2Ω",
+      "4Ω",
+      "6Ω",
+      "3Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "one force is stronger",
+      "stronger force wins",
+      "forces are equal and opposite",
+      "forces do not affect motion"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
     "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
-      "200J",
-      "50J",
       "100J",
+      "50J",
+      "200J",
       "25J"
     ],
     "answer": "200J"
   },
   {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "30°",
-      "60°",
-      "45°",
-      "90°"
+      "10 Hz",
+      "20 Hz",
+      "5 Hz",
+      "2 Hz"
     ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "cubic",
-      "linear",
-      "quadratic",
-      "exponential"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.8 or 80%",
-      "0.9 or 90%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces do not affect motion",
-      "forces are equal and opposite",
-      "one force is stronger",
-      "stronger force wins"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "10J",
-      "25J",
-      "75J",
-      "50J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/3 from end",
-      "the middle",
-      "the end",
-      "1/4 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Concave",
-      "Diverging",
-      "Convex",
-      "Cylindrical"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 90°",
-      "angle < critical angle",
-      "angle = 0",
-      "angle > critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "4 Hz",
-      "2 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
+    "answer": "5 Hz"
   },
   {
     "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
       "15 m/s",
-      "25 m/s",
       "20 m/s",
-      "10 m/s"
+      "10 m/s",
+      "25 m/s"
     ],
     "answer": "20 m/s"
   },
   {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "2 Hz",
+      "10 Hz",
+      "20 Hz",
+      "5 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "50J",
+      "25J",
+      "200J",
+      "100J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.8 or 80%",
+      "0.9 or 90%",
+      "0.5 or 50%",
+      "1.0 or 100%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "10 m/s",
+      "15 m/s",
+      "25 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.0",
+      "1.5",
+      "2.0",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
     "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
     "options": [
-      "4s",
-      "2s",
+      "3s",
       "1s",
-      "3s"
+      "2s",
+      "4s"
     ],
     "answer": "2s"
   },
   {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Erg",
+      "Newton",
+      "Joule",
+      "Dyne"
+    ],
+    "answer": "Newton"
+  },
+  {
     "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
+      "80W",
       "40W",
       "20W",
-      "80W",
       "10W"
     ],
     "answer": "20W"
   },
   {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "25 m/s",
+      "15 m/s",
+      "10 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "4 m/s²",
+      "8 m/s²",
+      "6 m/s²",
+      "5 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "20W",
+      "10W",
+      "80W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "80W",
+      "40W",
+      "10W",
+      "20W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "2 Hz",
+      "10 Hz",
+      "20 Hz",
+      "5 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "cubic",
+      "quadratic",
+      "linear",
+      "exponential"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "90°",
+      "30°",
+      "45°",
+      "60°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "5 Hz",
+      "2 Hz",
+      "10 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "8 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "exponential",
+      "quadratic",
+      "cubic",
+      "linear"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "stronger force wins",
+      "forces do not affect motion",
+      "forces are equal and opposite",
+      "one force is stronger"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "6Ω",
+      "4Ω",
+      "3Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "8 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
     "question": "What is the SI unit of force?",
     "options": [
-      "Joule",
       "Erg",
-      "Newton",
-      "Dyne"
+      "Joule",
+      "Dyne",
+      "Newton"
     ],
     "answer": "Newton"
   },
@@ -444,40 +1424,20 @@
     "options": [
       "3Ω",
       "6Ω",
-      "2Ω",
-      "4Ω"
+      "4Ω",
+      "2Ω"
     ],
     "answer": "4Ω"
   },
   {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
     "question": "What is the refractive index of water?",
     "options": [
+      "1.33",
       "1.0",
       "1.5",
-      "1.33",
       "2.0"
     ],
     "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "None",
-      "Radiation",
-      "Convection",
-      "Conduction"
-    ],
-    "answer": "Convection"
   },
   {
     "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
@@ -490,24 +1450,154 @@
     "answer": "5 Hz"
   },
   {
-    "question": "What is the specific heat capacity of water in SI units?",
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "4200 J/(kg·K)"
+      "6Ω",
+      "4Ω",
+      "2Ω",
+      "3Ω"
     ],
-    "answer": "4200 J/(kg·K)"
+    "answer": "4Ω"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.8 or 80%",
+      "1.0 or 100%",
+      "0.5 or 50%",
+      "0.9 or 90%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "3s",
+      "4s",
+      "1s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "6Ω",
+      "4Ω",
+      "2Ω",
+      "3Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "exponential",
+      "linear",
+      "quadratic",
+      "cubic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "25 m/s",
+      "20 m/s",
+      "15 m/s",
+      "10 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "4s",
+      "1s",
+      "2s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Radiation",
+      "Convection",
+      "Conduction",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.5",
+      "1.0",
+      "1.33",
+      "2.0"
+    ],
+    "answer": "1.33"
   },
   {
     "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
       "200J",
-      "25J",
       "100J",
-      "50J"
+      "50J",
+      "25J"
     ],
     "answer": "200J"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "20 Hz",
+      "5 Hz",
+      "2 Hz",
+      "10 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "2.0",
+      "1.5",
+      "1.0",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.5 or 50%",
+      "0.9 or 90%",
+      "0.8 or 80%",
+      "1.0 or 100%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.5 or 50%",
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.8 or 80%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "40W",
+      "20W",
+      "10W",
+      "80W"
+    ],
+    "answer": "20W"
   },
   {
     "question": "Identify the angle at which range is maximum for projectile motion:",
@@ -520,21 +1610,641 @@
     "answer": "45°"
   },
   {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "2s",
+      "1s",
+      "3s",
+      "4s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "30°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "2s",
+      "3s",
+      "1s",
+      "4s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "5 Hz",
+      "2 Hz",
+      "20 Hz",
+      "10 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "2 Hz",
+      "5 Hz",
+      "10 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Conduction",
+      "Radiation",
+      "None",
+      "Convection"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "6 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "8 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "2s",
+      "4s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "50J",
+      "200J",
+      "100J",
+      "25J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "2Ω",
+      "6Ω",
+      "3Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "4s",
+      "2s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Radiation",
+      "Conduction",
+      "None",
+      "Convection"
+    ],
+    "answer": "Convection"
+  },
+  {
     "question": "The relationship between velocity and time in uniformly accelerated motion is:",
     "options": [
+      "quadratic",
       "linear",
-      "cubic",
       "exponential",
-      "quadratic"
+      "cubic"
     ],
     "answer": "linear"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Conduction",
+      "Radiation",
+      "None",
+      "Convection"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Convection",
+      "Radiation",
+      "Conduction",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "10W",
+      "20W",
+      "80W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "20 m/s",
+      "25 m/s",
+      "15 m/s",
+      "10 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "2s",
+      "1s",
+      "4s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "one force is stronger",
+      "stronger force wins",
+      "forces do not affect motion",
+      "forces are equal and opposite"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "100J",
+      "200J",
+      "50J",
+      "25J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "30°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "60°",
+      "30°",
+      "90°",
+      "45°"
+    ],
+    "answer": "45°"
   },
   {
     "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
       "0.9 or 90%",
       "0.8 or 80%",
+      "0.5 or 50%",
+      "1.0 or 100%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "4 m/s²",
+      "8 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "linear",
+      "quadratic",
+      "exponential",
+      "cubic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "exponential",
+      "cubic",
+      "quadratic",
+      "linear"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "4 m/s²",
+      "5 m/s²",
+      "8 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "60°",
+      "45°",
+      "90°",
+      "30°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "2s",
+      "3s",
+      "1s",
+      "4s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "5 Hz",
+      "2 Hz",
+      "10 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Dyne",
+      "Erg",
+      "Joule"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "2s",
+      "1s",
+      "4s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "4Ω",
+      "3Ω",
+      "2Ω",
+      "6Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Erg",
+      "Joule",
+      "Dyne"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "80W",
+      "20W",
+      "40W",
+      "10W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "45°",
+      "30°",
+      "60°",
+      "90°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.0",
+      "1.33",
+      "2.0",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "linear",
+      "exponential",
+      "cubic",
+      "quadratic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "10W",
+      "80W",
+      "20W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
+    "options": [
+      "20 Hz",
+      "2 Hz",
+      "10 Hz",
+      "5 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "25J",
+      "100J",
+      "200J",
+      "50J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "2.0",
+      "1.0",
+      "1.5",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Convection",
+      "Conduction",
+      "Radiation",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "20W",
+      "10W",
+      "40W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "2Ω",
+      "4Ω",
+      "3Ω",
+      "6Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "3Ω",
+      "4Ω",
+      "2Ω",
+      "6Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.9 or 90%",
       "1.0 or 100%",
+      "0.5 or 50%",
+      "0.8 or 80%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Identify the type of heat transfer that requires a medium:",
+    "options": [
+      "Radiation",
+      "Convection",
+      "None",
+      "Conduction"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.8 or 80%",
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.5 or 50%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "4 m/s²",
+      "8 m/s²",
+      "6 m/s²",
+      "5 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "linear",
+      "exponential",
+      "cubic",
+      "quadratic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "1000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "10 m/s",
+      "15 m/s",
+      "25 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "90°",
+      "45°",
+      "30°",
+      "60°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "80W",
+      "40W",
+      "10W",
+      "20W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "6 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "8 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.8 or 80%",
       "0.5 or 50%"
     ],
     "answer": "0.8 or 80%"
@@ -550,111 +2260,111 @@
     "answer": "forces are equal and opposite"
   },
   {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
-      "50J",
-      "75J",
+      "100J",
+      "200J",
       "25J",
-      "10J"
+      "50J"
     ],
-    "answer": "25J"
+    "answer": "200J"
   },
   {
-    "question": "The center of gravity of a uniform rod is at:",
+    "question": "Which statement about Newton's 3rd law is correct?",
     "options": [
-      "1/3 from end",
-      "the middle",
-      "the end",
-      "1/4 from end"
+      "stronger force wins",
+      "forces do not affect motion",
+      "forces are equal and opposite",
+      "one force is stronger"
     ],
-    "answer": "the middle"
+    "answer": "forces are equal and opposite"
   },
   {
-    "question": "What type of lens is used to correct myopia?",
+    "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "Concave",
-      "Convex",
-      "Diverging",
-      "Cylindrical"
+      "Radiation",
+      "None",
+      "Conduction",
+      "Convection"
     ],
-    "answer": "Concave"
+    "answer": "Convection"
   },
   {
-    "question": "Identify the condition for total internal reflection:",
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
     "options": [
-      "angle = 0",
-      "angle > critical angle",
-      "angle < critical angle",
-      "angle = 90°"
+      "linear",
+      "cubic",
+      "quadratic",
+      "exponential"
     ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "4 Hz",
-      "2 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
+    "answer": "linear"
   },
   {
     "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "25 m/s",
       "15 m/s",
-      "10 m/s",
-      "20 m/s"
+      "20 m/s",
+      "25 m/s",
+      "10 m/s"
     ],
     "answer": "20 m/s"
   },
   {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
-      "3s",
-      "4s",
-      "2s",
-      "1s"
+      "10W",
+      "40W",
+      "20W",
+      "80W"
     ],
-    "answer": "2s"
+    "answer": "20W"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "cubic",
+      "exponential",
+      "quadratic",
+      "linear"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "15 m/s",
+      "20 m/s",
+      "10 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Erg",
+      "Newton",
+      "Dyne",
+      "Joule"
+    ],
+    "answer": "Newton"
   },
   {
     "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
+      "20W",
       "80W",
       "10W",
-      "20W",
       "40W"
     ],
     "answer": "20W"
   },
   {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Dyne",
-      "Newton",
-      "Joule",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "2Ω",
-      "6Ω",
-      "4Ω",
-      "3Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
     "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
     "options": [
       "5 m/s²",
-      "6 m/s²",
       "8 m/s²",
+      "6 m/s²",
       "4 m/s²"
     ],
     "answer": "6 m/s²"
@@ -662,32 +2372,322 @@
   {
     "question": "What is the refractive index of water?",
     "options": [
+      "1.0",
       "1.33",
-      "1.5",
       "2.0",
-      "1.0"
+      "1.5"
     ],
     "answer": "1.33"
   },
   {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "50J",
+      "25J",
+      "200J",
+      "100J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.9 or 90%",
+      "0.5 or 50%",
+      "0.8 or 80%",
+      "1.0 or 100%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "5 m/s²",
+      "6 m/s²",
+      "4 m/s²",
+      "8 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "options": [
+      "45°",
+      "90°",
+      "60°",
+      "30°"
+    ],
+    "answer": "45°"
+  },
+  {
     "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
+      "Conduction",
       "Convection",
       "None",
-      "Conduction",
       "Radiation"
     ],
     "answer": "Convection"
   },
   {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Newton",
+      "Erg",
+      "Dyne",
+      "Joule"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Erg",
+      "Dyne",
+      "Newton"
+    ],
+    "answer": "Newton"
+  },
+  {
     "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "20 Hz",
-      "5 Hz",
       "10 Hz",
+      "5 Hz",
+      "20 Hz",
       "2 Hz"
     ],
     "answer": "5 Hz"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "linear",
+      "quadratic",
+      "exponential",
+      "cubic"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.0",
+      "1.33",
+      "2.0",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "options": [
+      "100J",
+      "25J",
+      "50J",
+      "200J"
+    ],
+    "answer": "200J"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "stronger force wins",
+      "one force is stronger",
+      "forces are equal and opposite",
+      "forces do not affect motion"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "What is the refractive index of water?",
+    "options": [
+      "1.33",
+      "1.0",
+      "1.5",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "options": [
+      "quadratic",
+      "exponential",
+      "cubic",
+      "linear"
+    ],
+    "answer": "linear"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "8 m/s²",
+      "6 m/s²",
+      "5 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "4s",
+      "3s",
+      "2s",
+      "1s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "20 m/s",
+      "10 m/s",
+      "25 m/s",
+      "15 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "options": [
+      "40W",
+      "10W",
+      "20W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "4Ω",
+      "3Ω",
+      "2Ω",
+      "6Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "25 m/s",
+      "10 m/s",
+      "20 m/s",
+      "15 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
+    "options": [
+      "0.5 or 50%",
+      "1.0 or 100%",
+      "0.9 or 90%",
+      "0.8 or 80%"
+    ],
+    "answer": "0.8 or 80%"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "3Ω",
+      "4Ω",
+      "6Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "25 m/s",
+      "20 m/s",
+      "10 m/s",
+      "15 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Which statement about Newton's 3rd law is correct?",
+    "options": [
+      "forces do not affect motion",
+      "forces are equal and opposite",
+      "stronger force wins",
+      "one force is stronger"
+    ],
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "What is the specific heat capacity of water in SI units?",
+    "options": [
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "3s",
+      "4s",
+      "1s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "options": [
+      "6 m/s²",
+      "5 m/s²",
+      "8 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Dyne",
+      "Newton",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "options": [
+      "1s",
+      "2s",
+      "4s",
+      "3s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Calculate the speed if distance = 100m and time = 5s",
+    "options": [
+      "15 m/s",
+      "25 m/s",
+      "20 m/s",
+      "10 m/s"
+    ],
+    "answer": "20 m/s"
   },
   {
     "question": "What is the specific heat capacity of water in SI units?",
@@ -702,302 +2702,42 @@
   {
     "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
+      "50J",
       "200J",
       "25J",
-      "50J",
       "100J"
     ],
     "answer": "200J"
   },
   {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "90°",
-      "60°",
-      "45°",
-      "30°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "quadratic",
-      "exponential",
-      "cubic",
-      "linear"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.5 or 50%",
-      "0.9 or 90%",
-      "0.8 or 80%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces are equal and opposite",
-      "one force is stronger",
-      "stronger force wins",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "25J",
-      "75J",
-      "50J",
-      "10J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the middle",
-      "1/3 from end",
-      "1/4 from end",
-      "the end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Diverging",
-      "Convex",
-      "Concave",
-      "Cylindrical"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle > critical angle",
-      "angle = 90°",
-      "angle = 0",
-      "angle < critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "1 Hz",
-      "4 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "25 m/s",
-      "10 m/s",
-      "20 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "3s",
-      "4s",
-      "2s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "10W",
-      "20W",
-      "80W",
-      "40W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Erg",
-      "Joule",
-      "Dyne",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "6Ω",
-      "4Ω",
-      "3Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "5 m/s²",
-      "8 m/s²",
-      "4 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.5",
-      "1.33",
-      "1.0",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "None",
-      "Conduction",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
     "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "5 Hz",
+      "10 Hz",
       "2 Hz",
-      "20 Hz",
-      "10 Hz"
+      "5 Hz",
+      "20 Hz"
     ],
     "answer": "5 Hz"
   },
   {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "50J",
-      "100J",
-      "200J",
-      "25J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "60°",
-      "45°",
-      "90°",
-      "30°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "quadratic",
-      "cubic",
-      "exponential",
-      "linear"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.9 or 90%",
-      "0.5 or 50%",
-      "1.0 or 100%",
-      "0.8 or 80%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
     "question": "Which statement about Newton's 3rd law is correct?",
     "options": [
-      "one force is stronger",
-      "forces are equal and opposite",
       "stronger force wins",
-      "forces do not affect motion"
+      "forces do not affect motion",
+      "one force is stronger",
+      "forces are equal and opposite"
     ],
     "answer": "forces are equal and opposite"
   },
   {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "question": "Identify the angle at which range is maximum for projectile motion:",
     "options": [
-      "10J",
-      "25J",
-      "75J",
-      "50J"
+      "90°",
+      "60°",
+      "30°",
+      "45°"
     ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "1/3 from end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Convex",
-      "Cylindrical",
-      "Diverging",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 0",
-      "angle > critical angle",
-      "angle < critical angle",
-      "angle = 90°"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "2 Hz",
-      "0.5 Hz",
-      "1 Hz",
-      "4 Hz"
-    ],
-    "answer": "0.5 Hz"
+    "answer": "45°"
   },
   {
     "question": "Calculate the speed if distance = 100m and time = 5s",
@@ -1010,492 +2750,52 @@
     "answer": "20 m/s"
   },
   {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "4s",
-      "3s",
-      "2s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "20W",
-      "10W",
-      "40W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
     "question": "What is the SI unit of force?",
     "options": [
-      "Dyne",
       "Newton",
+      "Dyne",
       "Joule",
       "Erg"
     ],
     "answer": "Newton"
   },
   {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "4Ω",
-      "3Ω",
-      "2Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "8 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.0",
-      "2.0",
-      "1.5",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Conduction",
-      "Convection",
-      "Radiation",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
     "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
+      "20 Hz",
       "5 Hz",
       "2 Hz",
-      "20 Hz",
       "10 Hz"
     ],
     "answer": "5 Hz"
   },
   {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "200J",
-      "25J",
-      "50J",
-      "100J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "90°",
-      "60°",
-      "30°",
-      "45°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "cubic",
-      "exponential",
-      "quadratic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "0.5 or 50%",
-      "1.0 or 100%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces are equal and opposite",
-      "stronger force wins",
-      "one force is stronger",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "25J",
-      "10J",
-      "50J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the middle",
-      "1/3 from end",
-      "1/4 from end",
-      "the end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Diverging",
-      "Convex",
-      "Cylindrical",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle > critical angle",
-      "angle < critical angle",
-      "angle = 90°",
-      "angle = 0"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "1 Hz",
-      "4 Hz",
-      "0.5 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "20 m/s",
-      "10 m/s",
-      "25 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "4s",
-      "3s",
-      "2s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "40W",
-      "80W",
-      "20W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Newton",
-      "Dyne",
-      "Joule",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "3Ω",
-      "6Ω",
-      "2Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.5",
-      "1.0",
-      "1.33",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "Radiation",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
     "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "10 Hz",
       "2 Hz",
       "20 Hz",
-      "5 Hz"
+      "5 Hz",
+      "10 Hz"
     ],
     "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "8400 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "200J",
-      "100J",
-      "25J",
-      "50J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "60°",
-      "90°",
-      "30°",
-      "45°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "cubic",
-      "quadratic",
-      "linear",
-      "exponential"
-    ],
-    "answer": "linear"
   },
   {
     "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
-      "0.8 or 80%",
       "0.5 or 50%",
       "0.9 or 90%",
-      "1.0 or 100%"
+      "1.0 or 100%",
+      "0.8 or 80%"
     ],
     "answer": "0.8 or 80%"
   },
   {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces do not affect motion",
-      "stronger force wins",
-      "forces are equal and opposite",
-      "one force is stronger"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "50J",
-      "10J",
-      "25J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/3 from end",
-      "1/4 from end",
-      "the end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Cylindrical",
-      "Convex",
-      "Diverging",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 0",
-      "angle > critical angle",
-      "angle < critical angle",
-      "angle = 90°"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "4 Hz",
-      "2 Hz",
-      "1 Hz",
-      "0.5 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "15 m/s",
-      "10 m/s",
-      "25 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "4s",
-      "3s",
-      "2s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "10W",
-      "80W",
-      "40W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Joule",
-      "Erg",
-      "Newton",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "2Ω",
-      "3Ω",
-      "6Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.0",
-      "1.33",
-      "1.5",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "None",
-      "Radiation",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "10 Hz",
-      "5 Hz",
-      "2 Hz",
-      "20 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
     "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "4200 J/(kg·K)",
       "8400 J/(kg·K)",
+      "2000 J/(kg·K)",
       "1000 J/(kg·K)",
-      "2000 J/(kg·K)"
+      "4200 J/(kg·K)"
     ],
     "answer": "4200 J/(kg·K)"
   },
@@ -1512,632 +2812,82 @@
   {
     "question": "Identify the angle at which range is maximum for projectile motion:",
     "options": [
-      "45°",
-      "90°",
-      "30°",
-      "60°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "cubic",
-      "quadratic",
-      "exponential"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "0.5 or 50%",
-      "1.0 or 100%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces are equal and opposite",
-      "forces do not affect motion",
-      "one force is stronger",
-      "stronger force wins"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "75J",
-      "10J",
-      "25J",
-      "50J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "1/3 from end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Cylindrical",
-      "Convex",
-      "Concave",
-      "Diverging"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle > critical angle",
-      "angle = 90°",
-      "angle = 0",
-      "angle < critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "2 Hz",
-      "4 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "15 m/s",
-      "10 m/s",
-      "20 m/s",
-      "25 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "2s",
-      "3s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "40W",
-      "20W",
-      "10W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Dyne",
-      "Newton",
-      "Erg",
-      "Joule"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "4Ω",
-      "3Ω",
-      "6Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "6 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.33",
-      "1.0",
-      "2.0",
-      "1.5"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "Radiation",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "10 Hz",
-      "2 Hz",
-      "20 Hz",
-      "5 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "25J",
-      "100J",
-      "200J",
-      "50J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "30°",
-      "45°",
-      "90°",
-      "60°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "quadratic",
-      "exponential",
-      "linear",
-      "cubic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "stronger force wins",
-      "forces are equal and opposite",
-      "one force is stronger",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "25J",
-      "50J",
-      "75J",
-      "10J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/3 from end",
-      "1/4 from end",
-      "the end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Cylindrical",
-      "Convex",
-      "Diverging",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle < critical angle",
-      "angle = 90°",
-      "angle > critical angle",
-      "angle = 0"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "2 Hz",
-      "4 Hz",
-      "0.5 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "10 m/s",
-      "25 m/s",
-      "15 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "2s",
-      "3s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "10W",
-      "40W",
-      "80W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Joule",
-      "Newton",
-      "Erg",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "4Ω",
-      "3Ω",
-      "2Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.5",
-      "1.33",
-      "2.0",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Conduction",
-      "Convection",
-      "Radiation",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "2 Hz",
-      "10 Hz",
-      "5 Hz",
-      "20 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "100J",
-      "25J",
-      "50J",
-      "200J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "45°",
-      "90°",
       "60°",
-      "30°"
+      "30°",
+      "90°",
+      "45°"
     ],
     "answer": "45°"
   },
   {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
+    "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
-      "linear",
-      "exponential",
-      "cubic",
-      "quadratic"
+      "10 m/s",
+      "25 m/s",
+      "20 m/s",
+      "15 m/s"
     ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "1.0 or 100%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "stronger force wins",
-      "forces are equal and opposite",
-      "one force is stronger",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "50J",
-      "10J",
-      "25J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "1/3 from end",
-      "the middle"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Diverging",
-      "Cylindrical",
-      "Convex",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 0",
-      "angle = 90°",
-      "angle > critical angle",
-      "angle < critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "2 Hz",
-      "0.5 Hz",
-      "1 Hz",
-      "4 Hz"
-    ],
-    "answer": "0.5 Hz"
+    "answer": "20 m/s"
   },
   {
     "question": "Calculate the speed if distance = 100m and time = 5s",
     "options": [
       "20 m/s",
-      "15 m/s",
       "25 m/s",
+      "15 m/s",
       "10 m/s"
     ],
     "answer": "20 m/s"
   },
   {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
-      "3s",
-      "2s",
-      "1s",
-      "4s"
+      "2Ω",
+      "4Ω",
+      "3Ω",
+      "6Ω"
     ],
-    "answer": "2s"
+    "answer": "4Ω"
   },
   {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
+    "question": "Which statement about Newton's 3rd law is correct?",
     "options": [
-      "10W",
-      "20W",
-      "80W",
-      "40W"
+      "forces do not affect motion",
+      "stronger force wins",
+      "one force is stronger",
+      "forces are equal and opposite"
     ],
-    "answer": "20W"
+    "answer": "forces are equal and opposite"
+  },
+  {
+    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "options": [
+      "3Ω",
+      "6Ω",
+      "2Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
   },
   {
     "question": "What is the SI unit of force?",
     "options": [
       "Dyne",
       "Erg",
-      "Joule",
-      "Newton"
+      "Newton",
+      "Joule"
     ],
     "answer": "Newton"
   },
   {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
+    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
     "options": [
-      "6Ω",
-      "2Ω",
-      "3Ω",
-      "4Ω"
+      "40W",
+      "10W",
+      "20W",
+      "80W"
     ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "6 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.33",
-      "1.5",
-      "1.0",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "Radiation",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "20 Hz",
-      "5 Hz",
-      "2 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "100J",
-      "50J",
-      "25J",
-      "200J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "45°",
-      "30°",
-      "90°",
-      "60°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "exponential",
-      "quadratic",
-      "linear",
-      "cubic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.8 or 80%",
-      "0.9 or 90%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
+    "answer": "20W"
   },
   {
     "question": "Which statement about Newton's 3rd law is correct?",
@@ -2150,134 +2900,34 @@
     "answer": "forces are equal and opposite"
   },
   {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
+    "question": "Calculate the work done if force = 50N and distance = 4m",
     "options": [
-      "75J",
-      "10J",
+      "25J",
+      "200J",
       "50J",
-      "25J"
+      "100J"
     ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the middle",
-      "1/4 from end",
-      "1/3 from end",
-      "the end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Concave",
-      "Diverging",
-      "Cylindrical",
-      "Convex"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle > critical angle",
-      "angle = 90°",
-      "angle < critical angle",
-      "angle = 0"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "2 Hz",
-      "4 Hz",
-      "0.5 Hz",
-      "1 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "25 m/s",
-      "20 m/s",
-      "15 m/s",
-      "10 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "4s",
-      "2s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "40W",
-      "80W",
-      "20W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Erg",
-      "Newton",
-      "Dyne",
-      "Joule"
-    ],
-    "answer": "Newton"
+    "answer": "200J"
   },
   {
     "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
     "options": [
       "6Ω",
-      "4Ω",
       "3Ω",
-      "2Ω"
+      "2Ω",
+      "4Ω"
     ],
     "answer": "4Ω"
   },
   {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
+    "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "5 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "4 m/s²"
+      "8400 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "1000 J/(kg·K)"
     ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.33",
-      "1.5",
-      "1.0",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "Radiation",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
+    "answer": "4200 J/(kg·K)"
   },
   {
     "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
@@ -2292,711 +2942,61 @@
   {
     "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
       "4200 J/(kg·K)",
-      "8400 J/(kg·K)"
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)"
     ],
     "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
+    "question": "What is the specific heat capacity of water in SI units?",
     "options": [
-      "100J",
-      "50J",
-      "200J",
-      "25J"
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)"
     ],
-    "answer": "200J"
+    "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
+    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
     "options": [
-      "45°",
-      "30°",
-      "60°",
-      "90°"
+      "20 Hz",
+      "10 Hz",
+      "2 Hz",
+      "5 Hz"
     ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "cubic",
-      "quadratic",
-      "exponential"
-    ],
-    "answer": "linear"
+    "answer": "5 Hz"
   },
   {
     "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
     "options": [
       "0.8 or 80%",
       "1.0 or 100%",
-      "0.5 or 50%",
-      "0.9 or 90%"
+      "0.9 or 90%",
+      "0.5 or 50%"
     ],
     "answer": "0.8 or 80%"
   },
   {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces do not affect motion",
-      "forces are equal and opposite",
-      "one force is stronger",
-      "stronger force wins"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "25J",
-      "10J",
-      "75J",
-      "50J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "the middle",
-      "1/3 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Concave",
-      "Convex",
-      "Diverging",
-      "Cylindrical"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle < critical angle",
-      "angle = 90°",
-      "angle = 0",
-      "angle > critical angle"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "0.5 Hz",
-      "4 Hz",
-      "1 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "25 m/s",
-      "15 m/s",
-      "10 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "1s",
-      "2s",
-      "3s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "40W",
-      "10W",
-      "20W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Dyne",
-      "Erg",
-      "Joule",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "3Ω",
-      "4Ω",
-      "6Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "2.0",
-      "1.0",
-      "1.33",
-      "1.5"
-    ],
-    "answer": "1.33"
-  },
-  {
     "question": "Identify the type of heat transfer that requires a medium:",
     "options": [
-      "None",
       "Conduction",
+      "None",
       "Convection",
       "Radiation"
     ],
     "answer": "Convection"
   },
   {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "2 Hz",
-      "10 Hz",
-      "5 Hz",
-      "20 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "25J",
-      "100J",
-      "50J",
-      "200J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "60°",
-      "45°",
-      "90°",
-      "30°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "cubic",
-      "linear",
-      "exponential",
-      "quadratic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.9 or 90%",
-      "0.8 or 80%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "stronger force wins",
-      "one force is stronger",
-      "forces do not affect motion",
-      "forces are equal and opposite"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "10J",
-      "25J",
-      "50J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "1/4 from end",
-      "the end",
-      "the middle",
-      "1/3 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Concave",
-      "Convex",
-      "Diverging",
-      "Cylindrical"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 90°",
-      "angle < critical angle",
-      "angle > critical angle",
-      "angle = 0"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "1 Hz",
-      "0.5 Hz",
-      "4 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "10 m/s",
-      "15 m/s",
-      "25 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "2s",
-      "3s",
-      "4s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "80W",
-      "20W",
-      "40W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
     "question": "What is the SI unit of force?",
     "options": [
-      "Newton",
       "Dyne",
-      "Joule",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "3Ω",
-      "2Ω",
-      "4Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "6 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "1.0",
-      "2.0",
-      "1.5",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Convection",
-      "Conduction",
-      "Radiation",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "20 Hz",
-      "5 Hz",
-      "10 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "200J",
-      "25J",
-      "100J",
-      "50J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "90°",
-      "60°",
-      "45°",
-      "30°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "exponential",
-      "cubic",
-      "linear",
-      "quadratic"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "0.8 or 80%",
-      "1.0 or 100%",
-      "0.9 or 90%",
-      "0.5 or 50%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "one force is stronger",
-      "forces are equal and opposite",
-      "stronger force wins",
-      "forces do not affect motion"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "50J",
-      "75J",
-      "25J",
-      "10J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the middle",
-      "the end",
-      "1/4 from end",
-      "1/3 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Diverging",
-      "Convex",
-      "Cylindrical",
-      "Concave"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle = 0",
-      "angle < critical angle",
-      "angle > critical angle",
-      "angle = 90°"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "4 Hz",
-      "1 Hz",
-      "0.5 Hz",
-      "2 Hz"
-    ],
-    "answer": "0.5 Hz"
-  },
-  {
-    "question": "Calculate the speed if distance = 100m and time = 5s",
-    "options": [
-      "25 m/s",
-      "20 m/s",
-      "10 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "An object is dropped from a height of 20m. How long does it take to fall? (g = 10 m/s²)",
-    "options": [
-      "4s",
-      "2s",
-      "3s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "The power dissipated in a resistor is P = I²R. If I = 2A and R = 5Ω, find P",
-    "options": [
-      "80W",
-      "10W",
-      "20W",
-      "40W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "What is the SI unit of force?",
-    "options": [
-      "Newton",
-      "Joule",
       "Erg",
-      "Dyne"
+      "Joule",
+      "Newton"
     ],
     "answer": "Newton"
-  },
-  {
-    "question": "Calculate the resistance if V = 12V and I = 3A using R = V/I",
-    "options": [
-      "6Ω",
-      "4Ω",
-      "3Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "A car accelerates from 0 to 30 m/s in 5 seconds. Find acceleration",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "What is the refractive index of water?",
-    "options": [
-      "2.0",
-      "1.5",
-      "1.0",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Identify the type of heat transfer that requires a medium:",
-    "options": [
-      "Radiation",
-      "None",
-      "Convection",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "The frequency of a wave with wavelength 2m and speed 10 m/s is:",
-    "options": [
-      "10 Hz",
-      "5 Hz",
-      "2 Hz",
-      "20 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "What is the specific heat capacity of water in SI units?",
-    "options": [
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Calculate the work done if force = 50N and distance = 4m",
-    "options": [
-      "25J",
-      "200J",
-      "50J",
-      "100J"
-    ],
-    "answer": "200J"
-  },
-  {
-    "question": "Identify the angle at which range is maximum for projectile motion:",
-    "options": [
-      "60°",
-      "30°",
-      "90°",
-      "45°"
-    ],
-    "answer": "45°"
-  },
-  {
-    "question": "The relationship between velocity and time in uniformly accelerated motion is:",
-    "options": [
-      "linear",
-      "quadratic",
-      "cubic",
-      "exponential"
-    ],
-    "answer": "linear"
-  },
-  {
-    "question": "What is the efficiency of a machine if input energy = 100J and output = 80J?",
-    "options": [
-      "1.0 or 100%",
-      "0.5 or 50%",
-      "0.9 or 90%",
-      "0.8 or 80%"
-    ],
-    "answer": "0.8 or 80%"
-  },
-  {
-    "question": "Which statement about Newton's 3rd law is correct?",
-    "options": [
-      "forces do not affect motion",
-      "stronger force wins",
-      "forces are equal and opposite",
-      "one force is stronger"
-    ],
-    "answer": "forces are equal and opposite"
-  },
-  {
-    "question": "Calculate kinetic energy if m = 2kg and v = 5 m/s using KE = ½mv²",
-    "options": [
-      "50J",
-      "10J",
-      "25J",
-      "75J"
-    ],
-    "answer": "25J"
-  },
-  {
-    "question": "The center of gravity of a uniform rod is at:",
-    "options": [
-      "the end",
-      "the middle",
-      "1/4 from end",
-      "1/3 from end"
-    ],
-    "answer": "the middle"
-  },
-  {
-    "question": "What type of lens is used to correct myopia?",
-    "options": [
-      "Cylindrical",
-      "Convex",
-      "Concave",
-      "Diverging"
-    ],
-    "answer": "Concave"
-  },
-  {
-    "question": "Identify the condition for total internal reflection:",
-    "options": [
-      "angle > critical angle",
-      "angle = 90°",
-      "angle < critical angle",
-      "angle = 0"
-    ],
-    "answer": "angle > critical angle"
-  },
-  {
-    "question": "A pendulum has a period of 2s. What is its frequency?",
-    "options": [
-      "1 Hz",
-      "2 Hz",
-      "0.5 Hz",
-      "4 Hz"
-    ],
-    "answer": "0.5 Hz"
   }
 ]
