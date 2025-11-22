@@ -222,8 +222,8 @@ def submit():
         
         for i, a in enumerate(ans):
             if a is not None:
-                correct = qs[i].get("answer", "")
-                selected = qs[i]["options"][a]
+                correct = qs[i].get("Answer", "")
+                selected = qs[i]["Options"][a]
                 try:
                     if float_safe(selected) == float_safe(correct):
                         score += 1
@@ -264,11 +264,11 @@ def correction():
     
     questions_with_answers = []
     for i, q in enumerate(questions):
-        correct_answer = q.get("answer", "")
+        correct_answer = q.get("Answer", "")
         user_choice = answers[i]
         
         options_data = []
-        for idx, opt in enumerate(q.get("options", [])):
+        for idx, opt in enumerate(q.get("Options", [])):
             is_correct = False
             try:
                 if float_safe(opt) == float_safe(correct_answer):
@@ -285,7 +285,7 @@ def correction():
         
         questions_with_answers.append({
             'number': i + 1,
-            'question': q['question'],
+            'question': q['Question'],
             'options': options_data
         })
     
