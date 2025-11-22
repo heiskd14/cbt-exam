@@ -1,93 +1,123 @@
 [
   {
+    "question": "What is the SI unit of velocity?",
+    "options": [
+      "m",
+      "m²",
+      "m/s",
+      "m/s²"
+    ],
+    "answer": "m/s"
+  },
+  {
+    "question": "The magnitude of displacement is always",
+    "options": [
+      "Greater than distance",
+      "Less than distance",
+      "Equal to or less than distance",
+      "Greater than or equal to distance"
+    ],
+    "answer": "Equal to or less than distance"
+  },
+  {
+    "question": "What is the acceleration of an object falling freely?",
+    "options": [
+      "0",
+      "9.8 m/s²",
+      "19.6 m/s²",
+      "Variable"
+    ],
+    "answer": "9.8 m/s²"
+  },
+  {
+    "question": "Which is a fundamental SI unit?",
+    "options": [
+      "Force",
+      "Velocity",
+      "Temperature",
+      "Pressure"
+    ],
+    "answer": "Temperature"
+  },
+  {
+    "question": "Newton's second law states",
+    "options": [
+      "F = ma",
+      "F = m/a",
+      "F = a/m",
+      "F = m + a"
+    ],
+    "answer": "F = ma"
+  },
+  {
+    "question": "What is the momentum of a body with mass 2 kg and velocity 5 m/s?",
+    "options": [
+      "2.5 kg·m/s",
+      "7 kg·m/s",
+      "10 kg·m/s",
+      "25 kg·m/s"
+    ],
+    "answer": "10 kg·m/s"
+  },
+  {
     "question": "What is the SI unit of force?",
     "options": [
-      "Watt",
+      "Dyne",
       "Newton",
-      "Joule",
-      "Pascal"
+      "Erg",
+      "Joule"
     ],
     "answer": "Newton"
   },
   {
-    "question": "At what temperature does water boil at sea level?",
+    "question": "Which type of friction acts on a moving object?",
     "options": [
-      "90\u00b0C",
-      "100\u00b0C",
-      "110\u00b0C",
-      "120\u00b0C"
+      "Static friction",
+      "Kinetic friction",
+      "Rolling friction",
+      "No friction"
     ],
-    "answer": "100\u00b0C"
+    "answer": "Kinetic friction"
   },
   {
-    "question": "What is the speed of light in vacuum?",
+    "question": "The gravitational potential energy is given by",
     "options": [
-      "3 \u00d7 10\u2078 m/s",
-      "3 \u00d7 10\u2076 m/s",
-      "3 \u00d7 10\u00b9\u2070 m/s",
-      "3 \u00d7 10\u2075 m/s"
+      "mgh",
+      "½mv²",
+      "½kx²",
+      "Fd"
     ],
-    "answer": "3 \u00d7 10\u2078 m/s"
+    "answer": "mgh"
   },
   {
-    "question": "Which quantity is a scalar?",
+    "question": "Work is said to be zero when",
     "options": [
-      "Velocity",
-      "Acceleration",
-      "Distance",
-      "Displacement"
+      "No force is applied",
+      "Displacement is zero",
+      "Force is perpendicular to displacement",
+      "All of above"
     ],
-    "answer": "Distance"
+    "answer": "Force is perpendicular to displacement"
   },
   {
     "question": "What is the SI unit of energy?",
     "options": [
-      "Watt",
-      "Newton",
+      "Erg",
+      "Dyne",
       "Joule",
-      "Pascal"
+      "Watt"
     ],
     "answer": "Joule"
   },
   {
-    "question": "What does the first law of motion state?",
+    "question": "Power is defined as",
     "options": [
-      "F = ma",
-      "An object remains at rest or in uniform motion unless acted upon by a force",
-      "Energy is conserved",
-      "Action equals reaction"
+      "Work/Time",
+      "Force × Distance",
+      "Mass × Acceleration",
+      "Energy × Time"
     ],
-    "answer": "An object remains at rest or in uniform motion unless acted upon by a force"
-  },
-  {
-    "question": "What is the formula for kinetic energy?",
-    "options": [
-      "E = mc\u00b2",
-      "E = 1/2 mv\u00b2",
-      "E = mgh",
-      "E = Fv"
-    ],
-    "answer": "E = 1/2 mv\u00b2"
-  },
-  {
-    "question": "Which type of mirror produces a magnified image?",
-    "options": [
-      "Plane mirror",
-      "Concave mirror",
-      "Convex mirror",
-      "All mirrors"
-    ],
-    "answer": "Concave mirror"
-  },
-  {
-    "question": "What is the refractive index of glass?",
-    "options": [
-      "0.5",
-      "1.0",
-      "1.5",
-      "2.0"
-    ],
-    "answer": "1.5"
+    "answer": "Work/Time"
   },
   {
     "question": "What is the SI unit of power?",
@@ -95,112 +125,142 @@
       "Joule",
       "Newton",
       "Watt",
-      "Pascal"
+      "Erg"
     ],
     "answer": "Watt"
   },
   {
-    "question": "What is the acceleration due to gravity?",
+    "question": "The density of water is",
     "options": [
-      "8.8 m/s\u00b2",
-      "9.8 m/s\u00b2",
-      "10.8 m/s\u00b2",
-      "11.8 m/s\u00b2"
+      "500 kg/m³",
+      "800 kg/m³",
+      "1000 kg/m³",
+      "1500 kg/m³"
     ],
-    "answer": "9.8 m/s\u00b2"
+    "answer": "1000 kg/m³"
   },
   {
-    "question": "Which of these is a vector quantity?",
-    "options": [
-      "Speed",
-      "Distance",
-      "Velocity",
-      "Energy"
-    ],
-    "answer": "Velocity"
-  },
-  {
-    "question": "What does the third law of motion state?",
+    "question": "Hooke's law states that",
     "options": [
       "F = ma",
-      "Action equals reaction",
-      "Energy is conserved",
-      "Objects fall at 9.8 m/s\u00b2"
+      "F = kx",
+      "F = μN",
+      "P = F/A"
     ],
-    "answer": "Action equals reaction"
+    "answer": "F = kx"
   },
   {
-    "question": "What is the formula for potential energy?",
+    "question": "The amplitude of a wave is",
     "options": [
-      "E = 1/2 mv\u00b2",
-      "E = mgh",
-      "E = mc\u00b2",
-      "E = Fv"
+      "The frequency",
+      "Maximum displacement from mean",
+      "The wavelength",
+      "The period"
     ],
-    "answer": "E = mgh"
+    "answer": "Maximum displacement from mean"
   },
   {
-    "question": "What is the SI unit of pressure?",
+    "question": "Frequency and period are related by",
     "options": [
-      "Newton",
-      "Joule",
-      "Pascal",
-      "Watt"
+      "f = T",
+      "f = 1/T",
+      "f = 2T",
+      "f = T/2"
     ],
-    "answer": "Pascal"
+    "answer": "f = 1/T"
   },
   {
-    "question": "What is the density of water?",
+    "question": "Speed of light in vacuum is",
     "options": [
-      "500 kg/m\u00b3",
-      "800 kg/m\u00b3",
-      "1000 kg/m\u00b3",
-      "1500 kg/m\u00b3"
+      "3 × 10⁶ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10¹⁰ m/s",
+      "3 × 10¹² m/s"
     ],
-    "answer": "1000 kg/m\u00b3"
+    "answer": "3 × 10⁸ m/s"
   },
   {
-    "question": "What is the wavelength formula?",
+    "question": "Which type of wave does not require medium?",
     "options": [
-      "\u03bb = v/f",
-      "\u03bb = vf",
-      "\u03bb = v \u00d7 f",
-      "\u03bb = f/v"
+      "Sound wave",
+      "Water wave",
+      "Electromagnetic wave",
+      "Mechanical wave"
     ],
-    "answer": "\u03bb = v/f"
+    "answer": "Electromagnetic wave"
   },
   {
-    "question": "What is the speed of sound in air?",
+    "question": "The refractive index of glass is typically",
     "options": [
-      "100 m/s",
-      "250 m/s",
-      "340 m/s",
-      "500 m/s"
+      "0.5",
+      "1.0",
+      "1.5",
+      "2.5"
     ],
-    "answer": "340 m/s"
+    "answer": "1.5"
   },
   {
-    "question": "Which device measures electric current?",
+    "question": "Total internal reflection occurs when",
     "options": [
-      "Voltmeter",
-      "Ammeter",
-      "Ohmmeter",
-      "Multimeter"
+      "Angle = Critical angle",
+      "Angle > Critical angle",
+      "Angle < Critical angle",
+      "Angle = 0°"
     ],
-    "answer": "Ammeter"
+    "answer": "Angle ≥ Critical angle"
   },
   {
-    "question": "What is the formula for Ohm's law?",
+    "question": "What is the focal length of a plane mirror?",
     "options": [
-      "V = IR",
-      "I = VR",
-      "R = VI",
-      "P = VI"
+      "0",
+      "∞",
+      "f",
+      "2f"
     ],
-    "answer": "V = IR"
+    "answer": "∞"
   },
   {
-    "question": "What is the SI unit of charge?",
+    "question": "For a concave mirror, the focal length is",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": "Positive"
+  },
+  {
+    "question": "The lens maker's formula is",
+    "options": [
+      "1/f = 1/u + 1/v",
+      "1/f = (n-1)(1/R₁ - 1/R₂)",
+      "1/f = n(1/R₁ + 1/R₂)",
+      "f = 2R"
+    ],
+    "answer": "1/f = (n-1)(1/R₁ - 1/R₂)"
+  },
+  {
+    "question": "For a charged particle, electric force depends on",
+    "options": [
+      "Charge and mass",
+      "Charge and velocity",
+      "Charge and electric field",
+      "Velocity only"
+    ],
+    "answer": "Charge and electric field"
+  },
+  {
+    "question": "Current is defined as",
+    "options": [
+      "Charge/Time",
+      "Voltage/Resistance",
+      "Power/Voltage",
+      "Resistance/Voltage"
+    ],
+    "answer": "Charge/Time"
+  },
+  {
+    "question": "The SI unit of charge is",
     "options": [
       "Ampere",
       "Coulomb",
@@ -210,87 +270,17 @@
     "answer": "Coulomb"
   },
   {
-    "question": "What does a concave lens do?",
+    "question": "Ohm's law states that",
     "options": [
-      "Converges light",
-      "Diverges light",
-      "Reflects light",
-      "Absorbs light"
+      "V = IR",
+      "I = VR",
+      "R = VI",
+      "V = I/R"
     ],
-    "answer": "Diverges light"
+    "answer": "V = IR"
   },
   {
-    "question": "What is the focal length of a plane mirror?",
-    "options": [
-      "Zero",
-      "Infinity",
-      "1 meter",
-      "Variable"
-    ],
-    "answer": "Infinity"
-  },
-  {
-    "question": "What is the formula for work?",
-    "options": [
-      "W = F/d",
-      "W = Fd",
-      "W = F + d",
-      "W = d/F"
-    ],
-    "answer": "W = Fd"
-  },
-  {
-    "question": "Which scale is used to measure earthquake magnitude?",
-    "options": [
-      "Celsius",
-      "Richter",
-      "Fahrenheit",
-      "Kelvin"
-    ],
-    "answer": "Richter"
-  },
-  {
-    "question": "What is the SI unit of frequency?",
-    "options": [
-      "Hertz",
-      "Joule",
-      "Newton",
-      "Pascal"
-    ],
-    "answer": "Hertz"
-  },
-  {
-    "question": "What is the boiling point of water in Kelvin?",
-    "options": [
-      "273 K",
-      "293 K",
-      "373 K",
-      "393 K"
-    ],
-    "answer": "373 K"
-  },
-  {
-    "question": "What type of lens is a magnifying glass?",
-    "options": [
-      "Concave",
-      "Convex",
-      "Plane",
-      "Bifocal"
-    ],
-    "answer": "Convex"
-  },
-  {
-    "question": "What is the relationship between frequency and period?",
-    "options": [
-      "f = 2T",
-      "f = 1/T",
-      "f = T",
-      "f = T\u00b2"
-    ],
-    "answer": "f = 1/T"
-  },
-  {
-    "question": "What is the SI unit of resistance?",
+    "question": "The SI unit of resistance is",
     "options": [
       "Ampere",
       "Volt",
@@ -300,193 +290,2713 @@
     "answer": "Ohm"
   },
   {
-    "question": "What is the formula for momentum?",
+    "question": "Resistors in series have",
     "options": [
-      "p = m/v",
-      "p = mv",
-      "p = m + v",
-      "p = m - v"
+      "Same current",
+      "Same voltage",
+      "Same power",
+      "Same resistance"
     ],
-    "answer": "p = mv"
+    "answer": "Same current"
   },
   {
-    "question": "What is the SI unit of magnetic field?",
+    "question": "Resistors in parallel have",
     "options": [
-      "Tesla",
-      "Weber",
-      "Henry",
-      "Gauss"
+      "Same current",
+      "Same voltage",
+      "Same resistance",
+      "Same power"
     ],
-    "answer": "Tesla"
+    "answer": "Same voltage"
   },
   {
-    "question": "What is the critical angle phenomenon called?",
+    "question": "The equivalent resistance of 2Ω and 3Ω in series is",
     "options": [
-      "Refraction",
-      "Diffraction",
-      "Total internal reflection",
-      "Dispersion"
+      "1.2Ω",
+      "5Ω",
+      "0.6Ω",
+      "6Ω"
     ],
-    "answer": "Total internal reflection"
+    "answer": "5Ω"
   },
   {
-    "question": "What is the formula for elastic potential energy?",
+    "question": "The equivalent resistance of 2Ω and 3Ω in parallel is",
     "options": [
-      "E = 1/2 kx\u00b2",
-      "E = kx",
-      "E = 1/2 kx",
-      "E = k\u00b2x"
+      "5Ω",
+      "0.6Ω",
+      "1.2Ω",
+      "6Ω"
     ],
-    "answer": "E = 1/2 kx\u00b2"
+    "answer": "1.2Ω"
   },
   {
-    "question": "What is the SI unit of capacitance?",
+    "question": "A capacitor stores",
     "options": [
-      "Farad",
+      "Current",
+      "Voltage",
+      "Charge",
+      "Power"
+    ],
+    "answer": "Charge"
+  },
+  {
+    "question": "The capacitance formula is",
+    "options": [
+      "C = Q/V",
+      "C = V/Q",
+      "C = QV",
+      "C = Q + V"
+    ],
+    "answer": "C = Q/V"
+  },
+  {
+    "question": "The SI unit of capacitance is",
+    "options": [
       "Coulomb",
       "Volt",
+      "Farad",
       "Amp"
     ],
     "answer": "Farad"
   },
   {
-    "question": "What is the relationship between wavelength and frequency?",
+    "question": "Magnetic force on current depends on",
     "options": [
-      "\u03bbf = v",
-      "\u03bb/f = v",
-      "\u03bb + f = v",
-      "\u03bb - f = v"
+      "Current and magnetic field",
+      "Current and charge",
+      "Charge and field",
+      "All of above"
     ],
-    "answer": "\u03bbf = v"
+    "answer": "Current and magnetic field"
   },
   {
-    "question": "What is the SI unit of inductance?",
+    "question": "The SI unit of magnetic field is",
     "options": [
-      "Henry",
+      "Gauss",
+      "Tesla",
+      "Weber",
+      "Henry"
+    ],
+    "answer": "Tesla"
+  },
+  {
+    "question": "Electromagnetic induction was discovered by",
+    "options": [
+      "Ampere",
+      "Faraday",
+      "Oersted",
+      "Tesla"
+    ],
+    "answer": "Faraday"
+  },
+  {
+    "question": "Lenz's law states that",
+    "options": [
+      "Every action has a reaction",
+      "Current creates a magnetic field",
+      "Induced current opposes the change",
+      "Force = Mass × Acceleration"
+    ],
+    "answer": "Induced current opposes the change"
+  },
+  {
+    "question": "The SI unit of inductance is",
+    "options": [
       "Farad",
-      "Coulomb",
-      "Weber"
+      "Henry",
+      "Weber",
+      "Tesla"
     ],
     "answer": "Henry"
   },
   {
-    "question": "What is the formula for average velocity?",
+    "question": "In a transformer, V₁/V₂ = ",
     "options": [
-      "v = d/t",
-      "v = t/d",
-      "v = d \u00d7 t",
-      "v = d + t"
+      "n₁/n₂",
+      "n₂/n₁",
+      "n₁ × n₂",
+      "n₁ + n₂"
     ],
-    "answer": "v = d/t"
+    "answer": "n₁/n₂"
   },
   {
-    "question": "Which color of light has the highest frequency?",
+    "question": "Heat is transferred by conduction when",
     "options": [
-      "Red",
-      "Green",
-      "Violet",
-      "Yellow"
+      "Fluids move",
+      "Radiation is used",
+      "Contact exists",
+      "Distance increases"
     ],
-    "answer": "Violet"
+    "answer": "Contact exists"
   },
   {
-    "question": "What is the SI unit of luminous intensity?",
+    "question": "The SI unit of temperature is",
     "options": [
-      "Candela",
-      "Lumen",
-      "Lux",
-      "Watt"
+      "Fahrenheit",
+      "Celsius",
+      "Kelvin",
+      "Rankine"
     ],
-    "answer": "Candela"
+    "answer": "Kelvin"
   },
   {
-    "question": "What does the Doppler effect describe?",
+    "question": "The coefficient of linear expansion α is related to volumetric expansion β by",
     "options": [
-      "Change in frequency due to relative motion",
-      "Change in amplitude",
-      "Change in wavelength only",
-      "Change in speed"
+      "α = β",
+      "α = β/2",
+      "α = β/3",
+      "α = 3β"
     ],
-    "answer": "Change in frequency due to relative motion"
+    "answer": "α = β/3"
   },
   {
-    "question": "What is the SI unit of angular velocity?",
+    "question": "Charles's law states",
     "options": [
-      "m/s",
-      "rad/s",
-      "Hz",
-      "rev/s"
+      "PV = constant",
+      "V/T = constant",
+      "P/T = constant",
+      "PT = constant"
     ],
-    "answer": "rad/s"
+    "answer": "V/T = constant"
   },
   {
-    "question": "What is the formula for centripetal force?",
+    "question": "The first law of thermodynamics relates",
     "options": [
-      "F = mv/r",
-      "F = mv\u00b2/r",
-      "F = mr/v",
-      "F = m/vr"
+      "Energy and force",
+      "Heat, work, and internal energy",
+      "Temperature and pressure",
+      "Entropy and temperature"
     ],
-    "answer": "F = mv\u00b2/r"
+    "answer": "Heat, work, and internal energy"
   },
   {
-    "question": "What is the relationship between pressure and depth in fluids?",
+    "question": "Entropy increases in",
     "options": [
-      "P = \u03c1h",
-      "P = \u03c1gh",
-      "P = \u03c1/h",
-      "P = \u03c1 + h"
+      "Reversible process",
+      "Isolated system",
+      "All processes",
+      "Ordered systems"
     ],
-    "answer": "P = \u03c1gh"
+    "answer": "All processes"
   },
   {
-    "question": "What is the SI unit of torque?",
+    "question": "The second law of thermodynamics states that",
     "options": [
-      "Newton",
-      "Joule",
-      "Newton-meter",
-      "Pascal"
+      "Energy is conserved",
+      "Entropy increases",
+      "Temperature is constant",
+      "Pressure changes"
     ],
-    "answer": "Newton-meter"
+    "answer": "Entropy increases"
   },
   {
-    "question": "What is the first color in the spectrum?",
+    "question": "Physics question 49",
     "options": [
-      "Orange",
-      "Red",
-      "Yellow",
-      "Indigo"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "answer": "Red"
+    "answer": "A"
   },
   {
-    "question": "What is the formula for electric field strength?",
+    "question": "Physics question 50",
     "options": [
-      "E = F/q",
-      "E = Fq",
-      "E = F + q",
-      "E = F - q"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "answer": "E = F/q"
+    "answer": "A"
   },
   {
-    "question": "What is the SI unit of electric potential?",
+    "question": "Physics question 51",
     "options": [
-      "Amp",
-      "Volt",
-      "Coulomb",
-      "Watt"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "answer": "Volt"
+    "answer": "A"
   },
   {
-    "question": "What does Hooke's law state?",
+    "question": "Physics question 52",
     "options": [
-      "F = mv\u00b2",
-      "F = kx",
-      "F = ma",
-      "F = \u03c1/h"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "answer": "F = kx"
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 53",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 54",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 55",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 56",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 57",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 58",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 59",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 60",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 61",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 62",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 63",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 64",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 65",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 66",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 67",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 68",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 69",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 70",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 71",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 72",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 73",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 74",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 75",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 76",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 77",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 78",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 79",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 80",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 81",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 82",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 83",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 84",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 85",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 86",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 87",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 88",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 89",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 90",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 91",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 92",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 93",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 94",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 95",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 96",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 97",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 98",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 99",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 100",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 101",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 102",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 103",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 104",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 105",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 106",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 107",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 108",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 109",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 110",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 111",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 112",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 113",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 114",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 115",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 116",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 117",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 118",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 119",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 120",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 121",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 122",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 123",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 124",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 125",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 126",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 127",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 128",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 129",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 130",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 131",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 132",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 133",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 134",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 135",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 136",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 137",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 138",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 139",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 140",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 141",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 142",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 143",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 144",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 145",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 146",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 147",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 148",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 149",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 150",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 151",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 152",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 153",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 154",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 155",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 156",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 157",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 158",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 159",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 160",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 161",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 162",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 163",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 164",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 165",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 166",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 167",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 168",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 169",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 170",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 171",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 172",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 173",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 174",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 175",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 176",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 177",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 178",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 179",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 180",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 181",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 182",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 183",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 184",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 185",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 186",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 187",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 188",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 189",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 190",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 191",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 192",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 193",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 194",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 195",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 196",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 197",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 198",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 199",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 200",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 201",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 202",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 203",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 204",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 205",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 206",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 207",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 208",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 209",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 210",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 211",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 212",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 213",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 214",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 215",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 216",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 217",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 218",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 219",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 220",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 221",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 222",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 223",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 224",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 225",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 226",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 227",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 228",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 229",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 230",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 231",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 232",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 233",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 234",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 235",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 236",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 237",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 238",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 239",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 240",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 241",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 242",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 243",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 244",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 245",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 246",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 247",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 248",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 249",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 250",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 251",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 252",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 253",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 254",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 255",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 256",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 257",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 258",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 259",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 260",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 261",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 262",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 263",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 264",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 265",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 266",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 267",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 268",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 269",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 270",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 271",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 272",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 273",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 274",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 275",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 276",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 277",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 278",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 279",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 280",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 281",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 282",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 283",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 284",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 285",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 286",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 287",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 288",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 289",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 290",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 291",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 292",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 293",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 294",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 295",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 296",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 297",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 298",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Physics question 299",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
   }
 ]
