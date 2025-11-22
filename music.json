@@ -1,46 +1,396 @@
 [
   {
-    "question": "Music elements are:",
+    "question": "Octave contains",
     "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
+      "7 notes",
       "5 notes",
       "8 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "soft",
+      "very loud",
+      "loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "8 notes",
+      "5 notes",
       "12 notes",
       "7 notes"
     ],
     "answer": "8 notes"
   },
   {
-    "question": "Harmony is:",
+    "question": "Staccato is",
+    "options": [
+      "flowing",
+      "smooth",
+      "connected",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "bars",
+      "time",
+      "sharps/flats"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "all of above",
+      "baton",
+      "hands",
+      "vocal"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "vocal",
+      "all of above",
+      "hands",
+      "baton"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "notes sequence",
+      "harmony",
+      "rhythm",
+      "tempo"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "bars",
+      "time",
+      "sharps/flats",
+      "clef"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "speed",
+      "pitch",
+      "volume",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "harmony",
+      "pitch",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "very loud",
+      "soft",
+      "moderately",
+      "loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "rhythm",
+      "single note",
+      "silence",
+      "notes together"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "all of above",
+      "vocal",
+      "baton"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "harmony",
+      "notes sequence",
+      "tempo",
+      "rhythm"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "soft",
+      "loud",
+      "very loud",
+      "moderately"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "vocal",
+      "baton",
+      "hands",
+      "all of above"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "rhythm",
+      "silence",
+      "notes together",
+      "single note"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "loud",
+      "soft",
+      "very loud",
+      "moderately"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "notes sequence",
+      "rhythm",
+      "harmony",
+      "tempo"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "harmony",
+      "tempo",
+      "notes sequence",
+      "rhythm"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "soft",
+      "very loud",
+      "moderately",
+      "loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "7 notes",
+      "8 notes",
+      "5 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "separated",
+      "flowing",
+      "connected"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "separated",
+      "flowing",
+      "smooth",
+      "connected"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "single note",
+      "silence",
+      "notes together",
+      "rhythm"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "sharps/flats",
+      "time",
+      "bars"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "separated",
+      "flowing",
+      "connected"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "separated",
+      "flowing",
+      "connected"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "7 notes",
+      "5 notes",
+      "12 notes",
+      "8 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "all of above",
+      "baton",
+      "vocal",
+      "hands"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "baton",
+      "vocal",
+      "all of above"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Harmony is",
     "options": [
       "single note",
       "notes together",
@@ -50,47 +400,17 @@
     "answer": "notes together"
   },
   {
-    "question": "Music elements are:",
+    "question": "Conductor uses",
     "options": [
-      "3",
-      "4",
-      "5",
-      "6"
+      "vocal",
+      "all of above",
+      "hands",
+      "baton"
     ],
-    "answer": "4"
+    "answer": "baton"
   },
   {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
+    "question": "Harmony is",
     "options": [
       "single note",
       "notes together",
@@ -100,37 +420,17 @@
     "answer": "notes together"
   },
   {
-    "question": "Music elements are:",
+    "question": "Music elements are",
     "options": [
-      "3",
       "4",
       "5",
-      "6"
+      "6",
+      "3"
     ],
     "answer": "4"
   },
   {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
+    "question": "Octave contains",
     "options": [
       "5 notes",
       "8 notes",
@@ -140,27 +440,1447 @@
     "answer": "8 notes"
   },
   {
-    "question": "Harmony is:",
+    "question": "Melody is",
     "options": [
+      "rhythm",
+      "tempo",
+      "notes sequence",
+      "harmony"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "12 notes",
+      "7 notes",
+      "5 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "sharps/flats",
+      "time",
+      "clef",
+      "bars"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "7 notes",
+      "8 notes",
+      "5 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "silence",
       "single note",
       "notes together",
+      "rhythm"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "separated",
+      "connected",
+      "smooth",
+      "flowing"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "notes together",
+      "rhythm",
+      "single note",
+      "silence"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "harmony",
+      "pitch",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "notes together",
+      "single note",
       "silence",
       "rhythm"
     ],
     "answer": "notes together"
   },
   {
-    "question": "Music elements are:",
+    "question": "Melody is",
+    "options": [
+      "harmony",
+      "tempo",
+      "notes sequence",
+      "rhythm"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "very loud",
+      "loud",
+      "soft"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "speed",
+      "volume",
+      "pitch",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "all of above",
+      "vocal",
+      "baton"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "rhythm",
+      "notes sequence",
+      "tempo",
+      "harmony"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "very loud",
+      "loud",
+      "soft"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "separated",
+      "flowing",
+      "connected"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "flowing",
+      "connected",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "5 notes",
+      "7 notes",
+      "8 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "silence",
+      "rhythm",
+      "notes together",
+      "single note"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "speed",
+      "volume",
+      "pitch",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "time",
+      "bars",
+      "clef",
+      "sharps/flats"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "all of above",
+      "baton",
+      "vocal",
+      "hands"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "silence",
+      "notes together",
+      "rhythm",
+      "single note"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "bars",
+      "clef",
+      "sharps/flats",
+      "time"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "sharps/flats",
+      "bars",
+      "time",
+      "clef"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "5 notes",
+      "7 notes",
+      "8 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "pitch",
+      "harmony",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "pitch",
+      "volume",
+      "speed",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "harmony",
+      "speed",
+      "pitch",
+      "volume"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "time",
+      "sharps/flats",
+      "bars",
+      "clef"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "12 notes",
+      "7 notes",
+      "5 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "sharps/flats",
+      "time",
+      "bars"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "baton",
+      "vocal",
+      "all of above"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "sharps/flats",
+      "bars",
+      "time"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "single note",
+      "rhythm",
+      "notes together",
+      "silence"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "7 notes",
+      "5 notes",
+      "12 notes",
+      "8 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "7 notes",
+      "5 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "notes sequence",
+      "harmony",
+      "rhythm",
+      "tempo"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "notes sequence",
+      "rhythm",
+      "harmony",
+      "tempo"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "flowing",
+      "connected",
+      "separated",
+      "smooth"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "6",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "harmony",
+      "speed",
+      "volume",
+      "pitch"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "rhythm",
+      "silence",
+      "notes together",
+      "single note"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "5 notes",
+      "7 notes",
+      "8 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "pitch",
+      "speed",
+      "harmony",
+      "volume"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "soft",
+      "very loud",
+      "moderately",
+      "loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Music elements are",
     "options": [
       "3",
+      "5",
       "4",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "very loud",
+      "soft",
+      "loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "flowing",
+      "connected",
+      "smooth",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "soft",
+      "very loud",
+      "loud",
+      "moderately"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "12 notes",
+      "5 notes",
+      "8 notes",
+      "7 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "pitch",
+      "speed",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "6",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "silence",
+      "rhythm",
+      "single note",
+      "notes together"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "vocal",
+      "baton",
+      "all of above",
+      "hands"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "separated",
+      "smooth",
+      "connected",
+      "flowing"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "harmony",
+      "pitch",
+      "volume",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "harmony",
+      "speed",
+      "volume",
+      "pitch"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "rhythm",
+      "notes sequence",
+      "harmony",
+      "tempo"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "rhythm",
+      "single note",
+      "notes together",
+      "silence"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "notes together",
+      "single note",
+      "rhythm",
+      "silence"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "all of above",
+      "hands",
+      "vocal",
+      "baton"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "bars",
+      "clef",
+      "time",
+      "sharps/flats"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "very loud",
+      "moderately",
+      "loud",
+      "soft"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "5 notes",
+      "7 notes",
+      "12 notes",
+      "8 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "connected",
+      "flowing",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "all of above",
+      "baton",
+      "vocal"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "soft",
+      "very loud",
+      "loud",
+      "moderately"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "silence",
+      "rhythm",
+      "notes together",
+      "single note"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "separated",
+      "smooth",
+      "flowing",
+      "connected"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "silence",
+      "notes together",
+      "rhythm",
+      "single note"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "baton",
+      "vocal",
+      "hands",
+      "all of above"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "7 notes",
+      "12 notes",
+      "8 notes",
+      "5 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "speed",
+      "pitch",
+      "volume",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "connected",
+      "smooth",
+      "flowing",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "sharps/flats",
+      "time",
+      "bars"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "sharps/flats",
+      "time",
+      "bars",
+      "clef"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "5 notes",
+      "12 notes",
+      "8 notes",
+      "7 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "tempo",
+      "notes sequence",
+      "rhythm",
+      "harmony"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "speed",
+      "pitch",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "very loud",
+      "soft",
+      "moderately",
+      "loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "5 notes",
+      "7 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "harmony",
+      "speed",
+      "volume",
+      "pitch"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "notes sequence",
+      "tempo",
+      "harmony",
+      "rhythm"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "harmony",
+      "rhythm",
+      "tempo",
+      "notes sequence"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "8 notes",
+      "12 notes",
+      "5 notes",
+      "7 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "flowing",
+      "connected",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "baton",
+      "all of above",
+      "vocal"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "pitch",
+      "harmony",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "bars",
+      "sharps/flats",
+      "time"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "time",
+      "sharps/flats",
+      "bars"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "loud",
+      "soft",
+      "very loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "soft",
+      "moderately",
+      "loud",
+      "very loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "sharps/flats",
+      "clef",
+      "time",
+      "bars"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "rhythm",
+      "notes sequence",
+      "harmony",
+      "tempo"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "vocal",
+      "hands",
+      "all of above",
+      "baton"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "separated",
+      "smooth",
+      "connected",
+      "flowing"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "bars",
+      "sharps/flats",
+      "time"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "tempo",
+      "harmony",
+      "rhythm",
+      "notes sequence"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "baton",
+      "all of above",
+      "vocal"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "sharps/flats",
+      "bars",
+      "time"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "soft",
+      "loud",
+      "very loud",
+      "moderately"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "separated",
+      "connected",
+      "smooth",
+      "flowing"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "4",
+      "3",
       "5",
       "6"
     ],
     "answer": "4"
   },
   {
-    "question": "Melody is:",
+    "question": "Conductor uses",
+    "options": [
+      "vocal",
+      "baton",
+      "all of above",
+      "hands"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "harmony",
+      "tempo",
+      "notes sequence",
+      "rhythm"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "5 notes",
+      "12 notes",
+      "8 notes",
+      "7 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "flowing",
+      "separated",
+      "connected"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "vocal",
+      "all of above",
+      "hands",
+      "baton"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "silence",
+      "single note",
+      "notes together",
+      "rhythm"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "soft",
+      "loud",
+      "moderately",
+      "very loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "12 notes",
+      "7 notes",
+      "5 notes",
+      "8 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "all of above",
+      "vocal",
+      "hands",
+      "baton"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "7 notes",
+      "8 notes",
+      "5 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "time",
+      "clef",
+      "sharps/flats",
+      "bars"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "loud",
+      "very loud",
+      "moderately",
+      "soft"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "12 notes",
+      "7 notes",
+      "8 notes",
+      "5 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "5 notes",
+      "7 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "single note",
+      "notes together",
+      "rhythm",
+      "silence"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "separated",
+      "flowing",
+      "connected"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "notes sequence",
+      "harmony",
+      "rhythm",
+      "tempo"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "speed",
+      "pitch",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "all of above",
+      "hands",
+      "vocal",
+      "baton"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "silence",
+      "notes together",
+      "rhythm",
+      "single note"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "5 notes",
+      "8 notes",
+      "7 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "sharps/flats",
+      "time",
+      "clef",
+      "bars"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "7 notes",
+      "5 notes",
+      "8 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "12 notes",
+      "7 notes",
+      "5 notes",
+      "8 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "harmony",
+      "volume",
+      "pitch",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "sharps/flats",
+      "bars",
+      "time"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "speed",
+      "harmony",
+      "pitch",
+      "volume"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "7 notes",
+      "8 notes",
+      "12 notes",
+      "5 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "notes sequence",
+      "tempo",
+      "harmony",
+      "rhythm"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "harmony",
+      "volume",
+      "pitch",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "bars",
+      "sharps/flats",
+      "time",
+      "clef"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Melody is",
     "options": [
       "harmony",
       "notes sequence",
@@ -170,77 +1890,547 @@
     "answer": "notes sequence"
   },
   {
-    "question": "Tempo refers to:",
+    "question": "Key signature shows",
     "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
+      "sharps/flats",
+      "bars",
+      "clef",
+      "time"
     ],
-    "answer": "speed"
+    "answer": "sharps/flats"
   },
   {
-    "question": "Octave contains:",
+    "question": "Key signature shows",
     "options": [
+      "clef",
+      "time",
+      "bars",
+      "sharps/flats"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "7 notes",
       "5 notes",
       "8 notes",
-      "12 notes",
-      "7 notes"
+      "12 notes"
     ],
-    "answer": "8 notes"
+    "answer": "7 notes"
   },
   {
-    "question": "Harmony is:",
+    "question": "Scale has",
     "options": [
+      "5 notes",
+      "12 notes",
+      "7 notes",
+      "8 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "flowing",
+      "connected",
+      "separated",
+      "smooth"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "notes together",
       "single note",
+      "rhythm",
+      "silence"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
       "notes together",
       "silence",
+      "single note",
       "rhythm"
     ],
     "answer": "notes together"
   },
   {
-    "question": "Music elements are:",
+    "question": "Conductor uses",
     "options": [
+      "baton",
+      "all of above",
+      "hands",
+      "vocal"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "connected",
+      "flowing",
+      "separated",
+      "smooth"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "speed",
+      "volume",
+      "pitch",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "12 notes",
+      "5 notes",
+      "8 notes",
+      "7 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "rhythm",
+      "harmony",
+      "tempo",
+      "notes sequence"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "connected",
+      "separated",
+      "smooth",
+      "flowing"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "loud",
+      "very loud",
+      "soft"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "separated",
+      "connected",
+      "flowing",
+      "smooth"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "loud",
+      "soft",
+      "very loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "5",
       "3",
       "4",
-      "5",
       "6"
     ],
     "answer": "4"
   },
   {
-    "question": "Melody is:",
+    "question": "Key signature shows",
     "options": [
-      "harmony",
-      "notes sequence",
+      "time",
+      "clef",
+      "bars",
+      "sharps/flats"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "7 notes",
+      "8 notes",
+      "5 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "very loud",
+      "soft",
+      "loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "connected",
+      "smooth",
+      "flowing",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "7 notes",
+      "5 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "separated",
+      "flowing",
+      "connected"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "vocal",
+      "all of above",
+      "baton",
+      "hands"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Melody is",
+    "options": [
       "rhythm",
-      "tempo"
+      "tempo",
+      "notes sequence",
+      "harmony"
     ],
     "answer": "notes sequence"
   },
   {
-    "question": "Tempo refers to:",
+    "question": "Melody is",
     "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
+      "rhythm",
+      "harmony",
+      "tempo",
+      "notes sequence"
     ],
-    "answer": "speed"
+    "answer": "notes sequence"
   },
   {
-    "question": "Octave contains:",
+    "question": "Octave contains",
     "options": [
+      "7 notes",
       "5 notes",
       "8 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "7 notes",
       "12 notes",
+      "8 notes",
+      "5 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "loud",
+      "very loud",
+      "soft"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "7 notes",
+      "5 notes",
+      "12 notes",
+      "8 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "12 notes",
+      "7 notes",
+      "5 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "connected",
+      "flowing",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "baton",
+      "vocal",
+      "hands",
+      "all of above"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "time",
+      "bars",
+      "sharps/flats",
+      "clef"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "5 notes",
+      "7 notes",
+      "8 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "12 notes",
+      "5 notes",
+      "8 notes",
       "7 notes"
     ],
     "answer": "8 notes"
   },
   {
-    "question": "Harmony is:",
+    "question": "Forte means",
+    "options": [
+      "soft",
+      "loud",
+      "moderately",
+      "very loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "loud",
+      "soft",
+      "moderately",
+      "very loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "5 notes",
+      "7 notes",
+      "12 notes",
+      "8 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "notes together",
+      "silence",
+      "single note",
+      "rhythm"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "loud",
+      "moderately",
+      "very loud",
+      "soft"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "8 notes",
+      "7 notes",
+      "12 notes",
+      "5 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "baton",
+      "all of above",
+      "hands",
+      "vocal"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "rhythm",
+      "notes sequence",
+      "tempo",
+      "harmony"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "bars",
+      "sharps/flats",
+      "time",
+      "clef"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "5 notes",
+      "8 notes",
+      "7 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "clef",
+      "time",
+      "sharps/flats",
+      "bars"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "5 notes",
+      "7 notes",
+      "12 notes",
+      "8 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "connected",
+      "separated",
+      "smooth",
+      "flowing"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "7 notes",
+      "8 notes",
+      "12 notes",
+      "5 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "speed",
+      "harmony",
+      "pitch",
+      "volume"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "rhythm",
+      "single note",
+      "notes together",
+      "silence"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Harmony is",
     "options": [
       "single note",
       "notes together",
@@ -250,2753 +2440,563 @@
     "answer": "notes together"
   },
   {
-    "question": "Music elements are:",
+    "question": "Music elements are",
     "options": [
+      "6",
       "3",
+      "5",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "silence",
+      "rhythm",
+      "notes together",
+      "single note"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "harmony",
+      "volume",
+      "pitch",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "pitch",
+      "harmony",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "5 notes",
+      "12 notes",
+      "8 notes",
+      "7 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "harmony",
+      "volume",
+      "pitch",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "harmony",
+      "tempo",
+      "rhythm",
+      "notes sequence"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "5 notes",
+      "7 notes",
+      "12 notes",
+      "8 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "single note",
+      "rhythm",
+      "notes together",
+      "silence"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "7 notes",
+      "8 notes",
+      "5 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "8 notes",
+      "5 notes",
+      "12 notes",
+      "7 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "notes together",
+      "silence",
+      "single note",
+      "rhythm"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
       "4",
       "5",
+      "6",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "12 notes",
+      "7 notes",
+      "5 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "rhythm",
+      "tempo",
+      "harmony",
+      "notes sequence"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "rhythm",
+      "single note",
+      "silence",
+      "notes together"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "flowing",
+      "connected",
+      "smooth",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "tempo",
+      "harmony",
+      "rhythm",
+      "notes sequence"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "harmony",
+      "pitch",
+      "speed"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "rhythm",
+      "tempo",
+      "notes sequence",
+      "harmony"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "vocal",
+      "baton",
+      "all of above"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "12 notes",
+      "5 notes",
+      "8 notes",
+      "7 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "notes sequence",
+      "rhythm",
+      "harmony",
+      "tempo"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "baton",
+      "all of above",
+      "vocal"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "volume",
+      "harmony",
+      "speed",
+      "pitch"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "bars",
+      "clef",
+      "sharps/flats",
+      "time"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "12 notes",
+      "5 notes",
+      "8 notes",
+      "7 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "5",
+      "6",
+      "3",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "tempo",
+      "harmony",
+      "notes sequence",
+      "rhythm"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Conductor uses",
+    "options": [
+      "hands",
+      "baton",
+      "all of above",
+      "vocal"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "7 notes",
+      "8 notes",
+      "5 notes",
+      "12 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "pitch",
+      "speed",
+      "volume",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "7 notes",
+      "5 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "connected",
+      "flowing",
+      "separated"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Staccato is",
+    "options": [
+      "smooth",
+      "separated",
+      "connected",
+      "flowing"
+    ],
+    "answer": "separated"
+  },
+  {
+    "question": "Key signature shows",
+    "options": [
+      "time",
+      "bars",
+      "sharps/flats",
+      "clef"
+    ],
+    "answer": "sharps/flats"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "12 notes",
+      "7 notes",
+      "8 notes",
+      "5 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "5 notes",
+      "8 notes",
+      "7 notes",
+      "12 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "very loud",
+      "moderately",
+      "loud",
+      "soft"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "7 notes",
+      "8 notes",
+      "12 notes",
+      "5 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "loud",
+      "soft",
+      "moderately",
+      "very loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "loud",
+      "very loud",
+      "soft"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Scale has",
+    "options": [
+      "8 notes",
+      "5 notes",
+      "12 notes",
+      "7 notes"
+    ],
+    "answer": "7 notes"
+  },
+  {
+    "question": "Harmony is",
+    "options": [
+      "notes together",
+      "single note",
+      "silence",
+      "rhythm"
+    ],
+    "answer": "notes together"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "soft",
+      "loud",
+      "very loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Melody is",
+    "options": [
+      "tempo",
+      "harmony",
+      "notes sequence",
+      "rhythm"
+    ],
+    "answer": "notes sequence"
+  },
+  {
+    "question": "Forte means",
+    "options": [
+      "moderately",
+      "soft",
+      "very loud",
+      "loud"
+    ],
+    "answer": "loud"
+  },
+  {
+    "question": "Tempo refers to",
+    "options": [
+      "pitch",
+      "volume",
+      "speed",
+      "harmony"
+    ],
+    "answer": "speed"
+  },
+  {
+    "question": "Octave contains",
+    "options": [
+      "12 notes",
+      "5 notes",
+      "7 notes",
+      "8 notes"
+    ],
+    "answer": "8 notes"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
+      "5",
+      "3",
+      "4",
       "6"
     ],
     "answer": "4"
   },
   {
-    "question": "Melody is:",
+    "question": "Octave contains",
     "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
       "12 notes",
-      "7 notes"
+      "5 notes",
+      "7 notes",
+      "8 notes"
     ],
     "answer": "8 notes"
   },
   {
-    "question": "Harmony is:",
+    "question": "Conductor uses",
     "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
+      "hands",
+      "vocal",
+      "all of above",
+      "baton"
     ],
-    "answer": "notes together"
+    "answer": "baton"
   },
   {
-    "question": "Music elements are:",
+    "question": "Conductor uses",
     "options": [
-      "3",
-      "4",
+      "baton",
+      "hands",
+      "vocal",
+      "all of above"
+    ],
+    "answer": "baton"
+  },
+  {
+    "question": "Music elements are",
+    "options": [
       "5",
-      "6"
+      "4",
+      "6",
+      "3"
     ],
     "answer": "4"
   },
   {
-    "question": "Melody is:",
+    "question": "Scale has",
     "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
       "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
+      "7 notes",
       "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
+      "12 notes"
     ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
-  },
-  {
-    "question": "Music elements are:",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4"
-  },
-  {
-    "question": "Melody is:",
-    "options": [
-      "harmony",
-      "notes sequence",
-      "rhythm",
-      "tempo"
-    ],
-    "answer": "notes sequence"
-  },
-  {
-    "question": "Tempo refers to:",
-    "options": [
-      "pitch",
-      "speed",
-      "volume",
-      "harmony"
-    ],
-    "answer": "speed"
-  },
-  {
-    "question": "Octave contains:",
-    "options": [
-      "5 notes",
-      "8 notes",
-      "12 notes",
-      "7 notes"
-    ],
-    "answer": "8 notes"
-  },
-  {
-    "question": "Harmony is:",
-    "options": [
-      "single note",
-      "notes together",
-      "silence",
-      "rhythm"
-    ],
-    "answer": "notes together"
+    "answer": "7 notes"
   }
 ]

@@ -1,36 +1,306 @@
 [
   {
-    "question": "Agriculture is:",
+    "question": "Compost improves",
+    "options": [
+      "all soil properties",
+      "structure",
+      "pH only",
+      "nutrients"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "color",
+      "size",
+      "texture"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "days",
+      "weeks to months",
+      "seasons",
+      "years"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "harvesting",
+      "storage",
+      "removing pests",
+      "watering crops"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "maintain fertility",
+      "prevent irrigation",
+      "increase pests",
+      "decrease yield"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "storage",
+      "harvesting",
+      "watering crops",
+      "removing pests"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "mining",
+      "hunting",
+      "fishing"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Agriculture is",
     "options": [
       "hunting",
       "farming",
+      "mining",
+      "fishing"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "nutrients",
+      "pH only",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "storage",
+      "removing pests",
+      "watering crops",
+      "harvesting"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
       "fishing",
+      "hunting",
+      "farming",
       "mining"
     ],
     "answer": "farming"
   },
   {
-    "question": "Soil fertility depends on:",
+    "question": "Organic farming avoids",
     "options": [
-      "color",
+      "sunlight",
+      "chemicals",
+      "soil",
+      "water"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "size",
       "texture",
-      "nutrients",
-      "size"
+      "color",
+      "nutrients"
     ],
     "answer": "nutrients"
   },
   {
-    "question": "Crop rotation helps:",
+    "question": "Harvesting at right time ensures",
     "options": [
-      "decrease yield",
-      "maintain fertility",
+      "storage",
+      "quality",
+      "both",
+      "quantity"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "weeding",
+      "drainage",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "prevent irrigation",
       "increase pests",
-      "prevent irrigation"
+      "decrease yield",
+      "maintain fertility"
     ],
     "answer": "maintain fertility"
   },
   {
-    "question": "Irrigation is for:",
+    "question": "Compost improves",
+    "options": [
+      "nutrients",
+      "structure",
+      "pH only",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "pH only",
+      "structure",
+      "all soil properties",
+      "nutrients"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "pH only",
+      "all soil properties",
+      "nutrients",
+      "structure"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quantity",
+      "both",
+      "quality",
+      "storage"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "years",
+      "weeks to months",
+      "days"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "drainage",
+      "all of above",
+      "aeration",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "pH only",
+      "structure",
+      "nutrients",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "removing pests",
+      "watering crops",
+      "storage",
+      "harvesting"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "texture",
+      "size",
+      "color",
+      "nutrients"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "mining",
+      "fishing",
+      "hunting",
+      "farming"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "biological",
+      "all methods",
+      "chemical",
+      "cultural"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "water",
+      "chemicals",
+      "soil",
+      "sunlight"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "soil",
+      "chemicals",
+      "sunlight",
+      "water"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "drainage",
+      "all of above",
+      "aeration",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Irrigation for",
     "options": [
       "watering crops",
       "removing pests",
@@ -40,37 +310,17 @@
     "answer": "watering crops"
   },
   {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
+    "question": "Soil fertility depends on",
     "options": [
       "color",
+      "size",
       "texture",
-      "nutrients",
-      "size"
+      "nutrients"
     ],
     "answer": "nutrients"
   },
   {
-    "question": "Crop rotation helps:",
+    "question": "Crop rotation helps",
     "options": [
       "decrease yield",
       "maintain fertility",
@@ -80,47 +330,297 @@
     "answer": "maintain fertility"
   },
   {
-    "question": "Irrigation is for:",
+    "question": "Agriculture is",
+    "options": [
+      "mining",
+      "hunting",
+      "farming",
+      "fishing"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "biological",
+      "chemical",
+      "all methods",
+      "cultural"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "cultural",
+      "chemical",
+      "biological",
+      "all methods"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "texture",
+      "size",
+      "color",
+      "nutrients"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Irrigation for",
     "options": [
       "watering crops",
+      "storage",
       "removing pests",
-      "harvesting",
-      "storage"
+      "harvesting"
     ],
     "answer": "watering crops"
   },
   {
-    "question": "Organic farming avoids:",
+    "question": "Plowing helps",
     "options": [
-      "water",
+      "all of above",
+      "aeration",
+      "drainage",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "all soil properties",
+      "nutrients",
+      "pH only"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "texture",
+      "color",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "color",
+      "size",
+      "texture",
+      "nutrients"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "storage",
+      "removing pests",
+      "watering crops",
+      "harvesting"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "days",
+      "weeks to months",
+      "years"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "soil",
       "sunlight",
       "chemicals",
+      "water"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "sunlight",
+      "water",
       "soil"
     ],
     "answer": "chemicals"
   },
   {
-    "question": "Agriculture is:",
+    "question": "Irrigation for",
     "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
+      "storage",
+      "harvesting",
+      "removing pests",
+      "watering crops"
     ],
-    "answer": "farming"
+    "answer": "watering crops"
   },
   {
-    "question": "Soil fertility depends on:",
+    "question": "Harvesting at right time ensures",
     "options": [
-      "color",
+      "both",
+      "storage",
+      "quantity",
+      "quality"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "removing pests",
+      "storage",
+      "watering crops",
+      "harvesting"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "days",
+      "weeks to months",
+      "years"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "days",
+      "weeks to months",
+      "years",
+      "seasons"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "days",
+      "seasons",
+      "years",
+      "weeks to months"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "storage",
+      "quantity",
+      "quality",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "watering crops",
+      "storage",
+      "removing pests",
+      "harvesting"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "cultural",
+      "all methods",
+      "biological",
+      "chemical"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quantity",
+      "storage",
+      "quality",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "years",
+      "days",
+      "weeks to months"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
       "texture",
+      "color",
       "nutrients",
       "size"
     ],
     "answer": "nutrients"
   },
   {
-    "question": "Crop rotation helps:",
+    "question": "Irrigation for",
+    "options": [
+      "watering crops",
+      "storage",
+      "harvesting",
+      "removing pests"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "increase pests",
+      "maintain fertility",
+      "prevent irrigation"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "water",
+      "chemicals",
+      "sunlight",
+      "soil"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "all methods",
+      "chemical",
+      "biological",
+      "cultural"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Crop rotation helps",
     "options": [
       "decrease yield",
       "maintain fertility",
@@ -130,27 +630,407 @@
     "answer": "maintain fertility"
   },
   {
-    "question": "Irrigation is for:",
+    "question": "Pest control includes",
     "options": [
-      "watering crops",
-      "removing pests",
+      "biological",
+      "chemical",
+      "cultural",
+      "all methods"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "hunting",
+      "mining",
+      "farming",
+      "fishing"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "texture",
+      "color",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "all of above",
+      "drainage",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "soil",
+      "sunlight",
+      "water"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "size",
+      "texture",
+      "color",
+      "nutrients"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "storage",
       "harvesting",
-      "storage"
+      "watering crops",
+      "removing pests"
     ],
     "answer": "watering crops"
   },
   {
-    "question": "Organic farming avoids:",
+    "question": "Soil fertility depends on",
+    "options": [
+      "texture",
+      "color",
+      "size",
+      "nutrients"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quality",
+      "quantity",
+      "storage",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "increase pests",
+      "maintain fertility",
+      "decrease yield",
+      "prevent irrigation"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "all methods",
+      "cultural",
+      "biological",
+      "chemical"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "nutrients",
+      "all soil properties",
+      "pH only",
+      "structure"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "all soil properties",
+      "structure",
+      "nutrients",
+      "pH only"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "weeks to months",
+      "days",
+      "years"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "prevent irrigation",
+      "maintain fertility",
+      "increase pests"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "chemical",
+      "biological",
+      "all methods",
+      "cultural"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "fishing",
+      "mining",
+      "hunting"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Organic farming avoids",
     "options": [
       "water",
-      "sunlight",
       "chemicals",
+      "sunlight",
       "soil"
     ],
     "answer": "chemicals"
   },
   {
-    "question": "Agriculture is:",
+    "question": "Soil fertility depends on",
+    "options": [
+      "size",
+      "nutrients",
+      "color",
+      "texture"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "weeks to months",
+      "days",
+      "years"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "storage",
+      "quality",
+      "both",
+      "quantity"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quantity",
+      "quality",
+      "storage",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "nutrients",
+      "all soil properties",
+      "structure",
+      "pH only"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "removing pests",
+      "storage",
+      "watering crops",
+      "harvesting"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "nutrients",
+      "all soil properties",
+      "pH only",
+      "structure"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "years",
+      "days",
+      "seasons",
+      "weeks to months"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "fishing",
+      "hunting",
+      "mining"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "maintain fertility",
+      "prevent irrigation",
+      "increase pests"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "increase pests",
+      "maintain fertility",
+      "prevent irrigation",
+      "decrease yield"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "storage",
+      "both",
+      "quality",
+      "quantity"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "all soil properties",
+      "nutrients",
+      "pH only"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "mining",
+      "fishing",
+      "hunting"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "soil",
+      "sunlight",
+      "chemicals",
+      "water"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "increase pests",
+      "prevent irrigation",
+      "decrease yield",
+      "maintain fertility"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "harvesting",
+      "storage",
+      "watering crops",
+      "removing pests"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "all methods",
+      "cultural",
+      "chemical",
+      "biological"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "all soil properties",
+      "pH only",
+      "nutrients"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "prevent irrigation",
+      "maintain fertility",
+      "increase pests"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "soil",
+      "water",
+      "sunlight"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "prevent irrigation",
+      "increase pests",
+      "maintain fertility",
+      "decrease yield"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Agriculture is",
     "options": [
       "hunting",
       "farming",
@@ -160,47 +1040,1217 @@
     "answer": "farming"
   },
   {
-    "question": "Soil fertility depends on:",
+    "question": "Agriculture is",
     "options": [
+      "fishing",
+      "farming",
+      "hunting",
+      "mining"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "days",
+      "years",
+      "weeks to months"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "biological",
+      "chemical",
+      "cultural",
+      "all methods"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
       "color",
+      "size",
+      "texture"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "increase pests",
+      "prevent irrigation",
+      "maintain fertility"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "prevent irrigation",
+      "decrease yield",
+      "increase pests",
+      "maintain fertility"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "drainage",
+      "aeration",
+      "all of above",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "storage",
+      "quality",
+      "both",
+      "quantity"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "nutrients",
+      "pH only",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "weeding",
+      "drainage",
+      "aeration",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "weeding",
+      "all of above",
+      "aeration",
+      "drainage"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "mining",
+      "hunting",
+      "fishing",
+      "farming"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "nutrients",
+      "pH only",
+      "structure",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "years",
+      "seasons",
+      "weeks to months",
+      "days"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "years",
+      "weeks to months",
+      "days",
+      "seasons"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "all methods",
+      "chemical",
+      "biological",
+      "cultural"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "biological",
+      "all methods",
+      "cultural",
+      "chemical"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
       "texture",
       "nutrients",
+      "color",
       "size"
     ],
     "answer": "nutrients"
   },
   {
-    "question": "Crop rotation helps:",
+    "question": "Compost improves",
     "options": [
+      "pH only",
+      "nutrients",
+      "all soil properties",
+      "structure"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "removing pests",
+      "harvesting",
+      "storage",
+      "watering crops"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "both",
+      "storage",
+      "quantity",
+      "quality"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "soil",
+      "water",
+      "chemicals",
+      "sunlight"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "weeding",
+      "drainage",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "days",
+      "seasons",
+      "years",
+      "weeks to months"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "watering crops",
+      "storage",
+      "removing pests",
+      "harvesting"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "harvesting",
+      "watering crops",
+      "removing pests",
+      "storage"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "color",
+      "size",
+      "texture"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "fishing",
+      "mining",
+      "hunting"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "years",
+      "weeks to months",
+      "days"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "nutrients",
+      "all soil properties",
+      "pH only",
+      "structure"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "fishing",
+      "farming",
+      "mining",
+      "hunting"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "maintain fertility",
+      "increase pests",
+      "prevent irrigation",
+      "decrease yield"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "biological",
+      "cultural",
+      "chemical",
+      "all methods"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "mining",
+      "fishing",
+      "hunting"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "nutrients",
+      "pH only",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "weeks to months",
+      "days",
+      "years",
+      "seasons"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "both",
+      "quantity",
+      "storage",
+      "quality"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quality",
+      "both",
+      "storage",
+      "quantity"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "pH only",
+      "structure",
+      "nutrients",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quality",
+      "storage",
+      "both",
+      "quantity"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "soil",
+      "water",
+      "sunlight",
+      "chemicals"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "hunting",
+      "fishing",
+      "mining"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quantity",
+      "both",
+      "quality",
+      "storage"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "size",
+      "color",
+      "texture"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "increase pests",
+      "decrease yield",
+      "prevent irrigation",
+      "maintain fertility"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "increase pests",
+      "prevent irrigation",
+      "decrease yield",
+      "maintain fertility"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "storage",
+      "quantity",
+      "quality",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "harvesting",
+      "watering crops",
+      "removing pests",
+      "storage"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "fishing",
+      "farming",
+      "hunting",
+      "mining"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "prevent irrigation",
       "decrease yield",
       "maintain fertility",
+      "increase pests"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "size",
+      "nutrients",
+      "texture",
+      "color"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "cultural",
+      "chemical",
+      "all methods",
+      "biological"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "hunting",
+      "fishing",
+      "mining"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "pH only",
+      "all soil properties",
+      "nutrients"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "chemical",
+      "cultural",
+      "all methods",
+      "biological"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "weeks to months",
+      "seasons",
+      "years",
+      "days"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "biological",
+      "all methods",
+      "chemical",
+      "cultural"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "increase pests",
+      "maintain fertility",
+      "prevent irrigation"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "all soil properties",
+      "nutrients",
+      "pH only",
+      "structure"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "texture",
+      "nutrients",
+      "color",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "pH only",
+      "structure",
+      "nutrients",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "maintain fertility",
+      "decrease yield",
       "increase pests",
       "prevent irrigation"
     ],
     "answer": "maintain fertility"
   },
   {
-    "question": "Irrigation is for:",
+    "question": "Pest control includes",
     "options": [
-      "watering crops",
+      "all methods",
+      "biological",
+      "chemical",
+      "cultural"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "storage",
       "removing pests",
-      "harvesting",
-      "storage"
+      "watering crops",
+      "harvesting"
     ],
     "answer": "watering crops"
   },
   {
-    "question": "Organic farming avoids:",
+    "question": "Harvesting at right time ensures",
     "options": [
+      "quality",
+      "both",
+      "quantity",
+      "storage"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "removing pests",
+      "watering crops",
+      "storage",
+      "harvesting"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "all soil properties",
+      "pH only",
+      "nutrients"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quality",
+      "storage",
+      "both",
+      "quantity"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "cultural",
+      "biological",
+      "all methods",
+      "chemical"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "storage",
+      "harvesting",
+      "removing pests",
+      "watering crops"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quality",
+      "both",
+      "quantity",
+      "storage"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "soil",
+      "water",
+      "chemicals",
+      "sunlight"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "chemical",
+      "cultural",
+      "biological",
+      "all methods"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "storage",
+      "quality",
+      "both",
+      "quantity"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quality",
+      "both",
+      "quantity",
+      "storage"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "texture",
+      "color",
+      "nutrients",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "mining",
+      "fishing",
+      "hunting",
+      "farming"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "years",
+      "days",
+      "weeks to months",
+      "seasons"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "maintain fertility",
+      "prevent irrigation",
+      "increase pests",
+      "decrease yield"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quantity",
+      "both",
+      "quality",
+      "storage"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "drainage",
+      "all of above",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "color",
+      "texture",
+      "size",
+      "nutrients"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
       "water",
       "sunlight",
-      "chemicals",
       "soil"
     ],
     "answer": "chemicals"
   },
   {
-    "question": "Agriculture is:",
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "all of above",
+      "weeding",
+      "drainage"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "years",
+      "weeks to months",
+      "days"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "texture",
+      "color",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quantity",
+      "quality",
+      "storage",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "removing pests",
+      "harvesting",
+      "storage",
+      "watering crops"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "all of above",
+      "drainage",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "weeks to months",
+      "days",
+      "years",
+      "seasons"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "soil",
+      "chemicals",
+      "water",
+      "sunlight"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "weeks to months",
+      "years",
+      "seasons",
+      "days"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "years",
+      "weeks to months",
+      "seasons",
+      "days"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "color",
+      "texture",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "weeding",
+      "drainage",
+      "aeration",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "sunlight",
+      "water",
+      "soil"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "weeding",
+      "drainage",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "both",
+      "quantity",
+      "storage",
+      "quality"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "size",
+      "texture",
+      "color",
+      "nutrients"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "drainage",
+      "all of above",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "all of above",
+      "weeding",
+      "drainage"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "all methods",
+      "cultural",
+      "chemical",
+      "biological"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "all soil properties",
+      "nutrients",
+      "pH only",
+      "structure"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "all of above",
+      "weeding",
+      "drainage"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "texture",
+      "color",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "years",
+      "days",
+      "seasons",
+      "weeks to months"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "chemical",
+      "cultural",
+      "all methods",
+      "biological"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "soil",
+      "water",
+      "sunlight"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "increase pests",
+      "prevent irrigation",
+      "maintain fertility"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "all of above",
+      "aeration",
+      "weeding",
+      "drainage"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "color",
+      "texture",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "fishing",
+      "farming",
+      "hunting",
+      "mining"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "hunting",
+      "fishing",
+      "mining"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "increase pests",
+      "maintain fertility",
+      "prevent irrigation"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "weeding",
+      "all of above",
+      "drainage",
+      "aeration"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "cultural",
+      "biological",
+      "chemical",
+      "all methods"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "hunting",
+      "mining",
+      "fishing",
+      "farming"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "size",
+      "nutrients",
+      "color",
+      "texture"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "water",
+      "soil",
+      "sunlight"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "drainage",
+      "aeration",
+      "weeding",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "weeding",
+      "aeration",
+      "all of above",
+      "drainage"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Agriculture is",
     "options": [
       "hunting",
       "farming",
@@ -210,47 +2260,507 @@
     "answer": "farming"
   },
   {
-    "question": "Soil fertility depends on:",
+    "question": "Compost improves",
     "options": [
-      "color",
-      "texture",
+      "structure",
       "nutrients",
-      "size"
+      "pH only",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "water",
+      "sunlight",
+      "soil",
+      "chemicals"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "hunting",
+      "fishing",
+      "farming",
+      "mining"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "days",
+      "years",
+      "weeks to months"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "drainage",
+      "all of above",
+      "aeration",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "all of above",
+      "drainage",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "all soil properties",
+      "structure",
+      "pH only",
+      "nutrients"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quality",
+      "quantity",
+      "both",
+      "storage"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "storage",
+      "watering crops",
+      "harvesting",
+      "removing pests"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "cultural",
+      "biological",
+      "all methods",
+      "chemical"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "days",
+      "seasons",
+      "weeks to months",
+      "years"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quality",
+      "storage",
+      "both",
+      "quantity"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "years",
+      "seasons",
+      "weeks to months",
+      "days"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "biological",
+      "all methods",
+      "cultural",
+      "chemical"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quantity",
+      "both",
+      "quality",
+      "storage"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "years",
+      "days",
+      "weeks to months"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "pH only",
+      "all soil properties",
+      "nutrients"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "seasons",
+      "weeks to months",
+      "days",
+      "years"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "prevent irrigation",
+      "increase pests",
+      "maintain fertility"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "prevent irrigation",
+      "increase pests",
+      "decrease yield",
+      "maintain fertility"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "fishing",
+      "farming",
+      "mining",
+      "hunting"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "quality",
+      "quantity",
+      "storage",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "all of above",
+      "weeding",
+      "aeration",
+      "drainage"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "texture",
+      "size",
+      "color"
     ],
     "answer": "nutrients"
   },
   {
-    "question": "Crop rotation helps:",
+    "question": "Pest control includes",
+    "options": [
+      "cultural",
+      "chemical",
+      "all methods",
+      "biological"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "weeding",
+      "drainage",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "cultural",
+      "all methods",
+      "biological",
+      "chemical"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Crop rotation helps",
     "options": [
       "decrease yield",
       "maintain fertility",
+      "prevent irrigation",
+      "increase pests"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "drainage",
+      "aeration",
+      "all of above",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "texture",
+      "size",
+      "nutrients",
+      "color"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "aeration",
+      "drainage",
+      "all of above",
+      "weeding"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
       "increase pests",
+      "maintain fertility",
+      "decrease yield",
       "prevent irrigation"
     ],
     "answer": "maintain fertility"
   },
   {
-    "question": "Irrigation is for:",
+    "question": "Harvesting at right time ensures",
     "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
+      "quantity",
+      "both",
+      "storage",
+      "quality"
     ],
-    "answer": "watering crops"
+    "answer": "both"
   },
   {
-    "question": "Organic farming avoids:",
+    "question": "Soil fertility depends on",
     "options": [
-      "water",
+      "nutrients",
+      "texture",
+      "color",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Harvesting at right time ensures",
+    "options": [
+      "storage",
+      "both",
+      "quantity",
+      "quality"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
       "sunlight",
       "chemicals",
+      "soil",
+      "water"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "fishing",
+      "farming",
+      "hunting",
+      "mining"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "sunlight",
+      "soil",
+      "water"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "structure",
+      "pH only",
+      "nutrients",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "hunting",
+      "farming",
+      "mining",
+      "fishing"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "sunlight",
+      "soil",
+      "water",
+      "chemicals"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "sunlight",
+      "soil",
+      "chemicals",
+      "water"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "water",
+      "chemicals",
+      "sunlight",
       "soil"
     ],
     "answer": "chemicals"
   },
   {
-    "question": "Agriculture is:",
+    "question": "Crop rotation helps",
+    "options": [
+      "increase pests",
+      "decrease yield",
+      "prevent irrigation",
+      "maintain fertility"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "drainage",
+      "weeding",
+      "all of above",
+      "aeration"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Soil fertility depends on",
+    "options": [
+      "nutrients",
+      "texture",
+      "color",
+      "size"
+    ],
+    "answer": "nutrients"
+  },
+  {
+    "question": "Plowing helps",
+    "options": [
+      "weeding",
+      "aeration",
+      "drainage",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "water",
+      "soil",
+      "sunlight"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "watering crops",
+      "harvesting",
+      "storage",
+      "removing pests"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "cultural",
+      "chemical",
+      "all methods",
+      "biological"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Agriculture is",
     "options": [
       "hunting",
       "farming",
@@ -260,2743 +2770,233 @@
     "answer": "farming"
   },
   {
-    "question": "Soil fertility depends on:",
+    "question": "Irrigation for",
     "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
+      "storage",
       "watering crops",
       "removing pests",
-      "harvesting",
-      "storage"
+      "harvesting"
     ],
     "answer": "watering crops"
   },
   {
-    "question": "Organic farming avoids:",
+    "question": "Organic farming avoids",
     "options": [
-      "water",
-      "sunlight",
       "chemicals",
+      "sunlight",
+      "water",
       "soil"
     ],
     "answer": "chemicals"
   },
   {
-    "question": "Agriculture is:",
+    "question": "Irrigation for",
     "options": [
-      "hunting",
+      "harvesting",
+      "storage",
+      "removing pests",
+      "watering crops"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "prevent irrigation",
+      "maintain fertility",
+      "decrease yield",
+      "increase pests"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "biological",
+      "all methods",
+      "chemical",
+      "cultural"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "water",
+      "soil",
+      "sunlight"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "water",
+      "sunlight",
+      "soil",
+      "chemicals"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "weeks to months",
+      "seasons",
+      "days",
+      "years"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "watering crops",
+      "storage",
+      "harvesting",
+      "removing pests"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Crop rotation helps",
+    "options": [
+      "decrease yield",
+      "increase pests",
+      "maintain fertility",
+      "prevent irrigation"
+    ],
+    "answer": "maintain fertility"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "all soil properties",
+      "nutrients",
+      "pH only",
+      "structure"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "storage",
+      "harvesting",
+      "watering crops",
+      "removing pests"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
       "farming",
+      "hunting",
+      "mining",
+      "fishing"
+    ],
+    "answer": "farming"
+  },
+  {
+    "question": "Compost improves",
+    "options": [
+      "nutrients",
+      "pH only",
+      "structure",
+      "all soil properties"
+    ],
+    "answer": "all soil properties"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "removing pests",
+      "storage",
+      "watering crops",
+      "harvesting"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "chemicals",
+      "water",
+      "sunlight",
+      "soil"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Irrigation for",
+    "options": [
+      "harvesting",
+      "storage",
+      "removing pests",
+      "watering crops"
+    ],
+    "answer": "watering crops"
+  },
+  {
+    "question": "Pest control includes",
+    "options": [
+      "all methods",
+      "biological",
+      "cultural",
+      "chemical"
+    ],
+    "answer": "all methods"
+  },
+  {
+    "question": "Nursery stage duration",
+    "options": [
+      "years",
+      "days",
+      "weeks to months",
+      "seasons"
+    ],
+    "answer": "weeks to months"
+  },
+  {
+    "question": "Organic farming avoids",
+    "options": [
+      "sunlight",
+      "chemicals",
+      "soil",
+      "water"
+    ],
+    "answer": "chemicals"
+  },
+  {
+    "question": "Agriculture is",
+    "options": [
+      "farming",
+      "hunting",
       "fishing",
       "mining"
     ],
     "answer": "farming"
   },
   {
-    "question": "Soil fertility depends on:",
+    "question": "Plowing helps",
     "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
+      "weeding",
+      "aeration",
+      "drainage",
+      "all of above"
     ],
-    "answer": "nutrients"
+    "answer": "all of above"
   },
   {
-    "question": "Crop rotation helps:",
+    "question": "Pest control includes",
     "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
+      "chemical",
+      "all methods",
+      "biological",
+      "cultural"
     ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
-  },
-  {
-    "question": "Agriculture is:",
-    "options": [
-      "hunting",
-      "farming",
-      "fishing",
-      "mining"
-    ],
-    "answer": "farming"
-  },
-  {
-    "question": "Soil fertility depends on:",
-    "options": [
-      "color",
-      "texture",
-      "nutrients",
-      "size"
-    ],
-    "answer": "nutrients"
-  },
-  {
-    "question": "Crop rotation helps:",
-    "options": [
-      "decrease yield",
-      "maintain fertility",
-      "increase pests",
-      "prevent irrigation"
-    ],
-    "answer": "maintain fertility"
-  },
-  {
-    "question": "Irrigation is for:",
-    "options": [
-      "watering crops",
-      "removing pests",
-      "harvesting",
-      "storage"
-    ],
-    "answer": "watering crops"
-  },
-  {
-    "question": "Organic farming avoids:",
-    "options": [
-      "water",
-      "sunlight",
-      "chemicals",
-      "soil"
-    ],
-    "answer": "chemicals"
+    "answer": "all methods"
   }
 ]

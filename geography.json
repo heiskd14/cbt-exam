@@ -1,46 +1,626 @@
 [
   {
-    "question": "The largest desert is:",
+    "question": "Weathering is",
     "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
+      "soil formation",
+      "rock breakdown",
+      "erosion by water",
+      "river action"
     ],
-    "answer": "Sahara"
+    "answer": "rock breakdown"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Erosion caused by",
     "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
       "water",
+      "wind",
       "both",
       "animals"
     ],
     "answer": "both"
   },
   {
-    "question": "Nigeria is located in:",
+    "question": "Equator divides into",
+    "options": [
+      "land and water",
+      "continents",
+      "east and west",
+      "north and south"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "altitude",
+      "temperature",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "land and water",
+      "continents",
+      "east and west",
+      "north and south"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "soil formation",
+      "erosion by water",
+      "rock breakdown",
+      "river action"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "east and west",
+      "land and water",
+      "north and south",
+      "continents"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "seasonal wind",
+      "storm",
+      "climate",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Congo",
+      "Niger",
+      "Nile",
+      "Zambezi"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "soil formation",
+      "river action",
+      "erosion by water"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Nile",
+      "Congo",
+      "Niger",
+      "Zambezi"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Congo",
+      "Nile",
+      "Niger",
+      "Zambezi"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "river action",
+      "erosion by water",
+      "soil formation",
+      "rock breakdown"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "altitude",
+      "temperature",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Congo",
+      "Niger",
+      "Zambezi",
+      "Nile"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "both",
+      "animals",
+      "water",
+      "wind"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "north and south",
+      "land and water",
+      "continents",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "both",
+      "season",
+      "latitude only",
+      "longitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "West Africa",
+      "Southern Africa",
+      "Central Africa",
+      "East Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "Southern Africa",
+      "West Africa",
+      "East Africa",
+      "Central Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "climate",
+      "rain type",
+      "storm",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Congo",
+      "Nile",
+      "Zambezi"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "temperature",
+      "altitude",
+      "east-west position",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "north and south",
+      "continents",
+      "east and west",
+      "land and water"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "erosion by water",
+      "soil formation",
+      "river action",
+      "rock breakdown"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Congo",
+      "Nile",
+      "Zambezi",
+      "Niger"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "both",
+      "wind",
+      "animals"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "both",
+      "wind",
+      "animals"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "climate",
+      "seasonal wind",
+      "rain type",
+      "storm"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "animals",
+      "both",
+      "wind"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "wind",
+      "both",
+      "water",
+      "animals"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "0° and 30°",
+      "60° and 90°",
+      "30° and 60°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "Central Africa",
+      "West Africa",
+      "East Africa",
+      "Southern Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "soil formation",
+      "river action",
+      "erosion by water",
+      "rock breakdown"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "30° and 60°",
+      "60° and 90°",
+      "Equator and Poles",
+      "0° and 30°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "continents",
+      "land and water",
+      "north and south",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "rain type",
+      "storm",
+      "climate",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Kalahari",
+      "Gobi",
+      "Arabian",
+      "Sahara"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Congo",
+      "Zambezi",
+      "Nile"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "north-south position",
+      "altitude",
+      "temperature"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "East Africa",
+      "West Africa",
+      "Central Africa",
+      "Southern Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "longitude only",
+      "latitude only",
+      "both",
+      "season"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "soil formation",
+      "river action",
+      "erosion by water",
+      "rock breakdown"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "continents",
+      "east and west",
+      "north and south",
+      "land and water"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Zambezi",
+      "Nile",
+      "Congo",
+      "Niger"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "altitude",
+      "north-south position",
+      "east-west position",
+      "temperature"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "rain type",
+      "seasonal wind",
+      "storm",
+      "climate"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "60° and 90°",
+      "Equator and Poles",
+      "30° and 60°",
+      "0° and 30°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "river action",
+      "soil formation",
+      "erosion by water"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "erosion by water",
+      "river action",
+      "soil formation",
+      "rock breakdown"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "climate",
+      "rain type",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Nile",
+      "Niger",
+      "Zambezi",
+      "Congo"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "East Africa",
+      "Central Africa",
+      "Southern Africa",
+      "West Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Arabian",
+      "Kalahari"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "latitude only",
+      "season",
+      "both",
+      "longitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "both",
+      "wind",
+      "animals",
+      "water"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "temperature",
+      "altitude",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "river action",
+      "erosion by water",
+      "soil formation"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "West Africa",
+      "East Africa",
+      "Central Africa",
+      "Southern Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "rain type",
+      "storm",
+      "seasonal wind",
+      "climate"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "north-south position",
+      "altitude",
+      "temperature",
+      "east-west position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "0° and 30°",
+      "Equator and Poles",
+      "30° and 60°",
+      "60° and 90°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Nigeria located in",
     "options": [
       "West Africa",
       "Central Africa",
@@ -50,2953 +630,2373 @@
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Longest river in Africa",
     "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
+      "Nile",
+      "Zambezi",
+      "Congo",
+      "Niger"
     ],
-    "answer": "Sahara"
+    "answer": "Nile"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Weathering is",
     "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
+      "erosion by water",
+      "rock breakdown",
+      "river action",
+      "soil formation"
     ],
-    "answer": "north and south"
+    "answer": "rock breakdown"
   },
   {
-    "question": "Climate is determined by:",
+    "question": "Climate determined by",
     "options": [
-      "latitude only",
       "longitude only",
+      "latitude only",
       "both",
       "season"
     ],
     "answer": "both"
   },
   {
-    "question": "Erosion is caused by:",
+    "question": "Latitude measures",
     "options": [
-      "wind",
+      "altitude",
+      "temperature",
+      "east-west position",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Zambezi",
+      "Congo",
+      "Nile"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "West Africa",
+      "Southern Africa",
+      "East Africa",
+      "Central Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "land and water",
+      "north and south",
+      "continents",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "river action",
+      "erosion by water",
+      "soil formation",
+      "rock breakdown"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "erosion by water",
+      "river action",
+      "rock breakdown",
+      "soil formation"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
       "water",
       "both",
+      "animals",
+      "wind"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "0° and 30°",
+      "60° and 90°",
+      "30° and 60°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "east and west",
+      "land and water",
+      "continents",
+      "north and south"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Congo",
+      "Zambezi",
+      "Nile",
+      "Niger"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "both",
+      "latitude only",
+      "longitude only",
+      "season"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "north and south",
+      "continents",
+      "land and water",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "West Africa",
+      "Central Africa",
+      "Southern Africa",
+      "East Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "altitude",
+      "east-west position",
+      "temperature",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "climate",
+      "rain type",
+      "storm",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Kalahari",
+      "Gobi",
+      "Sahara",
+      "Arabian"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "temperature",
+      "altitude",
+      "north-south position",
+      "east-west position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Kalahari",
+      "Arabian",
+      "Sahara",
+      "Gobi"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "latitude only",
+      "season",
+      "both",
+      "longitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "erosion by water",
+      "river action",
+      "soil formation",
+      "rock breakdown"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "both",
+      "wind",
       "animals"
     ],
     "answer": "both"
   },
   {
-    "question": "Nigeria is located in:",
+    "question": "Largest desert",
+    "options": [
+      "Sahara",
+      "Kalahari",
+      "Arabian",
+      "Gobi"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "rain type",
+      "climate",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "north and south",
+      "land and water",
+      "continents",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "wind",
+      "water",
+      "animals",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "animals",
+      "wind",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "north-south position",
+      "altitude",
+      "temperature"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "temperature",
+      "north-south position",
+      "altitude"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "continents",
+      "east and west",
+      "land and water",
+      "north and south"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Zambezi",
+      "Niger",
+      "Congo",
+      "Nile"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "East Africa",
+      "Southern Africa",
+      "Central Africa",
+      "West Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "wind",
+      "animals",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "north-south position",
+      "temperature",
+      "altitude"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "both",
+      "latitude only",
+      "longitude only",
+      "season"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "longitude only",
+      "latitude only",
+      "season",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Kalahari",
+      "Arabian",
+      "Gobi",
+      "Sahara"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "climate",
+      "storm",
+      "seasonal wind",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "longitude only",
+      "latitude only",
+      "season",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "land and water",
+      "east and west",
+      "north and south",
+      "continents"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "both",
+      "latitude only",
+      "season",
+      "longitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "Southern Africa",
+      "Central Africa",
+      "West Africa",
+      "East Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "season",
+      "latitude only",
+      "both",
+      "longitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Gobi",
+      "Sahara",
+      "Kalahari",
+      "Arabian"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "seasonal wind",
+      "storm",
+      "climate",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "seasonal wind",
+      "rain type",
+      "climate"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "land and water",
+      "continents",
+      "east and west",
+      "north and south"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "longitude only",
+      "both",
+      "season",
+      "latitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "animals",
+      "both",
+      "wind"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "temperature",
+      "altitude",
+      "north-south position",
+      "east-west position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "animals",
+      "wind",
+      "both",
+      "water"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "30° and 60°",
+      "0° and 30°",
+      "60° and 90°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "Equator and Poles",
+      "60° and 90°",
+      "30° and 60°",
+      "0° and 30°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Nile",
+      "Niger",
+      "Zambezi",
+      "Congo"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "both",
+      "water",
+      "animals",
+      "wind"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Arabian",
+      "Gobi",
+      "Kalahari",
+      "Sahara"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "north and south",
+      "land and water",
+      "continents",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "30° and 60°",
+      "Equator and Poles",
+      "0° and 30°",
+      "60° and 90°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "continents",
+      "north and south",
+      "land and water",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "climate",
+      "seasonal wind",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "rain type",
+      "storm",
+      "seasonal wind",
+      "climate"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "north and south",
+      "east and west",
+      "continents",
+      "land and water"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "both",
+      "wind",
+      "animals",
+      "water"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "both",
+      "longitude only",
+      "season",
+      "latitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "altitude",
+      "temperature",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "continents",
+      "north and south",
+      "land and water",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Kalahari",
+      "Gobi",
+      "Arabian",
+      "Sahara"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "longitude only",
+      "season",
+      "both",
+      "latitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "both",
+      "animals",
+      "wind",
+      "water"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "erosion by water",
+      "rock breakdown",
+      "river action",
+      "soil formation"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "30° and 60°",
+      "0° and 30°",
+      "60° and 90°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "climate",
+      "seasonal wind",
+      "rain type",
+      "storm"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Arabian",
+      "Gobi",
+      "Kalahari",
+      "Sahara"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "continents",
+      "north and south",
+      "east and west",
+      "land and water"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "longitude only",
+      "season",
+      "latitude only",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "Southern Africa",
+      "Central Africa",
+      "East Africa",
+      "West Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "rain type",
+      "climate",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "rain type",
+      "climate",
+      "storm",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "60° and 90°",
+      "0° and 30°",
+      "30° and 60°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "temperature",
+      "north-south position",
+      "east-west position",
+      "altitude"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "wind",
+      "animals",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Gobi",
+      "Arabian",
+      "Sahara",
+      "Kalahari"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "both",
+      "animals",
+      "wind"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Arabian",
+      "Kalahari",
+      "Sahara",
+      "Gobi"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Nigeria located in",
     "options": [
       "West Africa",
       "Central Africa",
+      "Southern Africa",
+      "East Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Arabian",
+      "Kalahari"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "Equator and Poles",
+      "60° and 90°",
+      "30° and 60°",
+      "0° and 30°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "north and south",
+      "continents",
+      "land and water",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "erosion by water",
+      "soil formation",
+      "river action",
+      "rock breakdown"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "60° and 90°",
+      "Equator and Poles",
+      "30° and 60°",
+      "0° and 30°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Gobi",
+      "Sahara",
+      "Kalahari",
+      "Arabian"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "both",
+      "animals",
+      "wind"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Arabian",
+      "Kalahari"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "60° and 90°",
+      "0° and 30°",
+      "Equator and Poles",
+      "30° and 60°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "temperature",
+      "altitude",
+      "east-west position",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "Central Africa",
+      "West Africa",
       "East Africa",
       "Southern Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Climate determined by",
     "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
       "longitude only",
+      "latitude only",
       "both",
       "season"
     ],
     "answer": "both"
   },
   {
-    "question": "Erosion is caused by:",
+    "question": "Nigeria located in",
     "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
+      "East Africa",
+      "West Africa",
+      "Southern Africa",
+      "Central Africa"
     ],
-    "answer": "both"
+    "answer": "West Africa"
   },
   {
-    "question": "Nigeria is located in:",
+    "question": "Nigeria located in",
     "options": [
-      "West Africa",
-      "Central Africa",
       "East Africa",
+      "Central Africa",
+      "West Africa",
       "Southern Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Largest desert",
     "options": [
-      "Sahara",
+      "Arabian",
       "Kalahari",
       "Gobi",
-      "Arabian"
+      "Sahara"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Tropics is between",
     "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
+      "30° and 60°",
+      "0° and 30°",
+      "60° and 90°",
+      "Equator and Poles"
     ],
-    "answer": "north and south"
+    "answer": "Equator and Poles"
   },
   {
-    "question": "Climate is determined by:",
+    "question": "Latitude measures",
     "options": [
-      "latitude only",
-      "longitude only",
+      "east-west position",
+      "temperature",
+      "altitude",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
       "both",
+      "season",
+      "latitude only",
+      "longitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "seasonal wind",
+      "storm",
+      "rain type",
+      "climate"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Nile",
+      "Zambezi",
+      "Congo",
+      "Niger"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "both",
+      "longitude only",
+      "latitude only",
       "season"
     ],
     "answer": "both"
   },
   {
-    "question": "Erosion is caused by:",
+    "question": "Tropics is between",
     "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
+      "Equator and Poles",
+      "0° and 30°",
+      "30° and 60°",
+      "60° and 90°"
     ],
-    "answer": "both"
+    "answer": "Equator and Poles"
   },
   {
-    "question": "Nigeria is located in:",
+    "question": "Nigeria located in",
     "options": [
-      "West Africa",
       "Central Africa",
+      "West Africa",
       "East Africa",
       "Southern Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "erosion by water",
+      "river action",
+      "soil formation"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "Equator and Poles",
+      "0° and 30°",
+      "60° and 90°",
+      "30° and 60°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "climate",
+      "storm",
+      "rain type",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "soil formation",
+      "river action",
+      "erosion by water"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "altitude",
+      "temperature",
+      "east-west position",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Zambezi",
+      "Congo",
+      "Niger",
+      "Nile"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "30° and 60°",
+      "60° and 90°",
+      "0° and 30°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "east and west",
+      "continents",
+      "north and south",
+      "land and water"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Kalahari",
+      "Arabian",
+      "Sahara",
+      "Gobi"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Largest desert",
     "options": [
       "Sahara",
-      "Kalahari",
       "Gobi",
+      "Arabian",
+      "Kalahari"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Arabian",
+      "Sahara",
+      "Gobi",
+      "Kalahari"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Gobi",
+      "Sahara",
+      "Kalahari",
       "Arabian"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Nigeria located in",
     "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
       "East Africa",
+      "Central Africa",
+      "West Africa",
       "Southern Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "erosion by water",
+      "soil formation",
+      "river action"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "60° and 90°",
+      "30° and 60°",
+      "Equator and Poles",
+      "0° and 30°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Zambezi",
+      "Nile",
+      "Congo"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "altitude",
+      "east-west position",
+      "north-south position",
+      "temperature"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Congo",
+      "Nile",
+      "Zambezi",
+      "Niger"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Kalahari",
+      "Sahara",
+      "Arabian",
+      "Gobi"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "temperature",
+      "altitude",
+      "east-west position",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Largest desert",
     "options": [
       "Sahara",
-      "Kalahari",
       "Gobi",
+      "Kalahari",
       "Arabian"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Weathering is",
     "options": [
-      "east and west",
+      "erosion by water",
+      "river action",
+      "rock breakdown",
+      "soil formation"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "rain type",
+      "climate",
+      "seasonal wind",
+      "storm"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "seasonal wind",
+      "climate",
+      "storm",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
       "north and south",
       "land and water",
-      "continents"
+      "continents",
+      "east and west"
     ],
     "answer": "north and south"
   },
   {
-    "question": "Climate is determined by:",
+    "question": "Longest river in Africa",
     "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
+      "Nile",
+      "Congo",
+      "Zambezi",
+      "Niger"
     ],
-    "answer": "both"
+    "answer": "Nile"
   },
   {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
+    "question": "Nigeria located in",
     "options": [
       "West Africa",
-      "Central Africa",
       "East Africa",
+      "Central Africa",
       "Southern Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Climate determined by",
     "options": [
-      "Sahara",
-      "Kalahari",
+      "both",
+      "longitude only",
+      "latitude only",
+      "season"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "erosion by water",
+      "soil formation",
+      "rock breakdown",
+      "river action"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Zambezi",
+      "Congo",
+      "Nile",
+      "Niger"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Zambezi",
+      "Congo",
+      "Nile"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "Central Africa",
+      "East Africa",
+      "Southern Africa",
+      "West Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "river action",
+      "erosion by water",
+      "soil formation"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "both",
+      "wind",
+      "animals",
+      "water"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "climate",
+      "rain type",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "30° and 60°",
+      "0° and 30°",
+      "60° and 90°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "temperature",
+      "altitude",
+      "east-west position",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "rain type",
+      "climate",
+      "seasonal wind"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Zambezi",
+      "Nile",
+      "Niger",
+      "Congo"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "altitude",
+      "east-west position",
+      "north-south position",
+      "temperature"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
       "Gobi",
-      "Arabian"
+      "Arabian",
+      "Kalahari",
+      "Sahara"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Tropics is between",
     "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
+      "30° and 60°",
+      "60° and 90°",
+      "Equator and Poles",
+      "0° and 30°"
     ],
-    "answer": "north and south"
+    "answer": "Equator and Poles"
   },
   {
-    "question": "Climate is determined by:",
+    "question": "Monsoon is",
     "options": [
-      "latitude only",
+      "climate",
+      "storm",
+      "seasonal wind",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "soil formation",
+      "river action",
+      "rock breakdown",
+      "erosion by water"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
       "longitude only",
-      "both",
-      "season"
+      "latitude only",
+      "season",
+      "both"
     ],
     "answer": "both"
   },
   {
-    "question": "Erosion is caused by:",
+    "question": "Nigeria located in",
     "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
       "Central Africa",
-      "East Africa",
-      "Southern Africa"
+      "West Africa",
+      "Southern Africa",
+      "East Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Climate determined by",
     "options": [
-      "Sahara",
-      "Kalahari",
+      "season",
+      "longitude only",
+      "latitude only",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Congo",
+      "Niger",
+      "Zambezi",
+      "Nile"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
       "Gobi",
-      "Arabian"
+      "Arabian",
+      "Sahara",
+      "Kalahari"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Longest river in Africa",
     "options": [
-      "east and west",
+      "Nile",
+      "Zambezi",
+      "Niger",
+      "Congo"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "Central Africa",
+      "East Africa",
+      "Southern Africa",
+      "West Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "season",
+      "longitude only",
+      "latitude only",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "altitude",
+      "temperature",
+      "north-south position",
+      "east-west position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
       "north and south",
       "land and water",
+      "east and west",
       "continents"
     ],
     "answer": "north and south"
   },
   {
-    "question": "Climate is determined by:",
+    "question": "Climate determined by",
     "options": [
+      "both",
       "latitude only",
-      "longitude only",
-      "both",
-      "season"
+      "season",
+      "longitude only"
     ],
     "answer": "both"
   },
   {
-    "question": "Erosion is caused by:",
+    "question": "Monsoon is",
     "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
+      "seasonal wind",
+      "storm",
+      "climate",
+      "rain type"
     ],
-    "answer": "both"
+    "answer": "seasonal wind"
   },
   {
-    "question": "Nigeria is located in:",
+    "question": "Nigeria located in",
     "options": [
-      "West Africa",
       "Central Africa",
-      "East Africa",
-      "Southern Africa"
+      "Southern Africa",
+      "West Africa",
+      "East Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Tropics is between",
     "options": [
-      "Sahara",
-      "Kalahari",
+      "0° and 30°",
+      "Equator and Poles",
+      "60° and 90°",
+      "30° and 60°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "season",
+      "longitude only",
+      "latitude only",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "seasonal wind",
+      "storm",
+      "rain type",
+      "climate"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "animals",
+      "wind",
+      "both",
+      "water"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "altitude",
+      "north-south position",
+      "temperature"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Nile",
+      "Congo",
+      "Zambezi"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "climate",
+      "seasonal wind",
+      "storm",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Nile",
+      "Congo",
+      "Zambezi"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "east and west",
+      "land and water",
+      "north and south",
+      "continents"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "north and south",
+      "east and west",
+      "continents",
+      "land and water"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "Equator and Poles",
+      "60° and 90°",
+      "30° and 60°",
+      "0° and 30°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "longitude only",
+      "season",
+      "latitude only",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "longitude only",
+      "latitude only",
+      "season",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Congo",
+      "Nile",
+      "Zambezi"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "continents",
+      "land and water",
+      "east and west",
+      "north and south"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
       "Gobi",
-      "Arabian"
+      "Arabian",
+      "Kalahari",
+      "Sahara"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Equator divides into",
     "options": [
-      "east and west",
+      "continents",
       "north and south",
       "land and water",
-      "continents"
+      "east and west"
     ],
     "answer": "north and south"
   },
   {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
+    "question": "Nigeria located in",
     "options": [
       "West Africa",
-      "Central Africa",
       "East Africa",
+      "Central Africa",
       "Southern Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Climate determined by",
     "options": [
-      "Sahara",
+      "both",
+      "longitude only",
+      "latitude only",
+      "season"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "season",
+      "longitude only",
+      "latitude only",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "Equator and Poles",
+      "30° and 60°",
+      "60° and 90°",
+      "0° and 30°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Nile",
+      "Zambezi",
+      "Congo"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "erosion by water",
+      "river action",
+      "rock breakdown",
+      "soil formation"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "erosion by water",
+      "soil formation",
+      "river action"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "both",
+      "wind",
+      "water",
+      "animals"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "60° and 90°",
+      "0° and 30°",
+      "Equator and Poles",
+      "30° and 60°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "soil formation",
+      "river action",
+      "erosion by water"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "60° and 90°",
+      "30° and 60°",
+      "0° and 30°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "north-south position",
+      "altitude",
+      "east-west position",
+      "temperature"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "water",
+      "animals",
+      "both",
+      "wind"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "seasonal wind",
+      "climate",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "soil formation",
+      "river action",
+      "erosion by water"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "both",
+      "animals",
+      "wind",
+      "water"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Congo",
+      "Zambezi",
+      "Nile",
+      "Niger"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "continents",
+      "land and water",
+      "east and west",
+      "north and south"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "river action",
+      "rock breakdown",
+      "soil formation",
+      "erosion by water"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "altitude",
+      "temperature",
+      "north-south position",
+      "east-west position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Weathering is",
+    "options": [
+      "rock breakdown",
+      "erosion by water",
+      "soil formation",
+      "river action"
+    ],
+    "answer": "rock breakdown"
+  },
+  {
+    "question": "Longest river in Africa",
+    "options": [
+      "Niger",
+      "Zambezi",
+      "Nile",
+      "Congo"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "temperature",
+      "north-south position",
+      "altitude",
+      "east-west position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "wind",
+      "water",
+      "animals",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "60° and 90°",
+      "0° and 30°",
+      "30° and 60°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "seasonal wind",
+      "climate",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "30° and 60°",
+      "60° and 90°",
+      "0° and 30°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "animals",
+      "wind",
+      "both",
+      "water"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "Southern Africa",
+      "West Africa",
+      "East Africa",
+      "Central Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Equator divides into",
+    "options": [
+      "land and water",
+      "north and south",
+      "continents",
+      "east and west"
+    ],
+    "answer": "north and south"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "east-west position",
+      "altitude",
+      "temperature",
+      "north-south position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Nigeria located in",
+    "options": [
+      "East Africa",
+      "West Africa",
+      "Southern Africa",
+      "Central Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "30° and 60°",
+      "0° and 30°",
+      "60° and 90°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Arabian",
       "Kalahari",
-      "Gobi",
-      "Arabian"
+      "Sahara",
+      "Gobi"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Climate determined by",
     "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
+      "both",
       "longitude only",
-      "both",
-      "season"
+      "season",
+      "latitude only"
     ],
     "answer": "both"
   },
   {
-    "question": "Erosion is caused by:",
+    "question": "Weathering is",
     "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
+      "soil formation",
+      "rock breakdown",
+      "erosion by water",
+      "river action"
     ],
-    "answer": "both"
+    "answer": "rock breakdown"
   },
   {
-    "question": "Nigeria is located in:",
+    "question": "Largest desert",
     "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
       "Gobi",
-      "Arabian"
+      "Arabian",
+      "Kalahari",
+      "Sahara"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Equator divides into",
     "options": [
-      "east and west",
-      "north and south",
       "land and water",
-      "continents"
+      "continents",
+      "north and south",
+      "east and west"
     ],
     "answer": "north and south"
   },
   {
-    "question": "Climate is determined by:",
+    "question": "Nigeria located in",
     "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
+      "Southern Africa",
       "Central Africa",
-      "East Africa",
-      "Southern Africa"
+      "West Africa",
+      "East Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Nigeria located in",
     "options": [
-      "Sahara",
+      "West Africa",
+      "Southern Africa",
+      "East Africa",
+      "Central Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "30° and 60°",
+      "0° and 30°",
+      "60° and 90°",
+      "Equator and Poles"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "animals",
+      "water",
+      "both",
+      "wind"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "wind",
+      "animals",
+      "both",
+      "water"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Latitude measures",
+    "options": [
+      "temperature",
+      "altitude",
+      "north-south position",
+      "east-west position"
+    ],
+    "answer": "north-south position"
+  },
+  {
+    "question": "Erosion caused by",
+    "options": [
+      "wind",
+      "animals",
+      "water",
+      "both"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Climate determined by",
+    "options": [
+      "longitude only",
+      "both",
+      "season",
+      "latitude only"
+    ],
+    "answer": "both"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
       "Kalahari",
-      "Gobi",
-      "Arabian"
+      "Arabian",
+      "Sahara",
+      "Gobi"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Nigeria located in",
     "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
+      "Southern Africa",
       "West Africa",
       "Central Africa",
-      "East Africa",
-      "Southern Africa"
+      "East Africa"
     ],
     "answer": "West Africa"
   },
   {
-    "question": "The largest desert is:",
+    "question": "Nigeria located in",
     "options": [
-      "Sahara",
+      "East Africa",
+      "Southern Africa",
+      "West Africa",
+      "Central Africa"
+    ],
+    "answer": "West Africa"
+  },
+  {
+    "question": "Monsoon is",
+    "options": [
+      "storm",
+      "climate",
+      "seasonal wind",
+      "rain type"
+    ],
+    "answer": "seasonal wind"
+  },
+  {
+    "question": "Tropics is between",
+    "options": [
+      "0° and 30°",
+      "Equator and Poles",
+      "60° and 90°",
+      "30° and 60°"
+    ],
+    "answer": "Equator and Poles"
+  },
+  {
+    "question": "Largest desert",
+    "options": [
+      "Arabian",
       "Kalahari",
       "Gobi",
-      "Arabian"
+      "Sahara"
     ],
     "answer": "Sahara"
   },
   {
-    "question": "The equator divides Earth into:",
+    "question": "Largest desert",
     "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
       "Kalahari",
       "Gobi",
+      "Sahara",
       "Arabian"
     ],
     "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
-  },
-  {
-    "question": "The largest desert is:",
-    "options": [
-      "Sahara",
-      "Kalahari",
-      "Gobi",
-      "Arabian"
-    ],
-    "answer": "Sahara"
-  },
-  {
-    "question": "The equator divides Earth into:",
-    "options": [
-      "east and west",
-      "north and south",
-      "land and water",
-      "continents"
-    ],
-    "answer": "north and south"
-  },
-  {
-    "question": "Climate is determined by:",
-    "options": [
-      "latitude only",
-      "longitude only",
-      "both",
-      "season"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Erosion is caused by:",
-    "options": [
-      "wind",
-      "water",
-      "both",
-      "animals"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Nigeria is located in:",
-    "options": [
-      "West Africa",
-      "Central Africa",
-      "East Africa",
-      "Southern Africa"
-    ],
-    "answer": "West Africa"
   }
 ]

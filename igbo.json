@@ -1,96 +1,36 @@
 [
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "Igbo from:",
     "options": [
-      "brother",
-      "father",
-      "mother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "oil",
-      "water",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "oil",
-      "water",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Khoisan",
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "palm tree",
-      "oil",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "house",
-      "room",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Western Nigeria",
-      "Northern Nigeria",
       "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria",
       "Southern Nigeria"
     ],
     "answer": "Eastern Nigeria"
   },
   {
-    "question": "Igbo people originated from:",
+    "question": "'Ihe' túmọ̀ sí:",
     "options": [
-      "Southern Nigeria",
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria"
+      "object",
+      "thing",
+      "stuff",
+      "matter"
     ],
-    "answer": "Eastern Nigeria"
+    "answer": "thing"
   },
   {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "Igbo society traditionally:",
     "options": [
-      "ancestor",
-      "spirit",
-      "god",
-      "destiny"
+      "military",
+      "decentralized villages",
+      "monarchy",
+      "centralized"
     ],
-    "answer": "destiny"
+    "answer": "decentralized villages"
   },
   {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "'Chi' ní belief system:",
     "options": [
       "destiny",
       "god",
@@ -100,1057 +40,17 @@
     "answer": "destiny"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "Igbo society traditionally:",
     "options": [
-      "door",
-      "compound",
-      "room",
-      "house"
+      "centralized",
+      "decentralized villages",
+      "military",
+      "monarchy"
     ],
-    "answer": "house"
+    "answer": "decentralized villages"
   },
   {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "moon",
-      "sun",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "spirit",
-      "ancestor",
-      "destiny",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "destiny",
-      "ancestor",
-      "spirit",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "woman",
-      "person",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "light",
-      "sun",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "mother",
-      "father",
-      "sister",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "woman",
-      "child",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "door",
-      "house",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "person",
-      "man",
-      "child",
-      "woman"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "oil",
-      "palm tree",
-      "water",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "woman",
-      "child",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "father",
-      "brother",
-      "sister",
-      "mother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "father",
-      "brother",
-      "mother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "destiny",
-      "spirit",
-      "ancestor",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "water",
-      "palm tree",
-      "oil",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Khoisan",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "father",
-      "sister",
-      "mother",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "door",
-      "compound",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Khoisan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "door",
-      "compound",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "person",
-      "woman",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Khoisan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "door",
-      "compound",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "house",
-      "door",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "ancestor",
-      "spirit",
-      "destiny",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "sister",
-      "mother",
-      "father",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "house",
-      "door",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Southern Nigeria",
-      "Western Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "person",
-      "child",
-      "woman"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "oil",
-      "water",
-      "coconut",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "destiny",
-      "god",
-      "ancestor",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "sister",
-      "mother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "spirit",
-      "destiny",
-      "ancestor",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "child",
-      "man",
-      "woman",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "father",
-      "sister",
-      "mother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "star",
-      "moon",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "father",
-      "sister",
-      "mother",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "door",
-      "house",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "room",
-      "door",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "moon",
-      "sun",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Niger-Congo",
-      "Khoisan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "water",
-      "oil",
-      "palm tree",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "person",
-      "woman",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "father",
-      "sister",
-      "mother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Khoisan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "water",
-      "palm tree",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "star",
-      "moon",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Khoisan",
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "water",
-      "coconut",
-      "oil",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "sister",
-      "mother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "star",
-      "moon",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "destiny",
-      "god",
-      "ancestor",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "sun",
-      "light",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "palm tree",
-      "oil",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "mother",
-      "sister",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "house",
-      "compound",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "child",
-      "woman",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "moon",
-      "light",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "spirit",
-      "ancestor",
-      "god",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Khoisan",
-      "Niger-Congo",
-      "Afro-Asiatic",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "sun",
-      "light",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "moon",
-      "light",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "palm tree",
-      "oil",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "house",
-      "door",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "house",
-      "room",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "room",
-      "house",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "oil",
-      "water",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "destiny",
-      "god",
-      "spirit",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "compound",
-      "house",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "palm tree",
-      "coconut",
-      "oil",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "mother",
-      "sister",
-      "brother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "person",
-      "child",
-      "woman"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "ancestor",
-      "destiny",
-      "spirit",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "water",
-      "coconut",
-      "palm tree",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "person",
-      "man",
-      "child",
-      "woman"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "mother",
-      "father",
-      "sister",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "mother",
-      "sister",
-      "brother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "oil",
-      "water",
-      "coconut",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "oil",
-      "water",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "sun",
-      "light",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "light",
-      "moon",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Niger-Congo",
-      "Khoisan",
-      "Afro-Asiatic",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "water",
-      "coconut",
-      "palm tree",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "woman",
-      "person",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "palm tree",
-      "coconut",
-      "water",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Niger-Congo",
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "sun",
-      "light",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "god",
-      "ancestor",
-      "destiny",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "mother",
-      "father",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "star",
-      "sun",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "oil",
-      "palm tree",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo people originated from:",
+    "question": "Igbo from:",
     "options": [
       "Western Nigeria",
       "Southern Nigeria",
@@ -1160,47 +60,237 @@
     "answer": "Eastern Nigeria"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "Igbo society traditionally:",
     "options": [
-      "father",
+      "decentralized villages",
+      "monarchy",
+      "centralized",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "water",
+      "palm tree",
+      "coconut",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
       "brother",
       "mother",
+      "father",
       "sister"
     ],
     "answer": "mother"
   },
   {
+    "question": "Igbo from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "father",
+      "mother",
+      "brother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "centralized",
+      "monarchy",
+      "decentralized villages",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
     "question": "'Anyanwu' túmọ̀ sí:",
     "options": [
-      "sun",
       "star",
+      "light",
       "moon",
-      "light"
+      "sun"
     ],
     "answer": "sun"
   },
   {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
+    "question": "'Ihe' túmọ̀ sí:",
     "options": [
-      "person",
-      "man",
-      "woman",
-      "child"
+      "stuff",
+      "object",
+      "matter",
+      "thing"
     ],
-    "answer": "child"
+    "answer": "thing"
   },
   {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
+    "question": "'Ihe' túmọ̀ sí:",
     "options": [
-      "man",
-      "child",
-      "person",
-      "woman"
+      "stuff",
+      "object",
+      "matter",
+      "thing"
     ],
-    "answer": "child"
+    "answer": "thing"
   },
   {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "object",
+      "thing",
+      "matter"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "monarchy",
+      "centralized",
+      "military",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "father",
+      "mother",
+      "sister",
+      "brother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "oil",
+      "water",
+      "coconut",
+      "palm tree"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "water",
+      "palm tree",
+      "coconut",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "sun",
+      "light",
+      "moon",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "destiny",
+      "god",
+      "spirit",
+      "ancestor"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "object",
+      "thing",
+      "matter",
+      "stuff"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
     "options": [
       "child",
       "man",
@@ -1210,57 +300,87 @@
     "answer": "child"
   },
   {
-    "question": "The Igbo language belongs to the ___ language family:",
+    "question": "'Chi' ní belief system:",
     "options": [
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Khoisan",
-      "Nilo-Saharan"
+      "god",
+      "destiny",
+      "spirit",
+      "ancestor"
     ],
-    "answer": "Niger-Congo"
+    "answer": "destiny"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "decentralized villages",
+      "military",
+      "centralized",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
   },
   {
     "question": "'Anyanwu' túmọ̀ sí:",
     "options": [
       "star",
-      "moon",
+      "sun",
       "light",
-      "sun"
+      "moon"
     ],
     "answer": "sun"
   },
   {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Khoisan",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
+    "question": "Igbo language family:",
     "options": [
       "Nilo-Saharan",
       "Niger-Congo",
-      "Khoisan",
-      "Afro-Asiatic"
+      "Afro-Asiatic",
+      "Khoisan"
     ],
     "answer": "Niger-Congo"
   },
   {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
+    "question": "'Nne' túmọ̀ sí:",
     "options": [
-      "water",
-      "coconut",
-      "oil",
-      "palm tree"
+      "brother",
+      "sister",
+      "father",
+      "mother"
     ],
-    "answer": "palm tree"
+    "answer": "mother"
   },
   {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "room",
+      "door",
+      "compound",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "person",
+      "man",
+      "woman",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "child",
+      "person",
+      "man",
+      "woman"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
     "options": [
       "child",
       "woman",
@@ -1270,7 +390,227 @@
     "answer": "child"
   },
   {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "door",
+      "house",
+      "compound",
+      "room"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "water",
+      "oil",
+      "palm tree"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Khoisan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "military",
+      "monarchy",
+      "decentralized villages",
+      "centralized"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "ancestor",
+      "god",
+      "destiny",
+      "spirit"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "brother",
+      "mother",
+      "father",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "light",
+      "moon",
+      "sun",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "light",
+      "star",
+      "sun",
+      "moon"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "ancestor",
+      "destiny",
+      "spirit",
+      "god"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Afro-Asiatic",
+      "Khoisan",
+      "Niger-Congo",
+      "Nilo-Saharan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "palm tree",
+      "coconut",
+      "water",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "moon",
+      "star",
+      "light",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "spirit",
+      "destiny",
+      "ancestor",
+      "god"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "father",
+      "mother",
+      "brother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Niger-Congo",
+      "Khoisan",
+      "Afro-Asiatic",
+      "Nilo-Saharan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "man",
+      "woman",
+      "child",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "water",
+      "palm tree",
+      "coconut",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "door",
+      "house",
+      "compound",
+      "room"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "destiny",
+      "spirit",
+      "ancestor",
+      "god"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "monarchy",
+      "centralized",
+      "military",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "compound",
+      "room",
+      "door",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
     "options": [
       "woman",
       "person",
@@ -1280,134 +620,24 @@
     "answer": "child"
   },
   {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "'Chi' ní belief system:",
     "options": [
-      "destiny",
-      "spirit",
       "ancestor",
-      "god"
+      "spirit",
+      "god",
+      "destiny"
     ],
     "answer": "destiny"
   },
   {
-    "question": "Igbo people originated from:",
+    "question": "'Ụlọ' túmọ̀ sí:",
     "options": [
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria"
+      "room",
+      "compound",
+      "door",
+      "house"
     ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "sun",
-      "light",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "star",
-      "light",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "destiny",
-      "ancestor",
-      "spirit",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "person",
-      "man",
-      "child",
-      "woman"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "sister",
-      "brother",
-      "father",
-      "mother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "mother",
-      "father",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Niger-Congo",
-      "Khoisan",
-      "Nilo-Saharan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "palm tree",
-      "coconut",
-      "oil",
-      "water"
-    ],
-    "answer": "palm tree"
+    "answer": "house"
   },
   {
     "question": "'Anyanwu' túmọ̀ sí:",
@@ -1420,17 +650,57 @@
     "answer": "sun"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "'Chi' ní belief system:",
     "options": [
-      "house",
-      "room",
-      "door",
-      "compound"
+      "spirit",
+      "ancestor",
+      "destiny",
+      "god"
     ],
-    "answer": "house"
+    "answer": "destiny"
   },
   {
-    "question": "The Igbo language belongs to the ___ language family:",
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "person",
+      "woman",
+      "child",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "matter",
+      "thing",
+      "object"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "centralized",
+      "monarchy",
+      "decentralized villages",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "object",
+      "matter",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo language family:",
     "options": [
       "Nilo-Saharan",
       "Khoisan",
@@ -1440,17 +710,157 @@
     "answer": "Niger-Congo"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "'Nne' túmọ̀ sí:",
     "options": [
-      "mother",
       "father",
-      "brother",
-      "sister"
+      "mother",
+      "sister",
+      "brother"
     ],
     "answer": "mother"
   },
   {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "matter",
+      "stuff",
+      "thing",
+      "object"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "military",
+      "monarchy",
+      "centralized",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "god",
+      "ancestor",
+      "destiny",
+      "spirit"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "child",
+      "woman",
+      "person",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "compound",
+      "door",
+      "house",
+      "room"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "house",
+      "room",
+      "compound",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "object",
+      "matter",
+      "stuff",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "light",
+      "moon",
+      "star",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "sun",
+      "star",
+      "light",
+      "moon"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "object",
+      "thing",
+      "matter",
+      "stuff"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "house",
+      "compound",
+      "room",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
     "options": [
       "woman",
       "child",
@@ -1460,37 +870,297 @@
     "answer": "child"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "Igbo society traditionally:",
     "options": [
-      "sister",
+      "military",
+      "centralized",
+      "monarchy",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "light",
+      "moon",
+      "sun",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
       "mother",
+      "sister",
       "brother",
       "father"
     ],
     "answer": "mother"
   },
   {
-    "question": "The Igbo language belongs to the ___ language family:",
+    "question": "'Anyanwu' túmọ̀ sí:",
     "options": [
+      "light",
+      "sun",
+      "moon",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "military",
+      "centralized",
+      "decentralized villages",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "oil",
+      "water",
+      "palm tree",
+      "coconut"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "decentralized villages",
+      "centralized",
+      "monarchy",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "destiny",
+      "god",
+      "spirit",
+      "ancestor"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "matter",
+      "stuff",
+      "object",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "house",
+      "compound",
+      "door",
+      "room"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "god",
+      "spirit",
+      "ancestor",
+      "destiny"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "ancestor",
+      "god",
+      "spirit",
+      "destiny"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "room",
+      "house",
+      "compound",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "object",
+      "stuff",
+      "matter",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "door",
+      "compound",
+      "house",
+      "room"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "person",
+      "man",
+      "child",
+      "woman"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "woman",
+      "man",
+      "child",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "door",
+      "room",
+      "compound",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "oil",
+      "coconut",
+      "water",
+      "palm tree"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "spirit",
+      "destiny",
+      "god",
+      "ancestor"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "person",
+      "man",
+      "woman",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
       "Niger-Congo",
       "Nilo-Saharan",
-      "Khoisan",
       "Afro-Asiatic"
     ],
     "answer": "Niger-Congo"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "'Anyanwu' túmọ̀ sí:",
     "options": [
-      "father",
-      "brother",
-      "sister",
-      "mother"
+      "moon",
+      "star",
+      "light",
+      "sun"
     ],
-    "answer": "mother"
+    "answer": "sun"
   },
   {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
+    "question": "'Akwụ' túmọ̀ sí:",
     "options": [
       "water",
       "oil",
@@ -1500,117 +1170,187 @@
     "answer": "palm tree"
   },
   {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "child",
-      "woman",
-      "man",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria",
-      "Eastern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "sun",
-      "moon",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "child",
-      "person",
-      "woman",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "sister",
-      "brother",
-      "mother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "god",
-      "spirit",
-      "destiny",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "'Chi' ní belief system:",
     "options": [
       "ancestor",
-      "god",
       "destiny",
+      "god",
       "spirit"
     ],
     "answer": "destiny"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "Igbo from:",
     "options": [
-      "brother",
-      "sister",
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Northern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "military",
+      "monarchy",
+      "centralized",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
       "father",
-      "mother"
+      "sister",
+      "mother",
+      "brother"
     ],
     "answer": "mother"
   },
   {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "thing",
+      "matter",
+      "object",
+      "stuff"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "decentralized villages",
+      "military",
+      "monarchy",
+      "centralized"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "matter",
+      "object",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Nilo-Saharan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "sun",
+      "light",
+      "moon",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "thing",
+      "matter",
+      "object"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "destiny",
+      "spirit",
+      "ancestor",
+      "god"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "person",
+      "man",
+      "woman",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "matter",
+      "thing",
+      "object",
+      "stuff"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "decentralized villages",
+      "centralized",
+      "monarchy",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "object",
+      "matter",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
     "options": [
       "oil",
       "palm tree",
@@ -1618,46 +1358,6 @@
       "water"
     ],
     "answer": "palm tree"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "mother",
-      "brother",
-      "sister",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "moon",
-      "sun",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "god",
-      "ancestor",
-      "destiny",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "father",
-      "sister",
-      "mother"
-    ],
-    "answer": "mother"
   },
   {
     "question": "'Anyanwu' túmọ̀ sí:",
@@ -1670,347 +1370,27 @@
     "answer": "sun"
   },
   {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "child",
-      "person",
-      "woman"
-    ],
-    "answer": "child"
-  },
-  {
     "question": "'Anyanwu' túmọ̀ sí:",
     "options": [
-      "moon",
-      "sun",
       "light",
+      "sun",
+      "moon",
       "star"
     ],
     "answer": "sun"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "'Akwụ' túmọ̀ sí:",
     "options": [
-      "door",
-      "compound",
-      "house",
-      "room"
+      "coconut",
+      "palm tree",
+      "oil",
+      "water"
     ],
-    "answer": "house"
+    "answer": "palm tree"
   },
   {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Southern Nigeria",
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "person",
-      "child",
-      "woman",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Niger-Congo",
-      "Khoisan",
-      "Afro-Asiatic",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "moon",
-      "sun",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "compound",
-      "house",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Niger-Congo",
-      "Khoisan",
-      "Nilo-Saharan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "star",
-      "light",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "compound",
-      "house",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "door",
-      "house",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Khoisan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "star",
-      "moon",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "destiny",
-      "spirit",
-      "ancestor",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "compound",
-      "house",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "god",
-      "destiny",
-      "ancestor",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "compound",
-      "room",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "star",
-      "moon",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "woman",
-      "person",
-      "man",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "sun",
-      "light",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "spirit",
-      "destiny",
-      "god",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "person",
-      "child",
-      "woman"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "woman",
-      "child",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Niger-Congo",
-      "Afro-Asiatic",
-      "Khoisan",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "compound",
-      "door",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "room",
-      "door",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "spirit",
-      "ancestor",
-      "god",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "star",
-      "light",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
+    "question": "'Akwụ' túmọ̀ sí:",
     "options": [
       "water",
       "coconut",
@@ -2020,6 +1400,166 @@
     "answer": "palm tree"
   },
   {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "compound",
+      "room",
+      "house",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "mother",
+      "father",
+      "sister",
+      "brother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "military",
+      "monarchy",
+      "decentralized villages",
+      "centralized"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "star",
+      "sun",
+      "light",
+      "moon"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "woman",
+      "child",
+      "person",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "father",
+      "sister",
+      "brother",
+      "mother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "military",
+      "decentralized villages",
+      "centralized",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "mother",
+      "father",
+      "sister",
+      "brother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "object",
+      "stuff",
+      "thing",
+      "matter"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "god",
+      "spirit",
+      "destiny",
+      "ancestor"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "spirit",
+      "destiny",
+      "god",
+      "ancestor"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "brother",
+      "sister",
+      "father",
+      "mother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "man",
+      "person",
+      "woman",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "woman",
+      "person",
+      "child",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "woman",
+      "person",
+      "child",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "monarchy",
+      "decentralized villages",
+      "military",
+      "centralized"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
     "question": "'Anyanwu' túmọ̀ sí:",
     "options": [
       "sun",
@@ -2030,17 +1570,157 @@
     "answer": "sun"
   },
   {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "Igbo language family:",
     "options": [
-      "ancestor",
-      "spirit",
-      "god",
-      "destiny"
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan"
     ],
-    "answer": "destiny"
+    "answer": "Niger-Congo"
   },
   {
-    "question": "Igbo people originated from:",
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "man",
+      "woman",
+      "person",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "palm tree",
+      "oil",
+      "water"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "moon",
+      "light",
+      "star",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "water",
+      "palm tree",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Khoisan",
+      "Afro-Asiatic",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "matter",
+      "thing",
+      "object",
+      "stuff"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "brother",
+      "father",
+      "sister",
+      "mother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "star",
+      "moon",
+      "light",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "star",
+      "sun",
+      "moon",
+      "light"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Khoisan",
+      "Nilo-Saharan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "man",
+      "woman",
+      "person",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "woman",
+      "man",
+      "person",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "room",
+      "house",
+      "compound",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "brother",
+      "sister",
+      "mother",
+      "father"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo from:",
     "options": [
       "Eastern Nigeria",
       "Northern Nigeria",
@@ -2050,17 +1730,627 @@
     "answer": "Eastern Nigeria"
   },
   {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "Igbo language family:",
     "options": [
-      "god",
-      "ancestor",
+      "Niger-Congo",
+      "Khoisan",
+      "Afro-Asiatic",
+      "Nilo-Saharan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "water",
+      "palm tree",
+      "coconut",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "brother",
+      "sister",
+      "mother",
+      "father"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "water",
+      "oil",
+      "palm tree"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "water",
+      "palm tree",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "thing",
+      "matter",
+      "stuff",
+      "object"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
       "destiny",
+      "spirit",
+      "god",
+      "ancestor"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "centralized",
+      "military",
+      "monarchy",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "moon",
+      "sun",
+      "star",
+      "light"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "father",
+      "sister",
+      "mother",
+      "brother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "man",
+      "child",
+      "woman",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "person",
+      "woman",
+      "child",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "father",
+      "mother",
+      "brother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "mother",
+      "brother",
+      "sister",
+      "father"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Khoisan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "centralized",
+      "military",
+      "decentralized villages",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "spirit",
+      "ancestor",
+      "god",
+      "destiny"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "door",
+      "house",
+      "room",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "light",
+      "star",
+      "sun",
+      "moon"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "destiny",
+      "ancestor",
+      "god",
       "spirit"
     ],
     "answer": "destiny"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "room",
+      "house",
+      "door",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "centralized",
+      "monarchy",
+      "military",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "oil",
+      "palm tree",
+      "coconut",
+      "water"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "door",
+      "room",
+      "house",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "oil",
+      "palm tree",
+      "coconut",
+      "water"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "light",
+      "star",
+      "sun",
+      "moon"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "brother",
+      "father",
+      "mother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "decentralized villages",
+      "monarchy",
+      "centralized",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "person",
+      "child",
+      "woman",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "palm tree",
+      "water",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "oil",
+      "palm tree",
+      "water",
+      "coconut"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "man",
+      "child",
+      "woman",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "door",
+      "house",
+      "room",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "compound",
+      "door",
+      "house",
+      "room"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "palm tree",
+      "water",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "destiny",
+      "god",
+      "ancestor",
+      "spirit"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "father",
+      "mother",
+      "brother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "woman",
+      "child",
+      "person",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "object",
+      "matter",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "spirit",
+      "ancestor",
+      "god",
+      "destiny"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "father",
+      "sister",
+      "brother",
+      "mother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "centralized",
+      "military",
+      "monarchy",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "spirit",
+      "god",
+      "ancestor",
+      "destiny"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "house",
+      "compound",
+      "room",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "house",
+      "room",
+      "compound",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "moon",
+      "light",
+      "star",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "house",
+      "room",
+      "compound",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "brother",
+      "father",
+      "mother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Khoisan",
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
     "options": [
       "sister",
       "mother",
@@ -2070,234 +2360,74 @@
     "answer": "mother"
   },
   {
-    "question": "The Igbo language belongs to the ___ language family:",
+    "question": "'Ihe' túmọ̀ sí:",
     "options": [
-      "Niger-Congo",
+      "stuff",
+      "thing",
+      "object",
+      "matter"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "sister",
+      "mother",
+      "father",
+      "brother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "person",
+      "man",
+      "woman",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
+    "options": [
+      "woman",
+      "man",
+      "child",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
       "Nilo-Saharan",
       "Khoisan",
+      "Niger-Congo",
       "Afro-Asiatic"
     ],
     "answer": "Niger-Congo"
   },
   {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Southern Nigeria",
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "mother",
-      "sister",
-      "brother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "spirit",
-      "god",
-      "ancestor",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "'Nne' túmọ̀ sí:",
     "options": [
       "father",
-      "sister",
-      "brother",
-      "mother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Niger-Congo",
-      "Afro-Asiatic",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "person",
-      "woman",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "palm tree",
-      "water",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "palm tree",
-      "coconut",
-      "water",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "room",
-      "house",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "destiny",
-      "spirit",
-      "god",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "father",
-      "brother",
       "mother",
+      "brother",
       "sister"
     ],
     "answer": "mother"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "'Ihe' túmọ̀ sí:",
     "options": [
-      "sister",
-      "brother",
-      "father",
-      "mother"
+      "matter",
+      "thing",
+      "stuff",
+      "object"
     ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "oil",
-      "palm tree",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "room",
-      "door",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "woman",
-      "child",
-      "man",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Khoisan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
+    "answer": "thing"
   },
   {
     "question": "'Ụlọ' túmọ̀ sí:",
@@ -2310,67 +2440,17 @@
     "answer": "house"
   },
   {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
+    "question": "'Chi' ní belief system:",
     "options": [
-      "water",
-      "oil",
-      "coconut",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
+      "ancestor",
       "spirit",
-      "god",
       "destiny",
-      "ancestor"
+      "god"
     ],
     "answer": "destiny"
   },
   {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Khoisan",
-      "Nilo-Saharan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "water",
-      "oil",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "water",
-      "coconut",
-      "oil",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "star",
-      "light",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
+    "question": "'Nwa' túmọ̀ sí:",
     "options": [
       "child",
       "woman",
@@ -2380,122 +2460,102 @@
     "answer": "child"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "'Akwụ' túmọ̀ sí:",
     "options": [
-      "father",
-      "sister",
-      "brother",
-      "mother"
+      "water",
+      "palm tree",
+      "oil",
+      "coconut"
     ],
-    "answer": "mother"
+    "answer": "palm tree"
   },
   {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "Igbo society traditionally:",
     "options": [
-      "god",
-      "ancestor",
-      "spirit",
-      "destiny"
+      "military",
+      "monarchy",
+      "centralized",
+      "decentralized villages"
     ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "woman",
-      "man",
-      "person",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "man",
-      "child",
-      "person",
-      "woman"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "sun",
-      "moon",
-      "star"
-    ],
-    "answer": "sun"
+    "answer": "decentralized villages"
   },
   {
     "question": "'Ụlọ' túmọ̀ sí:",
     "options": [
       "house",
-      "door",
-      "room",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "ancestor",
-      "spirit",
-      "god",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "child",
-      "person",
-      "man",
-      "woman"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
       "compound",
-      "house",
       "door",
       "room"
     ],
     "answer": "house"
   },
   {
+    "question": "Igbo from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "oil",
+      "water",
+      "coconut",
+      "palm tree"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "centralized",
+      "decentralized villages",
+      "military",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "sun",
+      "moon",
+      "star",
+      "light"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "object",
+      "stuff",
+      "matter",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "water",
+      "palm tree",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
     "question": "'Anyanwu' túmọ̀ sí:",
     "options": [
       "light",
       "moon",
-      "sun",
-      "star"
+      "star",
+      "sun"
     ],
     "answer": "sun"
   },
@@ -2510,67 +2570,7 @@
     "answer": "house"
   },
   {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "oil",
-      "palm tree",
-      "water",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Khoisan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "house",
-      "compound",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "palm tree",
-      "coconut",
-      "water",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Northern Nigeria",
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
+    "question": "'Akwụ' túmọ̀ sí:",
     "options": [
       "coconut",
       "palm tree",
@@ -2580,107 +2580,227 @@
     "answer": "palm tree"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "compound",
-      "house",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Khoisan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo people originated from:",
-    "options": [
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria",
-      "Eastern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "god",
-      "ancestor",
-      "spirit",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "'Nne' túmọ̀ sí:",
     "options": [
       "father",
-      "brother",
       "mother",
-      "sister"
+      "sister",
+      "brother"
     ],
     "answer": "mother"
   },
   {
-    "question": "Igbo people originated from:",
+    "question": "'Ihe' túmọ̀ sí:",
     "options": [
-      "Southern Nigeria",
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria"
+      "thing",
+      "matter",
+      "stuff",
+      "object"
     ],
-    "answer": "Eastern Nigeria"
+    "answer": "thing"
   },
   {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "'Nne' túmọ̀ sí:",
     "options": [
-      "destiny",
-      "ancestor",
-      "god",
-      "spirit"
+      "sister",
+      "mother",
+      "brother",
+      "father"
     ],
-    "answer": "destiny"
+    "answer": "mother"
   },
   {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "Igbo society traditionally:",
     "options": [
-      "ancestor",
+      "centralized",
+      "decentralized villages",
+      "military",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "spirit",
       "god",
       "destiny",
-      "spirit"
+      "ancestor"
     ],
     "answer": "destiny"
   },
   {
     "question": "'Ụlọ' túmọ̀ sí:",
     "options": [
-      "room",
       "door",
       "compound",
+      "room",
       "house"
     ],
     "answer": "house"
   },
   {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "matter",
+      "object",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "oil",
+      "palm tree",
+      "water",
+      "coconut"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "matter",
+      "object",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "sister",
+      "mother",
+      "father",
+      "brother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Khoisan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "military",
+      "decentralized villages",
+      "monarchy",
+      "centralized"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "star",
+      "sun",
+      "moon",
+      "light"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "compound",
+      "house",
+      "room",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "matter",
+      "object",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "stuff",
+      "thing",
+      "object",
+      "matter"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Chi' ní belief system:",
+    "options": [
+      "god",
+      "ancestor",
+      "destiny",
+      "spirit"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "palm tree",
+      "water",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "monarchy",
+      "centralized",
+      "decentralized villages",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "house",
+      "room",
+      "door",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ihe' túmọ̀ sí:",
+    "options": [
+      "thing",
+      "stuff",
+      "matter",
+      "object"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "moon",
+      "sun",
+      "light",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Chi' ní belief system:",
     "options": [
       "spirit",
       "destiny",
@@ -2690,57 +2810,37 @@
     "answer": "destiny"
   },
   {
-    "question": "'Anyanwu' túmọ̀ sí:",
+    "question": "'Chi' ní belief system:",
     "options": [
-      "star",
-      "sun",
-      "moon",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Khoisan",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "room",
-      "compound",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "water",
-      "oil",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "god",
-      "ancestor",
       "spirit",
-      "destiny"
+      "destiny",
+      "god",
+      "ancestor"
     ],
     "answer": "destiny"
   },
   {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
+    "question": "Igbo language family:",
+    "options": [
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Khoisan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Anyanwu' túmọ̀ sí:",
+    "options": [
+      "light",
+      "moon",
+      "star",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Nwa' túmọ̀ sí:",
     "options": [
       "person",
       "man",
@@ -2750,242 +2850,92 @@
     "answer": "child"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "Igbo from:",
     "options": [
-      "sister",
-      "brother",
-      "father",
-      "mother"
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Eastern Nigeria"
     ],
-    "answer": "mother"
+    "answer": "Eastern Nigeria"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "'Nwa' túmọ̀ sí:",
     "options": [
-      "room",
-      "door",
-      "compound",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "child",
       "woman",
       "person",
+      "child",
       "man"
     ],
     "answer": "child"
   },
   {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
+    "question": "'Chi' ní belief system:",
     "options": [
-      "father",
-      "sister",
-      "brother",
-      "mother"
+      "spirit",
+      "ancestor",
+      "destiny",
+      "god"
     ],
-    "answer": "mother"
+    "answer": "destiny"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Igbo from:",
+    "options": [
+      "Western Nigeria",
+      "Northern Nigeria",
+      "Southern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Igbo society traditionally:",
+    "options": [
+      "monarchy",
+      "military",
+      "centralized",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
   },
   {
     "question": "'Ụlọ' túmọ̀ sí:",
     "options": [
-      "house",
       "room",
       "compound",
+      "house",
       "door"
     ],
     "answer": "house"
   },
   {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "palm tree",
-      "water",
-      "oil",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "room",
-      "door",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "oil",
-      "water",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "The Igbo language belongs to the ___ language family:",
-    "options": [
-      "Khoisan",
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "moon",
-      "light",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "spirit",
-      "ancestor",
-      "destiny",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "child",
-      "woman",
-      "person",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "destiny",
-      "spirit",
-      "ancestor",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "spirit",
-      "ancestor",
-      "god",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "woman",
-      "person",
-      "child",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "father",
-      "mother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Akwụ' ní Igbo túmọ̀ sí:",
-    "options": [
-      "oil",
-      "coconut",
-      "water",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "brother",
-      "sister",
-      "mother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nne' ní Igbo túmọ̀ sí:",
-    "options": [
-      "mother",
-      "brother",
-      "sister",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nwa' ní Igbo túmọ̀ sí:",
-    "options": [
-      "woman",
-      "man",
-      "person",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "moon",
-      "light",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "door",
-      "room",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Chi' ní Igbo belief system túmọ̀ sí:",
-    "options": [
-      "ancestor",
-      "god",
-      "destiny",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo people originated from:",
+    "question": "Igbo from:",
     "options": [
       "Southern Nigeria",
-      "Northern Nigeria",
       "Western Nigeria",
-      "Eastern Nigeria"
+      "Eastern Nigeria",
+      "Northern Nigeria"
     ],
     "answer": "Eastern Nigeria"
   },
@@ -2993,10 +2943,60 @@
     "question": "'Anyanwu' túmọ̀ sí:",
     "options": [
       "sun",
-      "moon",
       "star",
+      "moon",
       "light"
     ],
     "answer": "sun"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "water",
+      "palm tree",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Nne' túmọ̀ sí:",
+    "options": [
+      "brother",
+      "sister",
+      "mother",
+      "father"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo language family:",
+    "options": [
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Akwụ' túmọ̀ sí:",
+    "options": [
+      "coconut",
+      "oil",
+      "palm tree",
+      "water"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Ụlọ' túmọ̀ sí:",
+    "options": [
+      "house",
+      "door",
+      "room",
+      "compound"
+    ],
+    "answer": "house"
   }
 ]

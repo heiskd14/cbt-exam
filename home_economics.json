@@ -1,36 +1,286 @@
 [
   {
-    "question": "Nutrition is:",
+    "question": "Food storage prevents",
     "options": [
-      "eating",
-      "food science",
+      "freshness",
+      "spoilage",
       "cooking",
-      "shopping"
+      "flavor"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "when sick",
+      "unnecessary",
+      "important",
+      "optional"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "cooking",
+      "obesity",
+      "waste",
+      "loss of taste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "optional",
+      "important",
+      "when sick",
+      "unnecessary"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "important",
+      "optional",
+      "unnecessary",
+      "when sick"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "food science",
+      "shopping",
+      "eating",
+      "cooking"
     ],
     "answer": "food science"
   },
   {
-    "question": "Balanced diet includes:",
+    "question": "Meal prep improves",
     "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
+      "time",
+      "nutrition",
+      "all",
+      "health"
     ],
-    "answer": "all groups"
+    "answer": "all"
   },
   {
-    "question": "Kitchen safety includes:",
+    "question": "Food storage prevents",
+    "options": [
+      "freshness",
+      "cooking",
+      "spoilage",
+      "flavor"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "all of above",
+      "boiling",
+      "baking",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "unnecessary",
+      "when sick",
+      "important",
+      "optional"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "freshness",
+      "spoilage",
+      "flavor"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "freshness",
+      "flavor",
+      "spoilage"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "food science",
+      "cooking",
+      "shopping",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "boiling",
+      "baking",
+      "all of above",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "baking",
+      "boiling",
+      "frying",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Kitchen safety includes",
     "options": [
       "knives",
+      "careless",
       "equipment care",
-      "ignoring",
-      "careless"
+      "ignoring"
     ],
     "answer": "equipment care"
   },
   {
-    "question": "Food storage prevents:",
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "cooking",
+      "obesity",
+      "loss of taste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "food science",
+      "shopping",
+      "cooking",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "nutrition",
+      "health",
+      "all",
+      "time"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "obesity",
+      "cooking",
+      "loss of taste",
+      "waste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "all",
+      "health",
+      "time",
+      "nutrition"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "preferences",
+      "all factors",
+      "nutrition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "fats",
+      "all groups",
+      "carbs",
+      "proteins"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "carbs",
+      "fats",
+      "all groups",
+      "proteins"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "loss of taste",
+      "waste",
+      "obesity",
+      "cooking"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "cooking",
+      "obesity",
+      "waste",
+      "loss of taste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "obesity",
+      "waste",
+      "loss of taste",
+      "cooking"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Food storage prevents",
     "options": [
       "cooking",
       "spoilage",
@@ -40,17 +290,177 @@
     "answer": "spoilage"
   },
   {
-    "question": "Hygiene is:",
+    "question": "Cooking methods include",
+    "options": [
+      "all of above",
+      "baking",
+      "frying",
+      "boiling"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "shopping",
+      "eating",
+      "cooking",
+      "food science"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Hygiene is",
     "options": [
       "optional",
-      "important",
       "unnecessary",
+      "important",
       "when sick"
     ],
     "answer": "important"
   },
   {
-    "question": "Nutrition is:",
+    "question": "Menu planning considers",
+    "options": [
+      "preferences",
+      "cost",
+      "nutrition",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "boiling",
+      "frying",
+      "all of above",
+      "baking"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "time",
+      "all",
+      "nutrition"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "careless",
+      "equipment care",
+      "knives",
+      "ignoring"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "fats",
+      "all groups",
+      "carbs",
+      "proteins"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "important",
+      "unnecessary",
+      "when sick",
+      "optional"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "eating",
+      "cooking",
+      "shopping",
+      "food science"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "eating",
+      "shopping",
+      "food science",
+      "cooking"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "all factors",
+      "preferences",
+      "nutrition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "cooking",
+      "shopping",
+      "food science",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "preferences",
+      "cost",
+      "all factors",
+      "nutrition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "obesity",
+      "waste",
+      "cooking",
+      "loss of taste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "ignoring",
+      "careless",
+      "knives",
+      "equipment care"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "eating",
+      "food science",
+      "shopping",
+      "cooking"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Nutrition is",
     "options": [
       "eating",
       "food science",
@@ -60,77 +470,447 @@
     "answer": "food science"
   },
   {
-    "question": "Balanced diet includes:",
+    "question": "Balanced diet includes",
     "options": [
       "proteins",
       "all groups",
-      "carbs",
-      "fats"
+      "fats",
+      "carbs"
     ],
     "answer": "all groups"
   },
   {
-    "question": "Kitchen safety includes:",
+    "question": "Cooking methods include",
     "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
+      "all of above",
+      "boiling",
+      "frying",
+      "baking"
     ],
-    "answer": "equipment care"
+    "answer": "all of above"
   },
   {
-    "question": "Food storage prevents:",
+    "question": "Hygiene is",
     "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
+      "unnecessary",
       "optional",
       "important",
-      "unnecessary",
       "when sick"
     ],
     "answer": "important"
   },
   {
-    "question": "Nutrition is:",
+    "question": "Hygiene is",
+    "options": [
+      "optional",
+      "when sick",
+      "important",
+      "unnecessary"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Nutrition is",
     "options": [
       "eating",
       "food science",
+      "shopping",
+      "cooking"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "all of above",
+      "baking",
+      "boiling",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "loss of taste",
+      "waste",
       "cooking",
+      "obesity"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "proteins",
+      "carbs",
+      "all groups",
+      "fats"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "proteins",
+      "fats",
+      "carbs",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "all",
+      "time",
+      "nutrition"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "careless",
+      "knives",
+      "equipment care",
+      "ignoring"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "nutrition",
+      "cost",
+      "all factors",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "freshness",
+      "flavor",
+      "spoilage",
+      "cooking"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "ignoring",
+      "equipment care",
+      "careless",
+      "knives"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "flavor",
+      "spoilage",
+      "freshness",
+      "cooking"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "time",
+      "nutrition",
+      "health",
+      "all"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "all groups",
+      "fats",
+      "proteins",
+      "carbs"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "all factors",
+      "nutrition",
+      "cost",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "nutrition",
+      "health",
+      "all",
+      "time"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "all groups",
+      "fats",
+      "carbs",
+      "proteins"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "nutrition",
+      "all",
+      "time",
+      "health"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "all groups",
+      "fats",
+      "proteins",
+      "carbs"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "unnecessary",
+      "when sick",
+      "optional",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "boiling",
+      "all of above",
+      "baking",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "time",
+      "all",
+      "nutrition"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "4",
+      "6",
+      "3",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "when sick",
+      "optional",
+      "unnecessary",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "shopping",
+      "cooking",
+      "food science",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "freshness",
+      "flavor",
+      "spoilage"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "nutrition",
+      "preferences",
+      "cost",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "carbs",
+      "fats",
+      "all groups",
+      "proteins"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "fats",
+      "proteins",
+      "all groups",
+      "carbs"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "loss of taste",
+      "obesity",
+      "cooking",
+      "waste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "shopping",
+      "eating",
+      "cooking",
+      "food science"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "freshness",
+      "cooking",
+      "spoilage",
+      "flavor"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "flavor",
+      "spoilage",
+      "cooking",
+      "freshness"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "eating",
+      "cooking",
+      "food science",
       "shopping"
     ],
     "answer": "food science"
   },
   {
-    "question": "Balanced diet includes:",
+    "question": "Food storage prevents",
     "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
+      "freshness",
+      "cooking",
+      "flavor",
+      "spoilage"
     ],
-    "answer": "all groups"
+    "answer": "spoilage"
   },
   {
-    "question": "Kitchen safety includes:",
+    "question": "Cooking methods include",
     "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
+      "all of above",
+      "baking",
+      "boiling",
+      "frying"
     ],
-    "answer": "equipment care"
+    "answer": "all of above"
   },
   {
-    "question": "Food storage prevents:",
+    "question": "Hygiene is",
+    "options": [
+      "important",
+      "optional",
+      "unnecessary",
+      "when sick"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Food storage prevents",
     "options": [
       "cooking",
       "spoilage",
@@ -140,7 +920,1227 @@
     "answer": "spoilage"
   },
   {
-    "question": "Hygiene is:",
+    "question": "Food groups number",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "all of above",
+      "boiling",
+      "frying",
+      "baking"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "5",
+      "6",
+      "3",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "ignoring",
+      "careless",
+      "equipment care",
+      "knives"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "all factors",
+      "nutrition",
+      "cost",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "shopping",
+      "eating",
+      "cooking",
+      "food science"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "all groups",
+      "proteins",
+      "carbs",
+      "fats"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "all factors",
+      "nutrition",
+      "cost",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "food science",
+      "cooking",
+      "shopping",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "nutrition",
+      "time",
+      "all"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "cooking",
+      "waste",
+      "obesity",
+      "loss of taste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "knives",
+      "equipment care",
+      "ignoring",
+      "careless"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "all of above",
+      "baking",
+      "boiling",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "boiling",
+      "baking",
+      "all of above",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "time",
+      "all",
+      "nutrition",
+      "health"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "when sick",
+      "optional",
+      "unnecessary",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "optional",
+      "unnecessary",
+      "when sick",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "equipment care",
+      "careless",
+      "knives",
+      "ignoring"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "preferences",
+      "all factors",
+      "cost",
+      "nutrition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "fats",
+      "carbs",
+      "proteins",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "equipment care",
+      "knives",
+      "careless",
+      "ignoring"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "carbs",
+      "all groups",
+      "proteins",
+      "fats"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "equipment care",
+      "knives",
+      "careless",
+      "ignoring"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "spoilage",
+      "freshness",
+      "flavor",
+      "cooking"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "all factors",
+      "nutrition",
+      "cost",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "all factors",
+      "preferences",
+      "nutrition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "nutrition",
+      "time",
+      "all",
+      "health"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "boiling",
+      "all of above",
+      "baking",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "carbs",
+      "proteins",
+      "all groups",
+      "fats"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "shopping",
+      "eating",
+      "cooking",
+      "food science"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "all factors",
+      "preferences",
+      "nutrition",
+      "cost"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "time",
+      "all",
+      "health",
+      "nutrition"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "loss of taste",
+      "cooking",
+      "obesity"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "equipment care",
+      "knives",
+      "careless",
+      "ignoring"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "important",
+      "unnecessary",
+      "when sick",
+      "optional"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "cooking",
+      "loss of taste",
+      "waste",
+      "obesity"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "equipment care",
+      "knives",
+      "ignoring",
+      "careless"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "boiling",
+      "baking",
+      "frying",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "baking",
+      "boiling",
+      "all of above",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "careless",
+      "equipment care",
+      "knives",
+      "ignoring"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "important",
+      "when sick",
+      "unnecessary",
+      "optional"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "fats",
+      "carbs",
+      "proteins",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "nutrition",
+      "time",
+      "all"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "important",
+      "unnecessary",
+      "optional",
+      "when sick"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "carbs",
+      "all groups",
+      "fats",
+      "proteins"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "nutrition",
+      "health",
+      "all",
+      "time"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "fats",
+      "proteins",
+      "carbs",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "all of above",
+      "boiling",
+      "baking",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "obesity",
+      "loss of taste",
+      "waste",
+      "cooking"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "all",
+      "nutrition",
+      "time",
+      "health"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "food science",
+      "cooking",
+      "shopping",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "obesity",
+      "loss of taste",
+      "cooking"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "cooking",
+      "shopping",
+      "food science",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "knives",
+      "careless",
+      "ignoring",
+      "equipment care"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "food science",
+      "cooking",
+      "shopping",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "careless",
+      "equipment care",
+      "ignoring",
+      "knives"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "all",
+      "nutrition",
+      "time",
+      "health"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "nutrition",
+      "time",
+      "all"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "obesity",
+      "cooking",
+      "loss of taste",
+      "waste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "careless",
+      "ignoring",
+      "equipment care",
+      "knives"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "shopping",
+      "food science",
+      "eating",
+      "cooking"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "freshness",
+      "cooking",
+      "spoilage",
+      "flavor"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "nutrition",
+      "time",
+      "all"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "knives",
+      "ignoring",
+      "equipment care",
+      "careless"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "baking",
+      "frying",
+      "boiling",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "all of above",
+      "boiling",
+      "baking",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "proteins",
+      "fats",
+      "carbs",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "loss of taste",
+      "waste",
+      "obesity",
+      "cooking"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "all of above",
+      "baking",
+      "frying",
+      "boiling"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "fats",
+      "carbs",
+      "proteins",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "proteins",
+      "carbs",
+      "all groups",
+      "fats"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "nutrition",
+      "all factors",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "all of above",
+      "boiling",
+      "frying",
+      "baking"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "all",
+      "nutrition",
+      "health",
+      "time"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "when sick",
+      "important",
+      "unnecessary",
+      "optional"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "time",
+      "nutrition",
+      "all",
+      "health"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "food science",
+      "cooking",
+      "shopping",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "all factors",
+      "nutrition",
+      "preferences",
+      "cost"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "optional",
+      "when sick",
+      "important",
+      "unnecessary"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "cooking",
+      "loss of taste",
+      "obesity"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "time",
+      "nutrition",
+      "all"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "equipment care",
+      "knives",
+      "ignoring",
+      "careless"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "freshness",
+      "spoilage",
+      "flavor"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "ignoring",
+      "equipment care",
+      "knives",
+      "careless"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "loss of taste",
+      "waste",
+      "cooking",
+      "obesity"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "all factors",
+      "nutrition",
+      "preferences",
+      "cost"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "preferences",
+      "nutrition",
+      "cost",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "nutrition",
+      "all factors",
+      "cost",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "important",
+      "when sick",
+      "unnecessary",
+      "optional"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "boiling",
+      "baking",
+      "all of above",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "food science",
+      "cooking",
+      "shopping",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "flavor",
+      "freshness",
+      "spoilage"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "knives",
+      "ignoring",
+      "equipment care",
+      "careless"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "carbs",
+      "fats",
+      "all groups",
+      "proteins"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "freshness",
+      "spoilage",
+      "flavor"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "flavor",
+      "freshness",
+      "spoilage"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "preferences",
+      "nutrition",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "proteins",
+      "carbs",
+      "fats",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "careless",
+      "ignoring",
+      "equipment care",
+      "knives"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "flavor",
+      "spoilage",
+      "freshness"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "equipment care",
+      "knives",
+      "careless",
+      "ignoring"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "fats",
+      "proteins",
+      "carbs",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "all groups",
+      "proteins",
+      "carbs",
+      "fats"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "optional",
+      "unnecessary",
+      "when sick",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "optional",
+      "unnecessary",
+      "important",
+      "when sick"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "when sick",
+      "important",
+      "optional",
+      "unnecessary"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "all factors",
+      "nutrition",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "when sick",
+      "important",
+      "optional",
+      "unnecessary"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "flavor",
+      "freshness",
+      "spoilage",
+      "cooking"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "carbs",
+      "fats",
+      "proteins",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "frying",
+      "all of above",
+      "baking",
+      "boiling"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "proteins",
+      "all groups",
+      "fats",
+      "carbs"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "nutrition",
+      "health",
+      "time",
+      "all"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Hygiene is",
     "options": [
       "optional",
       "important",
@@ -150,2853 +2150,853 @@
     "answer": "important"
   },
   {
-    "question": "Nutrition is:",
+    "question": "Food storage prevents",
+    "options": [
+      "spoilage",
+      "cooking",
+      "freshness",
+      "flavor"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "flavor",
+      "freshness",
+      "spoilage"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "all",
+      "health",
+      "time",
+      "nutrition"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "nutrition",
+      "all factors",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "cooking",
+      "loss of taste",
+      "obesity",
+      "waste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "cooking",
+      "loss of taste",
+      "waste",
+      "obesity"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "proteins",
+      "fats",
+      "all groups",
+      "carbs"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "baking",
+      "frying",
+      "all of above",
+      "boiling"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "fats",
+      "carbs",
+      "proteins",
+      "all groups"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "loss of taste",
+      "cooking",
+      "obesity"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "nutrition",
+      "all factors",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "unnecessary",
+      "optional",
+      "when sick",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "freshness",
+      "spoilage",
+      "flavor"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "nutrition",
+      "all",
+      "time",
+      "health"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "time",
+      "nutrition",
+      "all"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "optional",
+      "unnecessary",
+      "important",
+      "when sick"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Nutrition is",
     "options": [
       "eating",
       "food science",
+      "shopping",
+      "cooking"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "shopping",
+      "food science",
+      "eating",
+      "cooking"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "freshness",
+      "flavor",
       "cooking",
+      "spoilage"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "optional",
+      "when sick",
+      "unnecessary",
+      "important"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "optional",
+      "important",
+      "unnecessary",
+      "when sick"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "cooking",
+      "spoilage",
+      "flavor",
+      "freshness"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "baking",
+      "boiling",
+      "frying",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "careless",
+      "knives",
+      "ignoring",
+      "equipment care"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "all factors",
+      "nutrition",
+      "cost",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "time",
+      "nutrition",
+      "health",
+      "all"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Balanced diet includes",
+    "options": [
+      "all groups",
+      "fats",
+      "carbs",
+      "proteins"
+    ],
+    "answer": "all groups"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "preferences",
+      "all factors",
+      "nutrition",
+      "cost"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "nutrition",
+      "all factors",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "boiling",
+      "all of above",
+      "frying",
+      "baking"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "ignoring",
+      "knives",
+      "equipment care",
+      "careless"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "frying",
+      "boiling",
+      "baking",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "obesity",
+      "loss of taste",
+      "cooking"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "important",
+      "optional",
+      "unnecessary",
+      "when sick"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "health",
+      "time",
+      "all",
+      "nutrition"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "loss of taste",
+      "cooking",
+      "obesity"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "loss of taste",
+      "cooking",
+      "obesity",
+      "waste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "baking",
+      "all of above",
+      "boiling",
+      "frying"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "cooking",
+      "loss of taste",
+      "obesity",
+      "waste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "cooking",
+      "obesity",
+      "loss of taste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "shopping",
+      "cooking",
+      "food science",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Hygiene is",
+    "options": [
+      "important",
+      "when sick",
+      "unnecessary",
+      "optional"
+    ],
+    "answer": "important"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "cooking",
+      "shopping",
+      "food science",
+      "eating"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "equipment care",
+      "careless",
+      "knives",
+      "ignoring"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "eating",
+      "food science",
+      "shopping",
+      "cooking"
+    ],
+    "answer": "food science"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "freshness",
+      "spoilage",
+      "flavor",
+      "cooking"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Meal prep improves",
+    "options": [
+      "all",
+      "time",
+      "nutrition",
+      "health"
+    ],
+    "answer": "all"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "cooking",
+      "food science",
+      "eating",
       "shopping"
     ],
     "answer": "food science"
   },
   {
-    "question": "Balanced diet includes:",
+    "question": "Menu planning considers",
     "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
+      "all factors",
+      "preferences",
+      "nutrition",
+      "cost"
     ],
-    "answer": "all groups"
+    "answer": "all factors"
   },
   {
-    "question": "Kitchen safety includes:",
+    "question": "Kitchen safety includes",
     "options": [
-      "knives",
-      "equipment care",
+      "careless",
       "ignoring",
-      "careless"
+      "knives",
+      "equipment care"
     ],
     "answer": "equipment care"
   },
   {
-    "question": "Food storage prevents:",
+    "question": "Nutrition is",
     "options": [
       "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
       "eating",
-      "food science",
-      "cooking",
-      "shopping"
+      "shopping",
+      "food science"
     ],
     "answer": "food science"
   },
   {
-    "question": "Balanced diet includes:",
+    "question": "Portion control prevents",
     "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
+      "obesity",
+      "waste",
       "cooking",
-      "spoilage",
+      "loss of taste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
       "flavor",
-      "freshness"
+      "freshness",
+      "cooking",
+      "spoilage"
     ],
     "answer": "spoilage"
   },
   {
-    "question": "Hygiene is:",
+    "question": "Food groups number",
     "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
+      "4",
+      "5",
+      "6",
+      "3"
     ],
-    "answer": "important"
+    "answer": "5"
   },
   {
-    "question": "Nutrition is:",
+    "question": "Food groups number",
     "options": [
-      "eating",
-      "food science",
+      "5",
+      "6",
+      "3",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
       "cooking",
-      "shopping"
+      "freshness",
+      "flavor",
+      "spoilage"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "careless",
+      "ignoring",
+      "knives",
+      "equipment care"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "all factors",
+      "nutrition",
+      "preferences",
+      "cost"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "cost",
+      "all factors",
+      "preferences",
+      "nutrition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "ignoring",
+      "careless",
+      "equipment care",
+      "knives"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Nutrition is",
+    "options": [
+      "shopping",
+      "cooking",
+      "eating",
+      "food science"
     ],
     "answer": "food science"
   },
   {
-    "question": "Balanced diet includes:",
+    "question": "Food groups number",
     "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
+      "6",
+      "3",
+      "5",
+      "4"
     ],
-    "answer": "all groups"
+    "answer": "5"
   },
   {
-    "question": "Kitchen safety includes:",
+    "question": "Food groups number",
     "options": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "flavor",
+      "cooking",
+      "freshness",
+      "spoilage"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "boiling",
+      "frying",
+      "all of above",
+      "baking"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "cooking",
+      "obesity",
+      "loss of taste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "nutrition",
+      "all factors",
+      "cost",
+      "preferences"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "waste",
+      "cooking",
+      "obesity",
+      "loss of taste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Menu planning considers",
+    "options": [
+      "preferences",
+      "nutrition",
+      "cost",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "ignoring",
+      "careless",
+      "knives",
+      "equipment care"
+    ],
+    "answer": "equipment care"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Food groups number",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Food storage prevents",
+    "options": [
+      "flavor",
+      "spoilage",
+      "freshness",
+      "cooking"
+    ],
+    "answer": "spoilage"
+  },
+  {
+    "question": "Portion control prevents",
+    "options": [
+      "obesity",
+      "loss of taste",
+      "cooking",
+      "waste"
+    ],
+    "answer": "obesity"
+  },
+  {
+    "question": "Cooking methods include",
+    "options": [
+      "frying",
+      "boiling",
+      "all of above",
+      "baking"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Kitchen safety includes",
+    "options": [
+      "ignoring",
       "knives",
       "equipment care",
-      "ignoring",
       "careless"
     ],
     "answer": "equipment care"
   },
   {
-    "question": "Food storage prevents:",
+    "question": "Food groups number",
     "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
+      "4",
+      "6",
+      "3",
+      "5"
     ],
-    "answer": "spoilage"
+    "answer": "5"
   },
   {
-    "question": "Hygiene is:",
+    "question": "Cooking methods include",
     "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
+      "frying",
+      "all of above",
+      "baking",
+      "boiling"
     ],
-    "answer": "important"
+    "answer": "all of above"
   },
   {
-    "question": "Nutrition is:",
+    "question": "Meal prep improves",
     "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
+      "nutrition",
+      "health",
+      "time",
+      "all"
     ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Nutrition is:",
-    "options": [
-      "eating",
-      "food science",
-      "cooking",
-      "shopping"
-    ],
-    "answer": "food science"
-  },
-  {
-    "question": "Balanced diet includes:",
-    "options": [
-      "proteins",
-      "all groups",
-      "carbs",
-      "fats"
-    ],
-    "answer": "all groups"
-  },
-  {
-    "question": "Kitchen safety includes:",
-    "options": [
-      "knives",
-      "equipment care",
-      "ignoring",
-      "careless"
-    ],
-    "answer": "equipment care"
-  },
-  {
-    "question": "Food storage prevents:",
-    "options": [
-      "cooking",
-      "spoilage",
-      "flavor",
-      "freshness"
-    ],
-    "answer": "spoilage"
-  },
-  {
-    "question": "Hygiene is:",
-    "options": [
-      "optional",
-      "important",
-      "unnecessary",
-      "when sick"
-    ],
-    "answer": "important"
+    "answer": "all"
   }
 ]

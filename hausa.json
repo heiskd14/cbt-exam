@@ -1,1246 +1,226 @@
 [
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "Hausa language family:",
     "options": [
-      "bukatu",
-      "miji",
-      "jiya",
-      "gida"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "je",
-      "tafi",
-      "nema",
-      "zuwa"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "rijiya",
-      "kasuwa",
-      "gida",
-      "gari"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "sauni",
-      "magani",
-      "labari",
-      "hanya"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "hello",
-      "thank you",
-      "goodbye",
-      "welcome"
-    ],
-    "answer": "hello"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya",
-    "options": [
-      "jiya",
-      "jiya",
-      "kudi",
-      "gida"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mata",
-      "uwaye",
-      "mama",
-      "babbar mache"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "gida",
-      "yin",
-      "je",
-      "yi"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "simple",
-      "important",
-      "old",
-      "modern"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "gida",
-      "jiya",
-      "ba sannu",
-      "sannu"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "hadida",
-      "bukatuwa",
-      "sani",
-      "sha'awa"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "community",
-      "all factors",
-      "tradition",
-      "honesty"
-    ],
-    "answer": "all factors"
-  },
-  {
-    "question": "Abin da tsohon jaji ka nuna ne",
-    "options": [
-      "magani",
-      "kudi",
-      "sani",
-      "karatu"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "malam",
-      "karantewa",
-      "kakaree",
-      "ilimi"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "jiyar jiya",
-      "jiya a safiya",
-      "jiya",
-      "gida"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
-      "Nilo-Saharan",
       "Khoisan",
-      "Niger-Congo",
-      "Afro-Asiatic"
-    ],
-    "answer": "Afro-Asiatic"
-  },
-  {
-    "question": "In Hausa, family is",
-    "options": [
-      "unimportant",
-      "very important",
-      "modern",
-      "secondary"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
-    "options": [
-      "trans-Saharan",
-      "maritime",
-      "local",
-      "regional"
-    ],
-    "answer": "trans-Saharan"
-  },
-  {
-    "question": "The plural form in Hausa",
-    "options": [
-      "adds prefix",
-      "no change",
-      "changes ending",
-      "both methods"
-    ],
-    "answer": "both methods"
-  },
-  {
-    "question": "Hausa music traditionally uses",
-    "options": [
-      "strings",
-      "drums",
-      "wind",
-      "all instruments"
-    ],
-    "answer": "drums"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "gida",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "nema",
-      "zuwa",
-      "tafi",
-      "je"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "kasuwa",
-      "gida",
-      "rijiya",
-      "gari"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "sauni",
-      "magani",
-      "hanya",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "goodbye",
-      "hello",
-      "thank you",
-      "welcome"
-    ],
-    "answer": "hello"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya",
-    "options": [
-      "jiya",
-      "kudi",
-      "jiya",
-      "gida"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "babbar mache",
-      "mata",
-      "mama",
-      "uwaye"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "je",
-      "gida",
-      "yin",
-      "yi"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "old",
-      "modern",
-      "simple",
-      "important"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "sannu",
-      "gida",
-      "jiya",
-      "ba sannu"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "hadida",
-      "sani",
-      "bukatuwa",
-      "sha'awa"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "honesty",
-      "tradition",
-      "all factors",
-      "community"
-    ],
-    "answer": "all factors"
-  },
-  {
-    "question": "Abin da tsohon jaji ka nuna ne",
-    "options": [
-      "magani",
-      "kudi",
-      "karatu",
-      "sani"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "ilimi",
-      "karantewa",
-      "malam",
-      "kakaree"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "jiya",
-      "jiyar jiya",
-      "gida",
-      "jiya a safiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
       "Afro-Asiatic",
       "Niger-Congo",
-      "Nilo-Saharan",
-      "Khoisan"
+      "Nilo-Saharan"
     ],
     "answer": "Afro-Asiatic"
   },
   {
-    "question": "In Hausa, family is",
+    "question": "Plural in Hausa:",
     "options": [
-      "modern",
-      "very important",
-      "secondary",
-      "unimportant"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
-    "options": [
-      "trans-Saharan",
-      "regional",
-      "local",
-      "maritime"
-    ],
-    "answer": "trans-Saharan"
-  },
-  {
-    "question": "The plural form in Hausa",
-    "options": [
-      "no change",
-      "adds prefix",
       "changes ending",
+      "adds prefix",
+      "no change",
       "both methods"
     ],
     "answer": "both methods"
   },
   {
-    "question": "Hausa music traditionally uses",
+    "question": "Hausa culture values:",
     "options": [
-      "wind",
-      "all instruments",
-      "drums",
-      "strings"
-    ],
-    "answer": "drums"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "gida",
-      "bukatu",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "zuwa",
-      "tafi",
-      "je",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "kasuwa",
-      "rijiya",
-      "gida",
-      "gari"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "sauni",
-      "hanya",
-      "magani",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "goodbye",
-      "thank you",
-      "hello",
-      "welcome"
-    ],
-    "answer": "hello"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya",
-    "options": [
-      "kudi",
-      "gida",
-      "jiya",
-      "jiya"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "babbar mache",
-      "mata",
-      "uwaye"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "yin",
-      "gida",
-      "yi",
-      "je"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "modern",
-      "important",
-      "old",
-      "simple"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "gida",
-      "ba sannu",
-      "jiya",
-      "sannu"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "bukatuwa",
-      "sani",
-      "hadida",
-      "sha'awa"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "tradition",
       "community",
       "honesty",
+      "tradition",
       "all factors"
     ],
     "answer": "all factors"
   },
   {
-    "question": "Abin da tsohon jaji ka nuna ne",
+    "question": "Hausa trade was:",
     "options": [
-      "kudi",
-      "magani",
-      "sani",
-      "karatu"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "malam",
-      "ilimi",
-      "karantewa",
-      "kakaree"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "gida",
-      "jiyar jiya",
-      "jiya",
-      "jiya a safiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Khoisan"
-    ],
-    "answer": "Afro-Asiatic"
-  },
-  {
-    "question": "In Hausa, family is",
-    "options": [
-      "secondary",
-      "unimportant",
-      "very important",
-      "modern"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
-    "options": [
-      "regional",
       "trans-Saharan",
+      "regional",
       "local",
       "maritime"
     ],
     "answer": "trans-Saharan"
   },
   {
-    "question": "The plural form in Hausa",
+    "question": "'Sannu' means:",
     "options": [
-      "adds prefix",
-      "both methods",
+      "welcome",
+      "goodbye",
+      "hello",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
       "changes ending",
+      "both methods",
+      "adds prefix",
       "no change"
     ],
     "answer": "both methods"
   },
   {
-    "question": "Hausa music traditionally uses",
+    "question": "'Malam' means:",
     "options": [
-      "drums",
-      "wind",
-      "strings",
-      "all instruments"
+      "teacher",
+      "scholar",
+      "student",
+      "elder"
     ],
-    "answer": "drums"
+    "answer": "teacher"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "Plural in Hausa:",
     "options": [
-      "gida",
-      "bukatu",
-      "jiya",
-      "miji"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "nema",
-      "je",
-      "zuwa",
-      "tafi"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "rijiya",
-      "kasuwa",
-      "gari",
-      "gida"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "sauni",
-      "labari",
-      "hanya",
-      "magani"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "goodbye",
-      "welcome",
-      "hello",
-      "thank you"
-    ],
-    "answer": "hello"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya",
-    "options": [
-      "jiya",
-      "gida",
-      "jiya",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "mata",
-      "uwaye",
-      "babbar mache"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "je",
-      "gida",
-      "yi",
-      "yin"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "old",
-      "important",
-      "modern",
-      "simple"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "jiya",
-      "ba sannu",
-      "sannu",
-      "gida"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "sha'awa",
-      "sani",
-      "bukatuwa",
-      "hadida"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "all factors",
-      "community",
-      "tradition",
-      "honesty"
-    ],
-    "answer": "all factors"
-  },
-  {
-    "question": "Abin da tsohon jaji ka nuna ne",
-    "options": [
-      "magani",
-      "sani",
-      "kudi",
-      "karatu"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "ilimi",
-      "kakaree",
-      "karantewa",
-      "malam"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "gida",
-      "jiya a safiya",
-      "jiyar jiya",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
-      "Khoisan",
-      "Nilo-Saharan",
-      "Niger-Congo",
-      "Afro-Asiatic"
-    ],
-    "answer": "Afro-Asiatic"
-  },
-  {
-    "question": "In Hausa, family is",
-    "options": [
-      "secondary",
-      "very important",
-      "unimportant",
-      "modern"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
-    "options": [
-      "trans-Saharan",
-      "maritime",
-      "regional",
-      "local"
-    ],
-    "answer": "trans-Saharan"
-  },
-  {
-    "question": "The plural form in Hausa",
-    "options": [
-      "changes ending",
-      "both methods",
       "no change",
-      "adds prefix"
-    ],
-    "answer": "both methods"
-  },
-  {
-    "question": "Hausa music traditionally uses",
-    "options": [
-      "drums",
-      "strings",
-      "all instruments",
-      "wind"
-    ],
-    "answer": "drums"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "miji",
-      "jiya",
-      "gida",
-      "bukatu"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "tafi",
-      "nema",
-      "je",
-      "zuwa"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "gida",
-      "kasuwa",
-      "rijiya",
-      "gari"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "hanya",
-      "magani",
-      "labari",
-      "sauni"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "hello",
-      "goodbye",
-      "welcome",
-      "thank you"
-    ],
-    "answer": "hello"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya",
-    "options": [
-      "jiya",
-      "gida",
-      "jiya",
-      "kudi"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "babbar mache",
-      "mama",
-      "uwaye",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "yi",
-      "gida",
-      "je",
-      "yin"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "simple",
-      "modern",
-      "old",
-      "important"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "gida",
-      "ba sannu",
-      "sannu",
-      "jiya"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "sha'awa",
-      "bukatuwa",
-      "sani",
-      "hadida"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "community",
-      "tradition",
-      "all factors",
-      "honesty"
-    ],
-    "answer": "all factors"
-  },
-  {
-    "question": "Abin da tsohon jaji ka nuna ne",
-    "options": [
-      "magani",
-      "kudi",
-      "karatu",
-      "sani"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "ilimi",
-      "kakaree",
-      "karantewa",
-      "malam"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "jiyar jiya",
-      "gida",
-      "jiya a safiya",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
-      "Khoisan",
-      "Nilo-Saharan",
-      "Niger-Congo",
-      "Afro-Asiatic"
-    ],
-    "answer": "Afro-Asiatic"
-  },
-  {
-    "question": "In Hausa, family is",
-    "options": [
-      "modern",
-      "unimportant",
-      "secondary",
-      "very important"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
-    "options": [
-      "regional",
-      "trans-Saharan",
-      "local",
-      "maritime"
-    ],
-    "answer": "trans-Saharan"
-  },
-  {
-    "question": "The plural form in Hausa",
-    "options": [
+      "changes ending",
       "adds prefix",
-      "changes ending",
-      "no change",
       "both methods"
     ],
     "answer": "both methods"
   },
   {
-    "question": "Hausa music traditionally uses",
+    "question": "Hausa music uses:",
     "options": [
       "drums",
-      "strings",
       "wind",
+      "strings",
       "all instruments"
     ],
     "answer": "drums"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "'Sannu' means:",
     "options": [
-      "gida",
-      "jiya",
-      "miji",
-      "bukatu"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "zuwa",
-      "je",
-      "tafi",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "gida",
-      "rijiya",
-      "gari",
-      "kasuwa"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "labari",
-      "hanya",
-      "sauni",
-      "magani"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "welcome",
       "goodbye",
       "thank you",
-      "hello"
+      "hello",
+      "welcome"
     ],
     "answer": "hello"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya",
+    "question": "'Sannu' means:",
     "options": [
-      "jiya",
-      "gida",
-      "jiya",
-      "kudi"
+      "hello",
+      "welcome",
+      "thank you",
+      "goodbye"
     ],
-    "answer": "kudi"
+    "answer": "hello"
   },
   {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "babbar mache",
-      "mama",
-      "uwaye",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "yin",
-      "gida",
-      "je",
-      "yi"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "old",
-      "simple",
-      "modern",
-      "important"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "jiya",
-      "sannu",
-      "gida",
-      "ba sannu"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "sani",
-      "sha'awa",
-      "hadida",
-      "bukatuwa"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
+    "question": "Hausa culture values:",
     "options": [
       "all factors",
       "tradition",
+      "community",
+      "honesty"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "all factors",
       "honesty",
+      "tradition",
       "community"
     ],
     "answer": "all factors"
   },
   {
-    "question": "Abin da tsohon jaji ka nuna ne",
+    "question": "'Malam' means:",
     "options": [
-      "magani",
-      "sani",
-      "karatu",
-      "kudi"
+      "student",
+      "teacher",
+      "elder",
+      "scholar"
     ],
-    "answer": "sani"
+    "answer": "teacher"
   },
   {
-    "question": "Kalma ta 'teacher' a Hausa",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "karantewa",
-      "ilimi",
-      "kakaree",
-      "malam"
+      "road",
+      "school",
+      "house",
+      "market"
     ],
-    "answer": "malam"
+    "answer": "house"
   },
   {
-    "question": "Yadda ake nuna jiya",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "jiya",
-      "jiya a safiya",
-      "jiyar jiya",
-      "gida"
+      "house",
+      "market",
+      "school",
+      "road"
     ],
-    "answer": "jiya"
+    "answer": "house"
   },
   {
-    "question": "The Hausa language belongs to",
+    "question": "'Malam' means:",
     "options": [
-      "Nilo-Saharan",
-      "Niger-Congo",
-      "Afro-Asiatic",
-      "Khoisan"
+      "scholar",
+      "student",
+      "elder",
+      "teacher"
     ],
-    "answer": "Afro-Asiatic"
+    "answer": "teacher"
   },
   {
-    "question": "In Hausa, family is",
+    "question": "'Malam' means:",
     "options": [
-      "very important",
-      "unimportant",
-      "modern",
-      "secondary"
+      "student",
+      "scholar",
+      "elder",
+      "teacher"
     ],
-    "answer": "very important"
+    "answer": "teacher"
   },
   {
-    "question": "Hausa trade was historically",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "regional",
-      "maritime",
-      "trans-Saharan",
-      "local"
+      "market",
+      "road",
+      "house",
+      "school"
     ],
-    "answer": "trans-Saharan"
+    "answer": "house"
   },
   {
-    "question": "The plural form in Hausa",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "adds prefix",
-      "both methods",
+      "market",
+      "road",
+      "school",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "elder",
+      "student",
+      "scholar",
+      "teacher"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
       "no change",
-      "changes ending"
+      "changes ending",
+      "adds prefix",
+      "both methods"
     ],
     "answer": "both methods"
   },
   {
-    "question": "Hausa music traditionally uses",
-    "options": [
-      "all instruments",
-      "strings",
-      "drums",
-      "wind"
-    ],
-    "answer": "drums"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "jiya",
-      "miji",
-      "gida"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "tafi",
-      "nema",
-      "zuwa",
-      "je"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "gida",
-      "kasuwa",
-      "gari",
-      "rijiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "labari",
-      "hanya",
-      "sauni",
-      "magani"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
+    "question": "'Sannu' means:",
     "options": [
       "thank you",
       "hello",
@@ -1250,667 +230,207 @@
     "answer": "hello"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya",
+    "question": "'Ido' means:",
     "options": [
-      "jiya",
-      "gida",
-      "kudi",
-      "jiya"
+      "time",
+      "moment",
+      "day",
+      "period"
     ],
-    "answer": "kudi"
+    "answer": "day"
   },
   {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "question": "'Ido' means:",
     "options": [
-      "uwaye",
-      "babbar mache",
-      "mama",
-      "mata"
+      "moment",
+      "day",
+      "time",
+      "period"
     ],
-    "answer": "mama"
+    "answer": "day"
   },
   {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "question": "Hausa people from:",
     "options": [
-      "je",
-      "yi",
-      "yin",
-      "gida"
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria"
     ],
-    "answer": "yi"
+    "answer": "Northern Nigeria"
   },
   {
-    "question": "Hausa greetings are",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "modern",
-      "important",
-      "old",
-      "simple"
+      "market",
+      "school",
+      "road",
+      "house"
     ],
-    "answer": "important"
+    "answer": "house"
   },
   {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "question": "Hausa language family:",
     "options": [
-      "jiya",
-      "sannu",
-      "ba sannu",
-      "gida"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "bukatuwa",
-      "sha'awa",
-      "hadida",
-      "sani"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "community",
-      "tradition",
-      "honesty",
-      "all factors"
-    ],
-    "answer": "all factors"
-  },
-  {
-    "question": "Abin da tsohon jaji ka nuna ne",
-    "options": [
-      "kudi",
-      "magani",
-      "sani",
-      "karatu"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "kakaree",
-      "ilimi",
-      "karantewa",
-      "malam"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "jiya a safiya",
-      "gida",
-      "jiyar jiya",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
-      "Nilo-Saharan",
       "Niger-Congo",
-      "Afro-Asiatic",
-      "Khoisan"
+      "Khoisan",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
     ],
     "answer": "Afro-Asiatic"
   },
   {
-    "question": "In Hausa, family is",
+    "question": "'Sannu' means:",
     "options": [
-      "modern",
-      "unimportant",
-      "secondary",
-      "very important"
+      "thank you",
+      "hello",
+      "welcome",
+      "goodbye"
     ],
-    "answer": "very important"
+    "answer": "hello"
   },
   {
-    "question": "Hausa trade was historically",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "trans-Saharan",
-      "local",
-      "regional",
-      "maritime"
+      "house",
+      "road",
+      "market",
+      "school"
     ],
-    "answer": "trans-Saharan"
+    "answer": "house"
   },
   {
-    "question": "The plural form in Hausa",
+    "question": "Hausa language family:",
     "options": [
-      "adds prefix",
-      "changes ending",
-      "both methods",
-      "no change"
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
     ],
-    "answer": "both methods"
+    "answer": "Afro-Asiatic"
   },
   {
-    "question": "Hausa music traditionally uses",
+    "question": "'Malam' means:",
     "options": [
+      "student",
+      "teacher",
+      "scholar",
+      "elder"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "market",
+      "house",
+      "school",
+      "road"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "all instruments",
+      "strings",
       "drums",
+      "wind"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
       "strings",
       "wind",
+      "drums",
       "all instruments"
     ],
     "answer": "drums"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "Hausa culture values:",
     "options": [
-      "gida",
-      "bukatu",
-      "miji",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "tafi",
-      "je",
-      "nema",
-      "zuwa"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "kasuwa",
-      "gida",
-      "gari",
-      "rijiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "sauni",
-      "hanya",
-      "labari",
-      "magani"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "goodbye",
-      "hello",
-      "welcome",
-      "thank you"
-    ],
-    "answer": "hello"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya",
-    "options": [
-      "kudi",
-      "jiya",
-      "jiya",
-      "gida"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "gida",
-      "yi",
-      "yin",
-      "je"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "modern",
-      "important",
-      "old",
-      "simple"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "sannu",
-      "ba sannu",
-      "jiya",
-      "gida"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "sani",
-      "bukatuwa",
-      "sha'awa",
-      "hadida"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "tradition",
       "all factors",
       "community",
-      "honesty"
-    ],
-    "answer": "all factors"
-  },
-  {
-    "question": "Abin da tsohon jaji ka nuna ne",
-    "options": [
-      "sani",
-      "kudi",
-      "karatu",
-      "magani"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "karantewa",
-      "malam",
-      "ilimi",
-      "kakaree"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "gida",
-      "jiya a safiya",
-      "jiyar jiya",
-      "jiya"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Khoisan",
-      "Nilo-Saharan"
-    ],
-    "answer": "Afro-Asiatic"
-  },
-  {
-    "question": "In Hausa, family is",
-    "options": [
-      "unimportant",
-      "very important",
-      "secondary",
-      "modern"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
-    "options": [
-      "local",
-      "trans-Saharan",
-      "regional",
-      "maritime"
-    ],
-    "answer": "trans-Saharan"
-  },
-  {
-    "question": "The plural form in Hausa",
-    "options": [
-      "no change",
-      "adds prefix",
-      "changes ending",
-      "both methods"
-    ],
-    "answer": "both methods"
-  },
-  {
-    "question": "Hausa music traditionally uses",
-    "options": [
-      "drums",
-      "all instruments",
-      "wind",
-      "strings"
-    ],
-    "answer": "drums"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "gida",
-      "bukatu",
-      "jiya",
-      "miji"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "tafi",
-      "je",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "kasuwa",
-      "rijiya",
-      "gari",
-      "gida"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "sauni",
-      "labari",
-      "magani",
-      "hanya"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "goodbye",
-      "thank you",
-      "hello",
-      "welcome"
-    ],
-    "answer": "hello"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya",
-    "options": [
-      "gida",
-      "kudi",
-      "jiya",
-      "jiya"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "babbar mache",
-      "mata",
-      "mama",
-      "uwaye"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "yi",
-      "yin",
-      "je",
-      "gida"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "important",
-      "simple",
-      "modern",
-      "old"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "sannu",
-      "jiya",
-      "gida",
-      "ba sannu"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "sani",
-      "sha'awa",
-      "bukatuwa",
-      "hadida"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "community",
-      "all factors",
       "honesty",
       "tradition"
     ],
     "answer": "all factors"
   },
   {
-    "question": "Abin da tsohon jaji ka nuna ne",
+    "question": "Plural in Hausa:",
     "options": [
-      "kudi",
-      "magani",
-      "sani",
-      "karatu"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "karantewa",
-      "ilimi",
-      "malam",
-      "kakaree"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "jiya a safiya",
-      "jiyar jiya",
-      "jiya",
-      "gida"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
-      "Khoisan",
-      "Niger-Congo",
-      "Afro-Asiatic",
-      "Nilo-Saharan"
-    ],
-    "answer": "Afro-Asiatic"
-  },
-  {
-    "question": "In Hausa, family is",
-    "options": [
-      "secondary",
-      "unimportant",
-      "very important",
-      "modern"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
-    "options": [
-      "local",
-      "regional",
-      "trans-Saharan",
-      "maritime"
-    ],
-    "answer": "trans-Saharan"
-  },
-  {
-    "question": "The plural form in Hausa",
-    "options": [
-      "adds prefix",
+      "changes ending",
       "both methods",
-      "no change",
-      "changes ending"
+      "adds prefix",
+      "no change"
     ],
     "answer": "both methods"
   },
   {
-    "question": "Hausa music traditionally uses",
+    "question": "'Malam' means:",
     "options": [
-      "wind",
-      "drums",
-      "strings",
-      "all instruments"
+      "teacher",
+      "scholar",
+      "elder",
+      "student"
     ],
-    "answer": "drums"
+    "answer": "teacher"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "'Malam' means:",
     "options": [
-      "gida",
-      "miji",
-      "jiya",
-      "bukatu"
+      "student",
+      "scholar",
+      "teacher",
+      "elder"
     ],
-    "answer": "gida"
+    "answer": "teacher"
   },
   {
-    "question": "Daidaita kalma: 'Na ___ garin'",
+    "question": "Hausa people from:",
     "options": [
-      "tafi",
-      "nema",
-      "zuwa",
-      "je"
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria"
     ],
-    "answer": "je"
+    "answer": "Northern Nigeria"
   },
   {
-    "question": "The Hausa word for 'house' is",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "gida",
-      "gari",
-      "kasuwa",
-      "rijiya"
+      "market",
+      "school",
+      "road",
+      "house"
     ],
-    "answer": "gida"
+    "answer": "house"
   },
   {
-    "question": "Abin da ake sani a asali ne",
+    "question": "Hausa culture values:",
     "options": [
-      "magani",
-      "sauni",
-      "hanya",
-      "labari"
+      "all factors",
+      "tradition",
+      "community",
+      "honesty"
     ],
-    "answer": "labari"
+    "answer": "all factors"
   },
   {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "goodbye",
-      "thank you",
-      "hello",
-      "welcome"
-    ],
-    "answer": "hello"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya",
-    "options": [
-      "kudi",
-      "jiya",
-      "gida",
-      "jiya"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "uwaye",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "yi",
-      "gida",
-      "je",
-      "yin"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "old",
-      "important",
-      "simple",
-      "modern"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "gida",
-      "ba sannu",
-      "jiya",
-      "sannu"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "hadida",
-      "sha'awa",
-      "bukatuwa",
-      "sani"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
+    "question": "Hausa culture values:",
     "options": [
       "community",
       "tradition",
@@ -1920,67 +440,197 @@
     "answer": "all factors"
   },
   {
-    "question": "Abin da tsohon jaji ka nuna ne",
+    "question": "'Malam' means:",
     "options": [
-      "magani",
-      "kudi",
-      "karatu",
-      "sani"
+      "student",
+      "teacher",
+      "elder",
+      "scholar"
     ],
-    "answer": "sani"
+    "answer": "teacher"
   },
   {
-    "question": "Kalma ta 'teacher' a Hausa",
+    "question": "Hausa trade was:",
     "options": [
-      "karantewa",
-      "malam",
-      "ilimi",
-      "kakaree"
+      "maritime",
+      "trans-Saharan",
+      "regional",
+      "local"
     ],
-    "answer": "malam"
+    "answer": "trans-Saharan"
   },
   {
-    "question": "Yadda ake nuna jiya",
+    "question": "'Malam' means:",
     "options": [
-      "jiyar jiya",
-      "jiya",
-      "gida",
-      "jiya a safiya"
+      "teacher",
+      "student",
+      "scholar",
+      "elder"
     ],
-    "answer": "jiya"
+    "answer": "teacher"
   },
   {
-    "question": "The Hausa language belongs to",
+    "question": "Hausa trade was:",
     "options": [
+      "regional",
+      "local",
+      "trans-Saharan",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "welcome",
+      "thank you",
+      "goodbye",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Afro-Asiatic",
+      "Nilo-Saharan",
       "Khoisan",
+      "Niger-Congo"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "regional",
+      "local",
+      "trans-Saharan",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
       "Niger-Congo",
+      "Khoisan",
       "Afro-Asiatic",
       "Nilo-Saharan"
     ],
     "answer": "Afro-Asiatic"
   },
   {
-    "question": "In Hausa, family is",
-    "options": [
-      "modern",
-      "very important",
-      "unimportant",
-      "secondary"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
+    "question": "Hausa trade was:",
     "options": [
       "trans-Saharan",
       "regional",
-      "local",
-      "maritime"
+      "maritime",
+      "local"
     ],
     "answer": "trans-Saharan"
   },
   {
-    "question": "The plural form in Hausa",
+    "question": "'Ido' means:",
+    "options": [
+      "period",
+      "time",
+      "day",
+      "moment"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "wind",
+      "drums",
+      "strings",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "welcome",
+      "thank you",
+      "hello",
+      "goodbye"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan",
+      "Niger-Congo"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "regional",
+      "maritime",
+      "trans-Saharan",
+      "local"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "both methods",
+      "changes ending",
+      "adds prefix",
+      "no change"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "student",
+      "teacher",
+      "elder",
+      "scholar"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "regional",
+      "maritime",
+      "local",
+      "trans-Saharan"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Plural in Hausa:",
     "options": [
       "changes ending",
       "adds prefix",
@@ -1990,167 +640,77 @@
     "answer": "both methods"
   },
   {
-    "question": "Hausa music traditionally uses",
+    "question": "Hausa music uses:",
     "options": [
+      "drums",
       "all instruments",
       "strings",
-      "drums",
       "wind"
     ],
     "answer": "drums"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "Hausa music uses:",
     "options": [
-      "bukatu",
-      "miji",
-      "gida",
-      "jiya"
+      "wind",
+      "drums",
+      "all instruments",
+      "strings"
     ],
-    "answer": "gida"
+    "answer": "drums"
   },
   {
-    "question": "Daidaita kalma: 'Na ___ garin'",
+    "question": "Hausa people from:",
     "options": [
-      "je",
-      "tafi",
-      "nema",
-      "zuwa"
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria"
     ],
-    "answer": "je"
+    "answer": "Northern Nigeria"
   },
   {
-    "question": "The Hausa word for 'house' is",
+    "question": "Hausa people from:",
     "options": [
-      "kasuwa",
-      "gari",
-      "rijiya",
-      "gida"
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Eastern Nigeria"
     ],
-    "answer": "gida"
+    "answer": "Northern Nigeria"
   },
   {
-    "question": "Abin da ake sani a asali ne",
+    "question": "'Sannu' means:",
     "options": [
-      "hanya",
-      "magani",
-      "sauni",
-      "labari"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "thank you",
+      "hello",
       "welcome",
       "goodbye",
-      "hello"
+      "thank you"
     ],
     "answer": "hello"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya",
+    "question": "'Ido' means:",
     "options": [
-      "kudi",
-      "gida",
-      "jiya",
-      "jiya"
+      "time",
+      "day",
+      "moment",
+      "period"
     ],
-    "answer": "kudi"
+    "answer": "day"
   },
   {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "question": "'Ido' means:",
     "options": [
-      "babbar mache",
-      "mata",
-      "uwaye",
-      "mama"
+      "moment",
+      "day",
+      "time",
+      "period"
     ],
-    "answer": "mama"
+    "answer": "day"
   },
   {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "yi",
-      "gida",
-      "yin",
-      "je"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "modern",
-      "old",
-      "simple",
-      "important"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "ba sannu",
-      "gida",
-      "jiya",
-      "sannu"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "bukatuwa",
-      "sani",
-      "sha'awa",
-      "hadida"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "tradition",
-      "honesty",
-      "community",
-      "all factors"
-    ],
-    "answer": "all factors"
-  },
-  {
-    "question": "Abin da tsohon jaji ka nuna ne",
-    "options": [
-      "magani",
-      "sani",
-      "kudi",
-      "karatu"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "kakaree",
-      "karantewa",
-      "malam",
-      "ilimi"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "jiya",
-      "jiya a safiya",
-      "jiyar jiya",
-      "gida"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
+    "question": "Hausa language family:",
     "options": [
       "Khoisan",
       "Niger-Congo",
@@ -2160,227 +720,447 @@
     "answer": "Afro-Asiatic"
   },
   {
-    "question": "In Hausa, family is",
+    "question": "Hausa language family:",
     "options": [
-      "modern",
-      "unimportant",
-      "very important",
-      "secondary"
+      "Khoisan",
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
     ],
-    "answer": "very important"
+    "answer": "Afro-Asiatic"
   },
   {
-    "question": "Hausa trade was historically",
+    "question": "Hausa music uses:",
     "options": [
-      "regional",
-      "trans-Saharan",
-      "maritime",
-      "local"
-    ],
-    "answer": "trans-Saharan"
-  },
-  {
-    "question": "The plural form in Hausa",
-    "options": [
-      "no change",
-      "both methods",
-      "changes ending",
-      "adds prefix"
-    ],
-    "answer": "both methods"
-  },
-  {
-    "question": "Hausa music traditionally uses",
-    "options": [
-      "wind",
-      "all instruments",
       "drums",
-      "strings"
+      "all instruments",
+      "strings",
+      "wind"
     ],
     "answer": "drums"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "bukatu",
-      "gida",
-      "jiya",
-      "miji"
+      "house",
+      "market",
+      "school",
+      "road"
     ],
-    "answer": "gida"
+    "answer": "house"
   },
   {
-    "question": "Daidaita kalma: 'Na ___ garin'",
+    "question": "Hausa trade was:",
     "options": [
-      "je",
-      "nema",
-      "zuwa",
-      "tafi"
+      "regional",
+      "trans-Saharan",
+      "local",
+      "maritime"
     ],
-    "answer": "je"
+    "answer": "trans-Saharan"
   },
   {
-    "question": "The Hausa word for 'house' is",
+    "question": "'Ido' means:",
     "options": [
-      "kasuwa",
-      "rijiya",
-      "gida",
-      "gari"
+      "moment",
+      "period",
+      "time",
+      "day"
     ],
-    "answer": "gida"
+    "answer": "day"
   },
   {
-    "question": "Abin da ake sani a asali ne",
+    "question": "Plural in Hausa:",
     "options": [
-      "labari",
-      "magani",
-      "hanya",
-      "sauni"
+      "both methods",
+      "changes ending",
+      "adds prefix",
+      "no change"
     ],
-    "answer": "labari"
+    "answer": "both methods"
   },
   {
-    "question": "In Hausa, 'Sannu' means",
+    "question": "Plural in Hausa:",
     "options": [
-      "goodbye",
-      "hello",
-      "welcome",
-      "thank you"
+      "changes ending",
+      "no change",
+      "adds prefix",
+      "both methods"
     ],
-    "answer": "hello"
+    "answer": "both methods"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya",
+    "question": "Hausa trade was:",
     "options": [
-      "gida",
-      "jiya",
-      "kudi",
-      "jiya"
+      "trans-Saharan",
+      "local",
+      "maritime",
+      "regional"
     ],
-    "answer": "kudi"
+    "answer": "trans-Saharan"
   },
   {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "question": "'Ido' means:",
     "options": [
-      "babbar mache",
-      "mama",
-      "uwaye",
-      "mata"
+      "period",
+      "day",
+      "time",
+      "moment"
     ],
-    "answer": "mama"
+    "answer": "day"
   },
   {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
+    "question": "'Malam' means:",
     "options": [
-      "yin",
-      "je",
-      "gida",
-      "yi"
+      "elder",
+      "scholar",
+      "teacher",
+      "student"
     ],
-    "answer": "yi"
+    "answer": "teacher"
   },
   {
-    "question": "Hausa greetings are",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "old",
-      "important",
-      "simple",
-      "modern"
+      "road",
+      "school",
+      "house",
+      "market"
     ],
-    "answer": "important"
+    "answer": "house"
   },
   {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "ba sannu",
-      "sannu",
-      "jiya",
-      "gida"
+      "house",
+      "road",
+      "market",
+      "school"
     ],
-    "answer": "sannu"
+    "answer": "house"
   },
   {
-    "question": "Hausa kalmar sha'awa ta nuna",
+    "question": "Hausa culture values:",
     "options": [
-      "hadida",
-      "sha'awa",
-      "bukatuwa",
-      "sani"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
+      "all factors",
       "tradition",
       "community",
-      "all factors",
       "honesty"
     ],
     "answer": "all factors"
   },
   {
-    "question": "Abin da tsohon jaji ka nuna ne",
+    "question": "Plural in Hausa:",
     "options": [
-      "sani",
-      "kudi",
-      "magani",
-      "karatu"
+      "changes ending",
+      "both methods",
+      "no change",
+      "adds prefix"
     ],
-    "answer": "sani"
+    "answer": "both methods"
   },
   {
-    "question": "Kalma ta 'teacher' a Hausa",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "kakaree",
-      "karantewa",
-      "malam",
-      "ilimi"
+      "market",
+      "house",
+      "school",
+      "road"
     ],
-    "answer": "malam"
+    "answer": "house"
   },
   {
-    "question": "Yadda ake nuna jiya",
+    "question": "Hausa music uses:",
     "options": [
-      "gida",
-      "jiya",
-      "jiya a safiya",
-      "jiyar jiya"
+      "drums",
+      "strings",
+      "wind",
+      "all instruments"
     ],
-    "answer": "jiya"
+    "answer": "drums"
   },
   {
-    "question": "The Hausa language belongs to",
+    "question": "Hausa music uses:",
     "options": [
-      "Nilo-Saharan",
-      "Afro-Asiatic",
+      "all instruments",
+      "strings",
+      "drums",
+      "wind"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
       "Khoisan",
+      "Afro-Asiatic",
+      "Nilo-Saharan",
       "Niger-Congo"
     ],
     "answer": "Afro-Asiatic"
   },
   {
-    "question": "In Hausa, family is",
+    "question": "'Sannu' means:",
     "options": [
-      "very important",
-      "modern",
-      "unimportant",
-      "secondary"
+      "thank you",
+      "goodbye",
+      "welcome",
+      "hello"
     ],
-    "answer": "very important"
+    "answer": "hello"
   },
   {
-    "question": "Hausa trade was historically",
+    "question": "'Malam' means:",
     "options": [
-      "maritime",
+      "scholar",
+      "elder",
+      "teacher",
+      "student"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Khoisan",
+      "Afro-Asiatic",
+      "Niger-Congo"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "goodbye",
+      "thank you",
+      "hello",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
       "local",
-      "regional",
-      "trans-Saharan"
+      "trans-Saharan",
+      "maritime",
+      "regional"
     ],
     "answer": "trans-Saharan"
   },
   {
-    "question": "The plural form in Hausa",
+    "question": "Hausa music uses:",
+    "options": [
+      "drums",
+      "all instruments",
+      "wind",
+      "strings"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Khoisan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "maritime",
+      "regional",
+      "trans-Saharan",
+      "local"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "time",
+      "day",
+      "period",
+      "moment"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "all factors",
+      "honesty",
+      "community",
+      "tradition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "local",
+      "maritime",
+      "trans-Saharan",
+      "regional"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Khoisan",
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "local",
+      "regional",
+      "trans-Saharan",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "trans-Saharan",
+      "maritime",
+      "local",
+      "regional"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "drums",
+      "wind",
+      "all instruments",
+      "strings"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "period",
+      "moment",
+      "time",
+      "day"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "road",
+      "house",
+      "school",
+      "market"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Khoisan",
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Afro-Asiatic"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "strings",
+      "drums",
+      "wind",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "welcome",
+      "goodbye",
+      "thank you",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Afro-Asiatic",
+      "Khoisan",
+      "Niger-Congo",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "trans-Saharan",
+      "maritime",
+      "local",
+      "regional"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "both methods",
+      "changes ending",
+      "adds prefix",
+      "no change"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Plural in Hausa:",
     "options": [
       "adds prefix",
       "changes ending",
@@ -2390,57 +1170,97 @@
     "answer": "both methods"
   },
   {
-    "question": "Hausa music traditionally uses",
+    "question": "Hausa trade was:",
+    "options": [
+      "trans-Saharan",
+      "maritime",
+      "regional",
+      "local"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "welcome",
+      "goodbye",
+      "hello",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Western Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "road",
+      "house",
+      "school",
+      "market"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa music uses:",
     "options": [
       "wind",
-      "drums",
+      "all instruments",
       "strings",
-      "all instruments"
+      "drums"
     ],
     "answer": "drums"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
+    "question": "Hausa culture values:",
     "options": [
-      "miji",
-      "jiya",
-      "bukatu",
-      "gida"
+      "tradition",
+      "honesty",
+      "community",
+      "all factors"
     ],
-    "answer": "gida"
+    "answer": "all factors"
   },
   {
-    "question": "Daidaita kalma: 'Na ___ garin'",
+    "question": "Plural in Hausa:",
     "options": [
-      "nema",
-      "zuwa",
-      "tafi",
-      "je"
+      "no change",
+      "changes ending",
+      "both methods",
+      "adds prefix"
     ],
-    "answer": "je"
+    "answer": "both methods"
   },
   {
-    "question": "The Hausa word for 'house' is",
+    "question": "Hausa language family:",
     "options": [
-      "rijiya",
-      "gari",
-      "kasuwa",
-      "gida"
+      "Khoisan",
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
     ],
-    "answer": "gida"
+    "answer": "Afro-Asiatic"
   },
   {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "magani",
-      "hanya",
-      "labari",
-      "sauni"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
+    "question": "'Sannu' means:",
     "options": [
       "goodbye",
       "hello",
@@ -2450,147 +1270,197 @@
     "answer": "hello"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya",
+    "question": "'Sannu' means:",
     "options": [
-      "gida",
-      "jiya",
-      "jiya",
-      "kudi"
+      "hello",
+      "goodbye",
+      "welcome",
+      "thank you"
     ],
-    "answer": "kudi"
+    "answer": "hello"
   },
   {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
+    "question": "Hausa trade was:",
     "options": [
-      "mama",
-      "mata",
-      "babbar mache",
-      "uwaye"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "yin",
-      "je",
-      "gida",
-      "yi"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "old",
-      "simple",
-      "modern",
-      "important"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "gida",
-      "ba sannu",
-      "jiya",
-      "sannu"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "bukatuwa",
-      "hadida",
-      "sani",
-      "sha'awa"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
-    "options": [
-      "tradition",
-      "all factors",
-      "honesty",
-      "community"
-    ],
-    "answer": "all factors"
-  },
-  {
-    "question": "Abin da tsohon jaji ka nuna ne",
-    "options": [
-      "kudi",
-      "magani",
-      "sani",
-      "karatu"
-    ],
-    "answer": "sani"
-  },
-  {
-    "question": "Kalma ta 'teacher' a Hausa",
-    "options": [
-      "malam",
-      "kakaree",
-      "ilimi",
-      "karantewa"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "jiya",
-      "jiyar jiya",
-      "jiya a safiya",
-      "gida"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
-      "Afro-Asiatic",
-      "Khoisan",
-      "Nilo-Saharan",
-      "Niger-Congo"
-    ],
-    "answer": "Afro-Asiatic"
-  },
-  {
-    "question": "In Hausa, family is",
-    "options": [
-      "very important",
-      "secondary",
-      "modern",
-      "unimportant"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
-    "options": [
+      "regional",
       "local",
       "maritime",
-      "regional",
       "trans-Saharan"
     ],
     "answer": "trans-Saharan"
   },
   {
-    "question": "The plural form in Hausa",
+    "question": "'Ido' means:",
     "options": [
-      "no change",
-      "both methods",
-      "changes ending",
-      "adds prefix"
+      "moment",
+      "time",
+      "day",
+      "period"
     ],
-    "answer": "both methods"
+    "answer": "day"
   },
   {
-    "question": "Hausa music traditionally uses",
+    "question": "'Malam' means:",
+    "options": [
+      "student",
+      "elder",
+      "scholar",
+      "teacher"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "student",
+      "teacher",
+      "elder",
+      "scholar"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "welcome",
+      "hello",
+      "thank you",
+      "goodbye"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "elder",
+      "scholar",
+      "student",
+      "teacher"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan",
+      "Niger-Congo"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "all factors",
+      "honesty",
+      "tradition",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "goodbye",
+      "thank you",
+      "hello",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "house",
+      "road",
+      "market",
+      "school"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "trans-Saharan",
+      "maritime",
+      "local",
+      "regional"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "moment",
+      "day",
+      "period",
+      "time"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "welcome",
+      "goodbye",
+      "hello",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "honesty",
+      "tradition",
+      "all factors",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "local",
+      "regional",
+      "trans-Saharan",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "trans-Saharan",
+      "local",
+      "maritime",
+      "regional"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "goodbye",
+      "hello",
+      "thank you",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "time",
+      "moment",
+      "day",
+      "period"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa music uses:",
     "options": [
       "wind",
       "all instruments",
@@ -2600,317 +1470,47 @@
     "answer": "drums"
   },
   {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "bukatu",
-      "miji",
-      "jiya",
-      "gida"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "tafi",
-      "je",
-      "nema",
-      "zuwa"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "kasuwa",
-      "rijiya",
-      "gari",
-      "gida"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "hanya",
-      "labari",
-      "magani",
-      "sauni"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "thank you",
-      "welcome",
-      "goodbye",
-      "hello"
-    ],
-    "answer": "hello"
-  },
-  {
-    "question": "Suna da mutane biyu: Sani da Saniya",
-    "options": [
-      "gida",
-      "kudi",
-      "jiya",
-      "jiya"
-    ],
-    "answer": "kudi"
-  },
-  {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "uwaye",
-      "mama",
-      "babbar mache",
-      "mata"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "gida",
-      "yin",
-      "yi",
-      "je"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "old",
-      "simple",
-      "modern",
-      "important"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "ba sannu",
-      "sannu",
-      "gida",
-      "jiya"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "sha'awa",
-      "sani",
-      "hadida",
-      "bukatuwa"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
+    "question": "Hausa culture values:",
     "options": [
       "honesty",
-      "tradition",
       "all factors",
-      "community"
+      "community",
+      "tradition"
     ],
     "answer": "all factors"
   },
   {
-    "question": "Abin da tsohon jaji ka nuna ne",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "magani",
-      "sani",
-      "karatu",
-      "kudi"
+      "market",
+      "house",
+      "school",
+      "road"
     ],
-    "answer": "sani"
+    "answer": "house"
   },
   {
-    "question": "Kalma ta 'teacher' a Hausa",
+    "question": "'Sannu' means:",
     "options": [
-      "kakaree",
-      "malam",
-      "karantewa",
-      "ilimi"
-    ],
-    "answer": "malam"
-  },
-  {
-    "question": "Yadda ake nuna jiya",
-    "options": [
-      "jiyar jiya",
-      "jiya",
-      "jiya a safiya",
-      "gida"
-    ],
-    "answer": "jiya"
-  },
-  {
-    "question": "The Hausa language belongs to",
-    "options": [
-      "Niger-Congo",
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Khoisan"
-    ],
-    "answer": "Afro-Asiatic"
-  },
-  {
-    "question": "In Hausa, family is",
-    "options": [
-      "modern",
-      "secondary",
-      "unimportant",
-      "very important"
-    ],
-    "answer": "very important"
-  },
-  {
-    "question": "Hausa trade was historically",
-    "options": [
-      "local",
-      "trans-Saharan",
-      "maritime",
-      "regional"
-    ],
-    "answer": "trans-Saharan"
-  },
-  {
-    "question": "The plural form in Hausa",
-    "options": [
-      "both methods",
-      "changes ending",
-      "no change",
-      "adds prefix"
-    ],
-    "answer": "both methods"
-  },
-  {
-    "question": "Hausa music traditionally uses",
-    "options": [
-      "strings",
-      "wind",
-      "all instruments",
-      "drums"
-    ],
-    "answer": "drums"
-  },
-  {
-    "question": "Maita ta gida ta nuna wa, itan nawa?",
-    "options": [
-      "miji",
-      "gida",
-      "bukatu",
-      "jiya"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Daidaita kalma: 'Na ___ garin'",
-    "options": [
-      "tafi",
-      "je",
-      "zuwa",
-      "nema"
-    ],
-    "answer": "je"
-  },
-  {
-    "question": "The Hausa word for 'house' is",
-    "options": [
-      "gari",
-      "rijiya",
-      "kasuwa",
-      "gida"
-    ],
-    "answer": "gida"
-  },
-  {
-    "question": "Abin da ake sani a asali ne",
-    "options": [
-      "sauni",
-      "labari",
-      "hanya",
-      "magani"
-    ],
-    "answer": "labari"
-  },
-  {
-    "question": "In Hausa, 'Sannu' means",
-    "options": [
-      "welcome",
-      "goodbye",
       "thank you",
-      "hello"
+      "hello",
+      "welcome",
+      "goodbye"
     ],
     "answer": "hello"
   },
   {
-    "question": "Suna da mutane biyu: Sani da Saniya",
+    "question": "Hausa music uses:",
     "options": [
-      "jiya",
-      "jiya",
-      "kudi",
-      "gida"
+      "strings",
+      "wind",
+      "drums",
+      "all instruments"
     ],
-    "answer": "kudi"
+    "answer": "drums"
   },
   {
-    "question": "Yadda ake cewa 'mother' a Hausa?",
-    "options": [
-      "mama",
-      "babbar mache",
-      "mata",
-      "uwaye"
-    ],
-    "answer": "mama"
-  },
-  {
-    "question": "Daidaita: 'Jiya ne ___ aiki'",
-    "options": [
-      "yi",
-      "gida",
-      "yin",
-      "je"
-    ],
-    "answer": "yi"
-  },
-  {
-    "question": "Hausa greetings are",
-    "options": [
-      "old",
-      "simple",
-      "modern",
-      "important"
-    ],
-    "answer": "important"
-  },
-  {
-    "question": "Musanya: 'Ina kwana?' Ce de aka nemi",
-    "options": [
-      "gida",
-      "jiya",
-      "sannu",
-      "ba sannu"
-    ],
-    "answer": "sannu"
-  },
-  {
-    "question": "Hausa kalmar sha'awa ta nuna",
-    "options": [
-      "sha'awa",
-      "bukatuwa",
-      "hadida",
-      "sani"
-    ],
-    "answer": "bukatuwa"
-  },
-  {
-    "question": "Hausa culture values",
+    "question": "Hausa culture values:",
     "options": [
       "community",
       "tradition",
@@ -2920,67 +1520,697 @@
     "answer": "all factors"
   },
   {
-    "question": "Abin da tsohon jaji ka nuna ne",
+    "question": "Hausa music uses:",
     "options": [
-      "magani",
-      "kudi",
-      "sani",
-      "karatu"
+      "all instruments",
+      "wind",
+      "drums",
+      "strings"
     ],
-    "answer": "sani"
+    "answer": "drums"
   },
   {
-    "question": "Kalma ta 'teacher' a Hausa",
+    "question": "'Sannu' means:",
     "options": [
-      "malam",
-      "kakaree",
-      "ilimi",
-      "karantewa"
+      "hello",
+      "goodbye",
+      "welcome",
+      "thank you"
     ],
-    "answer": "malam"
+    "answer": "hello"
   },
   {
-    "question": "Yadda ake nuna jiya",
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
     "options": [
-      "jiyar jiya",
-      "jiya a safiya",
-      "jiya",
-      "gida"
+      "market",
+      "house",
+      "school",
+      "road"
     ],
-    "answer": "jiya"
+    "answer": "house"
   },
   {
-    "question": "The Hausa language belongs to",
+    "question": "Hausa trade was:",
+    "options": [
+      "trans-Saharan",
+      "local",
+      "regional",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "all factors",
+      "honesty",
+      "tradition",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "all instruments",
+      "wind",
+      "strings",
+      "drums"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "community",
+      "tradition",
+      "all factors",
+      "honesty"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "tradition",
+      "all factors",
+      "honesty",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "time",
+      "moment",
+      "period",
+      "day"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "school",
+      "house",
+      "market",
+      "road"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa language family:",
     "options": [
       "Khoisan",
-      "Afro-Asiatic",
       "Nilo-Saharan",
+      "Afro-Asiatic",
       "Niger-Congo"
     ],
     "answer": "Afro-Asiatic"
   },
   {
-    "question": "In Hausa, family is",
+    "question": "Hausa language family:",
     "options": [
-      "modern",
-      "very important",
-      "secondary",
-      "unimportant"
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan",
+      "Niger-Congo"
     ],
-    "answer": "very important"
+    "answer": "Afro-Asiatic"
   },
   {
-    "question": "Hausa trade was historically",
+    "question": "'Ido' means:",
     "options": [
+      "moment",
+      "time",
+      "day",
+      "period"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "scholar",
+      "elder",
+      "teacher",
+      "student"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "adds prefix",
+      "no change",
+      "both methods",
+      "changes ending"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "time",
+      "day",
+      "period",
+      "moment"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "tradition",
+      "all factors",
+      "honesty",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "tradition",
+      "all factors",
+      "honesty",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "drums",
+      "all instruments",
+      "strings",
+      "wind"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "student",
+      "teacher",
+      "elder",
+      "scholar"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Khoisan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "teacher",
+      "elder",
+      "scholar",
+      "student"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "house",
+      "road",
+      "school",
+      "market"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "local",
+      "regional",
       "trans-Saharan",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "regional",
       "maritime",
       "local",
+      "trans-Saharan"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "welcome",
+      "goodbye",
+      "thank you",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "market",
+      "road",
+      "school",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "no change",
+      "both methods",
+      "changes ending",
+      "adds prefix"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "trans-Saharan",
+      "local",
+      "maritime",
       "regional"
     ],
     "answer": "trans-Saharan"
   },
   {
-    "question": "The plural form in Hausa",
+    "question": "'Sannu' means:",
+    "options": [
+      "thank you",
+      "hello",
+      "goodbye",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "both methods",
+      "adds prefix",
+      "no change",
+      "changes ending"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "all factors",
+      "tradition",
+      "honesty",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "both methods",
+      "changes ending",
+      "adds prefix",
+      "no change"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "honesty",
+      "tradition",
+      "all factors",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "wind",
+      "strings",
+      "drums",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "market",
+      "road",
+      "house",
+      "school"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "welcome",
+      "hello",
+      "goodbye",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "both methods",
+      "no change",
+      "adds prefix",
+      "changes ending"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Niger-Congo",
+      "Khoisan",
+      "Afro-Asiatic",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "student",
+      "elder",
+      "scholar",
+      "teacher"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "trans-Saharan",
+      "regional",
+      "local",
+      "maritime"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "time",
+      "day",
+      "moment",
+      "period"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Khoisan",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "goodbye",
+      "hello",
+      "welcome",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "honesty",
+      "tradition",
+      "community",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "honesty",
+      "tradition",
+      "community",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "wind",
+      "strings",
+      "all instruments",
+      "drums"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "moment",
+      "day",
+      "time",
+      "period"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "scholar",
+      "student",
+      "elder",
+      "teacher"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "road",
+      "school",
+      "house",
+      "market"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "time",
+      "moment",
+      "day",
+      "period"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Khoisan",
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "teacher",
+      "student",
+      "scholar",
+      "elder"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "welcome",
+      "thank you",
+      "goodbye",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "road",
+      "house",
+      "school",
+      "market"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "local",
+      "trans-Saharan",
+      "maritime",
+      "regional"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "local",
+      "regional",
+      "maritime",
+      "trans-Saharan"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "both methods",
+      "adds prefix",
+      "no change",
+      "changes ending"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "wind",
+      "all instruments",
+      "drums",
+      "strings"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "school",
+      "road",
+      "market",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Plural in Hausa:",
     "options": [
       "adds prefix",
       "both methods",
@@ -2990,13 +2220,783 @@
     "answer": "both methods"
   },
   {
-    "question": "Hausa music traditionally uses",
+    "question": "'Ido' means:",
+    "options": [
+      "moment",
+      "time",
+      "day",
+      "period"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "market",
+      "road",
+      "school",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "time",
+      "period",
+      "day",
+      "moment"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa music uses:",
     "options": [
       "drums",
+      "strings",
       "all instruments",
+      "wind"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "tradition",
+      "community",
+      "all factors",
+      "honesty"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Khoisan",
+      "Afro-Asiatic",
+      "Niger-Congo"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "changes ending",
+      "adds prefix",
+      "no change",
+      "both methods"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "strings",
+      "all instruments",
+      "wind",
+      "drums"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "time",
+      "period",
+      "day",
+      "moment"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "tradition",
+      "all factors",
+      "honesty",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "road",
+      "house",
+      "school",
+      "market"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Khoisan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "teacher",
+      "scholar",
+      "student",
+      "elder"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Khoisan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "period",
+      "day",
+      "time",
+      "moment"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "goodbye",
+      "hello",
+      "welcome",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "moment",
+      "time",
+      "period",
+      "day"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "both methods",
+      "changes ending",
+      "adds prefix",
+      "no change"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "time",
+      "day",
+      "period",
+      "moment"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "thank you",
+      "hello",
+      "goodbye",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "honesty",
+      "all factors",
+      "tradition",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "wind",
+      "all instruments",
+      "drums",
+      "strings"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "community",
+      "honesty",
+      "all factors",
+      "tradition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "elder",
+      "teacher",
+      "student",
+      "scholar"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "honesty",
+      "all factors",
+      "community",
+      "tradition"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "changes ending",
+      "no change",
+      "both methods",
+      "adds prefix"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "house",
+      "market",
+      "school",
+      "road"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "tradition",
+      "honesty",
+      "all factors",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "day",
+      "moment",
+      "time",
+      "period"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "teacher",
+      "elder",
+      "student",
+      "scholar"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "student",
+      "teacher",
+      "elder",
+      "scholar"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "no change",
+      "adds prefix",
+      "both methods",
+      "changes ending"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "thank you",
+      "hello",
+      "welcome",
+      "goodbye"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "day",
+      "period",
+      "moment",
+      "time"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "wind",
+      "drums",
+      "all instruments",
+      "strings"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "local",
+      "regional",
+      "maritime",
+      "trans-Saharan"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "teacher",
+      "elder",
+      "student",
+      "scholar"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "market",
+      "school",
+      "house",
+      "road"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "moment",
+      "day",
+      "period",
+      "time"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "all instruments",
+      "drums",
       "strings",
       "wind"
     ],
     "answer": "drums"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "thank you",
+      "hello",
+      "welcome",
+      "goodbye"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Khoisan",
+      "Nilo-Saharan"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "all factors",
+      "honesty",
+      "tradition",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "period",
+      "day",
+      "time",
+      "moment"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "teacher",
+      "student",
+      "elder",
+      "scholar"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "'Sannu' means:",
+    "options": [
+      "goodbye",
+      "welcome",
+      "hello",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "no change",
+      "both methods",
+      "adds prefix",
+      "changes ending"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "strings",
+      "drums",
+      "wind",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "day",
+      "moment",
+      "time",
+      "period"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "changes ending",
+      "both methods",
+      "no change",
+      "adds prefix"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "no change",
+      "adds prefix",
+      "changes ending",
+      "both methods"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa language family:",
+    "options": [
+      "Khoisan",
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Afro-Asiatic"
+    ],
+    "answer": "Afro-Asiatic"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "changes ending",
+      "no change",
+      "adds prefix",
+      "both methods"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "market",
+      "school",
+      "road",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Hausa culture values:",
+    "options": [
+      "tradition",
+      "all factors",
+      "honesty",
+      "community"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "'Ido' means:",
+    "options": [
+      "period",
+      "day",
+      "time",
+      "moment"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'Gida' ní Hausa túmọ̀ sí:",
+    "options": [
+      "market",
+      "road",
+      "house",
+      "school"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "scholar",
+      "student",
+      "elder",
+      "teacher"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "changes ending",
+      "adds prefix",
+      "no change",
+      "both methods"
+    ],
+    "answer": "both methods"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "wind",
+      "all instruments",
+      "strings",
+      "drums"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "'Malam' means:",
+    "options": [
+      "student",
+      "teacher",
+      "elder",
+      "scholar"
+    ],
+    "answer": "teacher"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "regional",
+      "local",
+      "maritime",
+      "trans-Saharan"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa people from:",
+    "options": [
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Northern Nigeria"
+  },
+  {
+    "question": "Hausa trade was:",
+    "options": [
+      "regional",
+      "maritime",
+      "local",
+      "trans-Saharan"
+    ],
+    "answer": "trans-Saharan"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "drums",
+      "all instruments",
+      "wind",
+      "strings"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Hausa music uses:",
+    "options": [
+      "strings",
+      "drums",
+      "wind",
+      "all instruments"
+    ],
+    "answer": "drums"
+  },
+  {
+    "question": "Plural in Hausa:",
+    "options": [
+      "adds prefix",
+      "both methods",
+      "changes ending",
+      "no change"
+    ],
+    "answer": "both methods"
   }
 ]

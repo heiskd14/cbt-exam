@@ -1,46 +1,156 @@
 [
   {
-    "question": "Primary colors are:",
+    "question": "Shading creates",
+    "options": [
+      "texture",
+      "outline",
+      "color",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Primary colors are",
     "options": [
       "red, green, blue",
-      "red, yellow, blue",
       "green, yellow",
-      "orange, purple"
+      "orange, purple",
+      "red, yellow, blue"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Shading creates",
     "options": [
-      "flatness",
       "depth",
-      "confusion",
-      "abstraction"
+      "color",
+      "outline",
+      "texture"
     ],
     "answer": "depth"
   },
   {
-    "question": "Still life shows:",
+    "question": "Charcoal is used for",
     "options": [
-      "moving subjects",
-      "objects",
+      "sculpting",
+      "painting",
+      "printing",
+      "drawing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
       "people",
-      "landscapes"
+      "objects",
+      "landscapes",
+      "moving subjects"
     ],
     "answer": "objects"
   },
   {
-    "question": "Shading creates:",
+    "question": "Easel is for",
+    "options": [
+      "mixing",
+      "holding canvas",
+      "display",
+      "storage"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Shading creates",
     "options": [
       "color",
+      "outline",
       "texture",
-      "depth",
-      "outline"
+      "depth"
     ],
     "answer": "depth"
   },
   {
-    "question": "Sculpture is:",
+    "question": "Perspective creates",
+    "options": [
+      "depth",
+      "abstraction",
+      "confusion",
+      "flatness"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "wood",
+      "fabric material",
+      "metal",
+      "paper type"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "flatness",
+      "confusion",
+      "abstraction",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "light and color",
+      "abstraction",
+      "realism"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "moving subjects",
+      "people",
+      "landscapes",
+      "objects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "painting",
+      "2D",
+      "drawing",
+      "3D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "texture",
+      "outline",
+      "color",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "depth",
+      "outline",
+      "color",
+      "texture"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Sculpture is",
     "options": [
       "2D",
       "3D",
@@ -50,17 +160,397 @@
     "answer": "3D"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Charcoal is used for",
     "options": [
-      "red, green, blue",
+      "printing",
+      "sculpting",
+      "painting",
+      "drawing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "drawing",
+      "sculpting",
+      "printing",
+      "painting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "confusion",
+      "abstraction",
+      "flatness",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "objects",
+      "moving subjects",
+      "people",
+      "landscapes"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "objects",
+      "moving subjects",
+      "landscapes",
+      "people"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
       "red, yellow, blue",
       "green, yellow",
+      "orange, purple",
+      "red, green, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "display",
+      "holding canvas",
+      "mixing",
+      "storage"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "printing",
+      "sculpting",
+      "drawing",
+      "painting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "holding canvas",
+      "display",
+      "storage",
+      "mixing"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "printing",
+      "painting",
+      "drawing",
+      "sculpting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "abstraction",
+      "depth",
+      "flatness",
+      "confusion"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "confusion",
+      "depth",
+      "abstraction",
+      "flatness"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "light and color",
+      "realism",
+      "detail",
+      "abstraction"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "depth",
+      "color",
+      "outline",
+      "texture"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "moving subjects",
+      "landscapes",
+      "people",
+      "objects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "abstraction",
+      "light and color",
+      "detail",
+      "realism"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "confusion",
+      "depth",
+      "flatness",
+      "abstraction"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "mixes colors",
+      "creates lines",
+      "adds texture",
+      "defines outlines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "mixing",
+      "storage",
+      "holding canvas",
+      "display"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "red, yellow, blue",
+      "orange, purple",
+      "red, green, blue",
+      "green, yellow"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "green, yellow",
+      "red, yellow, blue",
+      "red, green, blue",
       "orange, purple"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Canvas is",
+    "options": [
+      "paper type",
+      "wood",
+      "metal",
+      "fabric material"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "texture",
+      "color",
+      "depth",
+      "outline"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "defines outlines",
+      "creates lines",
+      "mixes colors",
+      "adds texture"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "orange, purple",
+      "green, yellow",
+      "red, yellow, blue",
+      "red, green, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "metal",
+      "fabric material",
+      "wood",
+      "paper type"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "drawing",
+      "painting",
+      "3D",
+      "2D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "adds texture",
+      "defines outlines",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "people",
+      "moving subjects",
+      "objects",
+      "landscapes"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "depth",
+      "abstraction",
+      "flatness",
+      "confusion"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "abstraction",
+      "depth",
+      "flatness",
+      "confusion"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "adds texture",
+      "defines outlines",
+      "creates lines",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "light and color",
+      "abstraction",
+      "realism",
+      "detail"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "realism",
+      "detail",
+      "abstraction",
+      "light and color"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "depth",
+      "texture",
+      "color",
+      "outline"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "paper type",
+      "fabric material",
+      "wood",
+      "metal"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "defines outlines",
+      "adds texture",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "drawing",
+      "painting",
+      "sculpting",
+      "printing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "metal",
+      "wood",
+      "fabric material",
+      "paper type"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Perspective creates",
     "options": [
       "flatness",
       "depth",
@@ -70,17 +560,587 @@
     "answer": "depth"
   },
   {
-    "question": "Still life shows:",
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "light and color",
+      "abstraction",
+      "realism"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "drawing",
+      "painting",
+      "2D",
+      "3D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "mixing",
+      "storage",
+      "display",
+      "holding canvas"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "defines outlines",
+      "mixes colors",
+      "creates lines",
+      "adds texture"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "storage",
+      "mixing",
+      "holding canvas",
+      "display"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "mixes colors",
+      "adds texture",
+      "creates lines",
+      "defines outlines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "green, yellow",
+      "orange, purple",
+      "red, green, blue",
+      "red, yellow, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "red, green, blue",
+      "green, yellow",
+      "red, yellow, blue",
+      "orange, purple"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "wood",
+      "paper type",
+      "fabric material",
+      "metal"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "texture",
+      "depth",
+      "outline",
+      "color"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "sculpting",
+      "printing",
+      "painting",
+      "drawing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "adds texture",
+      "creates lines",
+      "defines outlines",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "depth",
+      "abstraction",
+      "confusion",
+      "flatness"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "painting",
+      "sculpting",
+      "drawing",
+      "printing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "3D",
+      "painting",
+      "drawing",
+      "2D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Still life shows",
     "options": [
       "moving subjects",
       "objects",
+      "landscapes",
+      "people"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "painting",
+      "printing",
+      "sculpting",
+      "drawing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "people",
+      "landscapes",
+      "objects",
+      "moving subjects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "red, green, blue",
+      "green, yellow",
+      "orange, purple",
+      "red, yellow, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "texture",
+      "depth",
+      "outline",
+      "color"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "defines outlines",
+      "mixes colors",
+      "adds texture",
+      "creates lines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "drawing",
+      "2D",
+      "3D",
+      "painting"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "flatness",
+      "depth",
+      "abstraction",
+      "confusion"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "painting",
+      "drawing",
+      "sculpting",
+      "printing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "adds texture",
+      "mixes colors",
+      "creates lines",
+      "defines outlines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "abstraction",
+      "realism",
+      "light and color"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "realism",
+      "detail",
+      "abstraction",
+      "light and color"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "printing",
+      "sculpting",
+      "drawing",
+      "painting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "people",
+      "objects",
+      "landscapes",
+      "moving subjects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "people",
+      "objects",
+      "landscapes",
+      "moving subjects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "wood",
+      "metal",
+      "fabric material",
+      "paper type"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "drawing",
+      "printing",
+      "painting",
+      "sculpting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "depth",
+      "flatness",
+      "abstraction",
+      "confusion"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "drawing",
+      "printing",
+      "painting",
+      "sculpting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "realism",
+      "light and color",
+      "abstraction"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "paper type",
+      "fabric material",
+      "wood",
+      "metal"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "moving subjects",
+      "people",
+      "objects",
+      "landscapes"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "landscapes",
+      "moving subjects",
+      "objects",
+      "people"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "abstraction",
+      "realism",
+      "light and color",
+      "detail"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "mixes colors",
+      "adds texture",
+      "defines outlines",
+      "creates lines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "holding canvas",
+      "mixing",
+      "display",
+      "storage"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "abstraction",
+      "confusion",
+      "flatness",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "confusion",
+      "abstraction",
+      "flatness",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "abstraction",
+      "light and color",
+      "detail",
+      "realism"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "mixing",
+      "display",
+      "storage",
+      "holding canvas"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "red, green, blue",
+      "orange, purple",
+      "red, yellow, blue",
+      "green, yellow"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "objects",
+      "moving subjects",
       "people",
       "landscapes"
     ],
     "answer": "objects"
   },
   {
-    "question": "Shading creates:",
+    "question": "Shading creates",
+    "options": [
+      "texture",
+      "outline",
+      "depth",
+      "color"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "drawing",
+      "painting",
+      "sculpting",
+      "printing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "holding canvas",
+      "storage",
+      "display",
+      "mixing"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "outline",
+      "depth",
+      "color",
+      "texture"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "realism",
+      "light and color",
+      "detail",
+      "abstraction"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "abstraction",
+      "flatness",
+      "confusion",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "objects",
+      "moving subjects",
+      "landscapes",
+      "people"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "defines outlines",
+      "adds texture",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "fabric material",
+      "metal",
+      "paper type",
+      "wood"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "drawing",
+      "painting",
+      "sculpting",
+      "printing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "objects",
+      "moving subjects",
+      "landscapes",
+      "people"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Shading creates",
     "options": [
       "color",
       "texture",
@@ -90,17 +1150,157 @@
     "answer": "depth"
   },
   {
-    "question": "Sculpture is:",
+    "question": "Perspective creates",
+    "options": [
+      "abstraction",
+      "confusion",
+      "depth",
+      "flatness"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Sculpture is",
     "options": [
       "2D",
-      "3D",
+      "drawing",
       "painting",
-      "drawing"
+      "3D"
     ],
     "answer": "3D"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Sculpture is",
+    "options": [
+      "3D",
+      "2D",
+      "drawing",
+      "painting"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "drawing",
+      "painting",
+      "2D",
+      "3D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "adds texture",
+      "mixes colors",
+      "defines outlines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "2D",
+      "painting",
+      "drawing",
+      "3D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "confusion",
+      "depth",
+      "flatness",
+      "abstraction"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "confusion",
+      "flatness",
+      "depth",
+      "abstraction"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "depth",
+      "confusion",
+      "flatness",
+      "abstraction"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "texture",
+      "color",
+      "outline",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "printing",
+      "painting",
+      "drawing",
+      "sculpting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "adds texture",
+      "defines outlines",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "color",
+      "depth",
+      "texture",
+      "outline"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "green, yellow",
+      "red, yellow, blue",
+      "orange, purple",
+      "red, green, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "metal",
+      "paper type",
+      "fabric material",
+      "wood"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Primary colors are",
     "options": [
       "red, green, blue",
       "red, yellow, blue",
@@ -110,7 +1310,217 @@
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Primary colors are",
+    "options": [
+      "green, yellow",
+      "red, yellow, blue",
+      "orange, purple",
+      "red, green, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "light and color",
+      "realism",
+      "detail",
+      "abstraction"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "abstraction",
+      "confusion",
+      "flatness",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "adds texture",
+      "mixes colors",
+      "defines outlines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "paper type",
+      "wood",
+      "metal",
+      "fabric material"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "printing",
+      "drawing",
+      "sculpting",
+      "painting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "mixing",
+      "display",
+      "storage",
+      "holding canvas"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "people",
+      "landscapes",
+      "moving subjects",
+      "objects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "people",
+      "objects",
+      "landscapes",
+      "moving subjects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "wood",
+      "metal",
+      "fabric material",
+      "paper type"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "realism",
+      "light and color",
+      "abstraction",
+      "detail"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "wood",
+      "metal",
+      "fabric material",
+      "paper type"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "drawing",
+      "2D",
+      "painting",
+      "3D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "realism",
+      "light and color",
+      "detail",
+      "abstraction"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "realism",
+      "light and color",
+      "abstraction"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "painting",
+      "drawing",
+      "sculpting",
+      "printing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "painting",
+      "sculpting",
+      "drawing",
+      "printing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "realism",
+      "abstraction",
+      "light and color"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "mixing",
+      "storage",
+      "display",
+      "holding canvas"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "drawing",
+      "sculpting",
+      "printing",
+      "painting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "defines outlines",
+      "mixes colors",
+      "adds texture"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Perspective creates",
     "options": [
       "flatness",
       "depth",
@@ -120,37 +1530,267 @@
     "answer": "depth"
   },
   {
-    "question": "Still life shows:",
+    "question": "Charcoal is used for",
     "options": [
-      "moving subjects",
+      "printing",
+      "painting",
+      "sculpting",
+      "drawing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "drawing",
+      "2D",
+      "3D",
+      "painting"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
       "objects",
+      "moving subjects",
+      "landscapes",
+      "people"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "holding canvas",
+      "display",
+      "storage",
+      "mixing"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "printing",
+      "painting",
+      "drawing",
+      "sculpting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "orange, purple",
+      "red, green, blue",
+      "red, yellow, blue",
+      "green, yellow"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "holding canvas",
+      "storage",
+      "display",
+      "mixing"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "red, green, blue",
+      "green, yellow",
+      "red, yellow, blue",
+      "orange, purple"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "painting",
+      "printing",
+      "sculpting",
+      "drawing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "wood",
+      "metal",
+      "paper type",
+      "fabric material"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "fabric material",
+      "metal",
+      "wood",
+      "paper type"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "adds texture",
+      "creates lines",
+      "defines outlines",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "storage",
+      "holding canvas",
+      "mixing",
+      "display"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "flatness",
+      "depth",
+      "confusion",
+      "abstraction"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "adds texture",
+      "mixes colors",
+      "creates lines",
+      "defines outlines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "texture",
+      "outline",
+      "color",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "wood",
+      "paper type",
+      "fabric material",
+      "metal"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "abstraction",
+      "depth",
+      "confusion",
+      "flatness"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "painting",
+      "2D",
+      "3D",
+      "drawing"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "red, yellow, blue",
+      "red, green, blue",
+      "orange, purple",
+      "green, yellow"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "holding canvas",
+      "mixing",
+      "display",
+      "storage"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "texture",
+      "depth",
+      "color",
+      "outline"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "red, yellow, blue",
+      "red, green, blue",
+      "green, yellow",
+      "orange, purple"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "objects",
+      "moving subjects",
       "people",
       "landscapes"
     ],
     "answer": "objects"
   },
   {
-    "question": "Shading creates:",
+    "question": "Shading creates",
     "options": [
-      "color",
       "texture",
       "depth",
+      "color",
       "outline"
     ],
     "answer": "depth"
   },
   {
-    "question": "Sculpture is:",
+    "question": "Easel is for",
     "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
+      "display",
+      "holding canvas",
+      "storage",
+      "mixing"
     ],
-    "answer": "3D"
+    "answer": "holding canvas"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Primary colors are",
     "options": [
       "red, green, blue",
       "red, yellow, blue",
@@ -160,177 +1800,857 @@
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Shading creates",
     "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
+      "color",
+      "texture",
+      "outline",
+      "depth"
     ],
     "answer": "depth"
   },
   {
-    "question": "Still life shows:",
+    "question": "Still life shows",
     "options": [
-      "moving subjects",
-      "objects",
       "people",
+      "objects",
+      "moving subjects",
       "landscapes"
     ],
     "answer": "objects"
   },
   {
-    "question": "Shading creates:",
+    "question": "Sculpture is",
     "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
       "painting",
+      "3D",
+      "2D",
       "drawing"
     ],
     "answer": "3D"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Perspective creates",
+    "options": [
+      "flatness",
+      "abstraction",
+      "confusion",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "flatness",
+      "depth",
+      "abstraction",
+      "confusion"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "metal",
+      "wood",
+      "paper type",
+      "fabric material"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "outline",
+      "depth",
+      "color",
+      "texture"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "defines outlines",
+      "mixes colors",
+      "creates lines",
+      "adds texture"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "realism",
+      "abstraction",
+      "light and color",
+      "detail"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "wood",
+      "metal",
+      "paper type",
+      "fabric material"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "printing",
+      "painting",
+      "sculpting",
+      "drawing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "drawing",
+      "painting",
+      "3D",
+      "2D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Primary colors are",
     "options": [
       "red, green, blue",
+      "green, yellow",
+      "orange, purple",
+      "red, yellow, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "abstraction",
+      "depth",
+      "confusion",
+      "flatness"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "depth",
+      "outline",
+      "texture",
+      "color"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "printing",
+      "sculpting",
+      "drawing",
+      "painting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "sculpting",
+      "drawing",
+      "painting",
+      "printing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "adds texture",
+      "defines outlines",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "abstraction",
+      "flatness",
+      "confusion",
+      "depth"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "realism",
+      "light and color",
+      "abstraction"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "wood",
+      "fabric material",
+      "metal",
+      "paper type"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "mixes colors",
+      "defines outlines",
+      "adds texture"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "outline",
+      "texture",
+      "depth",
+      "color"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "3D",
+      "painting",
+      "drawing",
+      "2D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "fabric material",
+      "metal",
+      "paper type",
+      "wood"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "display",
+      "holding canvas",
+      "storage",
+      "mixing"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "painting",
+      "3D",
+      "2D",
+      "drawing"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "moving subjects",
+      "landscapes",
+      "people",
+      "objects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "metal",
+      "paper type",
+      "fabric material",
+      "wood"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "2D",
+      "3D",
+      "drawing",
+      "painting"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "display",
+      "storage",
+      "mixing",
+      "holding canvas"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "mixing",
+      "storage",
+      "display",
+      "holding canvas"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "drawing",
+      "printing",
+      "painting",
+      "sculpting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "outline",
+      "depth",
+      "texture",
+      "color"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "color",
+      "depth",
+      "outline",
+      "texture"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "display",
+      "mixing",
+      "holding canvas",
+      "storage"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "2D",
+      "painting",
+      "drawing",
+      "3D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "landscapes",
+      "people",
+      "objects",
+      "moving subjects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "adds texture",
+      "creates lines",
+      "defines outlines",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "realism",
+      "light and color",
+      "abstraction",
+      "detail"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "depth",
+      "outline",
+      "color",
+      "texture"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "adds texture",
+      "defines outlines",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "drawing",
+      "3D",
+      "2D",
+      "painting"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "abstraction",
+      "light and color",
+      "detail",
+      "realism"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "holding canvas",
+      "display",
+      "mixing",
+      "storage"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "storage",
+      "holding canvas",
+      "mixing",
+      "display"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "objects",
+      "people",
+      "moving subjects",
+      "landscapes"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "confusion",
+      "flatness",
+      "depth",
+      "abstraction"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "orange, purple",
+      "red, green, blue",
+      "green, yellow",
+      "red, yellow, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "defines outlines",
+      "creates lines",
+      "adds texture",
+      "mixes colors"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "green, yellow",
+      "red, green, blue",
+      "orange, purple",
+      "red, yellow, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "painting",
+      "2D",
+      "3D",
+      "drawing"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "realism",
+      "light and color",
+      "abstraction",
+      "detail"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "sculpting",
+      "printing",
+      "drawing",
+      "painting"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "painting",
+      "3D",
+      "drawing",
+      "2D"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "people",
+      "moving subjects",
+      "objects",
+      "landscapes"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
       "red, yellow, blue",
+      "red, green, blue",
       "green, yellow",
       "orange, purple"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
+    "question": "Sculpture is",
     "options": [
       "2D",
+      "drawing",
       "3D",
-      "painting",
-      "drawing"
+      "painting"
     ],
     "answer": "3D"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Canvas is",
+    "options": [
+      "fabric material",
+      "metal",
+      "paper type",
+      "wood"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "storage",
+      "holding canvas",
+      "mixing",
+      "display"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Primary colors are",
     "options": [
       "red, green, blue",
       "red, yellow, blue",
+      "orange, purple",
+      "green, yellow"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Perspective creates",
+    "options": [
+      "depth",
+      "abstraction",
+      "flatness",
+      "confusion"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "3D",
+      "drawing",
+      "2D",
+      "painting"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
       "green, yellow",
+      "orange, purple",
+      "red, yellow, blue",
+      "red, green, blue"
+    ],
+    "answer": "red, yellow, blue"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "metal",
+      "paper type",
+      "wood",
+      "fabric material"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "abstraction",
+      "light and color",
+      "detail",
+      "realism"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "landscapes",
+      "moving subjects",
+      "objects",
+      "people"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "people",
+      "objects",
+      "landscapes",
+      "moving subjects"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "defines outlines",
+      "mixes colors",
+      "creates lines",
+      "adds texture"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Charcoal is used for",
+    "options": [
+      "painting",
+      "sculpting",
+      "printing",
+      "drawing"
+    ],
+    "answer": "drawing"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
+      "landscapes",
+      "objects",
+      "moving subjects",
+      "people"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "realism",
+      "abstraction",
+      "light and color",
+      "detail"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "paper type",
+      "metal",
+      "fabric material",
+      "wood"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Blending technique",
+    "options": [
+      "creates lines",
+      "mixes colors",
+      "adds texture",
+      "defines outlines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
+      "green, yellow",
+      "red, green, blue",
+      "red, yellow, blue",
       "orange, purple"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Sculpture is",
     "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
       "3D",
+      "2D",
       "painting",
       "drawing"
     ],
     "answer": "3D"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Perspective creates",
     "options": [
-      "red, green, blue",
-      "red, yellow, blue",
+      "abstraction",
+      "confusion",
+      "depth",
+      "flatness"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
+      "color",
+      "depth",
+      "outline",
+      "texture"
+    ],
+    "answer": "depth"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
       "green, yellow",
-      "orange, purple"
+      "orange, purple",
+      "red, yellow, blue",
+      "red, green, blue"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Shading creates",
     "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
+      "color",
+      "texture",
+      "outline",
+      "depth"
     ],
     "answer": "depth"
   },
   {
-    "question": "Still life shows:",
+    "question": "Blending technique",
     "options": [
-      "moving subjects",
-      "objects",
+      "creates lines",
+      "mixes colors",
+      "defines outlines",
+      "adds texture"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "storage",
+      "mixing",
+      "display",
+      "holding canvas"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
       "people",
+      "objects",
+      "moving subjects",
       "landscapes"
     ],
     "answer": "objects"
   },
   {
-    "question": "Shading creates:",
+    "question": "Still life shows",
+    "options": [
+      "objects",
+      "moving subjects",
+      "landscapes",
+      "people"
+    ],
+    "answer": "objects"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "3D",
+      "2D",
+      "painting",
+      "drawing"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Shading creates",
     "options": [
       "color",
       "texture",
@@ -340,2663 +2660,343 @@
     "answer": "depth"
   },
   {
-    "question": "Sculpture is:",
+    "question": "Shading creates",
     "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
+      "texture",
+      "color",
+      "outline",
+      "depth"
     ],
-    "answer": "3D"
+    "answer": "depth"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Primary colors are",
     "options": [
       "red, green, blue",
       "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
+      "orange, purple",
+      "green, yellow"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Primary colors are",
     "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
       "green, yellow",
-      "orange, purple"
+      "orange, purple",
+      "red, yellow, blue",
+      "red, green, blue"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Blending technique",
     "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
+      "adds texture",
+      "mixes colors",
+      "creates lines",
+      "defines outlines"
     ],
-    "answer": "depth"
+    "answer": "mixes colors"
   },
   {
-    "question": "Still life shows:",
+    "question": "Sculpture is",
     "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
+      "drawing",
       "3D",
-      "painting",
-      "drawing"
+      "2D",
+      "painting"
     ],
     "answer": "3D"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Easel is for",
     "options": [
-      "red, green, blue",
-      "red, yellow, blue",
+      "holding canvas",
+      "storage",
+      "mixing",
+      "display"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "light and color",
+      "realism",
+      "abstraction",
+      "detail"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "storage",
+      "display",
+      "holding canvas",
+      "mixing"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "abstraction",
+      "light and color",
+      "realism"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "2D",
+      "3D",
+      "drawing",
+      "painting"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "abstraction",
+      "light and color",
+      "realism"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "display",
+      "mixing",
+      "holding canvas",
+      "storage"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Sculpture is",
+    "options": [
+      "2D",
+      "drawing",
+      "3D",
+      "painting"
+    ],
+    "answer": "3D"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "abstraction",
+      "realism",
+      "detail",
+      "light and color"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "display",
+      "mixing",
+      "storage",
+      "holding canvas"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "metal",
+      "wood",
+      "paper type",
+      "fabric material"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "metal",
+      "fabric material",
+      "paper type",
+      "wood"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "storage",
+      "mixing",
+      "display",
+      "holding canvas"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Easel is for",
+    "options": [
+      "mixing",
+      "storage",
+      "holding canvas",
+      "display"
+    ],
+    "answer": "holding canvas"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
       "green, yellow",
-      "orange, purple"
+      "orange, purple",
+      "red, yellow, blue",
+      "red, green, blue"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Canvas is",
     "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
+      "paper type",
+      "wood",
+      "fabric material",
+      "metal"
     ],
-    "answer": "depth"
+    "answer": "fabric material"
   },
   {
-    "question": "Still life shows:",
+    "question": "Blending technique",
     "options": [
-      "moving subjects",
+      "adds texture",
+      "mixes colors",
+      "creates lines",
+      "defines outlines"
+    ],
+    "answer": "mixes colors"
+  },
+  {
+    "question": "Canvas is",
+    "options": [
+      "paper type",
+      "wood",
+      "metal",
+      "fabric material"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Still life shows",
+    "options": [
       "objects",
+      "landscapes",
       "people",
-      "landscapes"
+      "moving subjects"
     ],
     "answer": "objects"
   },
   {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
+    "question": "Primary colors are",
     "options": [
       "red, green, blue",
       "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
+      "orange, purple",
+      "green, yellow"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Charcoal is used for",
     "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
+      "painting",
+      "printing",
+      "sculpting",
+      "drawing"
     ],
-    "answer": "depth"
+    "answer": "drawing"
   },
   {
-    "question": "Still life shows:",
+    "question": "Sculpture is",
     "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
+      "painting",
       "2D",
       "3D",
-      "painting",
       "drawing"
     ],
     "answer": "3D"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Canvas is",
     "options": [
-      "red, green, blue",
+      "paper type",
+      "fabric material",
+      "wood",
+      "metal"
+    ],
+    "answer": "fabric material"
+  },
+  {
+    "question": "Impressionism focuses on",
+    "options": [
+      "detail",
+      "abstraction",
+      "light and color",
+      "realism"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Primary colors are",
+    "options": [
       "red, yellow, blue",
       "green, yellow",
-      "orange, purple"
+      "orange, purple",
+      "red, green, blue"
     ],
     "answer": "red, yellow, blue"
   },
   {
-    "question": "Perspective creates:",
+    "question": "Impressionism focuses on",
     "options": [
-      "flatness",
+      "light and color",
+      "abstraction",
+      "realism",
+      "detail"
+    ],
+    "answer": "light and color"
+  },
+  {
+    "question": "Shading creates",
+    "options": [
       "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
       "texture",
-      "depth",
-      "outline"
+      "outline",
+      "color"
     ],
     "answer": "depth"
   },
   {
-    "question": "Sculpture is:",
+    "question": "Canvas is",
     "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
+      "paper type",
+      "fabric material",
+      "metal",
+      "wood"
     ],
-    "answer": "3D"
+    "answer": "fabric material"
   },
   {
-    "question": "Primary colors are:",
+    "question": "Blending technique",
     "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
+      "adds texture",
+      "mixes colors",
+      "creates lines",
+      "defines outlines"
     ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
-  },
-  {
-    "question": "Primary colors are:",
-    "options": [
-      "red, green, blue",
-      "red, yellow, blue",
-      "green, yellow",
-      "orange, purple"
-    ],
-    "answer": "red, yellow, blue"
-  },
-  {
-    "question": "Perspective creates:",
-    "options": [
-      "flatness",
-      "depth",
-      "confusion",
-      "abstraction"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Still life shows:",
-    "options": [
-      "moving subjects",
-      "objects",
-      "people",
-      "landscapes"
-    ],
-    "answer": "objects"
-  },
-  {
-    "question": "Shading creates:",
-    "options": [
-      "color",
-      "texture",
-      "depth",
-      "outline"
-    ],
-    "answer": "depth"
-  },
-  {
-    "question": "Sculpture is:",
-    "options": [
-      "2D",
-      "3D",
-      "painting",
-      "drawing"
-    ],
-    "answer": "3D"
+    "answer": "mixes colors"
   }
 ]

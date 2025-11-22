@@ -1,16 +1,176 @@
 [
   {
-    "question": "Accounting records:",
+    "question": "Revenue means",
     "options": [
+      "liabilities",
+      "expenses",
+      "income",
+      "profit"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "income decrease",
+      "expense",
+      "liability increase",
+      "asset increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "inventory",
+      "expenses",
+      "sales",
+      "transactions"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "transactions",
       "sales",
       "expenses",
-      "transactions",
       "inventory"
     ],
     "answer": "transactions"
   },
   {
-    "question": "Assets equal:",
+    "question": "Journal is",
+    "options": [
+      "final account",
+      "day book",
+      "balance sheet",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "profit and loss",
+      "assets",
+      "cash flow",
+      "balance"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "transactions",
+      "inventory",
+      "sales",
+      "expenses"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording once",
+      "no recording",
+      "recording twice",
+      "partial"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "loss of value",
+      "all correct",
+      "expense",
+      "asset reduction"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "inventory",
+      "sales",
+      "transactions"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "transactions",
+      "inventory",
+      "sales",
+      "expenses"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "expense",
+      "liability increase",
+      "income decrease",
+      "asset increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "business diary",
+      "notebook",
+      "receipt book",
+      "account record"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "inventory",
+      "sales",
+      "transactions",
+      "expenses"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "loss of value",
+      "asset reduction",
+      "expense",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "liabilities",
+      "profit",
+      "expenses",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "transactions",
+      "inventory",
+      "sales"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Assets equal",
     "options": [
       "liabilities",
       "equity",
@@ -20,17 +180,1077 @@
     "answer": "liabilities + equity"
   },
   {
-    "question": "A debit is:",
+    "question": "Trial balance lists",
     "options": [
-      "liability increase",
+      "debit/credit sides",
+      "all accounts",
+      "final accounts",
+      "errors"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "debit/credit sides",
+      "all accounts",
+      "final accounts",
+      "errors"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "errors",
+      "all accounts",
+      "debit/credit sides",
+      "final accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "asset reduction",
+      "loss of value",
+      "expense",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "account record",
+      "business diary",
+      "notebook"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "expense",
+      "asset reduction",
+      "all correct",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "transactions",
+      "sales",
+      "expenses",
+      "inventory"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "cash flow",
+      "profit and loss",
+      "balance"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "income",
+      "expenses",
+      "liabilities",
+      "profit"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "business diary",
+      "notebook",
+      "receipt book",
+      "account record"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Debit is",
+    "options": [
       "asset increase",
+      "expense",
+      "income decrease",
+      "liability increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording once",
+      "no recording",
+      "recording twice",
+      "partial"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording once",
+      "no recording",
+      "recording twice",
+      "partial"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "neither",
+      "liabilities",
+      "liabilities + equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "balance",
+      "profit and loss",
+      "cash flow",
+      "assets"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "all correct",
+      "loss of value",
+      "asset reduction",
+      "expense"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "notebook",
+      "account record",
+      "business diary",
+      "receipt book"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "liabilities + equity",
+      "equity",
+      "liabilities",
+      "neither"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "neither",
+      "liabilities + equity",
+      "equity",
+      "liabilities"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "income decrease",
+      "asset increase",
+      "expense",
+      "liability increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "final account",
+      "balance sheet",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "notebook",
+      "account record",
+      "business diary"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "account record",
+      "business diary",
+      "receipt book",
+      "notebook"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "partial",
+      "recording twice",
+      "recording once",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "subsidiary book",
+      "final account",
+      "balance sheet"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "no recording",
+      "recording once",
+      "recording twice",
+      "partial"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "asset increase",
+      "liability increase",
       "income decrease",
       "expense"
     ],
     "answer": "asset increase"
   },
   {
-    "question": "Income statement shows:",
+    "question": "Ledger is",
+    "options": [
+      "business diary",
+      "notebook",
+      "receipt book",
+      "account record"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "balance sheet",
+      "final account",
+      "subsidiary book",
+      "day book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "neither",
+      "liabilities + equity",
+      "liabilities"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "final account",
+      "subsidiary book",
+      "balance sheet"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "balance sheet",
+      "day book",
+      "final account",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "liabilities + equity",
+      "liabilities",
+      "neither"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "notebook",
+      "business diary",
+      "account record",
+      "receipt book"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "subsidiary book",
+      "balance sheet",
+      "final account"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "debit/credit sides",
+      "final accounts",
+      "errors",
+      "all accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "asset increase",
+      "expense",
+      "income decrease",
+      "liability increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "expense",
+      "asset reduction",
+      "all correct",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "balance",
+      "assets",
+      "profit and loss",
+      "cash flow"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "all accounts",
+      "errors",
+      "final accounts",
+      "debit/credit sides"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "income decrease",
+      "asset increase",
+      "liability increase",
+      "expense"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "asset increase",
+      "income decrease",
+      "expense",
+      "liability increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "profit and loss",
+      "cash flow",
+      "balance",
+      "assets"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording once",
+      "partial",
+      "recording twice",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "partial",
+      "recording twice",
+      "recording once",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "cash flow",
+      "assets",
+      "profit and loss",
+      "balance"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "final account",
+      "day book",
+      "balance sheet",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "income",
+      "liabilities",
+      "expenses",
+      "profit"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "inventory",
+      "sales",
+      "transactions"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "no recording",
+      "recording twice",
+      "recording once",
+      "partial"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "final accounts",
+      "debit/credit sides",
+      "all accounts",
+      "errors"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "partial",
+      "no recording",
+      "recording once",
+      "recording twice"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "expense",
+      "asset reduction",
+      "loss of value",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "debit/credit sides",
+      "all accounts",
+      "errors",
+      "final accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "partial",
+      "recording once",
+      "recording twice",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "income",
+      "profit",
+      "expenses",
+      "liabilities"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "all accounts",
+      "final accounts",
+      "debit/credit sides",
+      "errors"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "subsidiary book",
+      "final account",
+      "balance sheet"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "balance",
+      "cash flow",
+      "profit and loss",
+      "assets"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "inventory",
+      "expenses",
+      "transactions",
+      "sales"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "final account",
+      "subsidiary book",
+      "day book",
+      "balance sheet"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "profit and loss",
+      "assets",
+      "cash flow",
+      "balance"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "income decrease",
+      "expense",
+      "liability increase",
+      "asset increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "neither",
+      "liabilities + equity",
+      "liabilities"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "loss of value",
+      "all correct",
+      "expense",
+      "asset reduction"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "asset reduction",
+      "loss of value",
+      "expense",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "liabilities",
+      "liabilities + equity",
+      "neither"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "profit",
+      "liabilities",
+      "expenses",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "profit",
+      "income",
+      "expenses",
+      "liabilities"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "expenses",
+      "income",
+      "liabilities",
+      "profit"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "business diary",
+      "notebook",
+      "account record"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "expense",
+      "asset increase",
+      "liability increase",
+      "income decrease"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "partial",
+      "recording twice",
+      "recording once",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "profit",
+      "liabilities",
+      "expenses",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "liability increase",
+      "expense",
+      "asset increase",
+      "income decrease"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "expense",
+      "asset reduction",
+      "all correct",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "expenses",
+      "liabilities",
+      "profit",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "business diary",
+      "account record",
+      "notebook"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "partial",
+      "recording twice",
+      "no recording",
+      "recording once"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "cash flow",
+      "profit and loss",
+      "balance",
+      "assets"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "final accounts",
+      "errors",
+      "debit/credit sides",
+      "all accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "liabilities",
+      "liabilities + equity",
+      "neither"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "debit/credit sides",
+      "final accounts",
+      "all accounts",
+      "errors"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "sales",
+      "inventory",
+      "transactions"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "balance sheet",
+      "final account",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "asset reduction",
+      "expense",
+      "loss of value",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "final account",
+      "balance sheet",
+      "day book",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "partial",
+      "recording once",
+      "recording twice",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "account record",
+      "notebook",
+      "business diary"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "liabilities + equity",
+      "neither",
+      "liabilities",
+      "equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "loss of value",
+      "asset reduction",
+      "all correct",
+      "expense"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "account record",
+      "notebook",
+      "business diary",
+      "receipt book"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "neither",
+      "liabilities + equity",
+      "liabilities",
+      "equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "debit/credit sides",
+      "errors",
+      "final accounts",
+      "all accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "errors",
+      "debit/credit sides",
+      "final accounts",
+      "all accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "transactions",
+      "sales",
+      "expenses",
+      "inventory"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "inventory",
+      "sales",
+      "transactions",
+      "expenses"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "final account",
+      "balance sheet",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "final accounts",
+      "all accounts",
+      "errors",
+      "debit/credit sides"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "expense",
+      "income decrease",
+      "liability increase",
+      "asset increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "final account",
+      "day book",
+      "balance sheet",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "debit/credit sides",
+      "all accounts",
+      "final accounts",
+      "errors"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "all correct",
+      "asset reduction",
+      "loss of value",
+      "expense"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "final accounts",
+      "errors",
+      "all accounts",
+      "debit/credit sides"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "inventory",
+      "transactions",
+      "sales"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "asset reduction",
+      "all correct",
+      "expense",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "sales",
+      "transactions",
+      "inventory"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Income statement shows",
     "options": [
       "assets",
       "profit and loss",
@@ -40,47 +1260,787 @@
     "answer": "profit and loss"
   },
   {
-    "question": "Double-entry means:",
+    "question": "Income statement shows",
+    "options": [
+      "balance",
+      "assets",
+      "cash flow",
+      "profit and loss"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "liabilities",
+      "profit",
+      "expenses",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "income decrease",
+      "expense",
+      "asset increase",
+      "liability increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "subsidiary book",
+      "balance sheet",
+      "final account"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "notebook",
+      "account record",
+      "business diary"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording twice",
+      "recording once",
+      "partial",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "balance",
+      "cash flow",
+      "profit and loss"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "asset reduction",
+      "all correct",
+      "expense",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "profit and loss",
+      "cash flow",
+      "balance"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "liabilities",
+      "profit",
+      "income",
+      "expenses"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "business diary",
+      "account record",
+      "notebook"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Double-entry means",
     "options": [
       "recording once",
       "recording twice",
+      "partial",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "income",
+      "expenses",
+      "liabilities",
+      "profit"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "no recording",
+      "partial",
+      "recording once",
+      "recording twice"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "profit and loss",
+      "cash flow",
+      "balance",
+      "assets"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "sales",
+      "inventory",
+      "expenses",
+      "transactions"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "final accounts",
+      "debit/credit sides",
+      "all accounts",
+      "errors"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "income decrease",
+      "liability increase",
+      "asset increase",
+      "expense"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "asset increase",
+      "expense",
+      "liability increase",
+      "income decrease"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "liabilities",
+      "neither",
+      "liabilities + equity",
+      "equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording once",
+      "no recording",
+      "recording twice",
+      "partial"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "partial",
+      "recording once",
+      "recording twice",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "all accounts",
+      "errors",
+      "final accounts",
+      "debit/credit sides"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "business diary",
+      "account record",
+      "receipt book",
+      "notebook"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "business diary",
+      "notebook",
+      "receipt book",
+      "account record"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "liability increase",
+      "asset increase",
+      "expense",
+      "income decrease"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "cash flow",
+      "balance",
+      "profit and loss"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "sales",
+      "transactions",
+      "expenses",
+      "inventory"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "balance sheet",
+      "subsidiary book",
+      "final account"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "expenses",
+      "liabilities",
+      "profit",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "errors",
+      "debit/credit sides",
+      "all accounts",
+      "final accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "transactions",
+      "sales",
+      "inventory"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "liabilities",
+      "liabilities + equity",
+      "neither"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "sales",
+      "transactions",
+      "expenses",
+      "inventory"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "profit",
+      "income",
+      "liabilities",
+      "expenses"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "liabilities + equity",
+      "liabilities",
+      "neither"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "neither",
+      "liabilities + equity",
+      "liabilities",
+      "equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "balance sheet",
+      "day book",
+      "final account",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "asset reduction",
+      "all correct",
+      "loss of value",
+      "expense"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "balance sheet",
+      "subsidiary book",
+      "final account"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "neither",
+      "liabilities",
+      "equity",
+      "liabilities + equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "liabilities",
+      "equity",
+      "neither",
+      "liabilities + equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "balance sheet",
+      "subsidiary book",
+      "final account",
+      "day book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "asset increase",
+      "expense",
+      "liability increase",
+      "income decrease"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "liability increase",
+      "asset increase",
+      "income decrease",
+      "expense"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "cash flow",
+      "assets",
+      "profit and loss",
+      "balance"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "final accounts",
+      "all accounts",
+      "debit/credit sides",
+      "errors"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "cash flow",
+      "profit and loss",
+      "balance"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "all accounts",
+      "errors",
+      "debit/credit sides",
+      "final accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "all correct",
+      "asset reduction",
+      "loss of value",
+      "expense"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "asset increase",
+      "liability increase",
+      "income decrease",
+      "expense"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "loss of value",
+      "asset reduction",
+      "expense",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "expense",
+      "liability increase",
+      "income decrease",
+      "asset increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "expense",
+      "all correct",
+      "loss of value",
+      "asset reduction"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "profit",
+      "expenses",
+      "liabilities",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "expense",
+      "asset increase",
+      "liability increase",
+      "income decrease"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "transactions",
+      "sales",
+      "inventory"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "all correct",
+      "asset reduction",
+      "loss of value",
+      "expense"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "inventory",
+      "sales",
+      "transactions",
+      "expenses"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "profit",
+      "income",
+      "expenses",
+      "liabilities"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording twice",
+      "recording once",
       "no recording",
       "partial"
     ],
     "answer": "recording twice"
   },
   {
-    "question": "Accounting records:",
+    "question": "Revenue means",
     "options": [
-      "sales",
       "expenses",
-      "transactions",
-      "inventory"
+      "liabilities",
+      "income",
+      "profit"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "inventory",
+      "sales",
+      "transactions"
     ],
     "answer": "transactions"
   },
   {
-    "question": "Assets equal:",
+    "question": "Income statement shows",
     "options": [
+      "balance",
+      "assets",
+      "cash flow",
+      "profit and loss"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "neither",
+      "liabilities",
+      "liabilities + equity",
+      "equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "balance",
+      "cash flow",
+      "profit and loss"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "transactions",
+      "sales",
+      "inventory",
+      "expenses"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "transactions",
+      "sales",
+      "inventory",
+      "expenses"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "balance sheet",
+      "day book",
+      "final account",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording twice",
+      "no recording",
+      "partial",
+      "recording once"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "income decrease",
+      "expense",
+      "liability increase",
+      "asset increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "no recording",
+      "partial",
+      "recording once",
+      "recording twice"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "loss of value",
+      "expense",
+      "asset reduction",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "profit and loss",
+      "assets",
+      "cash flow",
+      "balance"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording once",
+      "partial",
+      "no recording",
+      "recording twice"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "debit/credit sides",
+      "all accounts",
+      "errors",
+      "final accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "liabilities + equity",
       "liabilities",
       "equity",
-      "liabilities + equity",
       "neither"
     ],
     "answer": "liabilities + equity"
   },
   {
-    "question": "A debit is:",
+    "question": "Ledger is",
     "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
+      "account record",
+      "business diary",
+      "receipt book",
+      "notebook"
     ],
-    "answer": "asset increase"
+    "answer": "account record"
   },
   {
-    "question": "Income statement shows:",
+    "question": "Income statement shows",
     "options": [
       "assets",
       "profit and loss",
@@ -90,187 +2050,467 @@
     "answer": "profit and loss"
   },
   {
-    "question": "Double-entry means:",
+    "question": "Ledger is",
+    "options": [
+      "account record",
+      "receipt book",
+      "business diary",
+      "notebook"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "final account",
+      "day book",
+      "subsidiary book",
+      "balance sheet"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "transactions",
+      "expenses",
+      "inventory",
+      "sales"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "expenses",
+      "income",
+      "profit",
+      "liabilities"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "inventory",
+      "expenses",
+      "transactions",
+      "sales"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "liability increase",
+      "asset increase",
+      "income decrease",
+      "expense"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "liabilities",
+      "profit",
+      "income",
+      "expenses"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "liabilities",
+      "income",
+      "profit",
+      "expenses"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "day book",
+      "balance sheet",
+      "subsidiary book",
+      "final account"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "expense",
+      "asset increase",
+      "income decrease",
+      "liability increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "liabilities + equity",
+      "liabilities",
+      "neither"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "expense",
+      "all correct",
+      "asset reduction",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Double-entry means",
     "options": [
       "recording once",
       "recording twice",
+      "partial",
+      "no recording"
+    ],
+    "answer": "recording twice"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "liability increase",
+      "expense",
+      "income decrease",
+      "asset increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "expense",
+      "loss of value",
+      "asset reduction",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "all correct",
+      "expense",
+      "asset reduction",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "liabilities",
+      "neither",
+      "liabilities + equity",
+      "equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "profit and loss",
+      "balance",
+      "cash flow"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "neither",
+      "equity",
+      "liabilities + equity",
+      "liabilities"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "business diary",
+      "notebook",
+      "account record"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "balance",
+      "assets",
+      "profit and loss",
+      "cash flow"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "transactions",
+      "inventory",
+      "sales"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "balance sheet",
+      "subsidiary book",
+      "day book",
+      "final account"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "recording twice",
       "no recording",
+      "recording once",
       "partial"
     ],
     "answer": "recording twice"
   },
   {
-    "question": "Accounting records:",
+    "question": "Trial balance lists",
     "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
+      "debit/credit sides",
+      "errors",
+      "final accounts",
+      "all accounts"
     ],
-    "answer": "transactions"
+    "answer": "all accounts"
   },
   {
-    "question": "Assets equal:",
+    "question": "Income statement shows",
     "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
+      "balance",
       "assets",
-      "profit and loss",
       "cash flow",
-      "balance"
+      "profit and loss"
     ],
     "answer": "profit and loss"
   },
   {
-    "question": "Double-entry means:",
+    "question": "Revenue means",
     "options": [
-      "recording once",
-      "recording twice",
+      "liabilities",
+      "profit",
+      "expenses",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "balance sheet",
+      "day book",
+      "final account",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "inventory",
+      "expenses",
+      "sales",
+      "transactions"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "subsidiary book",
+      "day book",
+      "final account",
+      "balance sheet"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "neither",
+      "equity",
+      "liabilities + equity",
+      "liabilities"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "cash flow",
+      "balance",
+      "profit and loss"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "cash flow",
+      "balance",
+      "profit and loss"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "notebook",
+      "business diary",
+      "account record"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "income",
+      "liabilities",
+      "expenses",
+      "profit"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
       "no recording",
+      "recording twice",
+      "recording once",
       "partial"
     ],
     "answer": "recording twice"
   },
   {
-    "question": "Accounting records:",
+    "question": "Assets equal",
     "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
+      "liabilities + equity",
       "liabilities",
       "equity",
-      "liabilities + equity",
       "neither"
     ],
     "answer": "liabilities + equity"
   },
   {
-    "question": "A debit is:",
+    "question": "Accounting records",
     "options": [
-      "liability increase",
-      "asset increase",
+      "expenses",
+      "inventory",
+      "sales",
+      "transactions"
+    ],
+    "answer": "transactions"
+  },
+  {
+    "question": "Debit is",
+    "options": [
       "income decrease",
-      "expense"
+      "liability increase",
+      "expense",
+      "asset increase"
     ],
     "answer": "asset increase"
   },
   {
-    "question": "Income statement shows:",
+    "question": "Ledger is",
     "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
+      "notebook",
+      "account record",
+      "business diary",
+      "receipt book"
     ],
-    "answer": "profit and loss"
+    "answer": "account record"
   },
   {
-    "question": "Double-entry means:",
+    "question": "Trial balance lists",
+    "options": [
+      "final accounts",
+      "debit/credit sides",
+      "errors",
+      "all accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Double-entry means",
     "options": [
       "recording once",
-      "recording twice",
       "no recording",
-      "partial"
+      "partial",
+      "recording twice"
     ],
     "answer": "recording twice"
   },
   {
-    "question": "Accounting records:",
+    "question": "Revenue means",
     "options": [
-      "sales",
       "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
+      "profit",
       "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
+      "income"
     ],
-    "answer": "liabilities + equity"
+    "answer": "income"
   },
   {
-    "question": "A debit is:",
+    "question": "Journal is",
     "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
+      "final account",
+      "balance sheet",
+      "subsidiary book",
+      "day book"
     ],
-    "answer": "asset increase"
+    "answer": "subsidiary book"
   },
   {
-    "question": "Income statement shows:",
+    "question": "Trial balance lists",
     "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
+      "all accounts",
+      "debit/credit sides",
+      "final accounts",
+      "errors"
     ],
-    "answer": "profit and loss"
+    "answer": "all accounts"
   },
   {
-    "question": "Double-entry means:",
+    "question": "Double-entry means",
     "options": [
-      "recording once",
+      "partial",
       "recording twice",
       "no recording",
-      "partial"
+      "recording once"
     ],
     "answer": "recording twice"
   },
   {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
+    "question": "Debit is",
     "options": [
       "liability increase",
       "asset increase",
@@ -280,7 +2520,197 @@
     "answer": "asset increase"
   },
   {
-    "question": "Income statement shows:",
+    "question": "Depreciation is",
+    "options": [
+      "expense",
+      "loss of value",
+      "asset reduction",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "debit/credit sides",
+      "errors",
+      "final accounts",
+      "all accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "loss of value",
+      "all correct",
+      "asset reduction",
+      "expense"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "expenses",
+      "profit",
+      "liabilities",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "neither",
+      "liabilities + equity",
+      "equity",
+      "liabilities"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "subsidiary book",
+      "final account",
+      "balance sheet",
+      "day book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "notebook",
+      "receipt book",
+      "account record",
+      "business diary"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "liabilities + equity",
+      "neither",
+      "equity",
+      "liabilities"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "all correct",
+      "expense",
+      "asset reduction",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "all correct",
+      "expense",
+      "asset reduction",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "liabilities",
+      "expenses",
+      "profit",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "liabilities",
+      "income",
+      "expenses",
+      "profit"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "liability increase",
+      "asset increase",
+      "income decrease",
+      "expense"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "debit/credit sides",
+      "final accounts",
+      "errors",
+      "all accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "account record",
+      "notebook",
+      "business diary",
+      "receipt book"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "receipt book",
+      "business diary",
+      "notebook",
+      "account record"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "business diary",
+      "receipt book",
+      "notebook",
+      "account record"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "liability increase",
+      "expense",
+      "asset increase",
+      "income decrease"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "notebook",
+      "account record",
+      "receipt book",
+      "business diary"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Income statement shows",
     "options": [
       "assets",
       "profit and loss",
@@ -290,2712 +2720,282 @@
     "answer": "profit and loss"
   },
   {
-    "question": "Double-entry means:",
+    "question": "Depreciation is",
     "options": [
-      "recording once",
+      "loss of value",
+      "expense",
+      "asset reduction",
+      "all correct"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "expenses",
+      "income",
+      "liabilities",
+      "profit"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "neither",
+      "equity",
+      "liabilities",
+      "liabilities + equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Depreciation is",
+    "options": [
+      "expense",
+      "all correct",
+      "asset reduction",
+      "loss of value"
+    ],
+    "answer": "all correct"
+  },
+  {
+    "question": "Ledger is",
+    "options": [
+      "business diary",
+      "account record",
+      "receipt book",
+      "notebook"
+    ],
+    "answer": "account record"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "assets",
+      "balance",
+      "cash flow",
+      "profit and loss"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "final accounts",
+      "errors",
+      "debit/credit sides",
+      "all accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Double-entry means",
+    "options": [
+      "partial",
       "recording twice",
-      "no recording",
-      "partial"
+      "recording once",
+      "no recording"
     ],
     "answer": "recording twice"
   },
   {
-    "question": "Accounting records:",
+    "question": "Journal is",
     "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
+      "subsidiary book",
+      "day book",
+      "balance sheet",
+      "final account"
     ],
-    "answer": "transactions"
+    "answer": "subsidiary book"
   },
   {
-    "question": "Assets equal:",
+    "question": "Double-entry means",
     "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
       "recording twice",
-      "no recording",
-      "partial"
+      "recording once",
+      "partial",
+      "no recording"
     ],
     "answer": "recording twice"
   },
   {
-    "question": "Accounting records:",
+    "question": "Trial balance lists",
     "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
+      "final accounts",
+      "debit/credit sides",
+      "all accounts",
+      "errors"
     ],
-    "answer": "transactions"
+    "answer": "all accounts"
   },
   {
-    "question": "Assets equal:",
+    "question": "Ledger is",
     "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
+      "business diary",
+      "notebook",
+      "receipt book",
+      "account record"
     ],
-    "answer": "liabilities + equity"
+    "answer": "account record"
   },
   {
-    "question": "A debit is:",
+    "question": "Income statement shows",
     "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
       "cash flow",
+      "profit and loss",
+      "assets",
       "balance"
     ],
     "answer": "profit and loss"
   },
   {
-    "question": "Double-entry means:",
+    "question": "Ledger is",
     "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
+      "account record",
+      "receipt book",
+      "business diary",
+      "notebook"
     ],
-    "answer": "recording twice"
+    "answer": "account record"
   },
   {
-    "question": "Accounting records:",
+    "question": "Trial balance lists",
     "options": [
-      "sales",
+      "all accounts",
+      "errors",
+      "final accounts",
+      "debit/credit sides"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Income statement shows",
+    "options": [
+      "profit and loss",
+      "assets",
+      "balance",
+      "cash flow"
+    ],
+    "answer": "profit and loss"
+  },
+  {
+    "question": "Assets equal",
+    "options": [
+      "equity",
+      "neither",
+      "liabilities",
+      "liabilities + equity"
+    ],
+    "answer": "liabilities + equity"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "balance sheet",
+      "day book",
+      "final account",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "liabilities",
+      "profit",
+      "income",
+      "expenses"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Revenue means",
+    "options": [
+      "liabilities",
       "expenses",
+      "profit",
+      "income"
+    ],
+    "answer": "income"
+  },
+  {
+    "question": "Journal is",
+    "options": [
+      "balance sheet",
+      "day book",
+      "final account",
+      "subsidiary book"
+    ],
+    "answer": "subsidiary book"
+  },
+  {
+    "question": "Trial balance lists",
+    "options": [
+      "errors",
+      "debit/credit sides",
+      "all accounts",
+      "final accounts"
+    ],
+    "answer": "all accounts"
+  },
+  {
+    "question": "Debit is",
+    "options": [
+      "income decrease",
+      "liability increase",
+      "expense",
+      "asset increase"
+    ],
+    "answer": "asset increase"
+  },
+  {
+    "question": "Accounting records",
+    "options": [
+      "expenses",
+      "inventory",
       "transactions",
-      "inventory"
+      "sales"
     ],
     "answer": "transactions"
   },
   {
-    "question": "Assets equal:",
+    "question": "Assets equal",
     "options": [
       "liabilities",
-      "equity",
       "liabilities + equity",
+      "equity",
       "neither"
     ],
     "answer": "liabilities + equity"
   },
   {
-    "question": "A debit is:",
+    "question": "Ledger is",
     "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
+      "business diary",
+      "receipt book",
+      "account record",
+      "notebook"
     ],
-    "answer": "asset increase"
+    "answer": "account record"
   },
   {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
+    "question": "Assets equal",
     "options": [
       "liabilities",
+      "neither",
       "equity",
-      "liabilities + equity",
-      "neither"
+      "liabilities + equity"
     ],
     "answer": "liabilities + equity"
   },
   {
-    "question": "A debit is:",
+    "question": "Double-entry means",
     "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
       "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
+      "partial",
       "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
-    ],
-    "answer": "recording twice"
-  },
-  {
-    "question": "Accounting records:",
-    "options": [
-      "sales",
-      "expenses",
-      "transactions",
-      "inventory"
-    ],
-    "answer": "transactions"
-  },
-  {
-    "question": "Assets equal:",
-    "options": [
-      "liabilities",
-      "equity",
-      "liabilities + equity",
-      "neither"
-    ],
-    "answer": "liabilities + equity"
-  },
-  {
-    "question": "A debit is:",
-    "options": [
-      "liability increase",
-      "asset increase",
-      "income decrease",
-      "expense"
-    ],
-    "answer": "asset increase"
-  },
-  {
-    "question": "Income statement shows:",
-    "options": [
-      "assets",
-      "profit and loss",
-      "cash flow",
-      "balance"
-    ],
-    "answer": "profit and loss"
-  },
-  {
-    "question": "Double-entry means:",
-    "options": [
-      "recording once",
-      "recording twice",
-      "no recording",
-      "partial"
+      "recording once"
     ],
     "answer": "recording twice"
   }

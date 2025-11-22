@@ -1,36 +1,156 @@
 [
   {
-    "question": "Commerce involves:",
+    "question": "Wholesaler buys in",
     "options": [
-      "buying and selling",
+      "single items",
+      "large quantities",
+      "small quantities",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "service",
+      "price only",
+      "all factors",
+      "quality"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "quality",
+      "price only",
+      "all factors",
+      "service"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue",
+      "costs",
+      "revenue - costs",
+      "revenue + costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue - costs",
+      "revenue",
+      "costs",
+      "revenue + costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "illegal acts",
+      "honest practices",
+      "deception",
+      "profit only"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "payment request",
+      "receipt",
+      "bill of goods",
+      "delivery note"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "illegal acts",
+      "profit only",
+      "honest practices"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "service",
+      "price only",
+      "quality",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "illegal acts",
+      "profit only",
+      "honest practices",
+      "deception"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "selling to consumers",
+      "wholesale only",
+      "transportation",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "selling only",
+      "trading goods",
+      "credit only",
+      "cash exchange"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "trading goods",
+      "cash exchange",
+      "selling only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Retail is",
+    "options": [
       "production",
-      "consumption",
-      "distribution"
+      "selling to consumers",
+      "transportation",
+      "wholesale only"
     ],
-    "answer": "buying and selling"
+    "answer": "selling to consumers"
   },
   {
-    "question": "An entrepreneur is:",
+    "question": "Customer loyalty depends on",
     "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
+      "quality",
+      "price only",
+      "all factors",
+      "service"
     ],
-    "answer": "business founder"
+    "answer": "all factors"
   },
   {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
+    "question": "Profit is",
     "options": [
       "revenue - costs",
       "revenue + costs",
@@ -40,7 +160,2347 @@
     "answer": "revenue - costs"
   },
   {
-    "question": "Business ethics involves:",
+    "question": "Commerce involves",
+    "options": [
+      "buying and selling",
+      "consumption",
+      "production",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "accounting",
+      "production",
+      "hiring"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "distribution",
+      "buying and selling",
+      "production",
+      "consumption"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "cash exchange",
+      "selling only",
+      "trading goods",
+      "credit only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue",
+      "revenue + costs",
+      "costs",
+      "revenue - costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "large quantities",
+      "small quantities",
+      "single items",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "all factors",
+      "service",
+      "quality",
+      "price only"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "cash exchange",
+      "trading goods",
+      "credit only",
+      "selling only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "buying and selling",
+      "distribution",
+      "consumption",
+      "production"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "production",
+      "buying and selling",
+      "consumption",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "bill of goods",
+      "payment request",
+      "delivery note",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "quality",
+      "service",
+      "all factors",
+      "price only"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "production",
+      "hiring",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "production",
+      "transportation",
+      "wholesale only",
+      "selling to consumers"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "wholesale only",
+      "transportation",
+      "production",
+      "selling to consumers"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "quality",
+      "service",
+      "price only",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "price only",
+      "all factors",
+      "quality",
+      "service"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "cash exchange",
+      "trading goods",
+      "selling only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "consumption",
+      "buying and selling",
+      "production",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "cash exchange",
+      "trading goods",
+      "selling only",
+      "credit only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "accountant",
+      "manager",
+      "business founder",
+      "employee"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "production",
+      "selling to consumers",
+      "transportation",
+      "wholesale only"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "wholesale only",
+      "transportation",
+      "selling to consumers",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "honest practices",
+      "deception",
+      "profit only",
+      "illegal acts"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "service",
+      "all factors",
+      "quality",
+      "price only"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "small quantities",
+      "bulk and retail",
+      "large quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "large quantities",
+      "bulk and retail",
+      "small quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "delivery note",
+      "payment request",
+      "bill of goods",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "distribution",
+      "buying and selling",
+      "production",
+      "consumption"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "all factors",
+      "quality",
+      "service",
+      "price only"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "employee",
+      "business founder",
+      "manager",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "selling only",
+      "cash exchange",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "distribution",
+      "production",
+      "consumption",
+      "buying and selling"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "selling only",
+      "cash exchange",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "payment request",
+      "delivery note",
+      "receipt",
+      "bill of goods"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "quality",
+      "all factors",
+      "service",
+      "price only"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "consumption",
+      "buying and selling",
+      "production",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "payment request",
+      "delivery note",
+      "bill of goods",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "bulk and retail",
+      "small quantities",
+      "single items",
+      "large quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "delivery note",
+      "receipt",
+      "bill of goods",
+      "payment request"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue + costs",
+      "costs",
+      "revenue",
+      "revenue - costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "transportation",
+      "selling to consumers",
+      "production",
+      "wholesale only"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "production",
+      "consumption",
+      "distribution",
+      "buying and selling"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "large quantities",
+      "small quantities",
+      "single items",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "illegal acts",
+      "honest practices",
+      "profit only",
+      "deception"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "receipt",
+      "bill of goods",
+      "delivery note",
+      "payment request"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "buying and selling",
+      "production",
+      "distribution",
+      "consumption"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "production",
+      "accounting",
+      "hiring"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "manager",
+      "business founder",
+      "employee",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "large quantities",
+      "bulk and retail",
+      "small quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "bulk and retail",
+      "small quantities",
+      "large quantities",
+      "single items"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "distribution",
+      "consumption",
+      "buying and selling",
+      "production"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "all factors",
+      "service",
+      "price only",
+      "quality"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "illegal acts",
+      "profit only",
+      "honest practices"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "trading goods",
+      "selling only",
+      "cash exchange"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "service",
+      "price only",
+      "quality",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "trading goods",
+      "credit only",
+      "selling only",
+      "cash exchange"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "business founder",
+      "manager",
+      "employee",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "quality",
+      "service",
+      "price only",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "production",
+      "customer satisfaction",
+      "hiring",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "receipt",
+      "payment request",
+      "delivery note",
+      "bill of goods"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "honest practices",
+      "profit only",
+      "illegal acts"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "large quantities",
+      "small quantities",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "costs",
+      "revenue + costs",
+      "revenue",
+      "revenue - costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "selling only",
+      "cash exchange",
+      "credit only",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "buying and selling",
+      "consumption",
+      "distribution",
+      "production"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "production",
+      "transportation",
+      "selling to consumers",
+      "wholesale only"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "production",
+      "customer satisfaction",
+      "hiring",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "buying and selling",
+      "production",
+      "consumption",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue",
+      "revenue + costs",
+      "costs",
+      "revenue - costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "selling only",
+      "credit only",
+      "trading goods",
+      "cash exchange"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "hiring",
+      "production",
+      "customer satisfaction",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "profit only",
+      "illegal acts",
+      "honest practices",
+      "deception"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "buying and selling",
+      "production",
+      "distribution",
+      "consumption"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "small quantities",
+      "bulk and retail",
+      "single items",
+      "large quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "buying and selling",
+      "production",
+      "consumption",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "production",
+      "consumption",
+      "buying and selling",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "bill of goods",
+      "receipt",
+      "payment request",
+      "delivery note"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "quality",
+      "price only",
+      "service",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "selling only",
+      "cash exchange",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "business founder",
+      "manager",
+      "employee",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "selling only",
+      "trading goods",
+      "cash exchange"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "employee",
+      "manager",
+      "accountant",
+      "business founder"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "bulk and retail",
+      "single items",
+      "small quantities",
+      "large quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "large quantities",
+      "single items",
+      "bulk and retail",
+      "small quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "quality",
+      "service",
+      "price only",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "receipt",
+      "delivery note",
+      "payment request",
+      "bill of goods"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "illegal acts",
+      "profit only",
+      "honest practices",
+      "deception"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "selling only",
+      "credit only",
+      "cash exchange",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "hiring",
+      "production",
+      "customer satisfaction",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "hiring",
+      "accounting",
+      "production"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "business founder",
+      "employee",
+      "manager",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "hiring",
+      "production",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "production",
+      "customer satisfaction",
+      "accounting",
+      "hiring"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue - costs",
+      "revenue + costs",
+      "costs",
+      "revenue"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "price only",
+      "all factors",
+      "quality",
+      "service"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "payment request",
+      "receipt",
+      "delivery note",
+      "bill of goods"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "large quantities",
+      "small quantities",
+      "single items",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "illegal acts",
+      "profit only",
+      "honest practices",
+      "deception"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "receipt",
+      "delivery note",
+      "payment request",
+      "bill of goods"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "bulk and retail",
+      "small quantities",
+      "single items",
+      "large quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "employee",
+      "manager",
+      "business founder",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "delivery note",
+      "bill of goods",
+      "receipt",
+      "payment request"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "profit only",
+      "illegal acts",
+      "honest practices",
+      "deception"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "production",
+      "buying and selling",
+      "consumption",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "transportation",
+      "selling to consumers",
+      "wholesale only",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "cash exchange",
+      "trading goods",
+      "selling only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "cash exchange",
+      "selling only",
+      "trading goods",
+      "credit only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "wholesale only",
+      "production",
+      "transportation",
+      "selling to consumers"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "selling to consumers",
+      "transportation",
+      "production",
+      "wholesale only"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "production",
+      "selling to consumers",
+      "wholesale only",
+      "transportation"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "hiring",
+      "production",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "illegal acts",
+      "profit only",
+      "honest practices"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "delivery note",
+      "receipt",
+      "bill of goods",
+      "payment request"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "wholesale only",
+      "production",
+      "selling to consumers",
+      "transportation"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue + costs",
+      "revenue - costs",
+      "costs",
+      "revenue"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "honest practices",
+      "profit only",
+      "deception",
+      "illegal acts"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "selling only",
+      "credit only",
+      "cash exchange",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue",
+      "revenue - costs",
+      "revenue + costs",
+      "costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue - costs",
+      "revenue",
+      "costs",
+      "revenue + costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "illegal acts",
+      "honest practices",
+      "deception",
+      "profit only"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "small quantities",
+      "large quantities",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "cash exchange",
+      "credit only",
+      "selling only",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "accountant",
+      "employee",
+      "business founder",
+      "manager"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "receipt",
+      "payment request",
+      "bill of goods",
+      "delivery note"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "cash exchange",
+      "selling only",
+      "credit only",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "bulk and retail",
+      "small quantities",
+      "large quantities",
+      "single items"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "service",
+      "price only",
+      "quality",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "transportation",
+      "wholesale only",
+      "selling to consumers",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "costs",
+      "revenue + costs",
+      "revenue",
+      "revenue - costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "trading goods",
+      "credit only",
+      "selling only",
+      "cash exchange"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "production",
+      "hiring",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "employee",
+      "business founder",
+      "accountant",
+      "manager"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "delivery note",
+      "payment request",
+      "bill of goods",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "bulk and retail",
+      "small quantities",
+      "large quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "business founder",
+      "employee",
+      "accountant",
+      "manager"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "hiring",
+      "customer satisfaction",
+      "accounting",
+      "production"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "service",
+      "quality",
+      "all factors",
+      "price only"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "distribution",
+      "buying and selling",
+      "production",
+      "consumption"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "business founder",
+      "accountant",
+      "manager",
+      "employee"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "delivery note",
+      "bill of goods",
+      "receipt",
+      "payment request"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "cash exchange",
+      "selling only",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "hiring",
+      "accounting",
+      "production"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "receipt",
+      "payment request",
+      "delivery note",
+      "bill of goods"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "trading goods",
+      "credit only",
+      "selling only",
+      "cash exchange"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue",
+      "costs",
+      "revenue - costs",
+      "revenue + costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "delivery note",
+      "payment request",
+      "bill of goods",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "profit only",
+      "illegal acts",
+      "honest practices"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "production",
+      "buying and selling",
+      "distribution",
+      "consumption"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "hiring",
+      "accounting",
+      "production",
+      "customer satisfaction"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "profit only",
+      "illegal acts",
+      "deception",
+      "honest practices"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "consumption",
+      "buying and selling",
+      "production",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "trading goods",
+      "credit only",
+      "cash exchange",
+      "selling only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "transportation",
+      "wholesale only",
+      "production",
+      "selling to consumers"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "manager",
+      "business founder",
+      "accountant",
+      "employee"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "employee",
+      "manager",
+      "business founder",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "large quantities",
+      "single items",
+      "bulk and retail",
+      "small quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "credit only",
+      "selling only",
+      "cash exchange",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "bulk and retail",
+      "small quantities",
+      "large quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "wholesale only",
+      "transportation",
+      "selling to consumers",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "honest practices",
+      "illegal acts",
+      "profit only"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "bill of goods",
+      "delivery note",
+      "payment request",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "manager",
+      "business founder",
+      "accountant",
+      "employee"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue - costs",
+      "costs",
+      "revenue",
+      "revenue + costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "hiring",
+      "accounting",
+      "production"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue + costs",
+      "revenue",
+      "costs",
+      "revenue - costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "wholesale only",
+      "production",
+      "selling to consumers",
+      "transportation"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "price only",
+      "service",
+      "quality",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "production",
+      "buying and selling",
+      "distribution",
+      "consumption"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "accounting",
+      "hiring",
+      "customer satisfaction",
+      "production"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "business founder",
+      "accountant",
+      "manager",
+      "employee"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "production",
+      "selling to consumers",
+      "transportation",
+      "wholesale only"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "costs",
+      "revenue - costs",
+      "revenue + costs",
+      "revenue"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "trading goods",
+      "selling only",
+      "credit only",
+      "cash exchange"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "illegal acts",
+      "profit only",
+      "honest practices"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "distribution",
+      "production",
+      "consumption",
+      "buying and selling"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "selling to consumers",
+      "wholesale only",
+      "production",
+      "transportation"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "trading goods",
+      "selling only",
+      "cash exchange",
+      "credit only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "illegal acts",
+      "honest practices",
+      "profit only"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "illegal acts",
+      "profit only",
+      "deception",
+      "honest practices"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "service",
+      "quality",
+      "price only",
+      "all factors"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "delivery note",
+      "bill of goods",
+      "receipt",
+      "payment request"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "price only",
+      "all factors",
+      "quality",
+      "service"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue + costs",
+      "revenue",
+      "revenue - costs",
+      "costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "accounting",
+      "production",
+      "hiring",
+      "customer satisfaction"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "bulk and retail",
+      "small quantities",
+      "large quantities",
+      "single items"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "accountant",
+      "business founder",
+      "manager",
+      "employee"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "transportation",
+      "wholesale only",
+      "production",
+      "selling to consumers"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "hiring",
+      "production",
+      "customer satisfaction",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "employee",
+      "manager",
+      "business founder",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "payment request",
+      "delivery note",
+      "receipt",
+      "bill of goods"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "bulk and retail",
+      "large quantities",
+      "small quantities",
+      "single items"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "employee",
+      "accountant",
+      "manager",
+      "business founder"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "illegal acts",
+      "honest practices",
+      "deception",
+      "profit only"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "manager",
+      "accountant",
+      "employee",
+      "business founder"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "production",
+      "hiring",
+      "customer satisfaction",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "production",
+      "accounting",
+      "hiring",
+      "customer satisfaction"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue - costs",
+      "costs",
+      "revenue + costs",
+      "revenue"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "cash exchange",
+      "trading goods",
+      "selling only",
+      "credit only"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "production",
+      "wholesale only",
+      "transportation",
+      "selling to consumers"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "business founder",
+      "accountant",
+      "employee",
+      "manager"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "honest practices",
+      "profit only",
+      "deception",
+      "illegal acts"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "transportation",
+      "wholesale only",
+      "selling to consumers",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "production",
+      "buying and selling",
+      "distribution",
+      "consumption"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "hiring",
+      "production",
+      "customer satisfaction",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "production",
+      "transportation",
+      "selling to consumers",
+      "wholesale only"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "profit only",
+      "illegal acts",
+      "honest practices"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "hiring",
+      "accounting",
+      "customer satisfaction",
+      "production"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "all factors",
+      "quality",
+      "price only",
+      "service"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "small quantities",
+      "large quantities",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "accountant",
+      "employee",
+      "manager",
+      "business founder"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue + costs",
+      "revenue",
+      "costs",
+      "revenue - costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "quality",
+      "service",
+      "all factors",
+      "price only"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "honest practices",
+      "deception",
+      "profit only",
+      "illegal acts"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue",
+      "revenue - costs",
+      "costs",
+      "revenue + costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "all factors",
+      "service",
+      "price only",
+      "quality"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "payment request",
+      "bill of goods",
+      "delivery note",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "all factors",
+      "quality",
+      "price only",
+      "service"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "receipt",
+      "bill of goods",
+      "payment request",
+      "delivery note"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "bulk and retail",
+      "large quantities",
+      "small quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "illegal acts",
+      "honest practices",
+      "profit only"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "hiring",
+      "production",
+      "accounting"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "hiring",
+      "accounting",
+      "production"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Barter means",
+    "options": [
+      "cash exchange",
+      "credit only",
+      "selling only",
+      "trading goods"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "transportation",
+      "selling to consumers",
+      "wholesale only",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "accountant",
+      "business founder",
+      "manager",
+      "employee"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "selling to consumers",
+      "production",
+      "transportation",
+      "wholesale only"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "selling to consumers",
+      "transportation",
+      "wholesale only",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "bulk and retail",
+      "large quantities",
+      "small quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "accountant",
+      "employee",
+      "business founder",
+      "manager"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "manager",
+      "employee",
+      "business founder",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "consumption",
+      "distribution",
+      "buying and selling",
+      "production"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "transportation",
+      "selling to consumers",
+      "wholesale only",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "large quantities",
+      "small quantities",
+      "single items",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Business ethics involves",
     "options": [
       "profit only",
       "honest practices",
@@ -50,2951 +2510,491 @@
     "answer": "honest practices"
   },
   {
-    "question": "Commerce involves:",
+    "question": "Marketing focuses on",
     "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
       "accounting",
+      "customer satisfaction",
+      "production",
       "hiring"
     ],
     "answer": "customer satisfaction"
   },
   {
-    "question": "Profit is calculated as:",
+    "question": "Invoice is",
     "options": [
-      "revenue - costs",
-      "revenue + costs",
+      "payment request",
+      "delivery note",
+      "bill of goods",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Profit is",
+    "options": [
       "costs",
+      "revenue",
+      "revenue + costs",
+      "revenue - costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "transportation",
+      "selling to consumers",
+      "wholesale only",
+      "production"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue",
+      "costs",
+      "revenue - costs",
+      "revenue + costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "costs",
+      "revenue - costs",
+      "revenue",
+      "revenue + costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "costs",
+      "revenue + costs",
+      "revenue - costs",
       "revenue"
     ],
     "answer": "revenue - costs"
   },
   {
-    "question": "Business ethics involves:",
+    "question": "Profit is",
     "options": [
+      "costs",
+      "revenue - costs",
+      "revenue",
+      "revenue + costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "single items",
+      "small quantities",
+      "large quantities",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "honest practices",
       "profit only",
+      "illegal acts",
+      "deception"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "bulk and retail",
+      "single items",
+      "small quantities",
+      "large quantities"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "production",
+      "accounting",
+      "hiring",
+      "customer satisfaction"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "service",
+      "price only",
+      "all factors",
+      "quality"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "accountant",
+      "manager",
+      "employee",
+      "business founder"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "delivery note",
+      "bill of goods",
+      "payment request",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "small quantities",
+      "single items",
+      "large quantities",
+      "bulk and retail"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue - costs",
+      "revenue",
+      "revenue + costs",
+      "costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "quality",
+      "price only",
+      "all factors",
+      "service"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "business founder",
+      "manager",
+      "employee",
+      "accountant"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "bill of goods",
+      "receipt",
+      "delivery note",
+      "payment request"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "buying and selling",
+      "consumption",
+      "distribution",
+      "production"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "all factors",
+      "quality",
+      "price only",
+      "service"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "buying and selling",
+      "consumption",
+      "production",
+      "distribution"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "accounting",
+      "production",
+      "hiring"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "customer satisfaction",
+      "hiring",
+      "accounting",
+      "production"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "large quantities",
+      "bulk and retail",
+      "small quantities",
+      "single items"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "bill of goods",
+      "payment request",
+      "receipt",
+      "delivery note"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Marketing focuses on",
+    "options": [
+      "hiring",
+      "accounting",
+      "customer satisfaction",
+      "production"
+    ],
+    "answer": "customer satisfaction"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "payment request",
+      "delivery note",
+      "bill of goods",
+      "receipt"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
+      "deception",
+      "honest practices",
+      "illegal acts",
+      "profit only"
+    ],
+    "answer": "honest practices"
+  },
+  {
+    "question": "Wholesaler buys in",
+    "options": [
+      "large quantities",
+      "bulk and retail",
+      "small quantities",
+      "single items"
+    ],
+    "answer": "large quantities"
+  },
+  {
+    "question": "Business ethics involves",
+    "options": [
       "honest practices",
       "deception",
+      "profit only",
       "illegal acts"
     ],
     "answer": "honest practices"
   },
   {
-    "question": "Commerce involves:",
+    "question": "Barter means",
     "options": [
-      "buying and selling",
+      "credit only",
+      "selling only",
+      "trading goods",
+      "cash exchange"
+    ],
+    "answer": "trading goods"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "wholesale only",
       "production",
+      "transportation",
+      "selling to consumers"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue + costs",
+      "revenue - costs",
+      "revenue",
+      "costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Retail is",
+    "options": [
+      "production",
+      "wholesale only",
+      "selling to consumers",
+      "transportation"
+    ],
+    "answer": "selling to consumers"
+  },
+  {
+    "question": "Customer loyalty depends on",
+    "options": [
+      "service",
+      "all factors",
+      "quality",
+      "price only"
+    ],
+    "answer": "all factors"
+  },
+  {
+    "question": "Invoice is",
+    "options": [
+      "receipt",
+      "delivery note",
+      "bill of goods",
+      "payment request"
+    ],
+    "answer": "bill of goods"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "distribution",
+      "production",
+      "consumption",
+      "buying and selling"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "production",
+      "distribution",
+      "consumption",
+      "buying and selling"
+    ],
+    "answer": "buying and selling"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "accountant",
+      "manager",
+      "employee",
+      "business founder"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Profit is",
+    "options": [
+      "revenue - costs",
+      "revenue",
+      "revenue + costs",
+      "costs"
+    ],
+    "answer": "revenue - costs"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "production",
+      "buying and selling",
       "consumption",
       "distribution"
     ],
     "answer": "buying and selling"
   },
   {
-    "question": "An entrepreneur is:",
+    "question": "Profit is",
     "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
       "costs",
-      "revenue"
+      "revenue",
+      "revenue + costs",
+      "revenue - costs"
     ],
     "answer": "revenue - costs"
   },
   {
-    "question": "Business ethics involves:",
+    "question": "Profit is",
     "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
+      "revenue - costs",
+      "revenue",
+      "costs",
+      "revenue + costs"
     ],
-    "answer": "honest practices"
+    "answer": "revenue - costs"
   },
   {
-    "question": "Commerce involves:",
+    "question": "Entrepreneur is",
     "options": [
-      "buying and selling",
+      "manager",
+      "business founder",
+      "accountant",
+      "employee"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Entrepreneur is",
+    "options": [
+      "accountant",
+      "employee",
+      "manager",
+      "business founder"
+    ],
+    "answer": "business founder"
+  },
+  {
+    "question": "Commerce involves",
+    "options": [
+      "distribution",
       "production",
       "consumption",
-      "distribution"
+      "buying and selling"
     ],
     "answer": "buying and selling"
   },
   {
-    "question": "An entrepreneur is:",
+    "question": "Business ethics involves",
     "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
       "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
       "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
       "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
-      "illegal acts"
-    ],
-    "answer": "honest practices"
-  },
-  {
-    "question": "Commerce involves:",
-    "options": [
-      "buying and selling",
-      "production",
-      "consumption",
-      "distribution"
-    ],
-    "answer": "buying and selling"
-  },
-  {
-    "question": "An entrepreneur is:",
-    "options": [
-      "employee",
-      "business founder",
-      "manager",
-      "accountant"
-    ],
-    "answer": "business founder"
-  },
-  {
-    "question": "Marketing focuses on:",
-    "options": [
-      "production",
-      "customer satisfaction",
-      "accounting",
-      "hiring"
-    ],
-    "answer": "customer satisfaction"
-  },
-  {
-    "question": "Profit is calculated as:",
-    "options": [
-      "revenue - costs",
-      "revenue + costs",
-      "costs",
-      "revenue"
-    ],
-    "answer": "revenue - costs"
-  },
-  {
-    "question": "Business ethics involves:",
-    "options": [
-      "profit only",
-      "honest practices",
-      "deception",
       "illegal acts"
     ],
     "answer": "honest practices"
