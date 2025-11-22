@@ -139,8 +139,8 @@ html, body {
     background-color: #137a13;
     color: white;
     border: none;
-    padding: 10px 16px;
-    font-size: 12px;
+    padding: 12px 18px;
+    font-size: 13px;
     font-weight: bold;
     cursor: pointer;
     border-radius: 5px;
@@ -149,6 +149,9 @@ html, body {
     display: inline-block;
     white-space: nowrap;
     flex-shrink: 0;
+    flex-grow: 1;
+    text-align: center;
+    min-width: 120px;
 }
 
 .subject-tab:hover {
