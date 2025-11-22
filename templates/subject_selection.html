@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+
+{% block title %}Select Subjects - JAMB CBT{% endblock %}
+
+{% block content %}
+<div class="registration-container">
+    <div class="registration-box">
+        <h1 class="registration-title">Select 4 Subjects</h1>
+        <p style="text-align: center; margin-bottom: 20px; color: #666;">
+            Welcome {{ session.student_info.name }}! Please select exactly 4 subjects for your exam.
+        </p>
+        
+        {% if error %}
+        <div class="error-message">{{ error }}</div>
+        {% endif %}
+        
+        <form method="POST" action="{{ url_for('select_subjects') }}">
+            <div class="subjects-grid">
+                {% for subject in subjects %}
+                <div class="subject-checkbox">
+                    <input type="checkbox" id="subj_{{ subject }}" name="subjects" value="{{ subject }}" 
+                           onchange="updateSelection()">
+                    <label for="subj_{{ subject }}">{{ subject }}</label>
+                </div>
+                {% endfor %}
+            </div>
+            
+            <div style="text-align: center; margin-top: 10px; color: #666; font-size: 14px;">
+                <span id="selection-count">Selected: 0/4</span>
+            </div>
+            
+            <button type="submit" class="btn btn-primary" id="submit-btn" disabled style="margin-top: 30px;">
+                Start Exam (2 Hours)
+            </button>
+        </form>
+    </div>
+</div>
+
+<style>
+    .subjects-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 15px;
+        margin: 30px 0;
+    }
+    
+    .subject-checkbox {
+        display: flex;
+        align-items: center;
+        padding: 15px;
+        border: 2px solid #ddd;
+        border-radius: 8px;
+        background: #f9f9f9;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+    
+    .subject-checkbox:hover {
+        border-color: #007bff;
+        background: #f0f7ff;
+    }
+    
+    .subject-checkbox input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+        cursor: pointer;
+        margin-right: 12px;
+        accent-color: #007bff;
+    }
+    
+    .subject-checkbox label {
+        font-size: 16px;
+        cursor: pointer;
+        flex: 1;
+        margin: 0;
+    }
+    
+    .subject-checkbox input[type="checkbox"]:checked + label {
+        font-weight: bold;
+        color: #007bff;
+    }
+    
+    #submit-btn:disabled {
+        background-color: #ccc;
+        cursor: not-allowed;
+        opacity: 0.6;
+    }
+    
+    #submit-btn:not(:disabled) {
+        background-color: #28a745;
+    }
+    
+    #submit-btn:not(:disabled):hover {
+        background-color: #218838;
+    }
+</style>
+
+<script>
+function updateSelection() {
+    const checkboxes = document.querySelectorAll('input[name="subjects"]');
+    const checked = Array.from(checkboxes).filter(cb => cb.checked).length;
+    
+    document.getElementById('selection-count').textContent = `Selected: ${checked}/4`;
+    document.getElementById('submit-btn').disabled = checked !== 4;
+}
+
+// Initialize on page load
+document.addEventListener('DOMContentLoaded', updateSelection);
+</script>
+{% endblock %}

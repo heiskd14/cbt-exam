@@ -49,17 +49,42 @@ def register():
     
     session['student_info'] = {'name': name, 'regno': regno}
     
+    return redirect(url_for('subject_selection'))
+
+@app.route('/subject_selection')
+def subject_selection():
+    if 'student_info' not in session:
+        return redirect(url_for('index'))
+    
+    all_subjects = ["English", "Mathematics", "Chemistry", "Physics", "Biology"]
+    return render_template('subject_selection.html', subjects=all_subjects)
+
+@app.route('/select_subjects', methods=['POST'])
+def select_subjects():
+    if 'student_info' not in session:
+        return redirect(url_for('index'))
+    
+    selected_subjects = request.form.getlist('subjects')
+    
+    if len(selected_subjects) != 4:
+        all_subjects = ["English", "Mathematics", "Chemistry", "Physics", "Biology"]
+        error = "Please select exactly 4 subjects"
+        return render_template('subject_selection.html', subjects=all_subjects, error=error)
+    
     subject_files = {
         "English": "english.json",
         "Mathematics": "maths.json",
-        "General Paper": "general.json"
+        "Chemistry": "chemistry.json",
+        "Physics": "physics.json",
+        "Biology": "biology.json"
     }
     
     subject_questions = {}
     subject_answers = {}
     
-    for subj, file in subject_files.items():
-        if os.path.exists(file):
+    for subj in selected_subjects:
+        file = subject_files.get(subj)
+        if file and os.path.exists(file):
             qs = load_questions(file)
             subject_questions[subj] = random.sample(qs, min(30, len(qs)))
             subject_answers[subj] = [None] * len(subject_questions[subj])
@@ -67,8 +92,8 @@ def register():
     session['subject_questions'] = subject_questions
     session['subject_answers'] = subject_answers
     session['start_time'] = time.time()
-    session['exam_duration'] = 3600
-    session['current_subject'] = 'English'
+    session['exam_duration'] = 7200
+    session['current_subject'] = selected_subjects[0]
     session['current_question'] = 0
     
     return redirect(url_for('exam'))
