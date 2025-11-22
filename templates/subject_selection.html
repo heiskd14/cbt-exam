@@ -60,13 +60,19 @@
     
     .subjects-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        grid-template-columns: repeat(2, 1fr);
         gap: 12px;
         margin: 20px 0;
         width: 100%;
         overflow: visible;
-        max-height: 500px;
+        max-height: 550px;
         overflow-y: auto;
+    }
+    
+    @media (max-width: 600px) {
+        .subjects-grid {
+            grid-template-columns: 1fr;
+        }
     }
     
     .subject-checkbox {

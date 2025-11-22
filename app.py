@@ -57,7 +57,7 @@ def subject_selection():
         return redirect(url_for('index'))
     
     all_subjects = [
-        "Use of English", "Mathematics", "English Language", "Literature in English",
+        "Use of English", "Mathematics", "Literature in English",
         "History", "Government", "Economics", "Commerce",
         "Geography", "Physics", "Chemistry", "Biology",
         "Agriculture", "Principles of Accounts", "Physical and Health Education", "Music",
@@ -80,7 +80,7 @@ def select_subjects():
     
     if len(selected_subjects) < 1:
         all_subjects = [
-            "Use of English", "Mathematics", "English Language", "Literature in English",
+            "Use of English", "Mathematics", "Literature in English",
             "History", "Government", "Economics", "Commerce",
             "Geography", "Physics", "Chemistry", "Biology",
             "Agriculture", "Principles of Accounts", "Physical and Health Education", "Music",
@@ -94,7 +94,6 @@ def select_subjects():
     subject_files = {
         "Use of English": "use_of_english.json",
         "Mathematics": "mathematics.json",
-        "English Language": "english_language.json",
         "Literature in English": "literature_in_english.json",
         "History": "history.json",
         "Government": "government.json",
