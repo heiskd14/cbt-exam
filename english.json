@@ -1,252 +1,52 @@
 [
   {
-    "question": "Which of the following sentences is grammatically correct?",
-    "options": ["If I was you, I would reconsider the offer.", "The committee are in disagreement over the verdict.", "Neither the students nor the teacher are responsible.", "She is one of those people who is always punctual."],
-    "answer": "The committee are in disagreement over the verdict."
+    "question": "Which of the following is the correct meaning of 'prudent'?",
+    "options": [
+      "Careless",
+      "Wise and careful",
+      "Wasteful",
+      "Ignorant"
+    ],
+    "answer": "Wise and careful"
   },
   {
-    "question": "Identify the sentence that uses the subjunctive mood correctly.",
-    "options": ["I wish I was more knowledgeable about astrophysics.", "It's essential that he goes to the meeting.", "The manager demanded that the report be submitted by noon.", "If she was here, she would know what to do."],
-    "answer": "The manager demanded that the report be submitted by noon."
+    "question": "The phrasal verb 'put off' means?",
+    "options": [
+      "To extinguish",
+      "To postpone",
+      "To annoy",
+      "To remove"
+    ],
+    "answer": "To postpone"
   },
   {
-    "question": "It is not unlikely that he will be late. What does this sentence mean?",
-    "options": ["It is certain he will be late.", "It is impossible that he will be late.", "It is probable that he will be late.", "It is very likely he will not be late."],
-    "answer": "It is probable that he will be late."
+    "question": "Identify the synonym for 'benevolent'",
+    "options": [
+      "Cruel",
+      "Kind",
+      "Strict",
+      "Silent"
+    ],
+    "answer": "Kind"
   },
   {
-    "question": "Which sentence contains a dangling modifier?",
-    "options": ["Having finished the assignment, the TV was turned on.", "She listened to the music with great concentration.", "Running quickly, he managed to catch the bus.", "The dog, barking loudly, scared the intruder."],
-    "answer": "Having finished the assignment, the TV was turned on."
+    "question": "In the sentence 'The student studies hard', what is the subject?",
+    "options": [
+      "studies",
+      "hard",
+      "The student",
+      "The"
+    ],
+    "answer": "The student"
   },
   {
-    "question": "Select the sentence with correct parallel structure.",
-    "options": ["She enjoys hiking, swimming, and to ride a bicycle.", "His goals are to start a business, travel the world, and learning a new language.", "The project requires patience, skill, and being creative.", "He was praised for his intelligence, his honesty, and his hard work."],
-    "answer": "He was praised for his intelligence, his honesty, and his hard work."
-  },
-  {
-    "question": "Identify the sentence that is NOT a run-on or comma splice.",
-    "options": ["The sun was high, we put on more sunscreen.", "The data is inconclusive, therefore, we need more research.", "Although the data is inconclusive, we must proceed with caution.", "He is a renowned scientist, his work has changed the field."],
-    "answer": "Although the data is inconclusive, we must proceed with caution."
-  },
-  {
-    "question": "What is the function of the word 'that' in 'The fact that he arrived on time surprised everyone'?",
-    "options": ["Demonstrative Adjective", "Relative Pronoun", "Conjunction", "Noun Clause Introducer"],
-    "answer": "Noun Clause Introducer"
-  },
-  {
-    "question": "The word 'PERFIDIOUS' most nearly means:",
-    "options": ["Loyal", "Treacherous", "Skillful", "Temporary"],
-    "answer": "Treacherous"
-  },
-  {
-    "question": "The word 'LACONIC' most nearly means:",
-    "options": ["Verbose", "Taciturn", "Funny", "Sharp"],
-    "answer": "Taciturn"
-  },
-  {
-    "question": "The word 'OBVIATE' most nearly means:",
-    "options": ["To complicate", "To make unnecessary", "To clarify", "To object"],
-    "answer": "To make unnecessary"
-  },
-  {
-    "question": "The word 'VICISSITUDE' most nearly means:",
-    "options": ["A change of circumstances", "A stubborn attitude", "A moral victory", "A trivial detail"],
-    "answer": "A change of circumstances"
-  },
-  {
-    "question": "He was known for his SAGACITY. What does 'sagacity' mean?",
-    "options": ["Wisdom", "Wealth", "Humor", "Courage"],
-    "answer": "Wisdom"
-  },
-  {
-    "question": "The argument was SPURIOUS. What does 'spurious' mean?",
-    "options": ["Genuine", "Logical", "False", "Difficult"],
-    "answer": "False"
-  },
-  {
-    "question": "A PROPENSITY for exaggeration means:",
-    "options": ["A dislike", "A natural inclination", "An inability", "A reason"],
-    "answer": "A natural inclination"
-  },
-  {
-    "question": "Her remarks were INEXORABLE.",
-    "options": ["Unstoppable and relentless", "Kind and gentle", "Irrelevant and off-topic", "Easy to understand"],
-    "answer": "Unstoppable and relentless"
-  },
-  {
-    "question": "The QUIXOTIC quest was doomed from the start.",
-    "options": ["Impractical and idealistic", "Well-funded", "Evil and malicious", "Short and simple"],
-    "answer": "Impractical and idealistic"
-  },
-  {
-    "question": "He spoke in a SARDONIC tone.",
-    "options": ["Sincere and heartfelt", "Mocking and cynical", "Boring and monotonous", "Loud and clear"],
-    "answer": "Mocking and cynical"
-  },
-  {
-    "question": "The word 'PROLIX' is opposite in meaning to:",
-    "options": ["Wordy", "Concise", "Simple", "Complex"],
-    "answer": "Concise"
-  },
-  {
-    "question": "The word 'SALUBRIOUS' is opposite in meaning to:",
-    "options": ["Healthy", "Unwholesome", "Salty", "Famous"],
-    "answer": "Unwholesome"
-  },
-  {
-    "question": "The word 'ABJECT' is opposite in meaning to:",
-    "options": ["Miserable", "Proud", "Unimportant", "Rejected"],
-    "answer": "Proud"
-  },
-  {
-    "question": "The word 'PARSIMONIOUS' is opposite in meaning to:",
-    "options": ["Stingy", "Generous", "Simple", "Complicated"],
-    "answer": "Generous"
-  },
-  {
-    "question": "The phrase 'The wind whispered through the trees' is an example of:",
-    "options": ["Simile", "Metaphor", "Personification", "Onomatopoeia"],
-    "answer": "Personification"
-  },
-  {
-    "question": "'He was a lion in the battle' is a:",
-    "options": ["Simile", "Metaphor", "Hyperbole", "Euphemism"],
-    "answer": "Metaphor"
-  },
-  {
-    "question": "The recurring 's' sound in 'The soft sea surf sprayed the sailor' is:",
-    "options": ["Assonance", "Consonance", "Alliteration", "Onomatopoeia"],
-    "answer": "Alliteration"
-  },
-  {
-    "question": "Which of the following is an example of an oxymoron?",
-    "options": ["The sound of silence", "As busy as a bee", "The world is a stage", "She sang like an angel"],
-    "answer": "The sound of silence"
-  },
-  {
-    "question": "The statement 'I've told you a million times' is a:",
-    "options": ["Metaphor", "Simile", "Hyperbole", "Litotes"],
-    "answer": "Hyperbole"
-  },
-  {
-    "question": "The use of 'passed away' instead of 'died' is a:",
-    "options": ["Euphemism", "Juxtaposition", "Synecdoche", "Aphorism"],
-    "answer": "Euphemism"
-  },
-  {
-    "question": "'The plate cracked into a hundred smiles' is an example of:",
-    "options": ["Simile", "Metaphor", "Personification", "Synesthesia"],
-    "answer": "Metaphor"
-  },
-  {
-    "question": "'The chair groaned under his weight' uses:",
-    "options": ["Personification", "Zoomorphism", "Allegory", "Metonymy"],
-    "answer": "Personification"
-  },
-  {
-    "question": "The number of students are increasing every year. Find the error.",
-    "options": ["The number of", "students are", "increasing every year", "no error"],
-    "answer": "students are"
-  },
-  {
-    "question": "He is older than me by three years. Find the error.",
-    "options": ["He is", "older than", "me by three years", "no error"],
-    "answer": "older than"
-  },
-  {
-    "question": "She insisted that she will finish the work herself. Find the error.",
-    "options": ["She insisted", "that she will", "finish the work herself", "no error"],
-    "answer": "that she will"
-  },
-  {
-    "question": "One must finish his work on time. Find the error.",
-    "options": ["One must", "finish his work", "on time", "no error"],
-    "answer": "finish his work"
-  },
-  {
-    "question": "Despite his initial skepticism, he was ______ by the compelling evidence.",
-    "options": ["prevaricated", "obfuscated", "substantiated", "disabused"],
-    "answer": "disabused"
-  },
-  {
-    "question": "The author's writing was so ______ that it was difficult to discern his true argument.",
-    "options": ["lucid", "nebulous", "verbose", "succinct"],
-    "answer": "nebulous"
-  },
-  {
-    "question": "The two theories are ______; if one is true, the other must be false.",
-    "options": ["complementary", "synonymous", "mutually exclusive", "correlative"],
-    "answer": "mutually exclusive"
-  },
-  {
-    "question": "Her ______ demeanor belied a fierce and competitive spirit.",
-    "options": ["truculent", "diffident", "gregarious", "phlegmatic"],
-    "answer": "phlegmatic"
-  },
-  {
-    "question": "The critic argued that the novel's attempt to critique capitalism was undermined by what?",
-    "options": ["Its powerful message", "Its internal contradiction", "Its realistic characters", "Its clear moral lessons"],
-    "answer": "Its internal contradiction"
-  },
-  {
-    "question": "Based on the passage, the novel's prose can be described as:",
-    "options": ["Sparse and economical", "Rich and detailed", "Humorous and light", "Academic and dry"],
-    "answer": "Rich and detailed"
-  },
-  {
-    "question": "According to the dissenting minority, the treaty is:",
-    "options": ["A strong and binding agreement", "Primarily symbolic and lacking in substance", "A temporary solution", "A victory for diplomacy"],
-    "answer": "Primarily symbolic and lacking in substance"
-  },
-  {
-    "question": "Which sentence is the most concise and effective?",
-    "options": ["The reason for the delay is because of the weather.", "The reason for the delay is due to the weather.", "The delay is because of the weather.", "We are delayed on account of the weather."],
-    "answer": "The delay is because of the weather."
-  },
-  {
-    "question": "Choose the sentence that is grammatically correct and uses the most formal register.",
-    "options": ["Who did you give the book to?", "To whom did you give the book?", "Whom did you give the book to?", "Who did you give the book?"],
-    "answer": "To whom did you give the book?"
-  },
-  {
-    "question": "The new policy had a ______ effect on morale, boosting it significantly.",
-    "options": ["salutary", "salubrious", "sinister", "seditious"],
-    "answer": "salutary"
-  },
-  {
-    "question": "Identify the sentence that is punctuated correctly.",
-    "options": ["The ingredients are: flour, sugar, eggs, and butter.", "The ingredients are: flour, sugar, eggs and butter.", "The ingredients are flour, sugar, eggs, and butter.", "The ingredients are—flour, sugar, eggs, and butter."],
-    "answer": "The ingredients are flour, sugar, eggs, and butter."
-  },
-  {
-    "question": "What does 'non sequitur' mean?",
-    "options": ["A conclusion that does not logically follow from the premises.", "A statement that is self-contradictory.", "A request for evidence.", "A Latin phrase meaning 'after this, therefore because of this.'"],
-    "answer": "A conclusion that does not logically follow from the premises."
-  },
-  {
-    "question": "The phrase 'to gild the lily' means:",
-    "options": ["To make something already beautiful more so, unnecessarily.", "To celebrate a great success.", "To hide a flaw with a superficial fix.", "To create something from nothing."],
-    "answer": "To make something already beautiful more so, unnecessarily."
-  },
-  {
-    "question": "In grammar, the phrase 'my brother's car' is an example of:",
-    "options": ["A possessive pronoun", "A possessive adjective", "The genitive (possessive) case", "A compound noun"],
-    "answer": "The genitive (possessive) case"
-  },
-  {
-    "question": "Which of the following is a 'faux ami' (false friend) for an English speaker learning French?",
-    "options": ["Library (English) vs. Librairie (French, meaning bookstore)", "Table (same meaning in both)", "Computer (English) vs. Ordinateur (French)", "Champagne (same meaning in both)"],
-    "answer": "Library (English) vs. Librairie (French, meaning bookstore)"
-  },
-  {
-    "question": "The word 'literally' is often used problematically because it is used to mean:",
-    "options": ["Its exact dictionary definition ('in a literal manner')", "Its opposite, for figurative emphasis", "Almost or nearly", "Approximately"],
-    "answer": "Its opposite, for figurative emphasis"
-  },
-  {
-    "question": "'The United States has a large economy.' Why is 'The United States' singular?",
-    "options": ["It is a country name.", "It is a collective noun.", "It is treated as a single entity.", "All of the above."],
-    "answer": "All of the above."
+    "question": "What is the past tense of 'begin'?",
+    "options": [
+      "begins",
+      "began",
+      "beginning",
+      "begun"
+    ],
+    "answer": "began"
   }
 ]

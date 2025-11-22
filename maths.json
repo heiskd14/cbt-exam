@@ -1,247 +1,52 @@
 [
-    {
-        "question": "What is 127 + 284",
-        "options": ["311", "401", "411", "511"],
-        "answer": "411"
-    },
-    {
-        "question": "Subtract 89 from 155",
-        "options": ["66", "76", "244", "234"],
-        "answer": "66"
-    },
-    {
-        "question": "Multiply 23 by 14",
-        "options": ["322", "312", "332", "322"],
-        "answer": "322"
-    },
-    {
-        "question": "Divide 144 by 12",
-        "options": ["10", "11", "12", "13"],
-        "answer": "12"
-    },
-    {
-        "question": "What is 15% of 200?",
-        "options": ["15", "30", "25", "20"],
-        "answer": "30"
-    },
-    {
-        "question": " Solve for x: x + 17 = 45",
-        "options": ["28", "32", "62", "38"],
-        "answer": "28"
-    },
-    {
-        "question": "What is the value of 5³ (5 cubed)?",
-        "options": [ "15", "25", "125","225"],
-        "answer": "125"
-    },
-    {
-        "question": "What is the square root of 169?",
-        "options": ["12", "13", "14", "15"],
-        "answer": "13"
-    },
-    {
-        "question": "Calculate: 12 × (4 + 3)",
-        "options": ["84", "75", "49", "60"],
-        "answer": "84"
-    },
-    {
-        "question": "Which of these is an even number?",
-        "options": ["123", "257", "388", "511"],
-        "answer": "388"
-    },
-    {
-        "question": "What is the product of 0.4 and 0.5?",
-        "options": ["2.0", "0.2", "0.9", "0.02"],
-        "answer": "0.2"
-    },
-    {
-        "question": "Which fraction is equivalent to 0.75?",
-        "options": ["1/4", "3/5", "3/4", "5/6"],
-        "answer": "3/4"
-    },
-    {
-        "question": "Solve for y: 2y - 7 = 15",
-        "options": ["4", "11", "12", "22"],
-        "answer": "11"
-    },
-    {
-        "question": "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
-        "options": ["13", "13 cm", "26", "26 cm"],
-        "answer": "26 cm"
-    },
-    {
-        "question": "What is the area of a square with a side of 6 meters?",
-        "options": ["24 m", "24 m²", "36m", "36 m²"],
-        "answer": "36 m²"
-    },
-    {
-        "question": "Find the mean of these numbers: 5, 7, 9, 11, 13",
-        "options": ["8", "9", "10", "11"],
-        "answer": "9"
-    },
-    {
-        "question": "What is ¾ expressed as a decimal?",
-        "options": ["0.25", "0.50", "0.75", "1.33"],
-        "answer": "0.75"
-    },
-    {
-        "question": "What is 20% as a fraction in its simplest form?",
-        "options": ["1/20", "1/5", "2/5", "1/2"],
-        "answer": "1/5"
-    },
-    {
-        "question": "What is the next number in the sequence? 2, 4, 8, 16, ...",
-        "options": ["20", "24", "32", "64"],
-        "answer": "32"
-    },
-    {
-        "question": "A pack of 10 pencils costs $3.50. What is the cost of one pencil?",
-        "options": ["$0.25","$0.30", "$0.35", "$0.45"],
-        "answer": "$0.35"
-    },
-    {
-        "question": "What is the value of 8! / (6! × 2!)?",
-        "options": ["28", "56", "24", "32"],
-        "answer": "28"
-    },
-    {
-        "question": "If a = 3 and b = 4, what is the value of a² + b²?",
-        "options": ["7", "12", "25", "49"],
-        "answer": "25"
-    },
-    {
-        "question": "What is the circumference of a circle with a radius of 7 cm? (Use π = 22/7)",
-        "options": ["22 cm", "44 cm", "66 cm", "88 cm"],
-        "answer": "44 cm"
-    },
-    {
-        "question": "What is the area of a triangle with a base of 10 cm and a height of 8 cm?",
-        "options": ["18 cm²", "40 cm²", "80 cm²", "160 cm²"],
-        "answer": "40 cm²"
-    },
-    {
-        "question": "Which of these is a prime number?",
-        "options": ["21", "29", "33", "39"],
-        "answer": "29"
-    },
-    {
-        "question": "Simplify the expression: 3(x + 4) - 2x",
-        "options": ["x + 12", "5x + 4", "x + 4", "5x + 12"],
-        "answer": "x + 12"
-    },
-    {
-        "question": "What is the Least Common Multiple (LCM) of 6 and 8?",
-        "options": ["12", "16", "24", "48"],
-        "answer": "24"
-    },
-    {
-        "question": "If a car travels 150 kilometers in 3 hours, what is its average speed?",
-        "options": ["40 km/h", "50 km/h", "55 km/h", "60 km/h"],
-        "answer": "50 km/h"
-    },
-    {
-        "question": "Solve for x: x/5 = 9",
-        "options": ["40", "45", "54", "60"],
-        "answer": "45"
-    },
-    {
-        "question": "What is 1/2 + 1/3?",
-        "options": ["2/5", "1/6", "5/6", "4/5"],
-        "answer": "5/6"
-    },
-    {
-        "question": "What is 3/4 - 1/2?",
-        "options": ["1/4", "1/2", "2/4", "1/8"],
-        "answer": "1/4"
-    },
-    {
-        "question": "What is the probability of rolling a 5 on a fair six-sided die?",
-        "options": ["1/6", "1/5", "5/6", "1/2"],
-        "answer": "1/6"
-    },
-    {
-        "question": "What is the mode of this data set: 3, 5, 5, 6, 7, 7, 7, 8?",
-        "options": ["5", "6", "7", "8"],
-        "answer": "7"
-    },
-    {
-        "question": " What is the median of this data set: 4, 8, 2, 9, 5?",
-        "options": ["4", "5", "6", "8"],
-        "answer": "5"
-    },
-    {
-        "question": "Which of these is the equation of a straight line?",
-        "options": ["y = x² + 2", "y = 3/x", "y = 2x - 5", "y = √x"],
-        "answer": "y = 2x - 5"
-    },
-    {
-        "question": "What is the slope of the line y = -3x + 7?",
-        "options": ["7", "-3", "3", "-7"],
-        "answer": "-3"
-    },
-    {
-        "question": "Factor the expression: x² + 5x + 6",
-        "options": ["(x+1)(x+6)", "(x+2)(x+3)", "(x+5)(x+1)", "(x-2)(x-3)"],
-        "answer": "(x+2)(x+3)"
-    },
-    {
-        "question": "Solve the equation: x² - 9 = 0",
-        "options": ["x = 3", "x = -3", "x = 3 and x = -3", "x = 9"],
-        "answer": "x = 3 and x = -3"
-    },
-    {
-        "question": " What is 10% of 50% of 200?",
-        "options": ["5", "10", "15", "20"],
-        "answer": "10"
-    },
-    {
-        "question": " A shirt costs $40 after a 20% discount. What was its original price?",
-        "options": ["$48", "$50", "$55", "$60"],
-        "answer": "$50"
-    },
-    {
-        "question": " How many seconds are there in 2.5 hours?",
-        "options": ["9000", "7500", "6000", "4500"],
-        "answer": "9000"
-    },
-    {
-        "question": "What is the volume of a cube with a side length of 4 cm?",
-        "options": ["16 cm³", "32 cm³", "48 cm³", "64 cm³"],
-        "answer": "64 cm³"
-    },
-    {
-        "question": " What is the simple interest on $500 for 2 years at 5% per annum?",
-        "options": ["$25", "$50", "$75", "$100"],
-        "answer": "$50"
-    },
-    {
-        "question": "Which of these is a Pythagorean triple?",
-        "options": ["(3, 4, 5)", "(5, 6, 7)", "(6, 7, 8)", "(7, 8, 9)"],
-        "answer": "(3, 4, 5)"
-    },
-    {
-        "question": "What is the value of 7! (7 factorial)?",
-        "options": ["5040", "4050", "720", "40320"],
-        "answer": "5040"
-    },
-    {
-        "question": "Convert 3.5 kilograms to grams.",
-        "options": ["35 grams", "350 grams", "3050 grams", "3500 grams"],
-        "answer": "3500 grams"
-    },
-    {
-        "question": "What is the sum of the interior angles of a triangle?",
-        "options": ["90°", "180°", "270°", "360°"],
-        "answer": "180°"
-    },
-    {
-        "question": "Evaluate: 2 + 3 × 4",
-        "options": ["20", "14", "24", "18"],
-        "answer": "14"
-    },
-    {
-        "question": " Which point lies on the line y = 2x + 1?",
-        "options": ["(1, 2)", "(2, 1)", "(1, 3)", "(3, 1)"],
-        "answer": "(1, 3)"
-    }
+  {
+    "question": "What is 15 + 27?",
+    "options": [
+      "40",
+      "42",
+      "41",
+      "43"
+    ],
+    "answer": "42"
+  },
+  {
+    "question": "If x + 5 = 12, what is x?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is 20% of 150?",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "If a = 3 and b = 4, what is a² + b²?",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "What is the area of a square with side 5cm?",
+    "options": [
+      "10 cm²",
+      "20 cm²",
+      "25 cm²",
+      "30 cm²"
+    ],
+    "answer": "25 cm²"
+  }
 ]
