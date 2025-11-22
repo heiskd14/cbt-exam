@@ -1,136 +1,76 @@
 [
   {
-    "question": "Gas from Zn + HCl",
+    "question": "Consider: calcium reacts with water to produce ca(oh)₂ and h₂.",
     "options": [
-      "CO₂",
-      "Cl₂",
-      "O₂",
-      "H₂"
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂",
+      "Ca + O₂"
     ],
-    "answer": "H₂"
+    "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
+    "question": "Which of the following best describes: calcium reacts with water to produce ca(oh)₂ and h₂.",
     "options": [
-      "4, 3, 2",
-      "3, 1, 2",
-      "2, 1.5, 1",
-      "1, 2, 3"
+      "CaO + H₂",
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂"
     ],
-    "answer": "4, 3, 2"
+    "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₂H₆",
-      "CH",
-      "CH₄",
-      "C₃H₈"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C₂H₆",
-      "C",
-      "CH₄",
-      "CH₂=CH₂"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "CH₄",
-      "C₃H₈",
-      "CH",
-      "C₂H₆"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "1, 2, 3",
-      "4, 3, 2",
-      "3, 1, 2",
-      "2, 1.5, 1"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "MgO",
-      "KBr",
-      "NaCl"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "CO₂",
-      "O₂",
-      "H₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
+    "question": "What best explains: the formula of sulfuric acid is h₂so₄.",
     "options": [
       "H₂SO₄",
-      "HSO₄",
       "H₂SO₃",
+      "HSO₄",
       "H₃SO₄"
     ],
     "answer": "H₂SO₄"
   },
   {
-    "question": "Valency of oxygen",
+    "question": "The balanced equation is 4Fe + 3O₂ → 2Fe₂O₃.",
     "options": [
-      "1",
-      "4",
-      "3",
-      "2"
+      "2, 1.5, 1",
+      "3, 1, 2",
+      "1, 2, 3",
+      "4, 3, 2"
     ],
-    "answer": "2"
+    "answer": "4, 3, 2"
   },
   {
-    "question": "Calcium + water produces",
+    "question": "Which concept describes: co₂ is a covalent compound.",
     "options": [
-      "CaCl + H",
-      "CaO + H₂",
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂"
+      "MgO",
+      "KBr",
+      "NaCl",
+      "CO₂"
     ],
-    "answer": "Ca(OH)₂ + H₂"
+    "answer": "CO₂"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "Identify: the oxidation state of nitrogen in no₂ is +4.",
     "options": [
-      "C₃H₈",
-      "CH₄",
-      "C₂H₆",
-      "CH"
+      "+4",
+      "+5",
+      "+3",
+      "+2"
     ],
-    "answer": "CH₄"
+    "answer": "+4"
   },
   {
-    "question": "Gas from Zn + HCl",
+    "question": "Choose the: exothermic reactions release heat energy.",
     "options": [
-      "H₂",
-      "CO₂",
-      "O₂",
-      "Cl₂"
+      "maintain heat",
+      "releases heat",
+      "absorb heat",
+      "has no change"
     ],
-    "answer": "H₂"
+    "answer": "releases heat"
   },
   {
-    "question": "Valency of oxygen",
+    "question": "Identify: the valency of oxygen is 2.",
     "options": [
       "2",
       "1",
@@ -140,37 +80,127 @@
     "answer": "2"
   },
   {
-    "question": "Formula of sulfuric acid",
+    "question": "Zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "CO₂",
+      "H₂",
+      "Cl₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which of the following best describes: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "H₂",
+      "both H₂ and O₂",
+      "H₂O",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The pH range of a strong acid represents 0-3.",
+    "options": [
+      "10-14",
+      "0-3",
+      "7-10",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Identify: co₂ is a covalent compound.",
+    "options": [
+      "NaCl",
+      "KBr",
+      "MgO",
+      "CO₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The formula of sulfuric acid symbolizes H₂SO₄.",
     "options": [
       "HSO₄",
-      "H₂SO₄",
       "H₂SO₃",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂",
-      "Ca + O₂",
-      "CaCl + H"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "HSO₄",
-      "H₂SO₄",
       "H₃SO₄",
-      "H₂SO₃"
+      "H₂SO₄"
     ],
     "answer": "H₂SO₄"
   },
   {
-    "question": "Which is covalent?",
+    "question": "In the context of this subject, ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "CH₂=CH₂",
+      "C₂H₆",
+      "CH₄",
+      "C"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Identify: ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "nitrogen reacts with oxygen",
+      "ammonium salts react with alkali",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "In 2H₂ + O₂ → 2H₂O, hydrogen is the reducing agent.",
+    "options": [
+      "H₂O",
+      "both H₂ and O₂",
+      "H₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The balanced equation is 4Fe + 3O₂ → 2Fe₂O₃.",
+    "options": [
+      "4, 3, 2",
+      "3, 1, 2",
+      "1, 2, 3",
+      "2, 1.5, 1"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Potassium nitrate has the formula KNO₃.",
+    "options": [
+      "KNO₃",
+      "KNO₂",
+      "K₂NO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "Exothermic reactions release heat energy.",
+    "options": [
+      "has no change",
+      "maintain heat",
+      "absorb heat",
+      "releases heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Select the statement that best completes: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "both H₂ and O₂",
+      "H₂O",
+      "H₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Consider: co₂ is a covalent compound.",
     "options": [
       "NaCl",
       "CO₂",
@@ -180,17 +210,167 @@
     "answer": "CO₂"
   },
   {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
+    "question": "What best explains: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
     "options": [
-      "3, 1, 2",
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "4, 3, 2"
+      "H₂O",
+      "H₂",
+      "O₂",
+      "both H₂ and O₂"
     ],
-    "answer": "4, 3, 2"
+    "answer": "H₂"
   },
   {
-    "question": "Monomer of polythene",
+    "question": "Consider: potassium nitrate has the formula kno₃.",
+    "options": [
+      "KNO₂",
+      "KNO₃",
+      "K₃NO",
+      "K₂NO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "In the context of this subject, co₂ is a covalent compound.",
+    "options": [
+      "MgO",
+      "KBr",
+      "CO₂",
+      "NaCl"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The best answer to 'potassium nitrate has the formula kno₃.' is:",
+    "options": [
+      "KNO₂",
+      "K₂NO₃",
+      "KNO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "Which of the following best describes: exothermic reactions release heat energy.",
+    "options": [
+      "absorb heat",
+      "has no change",
+      "maintain heat",
+      "releases heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "According to standard definitions, the valency of oxygen is 2.",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "CO₂ is a covalent compound.",
+    "options": [
+      "MgO",
+      "KBr",
+      "NaCl",
+      "CO₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "Choose the: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "both H₂ and O₂",
+      "O₂",
+      "H₂",
+      "H₂O"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Choose the: the oxidation state of nitrogen in no₂ is +4.",
+    "options": [
+      "+2",
+      "+5",
+      "+3",
+      "+4"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "In the context of this subject, calcium reacts with water to produce ca(oh)₂ and h₂.",
+    "options": [
+      "CaO + H₂",
+      "Ca(OH)₂ + H₂",
+      "CaCl + H",
+      "Ca + O₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Methane has the molecular formula CH₄.",
+    "options": [
+      "CH₄",
+      "C₃H₈",
+      "C₂H₆",
+      "CH"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "What best explains: the ph range of a strong acid is 0-3.",
+    "options": [
+      "3-7",
+      "0-3",
+      "10-14",
+      "7-10"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Identify: the ph range of a strong acid is 0-3.",
+    "options": [
+      "10-14",
+      "7-10",
+      "0-3",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "The best answer to 'exothermic reactions release heat energy.' is:",
+    "options": [
+      "has no change",
+      "absorb heat",
+      "maintain heat",
+      "releases heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Calcium reacts with water to produce Ca(OH)₂ and H₂.",
+    "options": [
+      "CaCl + H",
+      "Ca + O₂",
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Select the statement that best completes: chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 7",
+      "2, 8, 8",
+      "2, 8, 7",
+      "2, 8, 6"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Ethene (C₂H₄) is the monomer of polyethene.",
     "options": [
       "C",
       "CH₂=CH₂",
@@ -200,77 +380,77 @@
     "answer": "CH₂=CH₂"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "Choose the: the oxidation state of nitrogen in no₂ is +4.",
     "options": [
-      "CH",
-      "CH₄",
-      "C₃H₈",
-      "C₂H₆"
+      "+2",
+      "+5",
+      "+3",
+      "+4"
     ],
-    "answer": "CH₄"
+    "answer": "+4"
   },
   {
-    "question": "pH range of strong acid",
+    "question": "Exothermic reactions release heat energy.",
     "options": [
-      "7-10",
-      "3-7",
-      "0-3",
-      "10-14"
+      "has no change",
+      "maintain heat",
+      "releases heat",
+      "absorb heat"
     ],
-    "answer": "0-3"
+    "answer": "releases heat"
   },
   {
-    "question": "Which is covalent?",
+    "question": "In 2H₂ + O₂ → 2H₂O, hydrogen is the reducing agent.",
     "options": [
-      "CO₂",
-      "NaCl",
-      "KBr",
-      "MgO"
+      "both H₂ and O₂",
+      "H₂O",
+      "O₂",
+      "H₂"
     ],
-    "answer": "CO₂"
+    "answer": "H₂"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "According to standard definitions, the oxidation state of nitrogen in no₂ is +4.",
     "options": [
-      "C₂H₆",
-      "CH₄",
-      "CH",
-      "C₃H₈"
+      "+5",
+      "+3",
+      "+2",
+      "+4"
     ],
-    "answer": "CH₄"
+    "answer": "+4"
   },
   {
-    "question": "Gas from Zn + HCl",
+    "question": "Zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
     "options": [
-      "Cl₂",
+      "O₂",
       "CO₂",
       "H₂",
+      "Cl₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "In the context of this subject, ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled",
+      "ammonium salts react with alkali"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The best answer to 'zinc reacts with dilute hydrochloric acid to produce hydrogen gas.' is:",
+    "options": [
+      "H₂",
+      "Cl₂",
+      "CO₂",
       "O₂"
     ],
     "answer": "H₂"
   },
   {
-    "question": "Valency of oxygen",
-    "options": [
-      "4",
-      "2",
-      "1",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂",
-      "CaCl + H",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Molecular formula of methane",
+    "question": "Select the statement that best completes: methane has the molecular formula ch₄.",
     "options": [
       "C₂H₆",
       "CH₄",
@@ -280,297 +460,127 @@
     "answer": "CH₄"
   },
   {
-    "question": "Which is covalent?",
+    "question": "According to standard definitions, the formula of sulfuric acid is h₂so₄.",
     "options": [
-      "CO₂",
-      "MgO",
-      "NaCl",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
+      "H₂SO₄",
       "H₃SO₄",
-      "H₂SO₄",
-      "HSO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "CaO + H₂",
-      "CaCl + H",
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "3, 1, 2",
-      "4, 3, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "1",
-      "3",
-      "2",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+3",
-      "+5",
-      "+4",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₄",
-      "CH₂=CH₂",
-      "C",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "KBr",
-      "NaCl",
-      "MgO"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₄",
       "H₂SO₃",
-      "H₃SO₄",
       "HSO₄"
     ],
     "answer": "H₂SO₄"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "Choose the: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
     "options": [
-      "C₃H₈",
-      "CH₄",
-      "CH",
-      "C₂H₆"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "3",
-      "1",
-      "2",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "O₂",
-      "H₂",
-      "CO₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₃",
-      "H₂SO₄",
-      "HSO₄",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "10-14",
-      "7-10",
-      "0-3",
-      "3-7"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "O₂",
-      "H₂",
-      "Cl₂",
-      "CO₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
+      "1, 2, 3",
       "2, 1.5, 1",
       "4, 3, 2",
-      "1, 2, 3",
       "3, 1, 2"
     ],
     "answer": "4, 3, 2"
   },
   {
-    "question": "Calcium + water produces",
+    "question": "Identify: co₂ is a covalent compound.",
     "options": [
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂",
-      "CaCl + H",
-      "Ca + O₂"
+      "MgO",
+      "CO₂",
+      "KBr",
+      "NaCl"
     ],
-    "answer": "Ca(OH)₂ + H₂"
+    "answer": "CO₂"
   },
   {
-    "question": "Formula of sulfuric acid",
+    "question": "In the context of this subject, chlorine has electronic configuration 2, 8, 7.",
     "options": [
-      "H₂SO₃",
-      "H₂SO₄",
+      "2, 8, 8",
+      "2, 8, 6",
+      "2, 8, 7",
+      "2, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ means +4.",
+    "options": [
+      "+3",
+      "+4",
+      "+5",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Which concept describes: the valency of oxygen is 2.",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following best describes: the oxidation state of nitrogen in no₂ is +4.",
+    "options": [
+      "+5",
+      "+3",
+      "+4",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Potassium nitrate has the formula KNO₃.",
+    "options": [
+      "K₃NO",
+      "K₂NO₃",
+      "KNO₃",
+      "KNO₂"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "CO₂ is a covalent compound.",
+    "options": [
+      "MgO",
+      "KBr",
+      "CO₂",
+      "NaCl"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "Choose the: ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "ammonium salts react with alkali",
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "O₂",
+      "Cl₂",
+      "CO₂",
+      "H₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Choose the: the formula of sulfuric acid is h₂so₄.",
+    "options": [
       "HSO₄",
+      "H₂SO₄",
+      "H₂SO₃",
       "H₃SO₄"
     ],
     "answer": "H₂SO₄"
   },
   {
-    "question": "Which is covalent?",
-    "options": [
-      "KBr",
-      "NaCl",
-      "CO₂",
-      "MgO"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "CO₂",
-      "H₂",
-      "Cl₂",
-      "O₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂",
-      "CaCl + H",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₃H₈",
-      "CH",
-      "C₂H₆",
-      "CH₄"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "KBr",
-      "CO₂",
-      "NaCl",
-      "MgO"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "1",
-      "3",
-      "4",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₃",
-      "HSO₄",
-      "H₃SO₄",
-      "H₂SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "4",
-      "3",
-      "1",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₃SO₄",
-      "HSO₄",
-      "H₂SO₃",
-      "H₂SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "CaO + H₂",
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "NaCl",
-      "MgO",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
+    "question": "The oxidation state of nitrogen in NO₂ represents +4.",
     "options": [
       "+3",
       "+4",
@@ -580,547 +590,87 @@
     "answer": "+4"
   },
   {
-    "question": "Valency of oxygen",
+    "question": "Consider: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
     "options": [
-      "2",
-      "1",
-      "3",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "O₂",
-      "CO₂",
-      "Cl₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "KBr",
-      "MgO",
-      "CO₂",
-      "NaCl"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₃",
-      "HSO₄",
-      "H₂SO₄",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "1, 2, 3",
       "4, 3, 2",
+      "1, 2, 3",
+      "2, 1.5, 1",
       "3, 1, 2"
     ],
     "answer": "4, 3, 2"
   },
   {
-    "question": "Formula of sulfuric acid",
+    "question": "Which concept describes: methane has the molecular formula ch₄.",
     "options": [
-      "HSO₄",
-      "H₃SO₄",
-      "H₂SO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₃SO₄",
-      "HSO₄",
-      "H₂SO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "NaCl",
-      "CO₂",
-      "MgO",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂",
-      "CaCl + H",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C",
       "C₂H₆",
+      "CH",
       "CH₄",
-      "CH₂=CH₂"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "H₂",
-      "CO₂",
-      "O₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "0-3",
-      "10-14",
-      "3-7",
-      "7-10"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+5",
-      "+3",
-      "+2",
-      "+4"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "Cl₂",
-      "CO₂",
-      "O₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "10-14",
-      "7-10",
-      "0-3",
-      "3-7"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "3-7",
-      "10-14",
-      "7-10",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "NaCl",
-      "KBr",
-      "MgO",
-      "CO₂"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "7-10",
-      "10-14",
-      "3-7",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "MgO",
-      "KBr",
-      "NaCl"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂",
-      "CaCl + H",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca(OH)₂ + H₂",
-      "Ca + O₂",
-      "CaO + H₂",
-      "CaCl + H"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₃H₈",
-      "C₂H₆",
-      "CH₄",
-      "CH"
+      "C₃H₈"
     ],
     "answer": "CH₄"
   },
   {
-    "question": "Monomer of polythene",
+    "question": "According to standard definitions, the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
     "options": [
-      "CH₂=CH₂",
-      "C",
-      "CH₄",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "NaCl",
-      "MgO",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C₂H₆",
-      "CH₄",
-      "C",
-      "CH₂=CH₂"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "4",
-      "2",
-      "3",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "MgO",
-      "CO₂",
-      "KBr",
-      "NaCl"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₃",
-      "HSO₄",
-      "H₃SO₄",
-      "H₂SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "4",
-      "3",
-      "1",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "4, 3, 2",
-      "1, 2, 3",
-      "2, 1.5, 1",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+3",
-      "+5",
-      "+2",
-      "+4"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "O₂",
-      "H₂",
-      "CO₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "4, 3, 2",
-      "1, 2, 3",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "3-7",
-      "10-14",
-      "0-3",
-      "7-10"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₄",
-      "HSO₄",
-      "H₂SO₃",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₄",
-      "CH₂=CH₂",
-      "C",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂",
-      "Ca + O₂",
-      "CaCl + H"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+3",
-      "+5",
-      "+4",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "3-7",
-      "10-14",
-      "0-3",
-      "7-10"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₃H₈",
-      "CH₄",
-      "C₂H₆",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "4, 3, 2",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C₂H₆",
-      "CH₂=CH₂",
-      "C",
-      "CH₄"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca + O₂",
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₃H₈",
-      "CH₄",
-      "C₂H₆",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+4",
-      "+5",
-      "+3",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "10-14",
-      "3-7",
-      "7-10",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "4, 3, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "4, 3, 2",
-      "1, 2, 3",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "O₂",
-      "H₂",
-      "Cl₂",
-      "CO₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "4, 3, 2",
       "2, 1.5, 1",
       "3, 1, 2",
+      "4, 3, 2",
       "1, 2, 3"
     ],
     "answer": "4, 3, 2"
   },
   {
-    "question": "pH range of strong acid",
+    "question": "Identify: exothermic reactions release heat energy.",
     "options": [
-      "3-7",
-      "10-14",
-      "0-3",
-      "7-10"
+      "releases heat",
+      "maintain heat",
+      "absorb heat",
+      "has no change"
     ],
-    "answer": "0-3"
+    "answer": "releases heat"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "Exothermic reactions release heat energy.",
+    "options": [
+      "has no change",
+      "maintain heat",
+      "releases heat",
+      "absorb heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Choose the: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "CO₂",
+      "Cl₂",
+      "O₂",
+      "H₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Choose the: chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 6",
+      "2, 7",
+      "2, 8, 8",
+      "2, 8, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Which of the following best describes: methane has the molecular formula ch₄.",
     "options": [
       "CH₄",
-      "C₂H₆",
+      "CH",
       "C₃H₈",
-      "CH"
+      "C₂H₆"
     ],
     "answer": "CH₄"
   },
   {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca + O₂",
-      "CaO + H₂",
-      "Ca(OH)₂ + H₂",
-      "CaCl + H"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "4, 3, 2",
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Calcium + water produces",
+    "question": "Identify: calcium reacts with water to produce ca(oh)₂ and h₂.",
     "options": [
       "CaCl + H",
       "Ca + O₂",
@@ -1130,277 +680,7 @@
     "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "Which is covalent?",
-    "options": [
-      "MgO",
-      "CO₂",
-      "NaCl",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "MgO",
-      "NaCl",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C",
-      "CH₄",
-      "CH₂=CH₂",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "KBr",
-      "NaCl",
-      "MgO",
-      "CO₂"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "2",
-      "4",
-      "3",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C",
-      "CH₄",
-      "CH₂=CH₂",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "3, 1, 2",
-      "4, 3, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C₂H₆",
-      "C",
-      "CH₂=CH₂",
-      "CH₄"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca(OH)₂ + H₂",
-      "CaCl + H",
-      "CaO + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+3",
-      "+2",
-      "+4",
-      "+5"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "7-10",
-      "0-3",
-      "10-14",
-      "3-7"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "0-3",
-      "7-10",
-      "10-14",
-      "3-7"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "4",
-      "3",
-      "2",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "2",
-      "3",
-      "1",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "MgO",
-      "NaCl",
-      "KBr",
-      "CO₂"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C₂H₆",
-      "CH₄",
-      "CH₂=CH₂",
-      "C"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "CO₂",
-      "H₂",
-      "O₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "4",
-      "3",
-      "2",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₂=CH₂",
-      "C₂H₆",
-      "CH₄",
-      "C"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₂=CH₂",
-      "CH₄",
-      "C",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "HSO₄",
-      "H₂SO₄",
-      "H₃SO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "KBr",
-      "MgO",
-      "NaCl"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+3",
-      "+2",
-      "+5",
-      "+4"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "0-3",
-      "10-14",
-      "3-7",
-      "7-10"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "NaCl",
-      "MgO",
-      "CO₂",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "Cl₂",
-      "O₂",
-      "CO₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca + O₂",
-      "CaO + H₂",
-      "Ca(OH)₂ + H₂",
-      "CaCl + H"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
+    "question": "Identify: the formula of sulfuric acid is h₂so₄.",
     "options": [
       "HSO₄",
       "H₂SO₃",
@@ -1410,7 +690,187 @@
     "answer": "H₂SO₄"
   },
   {
-    "question": "Valency of oxygen",
+    "question": "Ammonia represents produced when ammonium salts react with alkali.",
+    "options": [
+      "ammonia is cooled",
+      "ammonium salts react with alkali",
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The valency of oxygen is 2.",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is +4.",
+    "options": [
+      "+5",
+      "+2",
+      "+3",
+      "+4"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "According to standard definitions, ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "C₂H₆",
+      "C",
+      "CH₂=CH₂",
+      "CH₄"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Identify: ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "nitrogen reacts with oxygen",
+      "ammonium salts react with alkali",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The pH range of a strong acid symbolizes 0-3.",
+    "options": [
+      "10-14",
+      "7-10",
+      "0-3",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "concentrated HNO₃ is heated",
+      "ammonium salts react with alkali",
+      "ammonia is cooled",
+      "nitrogen reacts with oxygen"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Choose the: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "both H₂ and O₂",
+      "H₂O",
+      "H₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Select the statement that best completes: co₂ is a covalent compound.",
+    "options": [
+      "KBr",
+      "MgO",
+      "NaCl",
+      "CO₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "Which of the following best describes: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "H₂",
+      "O₂",
+      "CO₂",
+      "Cl₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Potassium nitrate has the formula KNO₃.",
+    "options": [
+      "KNO₂",
+      "K₂NO₃",
+      "K₃NO",
+      "KNO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What best explains: calcium reacts with water to produce ca(oh)₂ and h₂.",
+    "options": [
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂",
+      "CaO + H₂",
+      "CaCl + H"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Choose the: exothermic reactions release heat energy.",
+    "options": [
+      "maintain heat",
+      "releases heat",
+      "absorb heat",
+      "has no change"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "The pH range of a strong acid is 0-3.",
+    "options": [
+      "3-7",
+      "10-14",
+      "7-10",
+      "0-3"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Which of the following best describes: potassium nitrate has the formula kno₃.",
+    "options": [
+      "KNO₃",
+      "K₂NO₃",
+      "K₃NO",
+      "KNO₂"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "The formula of sulfuric acid represents H₂SO₄.",
+    "options": [
+      "H₂SO₃",
+      "HSO₄",
+      "H₂SO₄",
+      "H₃SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "Identify: ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "CH₂=CH₂",
+      "C₂H₆",
+      "CH₄",
+      "C"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Select the statement that best completes: calcium reacts with water to produce ca(oh)₂ and h₂.",
+    "options": [
+      "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "The valency of oxygen represents 2.",
     "options": [
       "2",
       "4",
@@ -1420,117 +880,17 @@
     "answer": "2"
   },
   {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
+    "question": "Choose the: methane has the molecular formula ch₄.",
     "options": [
-      "2, 1.5, 1",
-      "3, 1, 2",
-      "1, 2, 3",
-      "4, 3, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "2",
-      "4",
-      "3",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "CaCl + H",
-      "CaO + H₂",
-      "Ca(OH)₂ + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+4",
-      "+5",
-      "+2",
-      "+3"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₄",
-      "C₂H₆",
-      "CH₂=CH₂",
-      "C"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "1",
-      "4",
-      "2",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₄",
-      "H₂SO₃",
-      "HSO₄",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₃SO₄",
-      "H₂SO₄",
-      "HSO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "CH₄",
-      "C₂H₆",
       "CH",
-      "C₃H₈"
+      "C₃H₈",
+      "C₂H₆",
+      "CH₄"
     ],
     "answer": "CH₄"
   },
   {
-    "question": "Monomer of polythene",
-    "options": [
-      "C",
-      "C₂H₆",
-      "CH₄",
-      "CH₂=CH₂"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₂=CH₂",
-      "C₂H₆",
-      "C",
-      "CH₄"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
+    "question": "The best answer to 'the formula of sulfuric acid is h₂so₄.' is:",
     "options": [
       "H₂SO₄",
       "H₃SO₄",
@@ -1540,137 +900,287 @@
     "answer": "H₂SO₄"
   },
   {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "HSO₄",
-      "H₂SO₄",
-      "H₃SO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "Cl₂",
-      "CO₂",
-      "O₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+2",
-      "+4",
-      "+5",
-      "+3"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "CaO + H₂",
-      "CaCl + H",
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
+    "question": "Choose the: the formula of sulfuric acid is h₂so₄.",
     "options": [
       "H₂SO₃",
-      "HSO₄",
       "H₃SO₄",
+      "HSO₄",
       "H₂SO₄"
     ],
     "answer": "H₂SO₄"
   },
   {
-    "question": "Gas from Zn + HCl",
+    "question": "Ammonia is produced when ammonium salts react with alkali.",
     "options": [
-      "H₂",
+      "ammonia is cooled",
+      "ammonium salts react with alkali",
+      "concentrated HNO₃ is heated",
+      "nitrogen reacts with oxygen"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
       "O₂",
       "Cl₂",
-      "CO₂"
+      "CO₂",
+      "H₂"
     ],
     "answer": "H₂"
   },
   {
-    "question": "pH range of strong acid",
+    "question": "The best answer to 'ethene (c₂h₄) is the monomer of polyethene.' is:",
     "options": [
-      "7-10",
-      "3-7",
-      "0-3",
-      "10-14"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "4, 3, 2",
-      "1, 2, 3",
-      "2, 1.5, 1"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₂=CH₂",
-      "C",
       "CH₄",
-      "C₂H₆"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₂=CH₂",
       "C₂H₆",
       "C",
-      "CH₄"
+      "CH₂=CH₂"
     ],
     "answer": "CH₂=CH₂"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "What best explains: methane has the molecular formula ch₄.",
     "options": [
+      "C₂H₆",
       "C₃H₈",
       "CH₄",
-      "CH",
-      "C₂H₆"
+      "CH"
     ],
     "answer": "CH₄"
   },
   {
-    "question": "Formula of sulfuric acid",
+    "question": "Consider: the ph range of a strong acid is 0-3.",
+    "options": [
+      "7-10",
+      "3-7",
+      "10-14",
+      "0-3"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Which concept describes: the formula of sulfuric acid is h₂so₄.",
+    "options": [
+      "H₂SO₄",
+      "HSO₄",
+      "H₃SO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "Consider: the formula of sulfuric acid is h₂so₄.",
     "options": [
       "HSO₄",
-      "H₂SO₃",
       "H₂SO₄",
+      "H₂SO₃",
       "H₃SO₄"
     ],
     "answer": "H₂SO₄"
   },
   {
-    "question": "Gas from Zn + HCl",
+    "question": "In the context of this subject, the formula of sulfuric acid is h₂so₄.",
+    "options": [
+      "H₂SO₃",
+      "H₃SO₄",
+      "HSO₄",
+      "H₂SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "Select the statement that best completes: the oxidation state of nitrogen in no₂ is +4.",
+    "options": [
+      "+5",
+      "+2",
+      "+4",
+      "+3"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Consider: the valency of oxygen is 2.",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Methane has the molecular formula CH₄.",
+    "options": [
+      "C₃H₈",
+      "CH",
+      "CH₄",
+      "C₂H₆"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "Calcium reacts with water to produce Ca(OH)₂ and H₂.",
+    "options": [
+      "CaO + H₂",
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂",
+      "CaCl + H"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 8",
+      "2, 8, 7",
+      "2, 8, 6",
+      "2, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "The best answer to 'ammonia is produced when ammonium salts react with alkali.' is:",
+    "options": [
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled",
+      "ammonium salts react with alkali"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The best answer to 'the balanced equation is 4fe + 3o₂ → 2fe₂o₃.' is:",
+    "options": [
+      "1, 2, 3",
+      "3, 1, 2",
+      "4, 3, 2",
+      "2, 1.5, 1"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "What best explains: the oxidation state of nitrogen in no₂ is +4.",
+    "options": [
+      "+5",
+      "+2",
+      "+4",
+      "+3"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Identify: chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 6",
+      "2, 7",
+      "2, 8, 8",
+      "2, 8, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Potassium nitrate has the formula KNO₃.",
+    "options": [
+      "KNO₂",
+      "K₂NO₃",
+      "K₃NO",
+      "KNO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "The formula of sulfuric acid is H₂SO₄.",
+    "options": [
+      "HSO₄",
+      "H₃SO₄",
+      "H₂SO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "What best explains: ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "ammonia is cooled",
+      "ammonium salts react with alkali",
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Consider: methane has the molecular formula ch₄.",
+    "options": [
+      "C₃H₈",
+      "C₂H₆",
+      "CH",
+      "CH₄"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "Choose the: chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 8",
+      "2, 8, 7",
+      "2, 8, 6",
+      "2, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 7",
+      "2, 8, 6",
+      "2, 7",
+      "2, 8, 8"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "According to standard definitions, co₂ is a covalent compound.",
+    "options": [
+      "CO₂",
+      "NaCl",
+      "MgO",
+      "KBr"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "According to standard definitions, in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
     "options": [
       "H₂",
-      "Cl₂",
-      "CO₂",
+      "both H₂ and O₂",
+      "H₂O",
       "O₂"
     ],
     "answer": "H₂"
   },
   {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
+    "question": "Consider: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "O₂",
+      "Cl₂",
+      "H₂",
+      "CO₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Choose the: ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "C₂H₆",
+      "C",
+      "CH₂=CH₂",
+      "CH₄"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "In the context of this subject, the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
     "options": [
       "2, 1.5, 1",
       "4, 3, 2",
@@ -1680,7 +1190,137 @@
     "answer": "4, 3, 2"
   },
   {
-    "question": "Calcium + water produces",
+    "question": "The valency of oxygen is 2.",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "In the context of this subject, exothermic reactions release heat energy.",
+    "options": [
+      "has no change",
+      "absorb heat",
+      "releases heat",
+      "maintain heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "The balanced equation means 4Fe + 3O₂ → 2Fe₂O₃.",
+    "options": [
+      "3, 1, 2",
+      "1, 2, 3",
+      "2, 1.5, 1",
+      "4, 3, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "CO₂ means a covalent compound.",
+    "options": [
+      "CO₂",
+      "KBr",
+      "MgO",
+      "NaCl"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "Potassium nitrate has the formula KNO₃.",
+    "options": [
+      "K₂NO₃",
+      "KNO₂",
+      "K₃NO",
+      "KNO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "The best answer to 'chlorine has electronic configuration 2, 8, 7.' is:",
+    "options": [
+      "2, 8, 6",
+      "2, 7",
+      "2, 8, 7",
+      "2, 8, 8"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Which of the following best describes: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "Cl₂",
+      "O₂",
+      "H₂",
+      "CO₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Methane has the molecular formula CH₄.",
+    "options": [
+      "CH₄",
+      "C₂H₆",
+      "C₃H₈",
+      "CH"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "Which of the following best describes: exothermic reactions release heat energy.",
+    "options": [
+      "maintain heat",
+      "releases heat",
+      "absorb heat",
+      "has no change"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ symbolizes +4.",
+    "options": [
+      "+2",
+      "+4",
+      "+5",
+      "+3"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "According to standard definitions, exothermic reactions release heat energy.",
+    "options": [
+      "releases heat",
+      "has no change",
+      "maintain heat",
+      "absorb heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Methane has the molecular formula CH₄.",
+    "options": [
+      "C₂H₆",
+      "CH₄",
+      "C₃H₈",
+      "CH"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "Identify: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
+    "options": [
+      "4, 3, 2",
+      "3, 1, 2",
+      "2, 1.5, 1",
+      "1, 2, 3"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Calcium reacts with water to produce Ca(OH)₂ and H₂.",
     "options": [
       "Ca(OH)₂ + H₂",
       "Ca + O₂",
@@ -1690,67 +1330,107 @@
     "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "pH range of strong acid",
-    "options": [
-      "0-3",
-      "3-7",
-      "7-10",
-      "10-14"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+2",
-      "+3",
-      "+4",
-      "+5"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "7-10",
-      "3-7",
-      "10-14",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Valency of oxygen",
+    "question": "The valency of oxygen is 2.",
     "options": [
       "4",
+      "1",
       "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "The valency of oxygen means 2.",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify: the valency of oxygen is 2.",
+    "options": [
       "3",
+      "4",
+      "2",
       "1"
     ],
     "answer": "2"
   },
   {
-    "question": "Oxidation state of N in NO₂",
+    "question": "Ammonia is produced when ammonium salts react with alkali.",
     "options": [
-      "+5",
-      "+3",
+      "ammonia is cooled",
+      "nitrogen reacts with oxygen",
+      "ammonium salts react with alkali",
+      "concentrated HNO₃ is heated"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "The best answer to 'calcium reacts with water to produce ca(oh)₂ and h₂.' is:",
+    "options": [
+      "CaO + H₂",
+      "CaCl + H",
+      "Ca + O₂",
+      "Ca(OH)₂ + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Consider: the oxidation state of nitrogen in no₂ is +4.",
+    "options": [
       "+4",
+      "+3",
+      "+5",
       "+2"
     ],
     "answer": "+4"
   },
   {
-    "question": "Monomer of polythene",
+    "question": "Ethene (C₂H₄) represents the monomer of polyethene.",
     "options": [
-      "CH₂=CH₂",
       "C",
-      "C₂H₆",
-      "CH₄"
+      "CH₂=CH₂",
+      "CH₄",
+      "C₂H₆"
     ],
     "answer": "CH₂=CH₂"
   },
   {
-    "question": "Valency of oxygen",
+    "question": "Chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 7",
+      "2, 8, 6",
+      "2, 8, 8",
+      "2, 8, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "The formula of sulfuric acid is H₂SO₄.",
+    "options": [
+      "H₂SO₃",
+      "HSO₄",
+      "H₂SO₄",
+      "H₃SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "Ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "ammonium salts react with alkali",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled",
+      "nitrogen reacts with oxygen"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Choose the: the valency of oxygen is 2.",
     "options": [
       "2",
       "1",
@@ -1760,297 +1440,87 @@
     "answer": "2"
   },
   {
-    "question": "Calcium + water produces",
+    "question": "Consider: ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "concentrated HNO₃ is heated",
+      "nitrogen reacts with oxygen",
+      "ammonia is cooled",
+      "ammonium salts react with alkali"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Select the statement that best completes: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "Cl₂",
+      "CO₂",
+      "H₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Ethene (C₂H₄) is the monomer of polyethene.",
+    "options": [
+      "C",
+      "CH₂=CH₂",
+      "CH₄",
+      "C₂H₆"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which of the following best describes: chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 6",
+      "2, 8, 7",
+      "2, 8, 8",
+      "2, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Choose the: calcium reacts with water to produce ca(oh)₂ and h₂.",
     "options": [
       "Ca + O₂",
+      "Ca(OH)₂ + H₂",
       "CaO + H₂",
-      "CaCl + H",
-      "Ca(OH)₂ + H₂"
+      "CaCl + H"
     ],
     "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "The pH range of a strong acid is 0-3.",
     "options": [
-      "C₃H₈",
-      "CH₄",
-      "CH",
-      "C₂H₆"
+      "0-3",
+      "3-7",
+      "7-10",
+      "10-14"
     ],
-    "answer": "CH₄"
+    "answer": "0-3"
   },
   {
-    "question": "Valency of oxygen",
+    "question": "Potassium nitrate has the formula KNO₃.",
     "options": [
-      "1",
-      "3",
+      "KNO₃",
+      "KNO₂",
+      "K₂NO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "In the context of this subject, the valency of oxygen is 2.",
+    "options": [
       "4",
+      "3",
+      "1",
       "2"
     ],
     "answer": "2"
   },
   {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "HSO₄",
-      "H₃SO₄",
-      "H₂SO₄",
-      "H₂SO₃"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "7-10",
-      "10-14",
-      "3-7",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+2",
-      "+5",
-      "+3",
-      "+4"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "CH",
-      "C₃H₈",
-      "CH₄",
-      "C₂H₆"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "CO₂",
-      "O₂",
-      "H₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "1, 2, 3",
-      "4, 3, 2",
-      "3, 1, 2",
-      "2, 1.5, 1"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₂H₆",
-      "CH₄",
-      "CH",
-      "C₃H₈"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₄",
-      "CH₂=CH₂",
-      "C₂H₆",
-      "C"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "NaCl",
-      "MgO",
-      "CO₂",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "CH₄",
-      "C₃H₈",
-      "C₂H₆",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₂=CH₂",
-      "C₂H₆",
-      "CH₄",
-      "C"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "O₂",
-      "H₂",
-      "CO₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "2, 1.5, 1",
-      "4, 3, 2",
-      "1, 2, 3"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C₂H₆",
-      "CH₄",
-      "CH₂=CH₂",
-      "C"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "CaO + H₂",
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₄",
-      "C",
-      "C₂H₆",
-      "CH₂=CH₂"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "10-14",
-      "0-3",
-      "7-10",
-      "3-7"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₂=CH₂",
-      "C₂H₆",
-      "C",
-      "CH₄"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca(OH)₂ + H₂",
-      "Ca + O₂",
-      "CaCl + H",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₄",
-      "HSO₄",
-      "H₂SO₃",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+3",
-      "+5",
-      "+4",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₃",
-      "HSO₄",
-      "H₃SO₄",
-      "H₂SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "3, 1, 2",
-      "4, 3, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "4, 3, 2",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+3",
-      "+5",
-      "+2",
-      "+4"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Gas from Zn + HCl",
+    "question": "Zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
     "options": [
       "Cl₂",
       "CO₂",
@@ -2060,847 +1530,377 @@
     "answer": "H₂"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "Exothermic reactions release heat energy.",
     "options": [
-      "C₃H₈",
-      "CH₄",
-      "CH",
-      "C₂H₆"
+      "absorb heat",
+      "releases heat",
+      "has no change",
+      "maintain heat"
     ],
-    "answer": "CH₄"
+    "answer": "releases heat"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "According to standard definitions, the ph range of a strong acid is 0-3.",
     "options": [
-      "C₂H₆",
-      "CH₄",
-      "C₃H₈",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "MgO",
-      "CO₂",
-      "NaCl",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "1, 2, 3",
-      "4, 3, 2",
-      "2, 1.5, 1"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "KBr",
-      "MgO",
-      "NaCl"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "Ca + O₂",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "7-10",
-      "3-7",
       "10-14",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₂H₆",
-      "C₃H₈",
-      "CH₄",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+4",
-      "+2",
-      "+3",
-      "+5"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
       "0-3",
       "3-7",
-      "7-10",
-      "10-14"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "4",
-      "1",
-      "3",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "2",
-      "3",
-      "1",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "0-3",
-      "3-7",
-      "10-14",
       "7-10"
     ],
     "answer": "0-3"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "Which of the following best describes: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "H₂",
+      "O₂",
+      "H₂O",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which of the following best describes: ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled",
+      "ammonium salts react with alkali"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Which of the following best describes: methane has the molecular formula ch₄.",
     "options": [
       "CH",
-      "C₃H₈",
       "CH₄",
-      "C₂H₆"
+      "C₂H₆",
+      "C₃H₈"
     ],
     "answer": "CH₄"
   },
   {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
+    "question": "In the context of this subject, potassium nitrate has the formula kno₃.",
     "options": [
-      "1, 2, 3",
-      "2, 1.5, 1",
-      "3, 1, 2",
-      "4, 3, 2"
+      "K₂NO₃",
+      "K₃NO",
+      "KNO₃",
+      "KNO₂"
     ],
-    "answer": "4, 3, 2"
+    "answer": "KNO₃"
   },
   {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
+    "question": "Which of the following best describes: the ph range of a strong acid is 0-3.",
     "options": [
-      "1, 2, 3",
-      "2, 1.5, 1",
-      "3, 1, 2",
-      "4, 3, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "2, 1.5, 1",
-      "1, 2, 3",
-      "3, 1, 2",
-      "4, 3, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+5",
-      "+2",
-      "+3",
-      "+4"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "7-10",
+      "10-14",
       "0-3",
-      "3-7",
-      "10-14"
+      "7-10",
+      "3-7"
     ],
     "answer": "0-3"
   },
   {
-    "question": "Oxidation state of N in NO₂",
+    "question": "Select the statement that best completes: the ph range of a strong acid is 0-3.",
     "options": [
-      "+4",
-      "+3",
-      "+2",
-      "+5"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+4",
-      "+3",
-      "+2",
-      "+5"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "HSO₄",
-      "H₂SO₃",
-      "H₃SO₄",
-      "H₂SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "C₂H₆",
-      "CH₂=CH₂",
-      "C",
-      "CH₄"
-    ],
-    "answer": "CH₂=CH₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₃",
-      "HSO₄",
-      "H₂SO₄",
-      "H₃SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
+      "3-7",
       "10-14",
       "7-10",
-      "3-7",
       "0-3"
     ],
     "answer": "0-3"
   },
   {
-    "question": "Valency of oxygen",
+    "question": "Which concept describes: ethene (c₂h₄) is the monomer of polyethene.",
     "options": [
-      "2",
-      "3",
-      "4",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Monomer of polythene",
-    "options": [
-      "CH₂=CH₂",
       "CH₄",
+      "C₂H₆",
       "C",
-      "C₂H₆"
+      "CH₂=CH₂"
     ],
     "answer": "CH₂=CH₂"
   },
   {
-    "question": "Which is covalent?",
+    "question": "The pH range of a strong acid is 0-3.",
     "options": [
-      "CO₂",
-      "KBr",
-      "MgO",
-      "NaCl"
+      "3-7",
+      "10-14",
+      "7-10",
+      "0-3"
     ],
-    "answer": "CO₂"
+    "answer": "0-3"
   },
   {
-    "question": "Which is covalent?",
+    "question": "Consider: exothermic reactions release heat energy.",
     "options": [
-      "MgO",
-      "KBr",
-      "NaCl",
-      "CO₂"
+      "maintain heat",
+      "releases heat",
+      "absorb heat",
+      "has no change"
     ],
-    "answer": "CO₂"
+    "answer": "releases heat"
   },
   {
-    "question": "Calcium + water produces",
+    "question": "Which of the following best describes: the formula of sulfuric acid is h₂so₄.",
     "options": [
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂",
-      "CaCl + H",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+2",
-      "+3",
-      "+4",
-      "+5"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "CH₄",
-      "C₃H₈",
-      "C₂H₆",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "H₂",
-      "Cl₂",
-      "O₂",
-      "CO₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "O₂",
-      "Cl₂",
-      "H₂",
-      "CO₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "4, 3, 2",
-      "2, 1.5, 1",
-      "1, 2, 3"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₄",
-      "H₂SO₃",
       "H₃SO₄",
+      "H₂SO₃",
+      "H₂SO₄",
       "HSO₄"
     ],
     "answer": "H₂SO₄"
   },
   {
-    "question": "Oxidation state of N in NO₂",
+    "question": "Select the statement that best completes: exothermic reactions release heat energy.",
     "options": [
-      "+4",
-      "+2",
-      "+3",
-      "+5"
+      "has no change",
+      "releases heat",
+      "absorb heat",
+      "maintain heat"
     ],
-    "answer": "+4"
+    "answer": "releases heat"
   },
   {
-    "question": "Gas from Zn + HCl",
+    "question": "In 2H₂ + O₂ → 2H₂O, hydrogen symbolizes the reducing agent.",
     "options": [
-      "H₂",
       "O₂",
-      "Cl₂",
-      "CO₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "3",
-      "1",
-      "4",
-      "2"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+4",
-      "+2",
-      "+5",
-      "+3"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
       "H₂",
-      "CO₂",
-      "Cl₂",
-      "O₂"
+      "both H₂ and O₂",
+      "H₂O"
     ],
     "answer": "H₂"
   },
   {
-    "question": "pH range of strong acid",
+    "question": "Select the statement that best completes: ammonia is produced when ammonium salts react with alkali.",
     "options": [
+      "concentrated HNO₃ is heated",
+      "ammonium salts react with alkali",
+      "nitrogen reacts with oxygen",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Which of the following best describes: the ph range of a strong acid is 0-3.",
+    "options": [
+      "10-14",
+      "7-10",
       "0-3",
-      "3-7",
-      "10-14",
-      "7-10"
+      "3-7"
     ],
     "answer": "0-3"
   },
   {
-    "question": "Gas from Zn + HCl",
+    "question": "Identify: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
     "options": [
-      "O₂",
-      "Cl₂",
-      "CO₂",
-      "H₂"
+      "4, 3, 2",
+      "1, 2, 3",
+      "3, 1, 2",
+      "2, 1.5, 1"
     ],
-    "answer": "H₂"
+    "answer": "4, 3, 2"
   },
   {
-    "question": "pH range of strong acid",
+    "question": "Choose the: the valency of oxygen is 2.",
     "options": [
-      "3-7",
-      "7-10",
-      "10-14",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "10-14",
-      "7-10",
-      "3-7",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "H₂",
-      "O₂",
-      "Cl₂",
-      "CO₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "CH₄",
-      "C₃H₈",
-      "C₂H₆",
-      "CH"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "2",
-      "3",
       "1",
+      "3",
+      "2",
       "4"
     ],
     "answer": "2"
   },
   {
-    "question": "Oxidation state of N in NO₂",
+    "question": "Identify: potassium nitrate has the formula kno₃.",
     "options": [
-      "+3",
-      "+2",
-      "+4",
-      "+5"
+      "KNO₂",
+      "KNO₃",
+      "K₃NO",
+      "K₂NO₃"
     ],
-    "answer": "+4"
+    "answer": "KNO₃"
   },
   {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
+    "question": "Ammonia symbolizes produced when ammonium salts react with alkali.",
     "options": [
-      "4, 3, 2",
+      "ammonium salts react with alkali",
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Ethene (C₂H₄) symbolizes the monomer of polyethene.",
+    "options": [
+      "CH₂=CH₂",
+      "C",
+      "C₂H₆",
+      "CH₄"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "The valency of oxygen symbolizes 2.",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "The balanced equation is 4Fe + 3O₂ → 2Fe₂O₃.",
+    "options": [
       "3, 1, 2",
+      "4, 3, 2",
       "1, 2, 3",
       "2, 1.5, 1"
     ],
     "answer": "4, 3, 2"
   },
   {
-    "question": "pH range of strong acid",
-    "options": [
-      "7-10",
-      "0-3",
-      "3-7",
-      "10-14"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "4, 3, 2",
-      "1, 2, 3",
-      "2, 1.5, 1",
-      "3, 1, 2"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Gas from Zn + HCl",
+    "question": "Zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
     "options": [
       "O₂",
       "Cl₂",
-      "CO₂",
-      "H₂"
+      "H₂",
+      "CO₂"
     ],
     "answer": "H₂"
   },
   {
-    "question": "Oxidation state of N in NO₂",
+    "question": "Which concept describes: ammonia is produced when ammonium salts react with alkali.",
     "options": [
-      "+5",
-      "+3",
-      "+4",
-      "+2"
+      "ammonium salts react with alkali",
+      "ammonia is cooled",
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated"
     ],
-    "answer": "+4"
+    "answer": "ammonium salts react with alkali"
   },
   {
-    "question": "pH range of strong acid",
+    "question": "Identify: chlorine has electronic configuration 2, 8, 7.",
     "options": [
-      "0-3",
-      "3-7",
-      "7-10",
-      "10-14"
+      "2, 8, 7",
+      "2, 7",
+      "2, 8, 8",
+      "2, 8, 6"
     ],
-    "answer": "0-3"
+    "answer": "2, 8, 7"
   },
   {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
+    "question": "CO₂ is a covalent compound.",
     "options": [
-      "1, 2, 3",
-      "3, 1, 2",
-      "4, 3, 2",
-      "2, 1.5, 1"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "MgO",
       "KBr",
-      "NaCl"
+      "NaCl",
+      "MgO",
+      "CO₂"
     ],
     "answer": "CO₂"
   },
   {
-    "question": "Monomer of polythene",
+    "question": "CO₂ symbolizes a covalent compound.",
     "options": [
-      "CH₄",
+      "CO₂",
+      "NaCl",
+      "MgO",
+      "KBr"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "Ethene (C₂H₄) is the monomer of polyethene.",
+    "options": [
       "C",
+      "CH₄",
+      "C₂H₆",
+      "CH₂=CH₂"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Calcium reacts with water to produce Ca(OH)₂ and H₂.",
+    "options": [
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂",
+      "CaCl + H",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "What best explains: ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "C",
+      "CH₄",
       "CH₂=CH₂",
       "C₂H₆"
     ],
     "answer": "CH₂=CH₂"
   },
   {
-    "question": "Monomer of polythene",
+    "question": "Which concept describes: potassium nitrate has the formula kno₃.",
     "options": [
-      "CH₄",
-      "C₂H₆",
+      "KNO₃",
+      "K₃NO",
+      "KNO₂",
+      "K₂NO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "What best explains: potassium nitrate has the formula kno₃.",
+    "options": [
+      "KNO₂",
+      "KNO₃",
+      "K₃NO",
+      "K₂NO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "Choose the: potassium nitrate has the formula kno₃.",
+    "options": [
+      "K₂NO₃",
+      "K₃NO",
+      "KNO₂",
+      "KNO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "Identify: calcium reacts with water to produce ca(oh)₂ and h₂.",
+    "options": [
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂",
+      "CaO + H₂",
+      "CaCl + H"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "According to standard definitions, calcium reacts with water to produce ca(oh)₂ and h₂.",
+    "options": [
+      "CaCl + H",
+      "CaO + H₂",
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Choose the: ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
       "C",
-      "CH₂=CH₂"
+      "CH₂=CH₂",
+      "C₂H₆",
+      "CH₄"
     ],
     "answer": "CH₂=CH₂"
   },
   {
-    "question": "Calcium + water produces",
-    "options": [
-      "CaCl + H",
-      "Ca + O₂",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₃H₈",
-      "CH₄",
-      "CH",
-      "C₂H₆"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "KBr",
-      "CO₂",
-      "MgO",
-      "NaCl"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
-    "options": [
-      "H₂SO₃",
-      "H₃SO₄",
-      "HSO₄",
-      "H₂SO₄"
-    ],
-    "answer": "H₂SO₄"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "O₂",
-      "H₂",
-      "CO₂",
-      "Cl₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "2",
-      "4",
-      "3",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "MgO",
-      "NaCl",
-      "KBr"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Balance: __Fe + __O₂ → __Fe₂O₃",
-    "options": [
-      "3, 1, 2",
-      "4, 3, 2",
-      "1, 2, 3",
-      "2, 1.5, 1"
-    ],
-    "answer": "4, 3, 2"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "4",
-      "2",
-      "1",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+5",
-      "+2",
-      "+4",
-      "+3"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₃H₈",
-      "CH₄",
-      "CH",
-      "C₂H₆"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "CH",
-      "C₂H₆",
-      "CH₄",
-      "C₃H₈"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca + O₂",
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+5",
-      "+3",
-      "+4",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+4",
-      "+5",
-      "+2",
-      "+3"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "pH range of strong acid",
-    "options": [
-      "7-10",
-      "10-14",
-      "3-7",
-      "0-3"
-    ],
-    "answer": "0-3"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "NaCl",
-      "KBr",
-      "MgO",
-      "CO₂"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Which is covalent?",
-    "options": [
-      "CO₂",
-      "KBr",
-      "MgO",
-      "NaCl"
-    ],
-    "answer": "CO₂"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca(OH)₂ + H₂",
-      "CaCl + H",
-      "CaO + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
-    "options": [
-      "+4",
-      "+3",
-      "+5",
-      "+2"
-    ],
-    "answer": "+4"
-  },
-  {
-    "question": "Molecular formula of methane",
-    "options": [
-      "C₂H₆",
-      "CH₄",
-      "CH",
-      "C₃H₈"
-    ],
-    "answer": "CH₄"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "Ca(OH)₂ + H₂",
-      "CaCl + H",
-      "Ca + O₂",
-      "CaO + H₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Valency of oxygen",
-    "options": [
-      "4",
-      "2",
-      "3",
-      "1"
-    ],
-    "answer": "2"
-  },
-  {
-    "question": "Calcium + water produces",
-    "options": [
-      "CaCl + H",
-      "Ca(OH)₂ + H₂",
-      "CaO + H₂",
-      "Ca + O₂"
-    ],
-    "answer": "Ca(OH)₂ + H₂"
-  },
-  {
-    "question": "Formula of sulfuric acid",
+    "question": "The formula of sulfuric acid is H₂SO₄.",
     "options": [
       "H₂SO₃",
       "H₂SO₄",
@@ -2910,7 +1910,267 @@
     "answer": "H₂SO₄"
   },
   {
-    "question": "Monomer of polythene",
+    "question": "The best answer to 'the ph range of a strong acid is 0-3.' is:",
+    "options": [
+      "0-3",
+      "7-10",
+      "10-14",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Which of the following best describes: co₂ is a covalent compound.",
+    "options": [
+      "MgO",
+      "KBr",
+      "CO₂",
+      "NaCl"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "Which of the following best describes: ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "C",
+      "C₂H₆",
+      "CH₂=CH₂",
+      "CH₄"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 6",
+      "2, 7",
+      "2, 8, 8",
+      "2, 8, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "CO₂ is a covalent compound.",
+    "options": [
+      "MgO",
+      "NaCl",
+      "KBr",
+      "CO₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The formula of sulfuric acid is H₂SO₄.",
+    "options": [
+      "H₂SO₄",
+      "HSO₄",
+      "H₃SO₄",
+      "H₂SO₃"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "Choose the: co₂ is a covalent compound.",
+    "options": [
+      "MgO",
+      "NaCl",
+      "CO₂",
+      "KBr"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "Which of the following best describes: the formula of sulfuric acid is h₂so₄.",
+    "options": [
+      "H₂SO₃",
+      "H₂SO₄",
+      "HSO₄",
+      "H₃SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "Choose the: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
+    "options": [
+      "3, 1, 2",
+      "4, 3, 2",
+      "2, 1.5, 1",
+      "1, 2, 3"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Select the statement that best completes: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
+    "options": [
+      "4, 3, 2",
+      "1, 2, 3",
+      "2, 1.5, 1",
+      "3, 1, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Which concept describes: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
+    "options": [
+      "2, 1.5, 1",
+      "3, 1, 2",
+      "1, 2, 3",
+      "4, 3, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Choose the: methane has the molecular formula ch₄.",
+    "options": [
+      "C₂H₆",
+      "C₃H₈",
+      "CH",
+      "CH₄"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "Choose the: the ph range of a strong acid is 0-3.",
+    "options": [
+      "7-10",
+      "10-14",
+      "0-3",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Identify: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "H₂",
+      "Cl₂",
+      "CO₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which of the following best describes: ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "nitrogen reacts with oxygen",
+      "concentrated HNO₃ is heated",
+      "ammonium salts react with alkali",
+      "ammonia is cooled"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Potassium nitrate has the formula KNO₃.",
+    "options": [
+      "K₃NO",
+      "KNO₃",
+      "K₂NO₃",
+      "KNO₂"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "Choose the: co₂ is a covalent compound.",
+    "options": [
+      "KBr",
+      "CO₂",
+      "NaCl",
+      "MgO"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "Identify: methane has the molecular formula ch₄.",
+    "options": [
+      "C₂H₆",
+      "C₃H₈",
+      "CH",
+      "CH₄"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "The valency of oxygen is 2.",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Ethene (C₂H₄) is the monomer of polyethene.",
+    "options": [
+      "CH₄",
+      "C",
+      "C₂H₆",
+      "CH₂=CH₂"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 6",
+      "2, 8, 8",
+      "2, 7",
+      "2, 8, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "According to standard definitions, potassium nitrate has the formula kno₃.",
+    "options": [
+      "KNO₃",
+      "K₃NO",
+      "KNO₂",
+      "K₂NO₃"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "Methane has the molecular formula CH₄.",
+    "options": [
+      "C₃H₈",
+      "C₂H₆",
+      "CH₄",
+      "CH"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "Identify: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "H₂",
+      "both H₂ and O₂",
+      "O₂",
+      "H₂O"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "In the context of this subject, in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "H₂",
+      "H₂O",
+      "both H₂ and O₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Identify: methane has the molecular formula ch₄.",
+    "options": [
+      "C₂H₆",
+      "CH",
+      "CH₄",
+      "C₃H₈"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "Ethene (C₂H₄) means the monomer of polyethene.",
     "options": [
       "C",
       "C₂H₆",
@@ -2920,67 +2180,717 @@
     "answer": "CH₂=CH₂"
   },
   {
-    "question": "Oxidation state of N in NO₂",
+    "question": "Select the statement that best completes: potassium nitrate has the formula kno₃.",
     "options": [
-      "+3",
-      "+4",
-      "+5",
-      "+2"
+      "KNO₃",
+      "K₃NO",
+      "KNO₂",
+      "K₂NO₃"
     ],
-    "answer": "+4"
+    "answer": "KNO₃"
   },
   {
-    "question": "Calcium + water produces",
+    "question": "Which concept describes: chlorine has electronic configuration 2, 8, 7.",
     "options": [
-      "CaO + H₂",
-      "Ca(OH)₂ + H₂",
+      "2, 8, 8",
+      "2, 8, 7",
+      "2, 7",
+      "2, 8, 6"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Choose the: potassium nitrate has the formula kno₃.",
+    "options": [
+      "K₃NO",
+      "KNO₃",
+      "K₂NO₃",
+      "KNO₂"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "Select the statement that best completes: the formula of sulfuric acid is h₂so₄.",
+    "options": [
+      "H₂SO₃",
+      "H₂SO₄",
+      "HSO₄",
+      "H₃SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "Identify: the ph range of a strong acid is 0-3.",
+    "options": [
+      "3-7",
+      "10-14",
+      "7-10",
+      "0-3"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Which of the following best describes: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
+    "options": [
+      "4, 3, 2",
+      "2, 1.5, 1",
+      "1, 2, 3",
+      "3, 1, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Identify: the formula of sulfuric acid is h₂so₄.",
+    "options": [
+      "HSO₄",
+      "H₂SO₄",
+      "H₂SO₃",
+      "H₃SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "Which of the following best describes: calcium reacts with water to produce ca(oh)₂ and h₂.",
+    "options": [
       "CaCl + H",
+      "Ca(OH)₂ + H₂",
+      "CaO + H₂",
       "Ca + O₂"
     ],
     "answer": "Ca(OH)₂ + H₂"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "Exothermic reactions release heat energy.",
     "options": [
-      "C₂H₆",
+      "releases heat",
+      "maintain heat",
+      "absorb heat",
+      "has no change"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Choose the: the ph range of a strong acid is 0-3.",
+    "options": [
+      "7-10",
+      "0-3",
+      "10-14",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "Choose the: ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "ammonia is cooled",
+      "nitrogen reacts with oxygen",
+      "ammonium salts react with alkali",
+      "concentrated HNO₃ is heated"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Identify: ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "CH₂=CH₂",
+      "CH₄",
+      "C",
+      "C₂H₆"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Ammonia means produced when ammonium salts react with alkali.",
+    "options": [
+      "ammonia is cooled",
+      "ammonium salts react with alkali",
+      "concentrated HNO₃ is heated",
+      "nitrogen reacts with oxygen"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "Consider: chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 7",
+      "2, 8, 8",
+      "2, 7",
+      "2, 8, 6"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Which of the following best describes: the valency of oxygen is 2.",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following best describes: potassium nitrate has the formula kno₃.",
+    "options": [
+      "K₂NO₃",
+      "KNO₂",
+      "KNO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "The balanced equation represents 4Fe + 3O₂ → 2Fe₂O₃.",
+    "options": [
+      "3, 1, 2",
+      "4, 3, 2",
+      "2, 1.5, 1",
+      "1, 2, 3"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Calcium reacts with water to produce Ca(OH)₂ and H₂.",
+    "options": [
+      "CaO + H₂",
+      "CaCl + H",
+      "Ca + O₂",
+      "Ca(OH)₂ + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "Cl₂",
+      "O₂",
+      "H₂",
+      "CO₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Exothermic reactions release heat energy.",
+    "options": [
+      "has no change",
+      "absorb heat",
+      "releases heat",
+      "maintain heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Consider: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "H₂",
+      "O₂",
+      "H₂O",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "In 2H₂ + O₂ → 2H₂O, hydrogen is the reducing agent.",
+    "options": [
+      "H₂",
+      "O₂",
+      "H₂O",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which of the following best describes: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
+    "options": [
+      "1, 2, 3",
+      "2, 1.5, 1",
+      "3, 1, 2",
+      "4, 3, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "According to standard definitions, ammonia is produced when ammonium salts react with alkali.",
+    "options": [
+      "ammonia is cooled",
+      "concentrated HNO₃ is heated",
+      "ammonium salts react with alkali",
+      "nitrogen reacts with oxygen"
+    ],
+    "answer": "ammonium salts react with alkali"
+  },
+  {
+    "question": "In the context of this subject, the oxidation state of nitrogen in no₂ is +4.",
+    "options": [
+      "+4",
+      "+2",
+      "+3",
+      "+5"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "According to standard definitions, chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 8",
+      "2, 7",
+      "2, 8, 7",
+      "2, 8, 6"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "In 2H₂ + O₂ → 2H₂O, hydrogen is the reducing agent.",
+    "options": [
+      "H₂",
+      "H₂O",
+      "O₂",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "In the context of this subject, zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "O₂",
+      "H₂",
+      "Cl₂",
+      "CO₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Which of the following best describes: co₂ is a covalent compound.",
+    "options": [
+      "MgO",
+      "CO₂",
+      "NaCl",
+      "KBr"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is +4.",
+    "options": [
+      "+5",
+      "+3",
+      "+2",
+      "+4"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "In 2H₂ + O₂ → 2H₂O, hydrogen represents the reducing agent.",
+    "options": [
+      "H₂",
+      "H₂O",
+      "both H₂ and O₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Calcium reacts with water to produce Ca(OH)₂ and H₂.",
+    "options": [
+      "Ca + O₂",
+      "Ca(OH)₂ + H₂",
+      "CaCl + H",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Which concept describes: exothermic reactions release heat energy.",
+    "options": [
+      "has no change",
+      "absorb heat",
+      "maintain heat",
+      "releases heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "Which concept describes: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "H₂",
+      "O₂",
+      "Cl₂",
+      "CO₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "What best explains: the balanced equation is 4fe + 3o₂ → 2fe₂o₃.",
+    "options": [
+      "2, 1.5, 1",
+      "4, 3, 2",
+      "1, 2, 3",
+      "3, 1, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "The best answer to 'the oxidation state of nitrogen in no₂ is +4.' is:",
+    "options": [
+      "+3",
+      "+5",
+      "+4",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is +4.",
+    "options": [
+      "+2",
+      "+3",
+      "+4",
+      "+5"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Identify: exothermic reactions release heat energy.",
+    "options": [
+      "releases heat",
+      "absorb heat",
+      "maintain heat",
+      "has no change"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "The best answer to 'in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.' is:",
+    "options": [
+      "H₂",
+      "O₂",
+      "H₂O",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Identify: potassium nitrate has the formula kno₃.",
+    "options": [
+      "K₂NO₃",
+      "KNO₂",
+      "KNO₃",
+      "K₃NO"
+    ],
+    "answer": "KNO₃"
+  },
+  {
+    "question": "The formula of sulfuric acid means H₂SO₄.",
+    "options": [
+      "HSO₄",
+      "H₂SO₃",
+      "H₂SO₄",
+      "H₃SO₄"
+    ],
+    "answer": "H₂SO₄"
+  },
+  {
+    "question": "The oxidation state of nitrogen in NO₂ is +4.",
+    "options": [
+      "+2",
+      "+4",
+      "+5",
+      "+3"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "CO₂ represents a covalent compound.",
+    "options": [
+      "KBr",
+      "MgO",
+      "CO₂",
+      "NaCl"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "What best explains: exothermic reactions release heat energy.",
+    "options": [
+      "has no change",
+      "releases heat",
+      "absorb heat",
+      "maintain heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "What best explains: chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 6",
+      "2, 8, 7",
+      "2, 7",
+      "2, 8, 8"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "What best explains: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "H₂",
+      "Cl₂",
+      "CO₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Identify: the oxidation state of nitrogen in no₂ is +4.",
+    "options": [
+      "+3",
+      "+2",
+      "+5",
+      "+4"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "What best explains: co₂ is a covalent compound.",
+    "options": [
+      "NaCl",
+      "CO₂",
+      "MgO",
+      "KBr"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "Exothermic reactions release heat energy.",
+    "options": [
+      "maintain heat",
+      "has no change",
+      "absorb heat",
+      "releases heat"
+    ],
+    "answer": "releases heat"
+  },
+  {
+    "question": "In the context of this subject, methane has the molecular formula ch₄.",
+    "options": [
       "CH",
+      "CH₄",
+      "C₂H₆",
+      "C₃H₈"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "Which of the following best describes: ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "CH₂=CH₂",
+      "C",
+      "C₂H₆",
+      "CH₄"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which concept describes: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "O₂",
+      "H₂",
+      "H₂O",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Consider: ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "C",
+      "CH₂=CH₂",
+      "C₂H₆",
+      "CH₄"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Select the statement that best completes: the valency of oxygen is 2.",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What best explains: the valency of oxygen is 2.",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Identify: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "O₂",
+      "Cl₂",
+      "H₂",
+      "CO₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 7",
+      "2, 7",
+      "2, 8, 6",
+      "2, 8, 8"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Calcium reacts with water to produce Ca(OH)₂ and H₂.",
+    "options": [
+      "CaCl + H",
+      "CaO + H₂",
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Which of the following best describes: chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 7",
+      "2, 8, 6",
+      "2, 8, 8",
+      "2, 8, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "Chlorine has electronic configuration 2, 8, 7.",
+    "options": [
+      "2, 8, 6",
+      "2, 7",
+      "2, 8, 8",
+      "2, 8, 7"
+    ],
+    "answer": "2, 8, 7"
+  },
+  {
+    "question": "The best answer to 'the valency of oxygen is 2.' is:",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Choose the: zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "Cl₂",
+      "CO₂",
+      "H₂",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "Methane has the molecular formula CH₄.",
+    "options": [
+      "CH",
+      "CH₄",
+      "C₂H₆",
+      "C₃H₈"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "Which concept describes: the ph range of a strong acid is 0-3.",
+    "options": [
+      "7-10",
+      "10-14",
+      "0-3",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "The best answer to 'methane has the molecular formula ch₄.' is:",
+    "options": [
       "C₃H₈",
+      "CH",
+      "C₂H₆",
       "CH₄"
     ],
     "answer": "CH₄"
   },
   {
-    "question": "Molecular formula of methane",
+    "question": "Which of the following best describes: the valency of oxygen is 2.",
     "options": [
-      "C₃H₈",
-      "CH₄",
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "In 2H₂ + O₂ → 2H₂O, hydrogen means the reducing agent.",
+    "options": [
+      "O₂",
+      "H₂",
+      "H₂O",
+      "both H₂ and O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The best answer to 'co₂ is a covalent compound.' is:",
+    "options": [
+      "KBr",
+      "CO₂",
+      "NaCl",
+      "MgO"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "question": "The pH range of a strong acid means 0-3.",
+    "options": [
+      "3-7",
+      "10-14",
+      "7-10",
+      "0-3"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "According to standard definitions, zinc reacts with dilute hydrochloric acid to produce hydrogen gas.",
+    "options": [
+      "CO₂",
+      "H₂",
+      "O₂",
+      "Cl₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "According to standard definitions, methane has the molecular formula ch₄.",
+    "options": [
+      "CH",
       "C₂H₆",
-      "CH"
+      "CH₄",
+      "C₃H₈"
     ],
     "answer": "CH₄"
   },
   {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "CO₂",
-      "Cl₂",
-      "O₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Gas from Zn + HCl",
-    "options": [
-      "Cl₂",
-      "O₂",
-      "CO₂",
-      "H₂"
-    ],
-    "answer": "H₂"
-  },
-  {
-    "question": "Oxidation state of N in NO₂",
+    "question": "Which concept describes: the oxidation state of nitrogen in no₂ is +4.",
     "options": [
       "+5",
       "+3",
@@ -2990,7 +2900,97 @@
     "answer": "+4"
   },
   {
-    "question": "pH range of strong acid",
+    "question": "The pH range of a strong acid is 0-3.",
+    "options": [
+      "7-10",
+      "0-3",
+      "10-14",
+      "3-7"
+    ],
+    "answer": "0-3"
+  },
+  {
+    "question": "The balanced equation is 4Fe + 3O₂ → 2Fe₂O₃.",
+    "options": [
+      "3, 1, 2",
+      "1, 2, 3",
+      "2, 1.5, 1",
+      "4, 3, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Identify: in 2h₂ + o₂ → 2h₂o, hydrogen is the reducing agent.",
+    "options": [
+      "both H₂ and O₂",
+      "H₂",
+      "H₂O",
+      "O₂"
+    ],
+    "answer": "H₂"
+  },
+  {
+    "question": "The balanced equation symbolizes 4Fe + 3O₂ → 2Fe₂O₃.",
+    "options": [
+      "2, 1.5, 1",
+      "1, 2, 3",
+      "3, 1, 2",
+      "4, 3, 2"
+    ],
+    "answer": "4, 3, 2"
+  },
+  {
+    "question": "Select the statement that best completes: ethene (c₂h₄) is the monomer of polyethene.",
+    "options": [
+      "CH₄",
+      "CH₂=CH₂",
+      "C",
+      "C₂H₆"
+    ],
+    "answer": "CH₂=CH₂"
+  },
+  {
+    "question": "Which of the following best describes: the oxidation state of nitrogen in no₂ is +4.",
+    "options": [
+      "+4",
+      "+5",
+      "+3",
+      "+2"
+    ],
+    "answer": "+4"
+  },
+  {
+    "question": "Which concept describes: calcium reacts with water to produce ca(oh)₂ and h₂.",
+    "options": [
+      "CaCl + H",
+      "CaO + H₂",
+      "Ca + O₂",
+      "Ca(OH)₂ + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Choose the: calcium reacts with water to produce ca(oh)₂ and h₂.",
+    "options": [
+      "Ca(OH)₂ + H₂",
+      "Ca + O₂",
+      "CaCl + H",
+      "CaO + H₂"
+    ],
+    "answer": "Ca(OH)₂ + H₂"
+  },
+  {
+    "question": "Methane has the molecular formula CH₄.",
+    "options": [
+      "C₂H₆",
+      "CH₄",
+      "CH",
+      "C₃H₈"
+    ],
+    "answer": "CH₄"
+  },
+  {
+    "question": "In the context of this subject, the ph range of a strong acid is 0-3.",
     "options": [
       "0-3",
       "7-10",

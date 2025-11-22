@@ -1,86 +1,236 @@
 [
   {
-    "question": "'يوم' معناه:",
+    "question": "In the context of this subject, the sound masculine plural ending is 'ون' in arabic.",
     "options": [
-      "month",
-      "year",
-      "week",
-      "day"
+      "ون",
+      "اء",
+      "ين",
+      "ات"
     ],
-    "answer": "day"
+    "answer": "ون"
   },
   {
-    "question": "النعت يتبع:",
+    "question": "Choose the: the adjective agrees with the noun it modifies in arabic.",
     "options": [
-      "الموصوف",
-      "الحرف",
-      "الفعل",
-      "الجملة"
+      "case",
+      "all of above",
+      "number",
+      "gender"
     ],
-    "answer": "الموصوف"
+    "answer": "all of above"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "Identify: the present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "أقرأ",
+      "قراءة",
+      "يقرا",
+      "اقرا"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "Consider: the letter 'إن' is used to negate the predicate nominative.",
     "options": [
       "لكن",
-      "أن",
+      "إن",
       "ليس",
-      "إن"
+      "أن"
     ],
     "answer": "إن"
   },
   {
-    "question": "النعت يتبع:",
+    "question": "Which concept describes: diacritical marks in arabic indicate vowels and special sounds.",
     "options": [
-      "الحرف",
-      "الفعل",
-      "الموصوف",
-      "الجملة"
+      "punctuation",
+      "stress",
+      "capitalization",
+      "vowels"
     ],
-    "answer": "الموصوف"
+    "answer": "vowels"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "Diacritical marks in Arabic indicate vowels and special sounds.",
     "options": [
-      "إن",
-      "أن",
+      "punctuation",
+      "stress",
+      "capitalization",
+      "vowels"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "'المكتبة' in Arabic refers to a library.",
+    "options": [
+      "library",
+      "school",
+      "desk",
+      "office"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "Choose the: the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "اء",
+      "ون",
+      "ين",
+      "ات"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "Identify: the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "number only",
+      "tense and mood",
+      "person only",
+      "voice only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "Consider: diacritical marks in arabic indicate vowels and special sounds.",
+    "options": [
+      "vowels",
+      "stress",
+      "capitalization",
+      "punctuation"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "'لا' is used to express negation in Arabic.",
+    "options": [
+      "affirmation",
+      "negation",
+      "perhaps",
+      "yes"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "Diacritical marks in Arabic indicate vowels and special sounds.",
+    "options": [
+      "vowels",
+      "capitalization",
+      "punctuation",
+      "stress"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "According to standard definitions, the particle 'ال' in arabic indicates the definite article.",
+    "options": [
+      "conjunction",
+      "definite article",
+      "pronoun",
+      "preposition"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "Identify: 'الطعام' in arabic means food.",
+    "options": [
+      "food",
+      "drink",
+      "meal",
+      "water"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "The plural of 'البيت' (house) represents 'بيوت'.",
+    "options": [
+      "البيوت",
+      "بيتات",
+      "بيوت",
+      "بيتان"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "'السلام عليكم' is the Islamic greeting in Arabic.",
+    "options": [
+      "goodbye",
+      "thank you",
+      "hello",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Identify: the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "voice only",
+      "number only",
+      "tense and mood",
+      "person only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "What best explains: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبوا",
+      "كتبن",
+      "كتبتم",
+      "كتبنا"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "What best explains: 'السلام عليكم' is the islamic greeting in arabic.",
+    "options": [
+      "goodbye",
+      "welcome",
+      "hello",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "The best answer to 'the adjective agrees with the noun it modifies in arabic.' is:",
+    "options": [
+      "number",
+      "all of above",
+      "case",
+      "gender"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "'يوم' in Arabic means day.",
+    "options": [
+      "day",
+      "week",
+      "year",
+      "month"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'أختي' means 'my srepresentster' in Arabic.",
+    "options": [
+      "his sister",
+      "your sister",
+      "her sister",
+      "my sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "Identify: the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
       "ليس",
+      "أن",
+      "إن",
       "لكن"
     ],
     "answer": "إن"
   },
   {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيوت",
-      "بيتات",
-      "البيوت",
-      "بيتان"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبوا",
-      "كتبنا",
-      "كتبن",
-      "كتبتم"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيوت",
-      "بيتات",
-      "البيوت",
-      "بيتان"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
+    "question": "Select the statement that best completes: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
     "options": [
       "كتبتم",
       "كتبوا",
@@ -90,1417 +240,17 @@
     "answer": "كتبوا"
   },
   {
-    "question": "'الطعام' معناه:",
+    "question": "In the context of this subject, the adjective agrees with the noun it modifies in arabic.",
     "options": [
-      "meal",
-      "food",
-      "water",
-      "drink"
+      "all of above",
+      "number",
+      "case",
+      "gender"
     ],
-    "answer": "food"
+    "answer": "all of above"
   },
   {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "meal",
-      "drink",
-      "food",
-      "water"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الموصوف",
-      "الحرف",
-      "الجملة",
-      "الفعل"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ون",
-      "ات",
-      "ين",
-      "اء"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "your sister",
-      "his sister",
-      "her sister",
-      "my sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "drink",
-      "meal",
-      "water",
-      "food"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "my sister",
-      "his sister",
-      "your sister",
-      "her sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "ليس",
-      "أن",
-      "لكن",
-      "إن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبتم",
-      "كتبنا",
-      "كتبن",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "أقرأ",
-      "اقرا",
-      "يقرا",
-      "قراءة"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "قراءة",
-      "اقرا",
-      "أقرأ",
-      "يقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبن",
-      "كتبنا",
-      "كتبتم",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "my sister",
-      "his sister",
-      "her sister",
-      "your sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "أقرأ",
-      "يقرا",
-      "اقرا",
-      "قراءة"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ات",
-      "اء",
-      "ين",
-      "ون"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "food",
-      "drink",
-      "meal",
-      "water"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "أن",
-      "لكن",
-      "ليس",
-      "إن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "قراءة",
-      "اقرا",
-      "أقرأ",
-      "يقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "meal",
-      "food",
-      "drink",
-      "water"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "أقرأ",
-      "قراءة",
-      "يقرا",
-      "اقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "قراءة",
-      "يقرا",
-      "أقرأ",
-      "اقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتات",
-      "بيتان",
-      "البيوت",
-      "بيوت"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتان",
-      "بيوت",
-      "البيوت",
-      "بيتات"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ون",
-      "ات",
-      "ين",
-      "اء"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الحرف",
-      "الجملة",
-      "الموصوف",
-      "الفعل"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "his sister",
-      "her sister",
-      "my sister",
-      "your sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "day",
-      "week",
-      "year",
-      "month"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "your sister",
-      "my sister",
-      "his sister",
-      "her sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "month",
-      "day",
-      "week",
-      "year"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيوت",
-      "بيتان",
-      "بيتات",
-      "البيوت"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ون",
-      "ات",
-      "اء",
-      "ين"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبن",
-      "كتبتم",
-      "كتبوا",
-      "كتبنا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبنا",
-      "كتبن",
-      "كتبوا",
-      "كتبتم"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "her sister",
-      "his sister",
-      "your sister",
-      "my sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "year",
-      "day",
-      "month",
-      "week"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "أقرأ",
-      "قراءة",
-      "اقرا",
-      "يقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "your sister",
-      "his sister",
-      "my sister",
-      "her sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "اء",
-      "ون",
-      "ات",
-      "ين"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "drink",
-      "meal",
-      "food",
-      "water"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبوا",
-      "كتبنا",
-      "كتبتم",
-      "كتبن"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "her sister",
-      "his sister",
-      "my sister",
-      "your sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبنا",
-      "كتبوا",
-      "كتبتم",
-      "كتبن"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "my sister",
-      "your sister",
-      "his sister",
-      "her sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "اء",
-      "ين",
-      "ون",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الموصوف",
-      "الجملة",
-      "الفعل",
-      "الحرف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيوت",
-      "البيوت",
-      "بيتات",
-      "بيتان"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "his sister",
-      "my sister",
-      "your sister",
-      "her sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبتم",
-      "كتبوا",
-      "كتبن",
-      "كتبنا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ون",
-      "ين",
-      "اء",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الموصوف",
-      "الجملة",
-      "الحرف",
-      "الفعل"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "البيوت",
-      "بيتان",
-      "بيتات",
-      "بيوت"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "desk",
-      "library",
-      "school",
-      "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الفعل",
-      "الموصوف",
-      "الجملة",
-      "الحرف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الجملة",
-      "الموصوف",
-      "الفعل",
-      "الحرف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ون",
-      "ين",
-      "اء",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيوت",
-      "البيوت",
-      "بيتان",
-      "بيتات"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "month",
-      "year",
-      "day",
-      "week"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الجملة",
-      "الحرف",
-      "الفعل",
-      "الموصوف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "يقرا",
-      "قراءة",
-      "أقرأ",
-      "اقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "day",
-      "year",
-      "week",
-      "month"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "desk",
-      "library",
-      "office",
-      "school"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبتم",
-      "كتبوا",
-      "كتبنا",
-      "كتبن"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتان",
-      "البيوت",
-      "بيوت",
-      "بيتات"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبتم",
-      "كتبن",
-      "كتبنا",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ات",
-      "ين",
-      "ون",
-      "اء"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "office",
-      "school",
-      "desk",
-      "library"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "your sister",
-      "my sister",
-      "his sister",
-      "her sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتات",
-      "بيتان",
-      "البيوت",
-      "بيوت"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "week",
-      "year",
-      "month",
-      "day"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيوت",
-      "بيتان",
-      "البيوت",
-      "بيتات"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "office",
-      "desk",
-      "library",
-      "school"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الجملة",
-      "الموصوف",
-      "الفعل",
-      "الحرف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "month",
-      "week",
-      "day",
-      "year"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "my sister",
-      "your sister",
-      "her sister",
-      "his sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "قراءة",
-      "اقرا",
-      "أقرأ",
-      "يقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الفعل",
-      "الجملة",
-      "الحرف",
-      "الموصوف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "يقرا",
-      "أقرأ",
-      "اقرا",
-      "قراءة"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "meal",
-      "drink",
-      "water",
-      "food"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "year",
-      "week",
-      "day",
-      "month"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "library",
-      "school",
-      "desk",
-      "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "drink",
-      "water",
-      "meal",
-      "food"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتان",
-      "بيتات",
-      "بيوت",
-      "البيوت"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "اء",
-      "ين",
-      "ون",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "meal",
-      "drink",
-      "water",
-      "food"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "اء",
-      "ات",
-      "ين",
-      "ون"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "ليس",
-      "لكن",
-      "أن",
-      "إن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "my sister",
-      "his sister",
-      "your sister",
-      "her sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيوت",
-      "بيتات",
-      "بيتان",
-      "البيوت"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "قراءة",
-      "أقرأ",
-      "اقرا",
-      "يقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الفعل",
-      "الحرف",
-      "الموصوف",
-      "الجملة"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "إن",
-      "لكن",
-      "أن",
-      "ليس"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "her sister",
-      "your sister",
-      "my sister",
-      "his sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيوت",
-      "بيتات",
-      "البيوت",
-      "بيتان"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "school",
-      "office",
-      "library",
-      "desk"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "قراءة",
-      "اقرا",
-      "يقرا",
-      "أقرأ"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "day",
-      "month",
-      "week",
-      "year"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "week",
-      "year",
-      "day",
-      "month"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتات",
-      "البيوت",
-      "بيوت",
-      "بيتان"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "water",
-      "food",
-      "drink",
-      "meal"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "year",
-      "week",
-      "day",
-      "month"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبوا",
-      "كتبن",
-      "كتبتم",
-      "كتبنا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبنا",
-      "كتبن",
-      "كتبوا",
-      "كتبتم"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ين",
-      "ون",
-      "اء",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "اقرا",
-      "أقرأ",
-      "قراءة",
-      "يقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيوت",
-      "بيتان",
-      "البيوت",
-      "بيتات"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "her sister",
-      "his sister",
-      "my sister",
-      "your sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الجملة",
-      "الموصوف",
-      "الحرف",
-      "الفعل"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الموصوف",
-      "الفعل",
-      "الحرف",
-      "الجملة"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "library",
-      "school",
-      "desk",
-      "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "week",
-      "year",
-      "month",
-      "day"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "my sister",
-      "her sister",
-      "your sister",
-      "his sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "food",
-      "water",
-      "meal",
-      "drink"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "أقرأ",
-      "قراءة",
-      "اقرا",
-      "يقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "your sister",
-      "her sister",
-      "his sister",
-      "my sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "his sister",
-      "my sister",
-      "her sister",
-      "your sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "school",
-      "office",
-      "desk",
-      "library"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبن",
-      "كتبنا",
-      "كتبوا",
-      "كتبتم"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "لكن",
-      "ليس",
-      "أن",
-      "إن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "أقرأ",
-      "قراءة",
-      "يقرا",
-      "اقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الحرف",
-      "الجملة",
-      "الفعل",
-      "الموصوف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "لكن",
-      "ليس",
-      "أن",
-      "إن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ين",
-      "ون",
-      "ات",
-      "اء"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الموصوف",
-      "الفعل",
-      "الحرف",
-      "الجملة"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ون",
-      "ات",
-      "اء",
-      "ين"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "اء",
-      "ات",
-      "ين",
-      "ون"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ون",
-      "ات",
-      "ين",
-      "اء"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "day",
-      "year",
-      "month",
-      "week"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "اء",
-      "ون",
-      "ين",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "ليس",
-      "لكن",
-      "أن",
-      "إن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتان",
-      "بيوت",
-      "بيتات",
-      "البيوت"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ين",
-      "ون",
-      "اء",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الموصوف",
-      "الفعل",
-      "الجملة",
-      "الحرف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "school",
-      "desk",
-      "office",
-      "library"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبن",
-      "كتبتم",
-      "كتبنا",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "أن",
-      "ليس",
-      "لكن",
-      "إن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "office",
-      "desk",
-      "school",
-      "library"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "year",
-      "day",
-      "week",
-      "month"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'المكتبة' تعني:",
+    "question": "'المكتبة' in Arabic refers to a library.",
     "options": [
       "office",
       "school",
@@ -1510,97 +260,17 @@
     "answer": "library"
   },
   {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
+    "question": "The past tense of 'كتب' (to write) in plural represents 'كتبوا'.",
     "options": [
-      "كتبتم",
-      "كتبن",
-      "كتبنا",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الجملة",
-      "الحرف",
-      "الفعل",
-      "الموصوف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "قراءة",
-      "يقرا",
-      "اقرا",
-      "أقرأ"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "لكن",
-      "إن",
-      "ليس",
-      "أن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "قراءة",
-      "اقرا",
-      "يقرا",
-      "أقرأ"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتات",
-      "البيوت",
-      "بيوت",
-      "بيتان"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "ليس",
-      "إن",
-      "أن",
-      "لكن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "meal",
-      "drink",
-      "food",
-      "water"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبنا",
       "كتبوا",
+      "كتبنا",
       "كتبتم",
       "كتبن"
     ],
     "answer": "كتبوا"
   },
   {
-    "question": "'الطعام' معناه:",
+    "question": "'الطعام' in Arabic means food.",
     "options": [
       "food",
       "water",
@@ -1610,447 +280,197 @@
     "answer": "food"
   },
   {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
+    "question": "Which of the following best describes: the present tense of 'قرأ' (to read) is 'أقرأ'.",
     "options": [
-      "كتبنا",
-      "كتبن",
-      "كتبتم",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "البيوت",
-      "بيتات",
-      "بيوت",
-      "بيتان"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "أن",
-      "إن",
-      "لكن",
-      "ليس"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "اء",
-      "ون",
-      "ين",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ون",
-      "اء",
-      "ات",
-      "ين"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "month",
-      "day",
-      "week",
-      "year"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ين",
-      "ون",
-      "اء",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتات",
-      "بيوت",
-      "البيوت",
-      "بيتان"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "your sister",
-      "his sister",
-      "my sister",
-      "her sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "أقرأ",
-      "قراءة",
       "اقرا",
-      "يقرا"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "desk",
-      "school",
-      "office",
-      "library"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبتم",
-      "كتبن",
-      "كتبنا",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "year",
-      "day",
-      "week",
-      "month"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
       "يقرا",
-      "اقرا",
-      "أقرأ",
-      "قراءة"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "my sister",
-      "her sister",
-      "his sister",
-      "your sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "your sister",
-      "his sister",
-      "her sister",
-      "my sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ون",
-      "اء",
-      "ين",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "يقرا",
-      "اقرا",
       "قراءة",
       "أقرأ"
     ],
     "answer": "أقرأ"
   },
   {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
+    "question": "The particle 'ال' in Arabic indicates the definite article.",
     "options": [
-      "كتبتم",
+      "conjunction",
+      "definite article",
+      "pronoun",
+      "preposition"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "Identify: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبنا",
       "كتبوا",
       "كتبن",
-      "كتبنا"
+      "كتبتم"
     ],
     "answer": "كتبوا"
   },
   {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
+    "question": "Which concept describes: 'أختي' means 'my sister' in arabic.",
     "options": [
-      "كتبتم",
-      "كتبن",
-      "كتبوا",
-      "كتبنا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "my sister",
       "your sister",
-      "her sister",
-      "his sister"
+      "my sister",
+      "his sister",
+      "her sister"
     ],
     "answer": "my sister"
   },
   {
-    "question": "النعت يتبع:",
+    "question": "The verb forms in Arabic are classified by tense and mood.",
     "options": [
-      "الموصوف",
-      "الحرف",
-      "الجملة",
-      "الفعل"
+      "tense and mood",
+      "person only",
+      "voice only",
+      "number only"
     ],
-    "answer": "الموصوف"
+    "answer": "tense and mood"
   },
   {
-    "question": "الفعل 'قرأ' في المضارع:",
+    "question": "Choose the: 'أختي' means 'my sister' in arabic.",
     "options": [
-      "اقرا",
-      "يقرا",
-      "أقرأ",
-      "قراءة"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "desk",
-      "office",
-      "library",
-      "school"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "library",
-      "desk",
-      "office",
-      "school"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "water",
-      "food",
-      "drink",
-      "meal"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الفعل",
-      "الجملة",
-      "الموصوف",
-      "الحرف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "her sister",
-      "my sister",
+      "his sister",
       "your sister",
-      "his sister"
+      "her sister",
+      "my sister"
     ],
     "answer": "my sister"
   },
   {
-    "question": "'البيت' جمعه:",
+    "question": "Identify: 'لا' is used to express negation in arabic.",
     "options": [
-      "بيتان",
-      "البيوت",
-      "بيوت",
-      "بيتات"
+      "affirmation",
+      "yes",
+      "negation",
+      "perhaps"
     ],
-    "answer": "بيوت"
+    "answer": "negation"
   },
   {
-    "question": "النعت يتبع:",
+    "question": "Choose the: diacritical marks in arabic indicate vowels and special sounds.",
     "options": [
-      "الموصوف",
-      "الفعل",
-      "الحرف",
-      "الجملة"
+      "vowels",
+      "capitalization",
+      "punctuation",
+      "stress"
     ],
-    "answer": "الموصوف"
+    "answer": "vowels"
   },
   {
-    "question": "الجمع السالم المذكر ينتهي:",
+    "question": "In the context of this subject, diacritical marks in arabic indicate vowels and special sounds.",
     "options": [
-      "ون",
-      "ين",
-      "اء",
-      "ات"
+      "capitalization",
+      "vowels",
+      "punctuation",
+      "stress"
     ],
-    "answer": "ون"
+    "answer": "vowels"
   },
   {
-    "question": "النعت يتبع:",
+    "question": "'السلام عليكم' represents the Islamic greeting in Arabic.",
     "options": [
-      "الفعل",
-      "الجملة",
-      "الحرف",
-      "الموصوف"
+      "thank you",
+      "welcome",
+      "hello",
+      "goodbye"
     ],
-    "answer": "الموصوف"
+    "answer": "hello"
   },
   {
-    "question": "الجمع السالم المذكر ينتهي:",
+    "question": "Diacritical marks in Arabic indicate vowels and special sounds.",
     "options": [
-      "ين",
-      "ات",
-      "ون",
-      "اء"
+      "stress",
+      "punctuation",
+      "capitalization",
+      "vowels"
     ],
-    "answer": "ون"
+    "answer": "vowels"
   },
   {
-    "question": "'البيت' جمعه:",
+    "question": "The adjective agrees with the noun it modifies in Arabic.",
     "options": [
-      "البيوت",
-      "بيتان",
+      "case",
+      "gender",
+      "number",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "'السلام عليكم' means the Islamic greeting in Arabic.",
+    "options": [
+      "welcome",
+      "hello",
+      "goodbye",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "The verb forms in Arabic are classified by tense and mood.",
+    "options": [
+      "tense and mood",
+      "person only",
+      "voice only",
+      "number only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "The plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
       "بيتات",
+      "بيتان",
+      "البيوت",
       "بيوت"
     ],
     "answer": "بيوت"
   },
   {
-    "question": "'المكتبة' تعني:",
+    "question": "'يوم' in Arabic means day.",
     "options": [
-      "office",
-      "library",
-      "desk",
-      "school"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "day",
       "year",
-      "month",
-      "week"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ين",
-      "ون",
-      "اء",
-      "ات"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "ليس",
-      "إن",
-      "أن",
-      "لكن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتان",
-      "بيوت",
-      "البيوت",
-      "بيتات"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الفعل",
-      "الجملة",
-      "الموصوف",
-      "الحرف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "أن",
-      "ليس",
-      "لكن",
-      "إن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "day",
-      "month",
       "week",
-      "year"
+      "day",
+      "month"
     ],
     "answer": "day"
   },
   {
-    "question": "'أختي' تعني:",
+    "question": "'الطعام' in Arabic means food.",
     "options": [
-      "your sister",
-      "my sister",
-      "her sister",
-      "his sister"
+      "drink",
+      "meal",
+      "food",
+      "water"
     ],
-    "answer": "my sister"
+    "answer": "food"
   },
   {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
+    "question": "Which of the following best describes: 'السلام عليكم' is the islamic greeting in arabic.",
+    "options": [
+      "goodbye",
+      "welcome",
+      "hello",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "'لا' means used to express negation in Arabic.",
+    "options": [
+      "negation",
+      "perhaps",
+      "affirmation",
+      "yes"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "Consider: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
     "options": [
       "كتبن",
       "كتبنا",
@@ -2060,277 +480,1247 @@
     "answer": "كتبوا"
   },
   {
-    "question": "'الطعام' معناه:",
+    "question": "Which of the following best describes: 'لا' is used to express negation in arabic.",
     "options": [
-      "food",
-      "drink",
-      "meal",
-      "water"
+      "yes",
+      "affirmation",
+      "perhaps",
+      "negation"
     ],
-    "answer": "food"
+    "answer": "negation"
   },
   {
-    "question": "'الطعام' معناه:",
+    "question": "'لا' is used to express negation in Arabic.",
     "options": [
-      "food",
-      "drink",
-      "water",
-      "meal"
+      "negation",
+      "affirmation",
+      "yes",
+      "perhaps"
     ],
-    "answer": "food"
+    "answer": "negation"
   },
   {
-    "question": "'يوم' معناه:",
+    "question": "Identify: the adjective agrees with the noun it modifies in arabic.",
     "options": [
+      "gender",
+      "case",
+      "number",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Which concept describes: 'يوم' in arabic means day.",
+    "options": [
+      "year",
+      "day",
+      "month",
+      "week"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "What best explains: diacritical marks in arabic indicate vowels and special sounds.",
+    "options": [
+      "vowels",
+      "punctuation",
+      "stress",
+      "capitalization"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "Identify: the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيتات",
+      "بيوت",
+      "بيتان",
+      "البيوت"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "'السلام عليكم' is the Islamic greeting in Arabic.",
+    "options": [
+      "hello",
+      "welcome",
+      "thank you",
+      "goodbye"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "The past tense of 'كتب' (to write) in plural means 'كتبوا'.",
+    "options": [
+      "كتبنا",
+      "كتبن",
+      "كتبوا",
+      "كتبتم"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "Identify: the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيوت",
+      "بيتات",
+      "بيتان",
+      "البيوت"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "Choose the: 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "school",
+      "library",
+      "office",
+      "desk"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "Consider: the adjective agrees with the noun it modifies in arabic.",
+    "options": [
+      "gender",
+      "case",
+      "number",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Select the statement that best completes: 'يوم' in arabic means day.",
+    "options": [
+      "year",
       "week",
       "day",
-      "year",
       "month"
     ],
     "answer": "day"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "Select the statement that best completes: 'السلام عليكم' is the islamic greeting in arabic.",
     "options": [
-      "لكن",
+      "hello",
+      "welcome",
+      "goodbye",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "The letter 'إن' represents used to negate the predicate nominative.",
+    "options": [
       "إن",
       "ليس",
+      "لكن",
       "أن"
     ],
     "answer": "إن"
   },
   {
-    "question": "'البيت' جمعه:",
+    "question": "Which of the following best describes: 'السلام عليكم' is the islamic greeting in arabic.",
     "options": [
-      "بيوت",
-      "بيتات",
-      "البيوت",
-      "بيتان"
+      "thank you",
+      "hello",
+      "goodbye",
+      "welcome"
     ],
-    "answer": "بيوت"
+    "answer": "hello"
   },
   {
-    "question": "الفعل 'قرأ' في المضارع:",
+    "question": "The particle 'ال' in Arabic indicates the definite article.",
     "options": [
-      "اقرا",
-      "أقرأ",
-      "يقرا",
-      "قراءة"
+      "conjunction",
+      "definite article",
+      "preposition",
+      "pronoun"
     ],
-    "answer": "أقرأ"
+    "answer": "definite article"
   },
   {
-    "question": "'الطعام' معناه:",
+    "question": "What best explains: 'الطعام' in arabic means food.",
     "options": [
       "water",
-      "food",
       "drink",
+      "food",
       "meal"
     ],
     "answer": "food"
   },
   {
-    "question": "'البيت' جمعه:",
+    "question": "The particle 'ال' in Arabic indicates the definite article.",
     "options": [
-      "البيوت",
-      "بيتان",
-      "بيتات",
-      "بيوت"
+      "pronoun",
+      "preposition",
+      "definite article",
+      "conjunction"
     ],
-    "answer": "بيوت"
+    "answer": "definite article"
   },
   {
-    "question": "'المكتبة' تعني:",
+    "question": "Which concept describes: the present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "اقرا",
+      "يقرا",
+      "أقرأ",
+      "قراءة"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "Identify: the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "ون",
+      "اء",
+      "ين",
+      "ات"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "According to standard definitions, 'لا' is used to express negation in arabic.",
+    "options": [
+      "negation",
+      "affirmation",
+      "perhaps",
+      "yes"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "Select the statement that best completes: 'المكتبة' in arabic refers to a library.",
     "options": [
       "library",
       "school",
-      "desk",
-      "office"
+      "office",
+      "desk"
     ],
     "answer": "library"
   },
   {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
+    "question": "The past tense of 'كتب' (to write) in plural is 'كتبوا'.",
     "options": [
-      "كتبتم",
       "كتبن",
-      "كتبنا",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "water",
-      "food",
-      "meal",
-      "drink"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
+      "كتبتم",
       "كتبوا",
-      "كتبن",
-      "كتبتم",
       "كتبنا"
     ],
     "answer": "كتبوا"
   },
   {
-    "question": "الجمع السالم المذكر ينتهي:",
+    "question": "Which of the following best describes: 'المكتبة' in arabic refers to a library.",
     "options": [
-      "ات",
+      "desk",
+      "library",
+      "office",
+      "school"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "Choose the: diacritical marks in arabic indicate vowels and special sounds.",
+    "options": [
+      "capitalization",
+      "stress",
+      "vowels",
+      "punctuation"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "Choose the: 'لا' is used to express negation in arabic.",
+    "options": [
+      "negation",
+      "yes",
+      "perhaps",
+      "affirmation"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "The letter 'إن' means used to negate the predicate nominative.",
+    "options": [
+      "إن",
+      "لكن",
+      "أن",
+      "ليس"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "The best answer to 'the past tense of 'كتب' (to write) in plural is 'كتبوا'.' is:",
+    "options": [
+      "كتبتم",
+      "كتبوا",
+      "كتبن",
+      "كتبنا"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "Choose the: 'لا' is used to express negation in arabic.",
+    "options": [
+      "affirmation",
+      "perhaps",
+      "yes",
+      "negation"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "Identify: diacritical marks in arabic indicate vowels and special sounds.",
+    "options": [
+      "stress",
+      "capitalization",
+      "vowels",
+      "punctuation"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "In the context of this subject, the particle 'ال' in arabic indicates the definite article.",
+    "options": [
+      "preposition",
+      "pronoun",
+      "conjunction",
+      "definite article"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "'يوم' in Arabic means day.",
+    "options": [
+      "week",
+      "year",
+      "day",
+      "month"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Choose the: 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "office",
+      "desk",
+      "library",
+      "school"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "The sound masculine plural ending is 'ون' in Arabic.",
+    "options": [
       "ون",
+      "ات",
       "ين",
       "اء"
     ],
     "answer": "ون"
   },
   {
-    "question": "الجمع السالم المذكر ينتهي:",
+    "question": "The particle 'ال' in Arabic indicates the definite article.",
     "options": [
-      "اء",
-      "ات",
-      "ون",
-      "ين"
+      "definite article",
+      "conjunction",
+      "preposition",
+      "pronoun"
     ],
-    "answer": "ون"
+    "answer": "definite article"
   },
   {
-    "question": "'الطعام' معناه:",
+    "question": "Diacritical marks in Arabic indicate vowels and special sounds.",
     "options": [
-      "meal",
-      "food",
-      "drink",
-      "water"
+      "stress",
+      "vowels",
+      "punctuation",
+      "capitalization"
     ],
-    "answer": "food"
+    "answer": "vowels"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "'أختي' means 'my sister' in Arabic.",
     "options": [
-      "إن",
-      "ليس",
-      "لكن",
-      "أن"
+      "his sister",
+      "her sister",
+      "your sister",
+      "my sister"
     ],
-    "answer": "إن"
+    "answer": "my sister"
   },
   {
-    "question": "'الطعام' معناه:",
+    "question": "Select the statement that best completes: 'لا' is used to express negation in arabic.",
     "options": [
-      "meal",
-      "water",
-      "food",
-      "drink"
+      "negation",
+      "yes",
+      "perhaps",
+      "affirmation"
     ],
-    "answer": "food"
+    "answer": "negation"
   },
   {
-    "question": "'يوم' معناه:",
+    "question": "Consider: 'السلام عليكم' is the islamic greeting in arabic.",
     "options": [
+      "hello",
+      "goodbye",
+      "welcome",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Which of the following best describes: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبتم",
+      "كتبنا",
+      "كتبوا",
+      "كتبن"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "Which concept describes: the particle 'ال' in arabic indicates the definite article.",
+    "options": [
+      "conjunction",
+      "pronoun",
+      "preposition",
+      "definite article"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "Which of the following best describes: diacritical marks in arabic indicate vowels and special sounds.",
+    "options": [
+      "vowels",
+      "punctuation",
+      "capitalization",
+      "stress"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "The best answer to ''يوم' in arabic means day.' is:",
+    "options": [
+      "day",
       "month",
       "year",
-      "day",
       "week"
     ],
     "answer": "day"
   },
   {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "يقرا",
-      "أقرأ",
-      "اقرا",
-      "قراءة"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "meal",
-      "drink",
-      "water",
-      "food"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتات",
-      "بيتان",
-      "بيوت",
-      "البيوت"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "week",
-      "year",
-      "day",
-      "month"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "food",
-      "meal",
-      "water",
-      "drink"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "The best answer to 'the letter 'إن' is used to negate the predicate nominative.' is:",
     "options": [
       "إن",
-      "أن",
       "لكن",
+      "أن",
       "ليس"
     ],
     "answer": "إن"
   },
   {
-    "question": "النعت يتبع:",
+    "question": "Choose the: the present tense of 'قرأ' (to read) is 'أقرأ'.",
     "options": [
-      "الحرف",
-      "الموصوف",
-      "الجملة",
-      "الفعل"
+      "قراءة",
+      "أقرأ",
+      "يقرا",
+      "اقرا"
     ],
-    "answer": "الموصوف"
+    "answer": "أقرأ"
   },
   {
-    "question": "'المكتبة' تعني:",
+    "question": "What best explains: the present tense of 'قرأ' (to read) is 'أقرأ'.",
     "options": [
-      "office",
+      "يقرا",
+      "قراءة",
+      "أقرأ",
+      "اقرا"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "'أختي' means 'my ssymbolizester' in Arabic.",
+    "options": [
+      "her sister",
+      "your sister",
+      "his sister",
+      "my sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "The plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "البيوت",
+      "بيوت",
+      "بيتان",
+      "بيتات"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "Choose the: the present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "أقرأ",
+      "قراءة",
+      "اقرا",
+      "يقرا"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "Which of the following best describes: 'لا' is used to express negation in arabic.",
+    "options": [
+      "perhaps",
+      "negation",
+      "yes",
+      "affirmation"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "'أختي' means 'my sister' in Arabic.",
+    "options": [
+      "his sister",
+      "your sister",
+      "my sister",
+      "her sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "'يوم' in Arabic means day.",
+    "options": [
+      "month",
+      "day",
+      "year",
+      "week"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "What best explains: 'لا' is used to express negation in arabic.",
+    "options": [
+      "affirmation",
+      "negation",
+      "perhaps",
+      "yes"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "'المكتبة' in Arabic refers to a library.",
+    "options": [
       "school",
+      "library",
+      "desk",
+      "office"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "The verb forms in Arabic are classified by tense and mood.",
+    "options": [
+      "tense and mood",
+      "voice only",
+      "person only",
+      "number only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "Choose the: the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "لكن",
+      "ليس",
+      "إن",
+      "أن"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "The past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبن",
+      "كتبوا",
+      "كتبتم",
+      "كتبنا"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "Identify: 'لا' is used to express negation in arabic.",
+    "options": [
+      "yes",
+      "perhaps",
+      "negation",
+      "affirmation"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "Which of the following best describes: the present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "يقرا",
+      "قراءة",
+      "اقرا",
+      "أقرأ"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "Which of the following best describes: 'يوم' in arabic means day.",
+    "options": [
+      "day",
+      "week",
+      "year",
+      "month"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "The best answer to 'the plural of 'البيت' (house) is 'بيوت'.' is:",
+    "options": [
+      "بيوت",
+      "بيتان",
+      "البيوت",
+      "بيتات"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "Diacritical marks in Arabic indicate vowels and special sounds.",
+    "options": [
+      "vowels",
+      "punctuation",
+      "stress",
+      "capitalization"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "Identify: the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "أن",
+      "لكن",
+      "إن",
+      "ليس"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "The best answer to 'diacritical marks in arabic indicate vowels and special sounds.' is:",
+    "options": [
+      "capitalization",
+      "punctuation",
+      "stress",
+      "vowels"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "'لا' is used to express negation in Arabic.",
+    "options": [
+      "negation",
+      "affirmation",
+      "yes",
+      "perhaps"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "The sound masculine plural ending symbolizes 'ون' in Arabic.",
+    "options": [
+      "ات",
+      "ين",
+      "ون",
+      "اء"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "'يوم' in Arabic means day.",
+    "options": [
+      "year",
+      "month",
+      "week",
+      "day"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Which of the following best describes: the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "ات",
+      "ين",
+      "اء",
+      "ون"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "The best answer to ''المكتبة' in arabic refers to a library.' is:",
+    "options": [
+      "school",
+      "office",
       "desk",
       "library"
     ],
     "answer": "library"
   },
   {
-    "question": "الفعل 'قرأ' في المضارع:",
+    "question": "According to standard definitions, the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبتم",
+      "كتبوا",
+      "كتبن",
+      "كتبنا"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "Select the statement that best completes: the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "voice only",
+      "person only",
+      "number only",
+      "tense and mood"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "What best explains: the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "أن",
+      "ليس",
+      "إن",
+      "لكن"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "The past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبنا",
+      "كتبوا",
+      "كتبتم",
+      "كتبن"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "The sound masculine plural ending represents 'ون' in Arabic.",
+    "options": [
+      "ين",
+      "اء",
+      "ات",
+      "ون"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "The letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "إن",
+      "ليس",
+      "أن",
+      "لكن"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "The best answer to ''الطعام' in arabic means food.' is:",
+    "options": [
+      "drink",
+      "water",
+      "food",
+      "meal"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "The particle 'ال' in Arabic indicates the definite article.",
+    "options": [
+      "conjunction",
+      "preposition",
+      "definite article",
+      "pronoun"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "Choose the: 'السلام عليكم' is the islamic greeting in arabic.",
+    "options": [
+      "hello",
+      "welcome",
+      "goodbye",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "What best explains: the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "ين",
+      "ون",
+      "ات",
+      "اء"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "The present tense of 'قرأ' (to read) is 'أقرأ'.",
     "options": [
       "اقرا",
-      "أقرأ",
+      "قراءة",
       "يقرا",
-      "قراءة"
+      "أقرأ"
     ],
     "answer": "أقرأ"
   },
   {
-    "question": "'أختي' تعني:",
+    "question": "The best answer to ''أختي' means 'my sister' in arabic.' is:",
+    "options": [
+      "his sister",
+      "my sister",
+      "her sister",
+      "your sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "Which of the following best describes: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبنا",
+      "كتبتم",
+      "كتبوا",
+      "كتبن"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "'الطعام' in Arabic means food.",
+    "options": [
+      "drink",
+      "food",
+      "water",
+      "meal"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "The letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "ليس",
+      "إن",
+      "أن",
+      "لكن"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "Consider: 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "desk",
+      "office",
+      "library",
+      "school"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "The best answer to 'the present tense of 'قرأ' (to read) is 'أقرأ'.' is:",
+    "options": [
+      "يقرا",
+      "قراءة",
+      "أقرأ",
+      "اقرا"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "Identify: 'الطعام' in arabic means food.",
+    "options": [
+      "drink",
+      "food",
+      "water",
+      "meal"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "In the context of this subject, 'لا' is used to express negation in arabic.",
+    "options": [
+      "affirmation",
+      "negation",
+      "yes",
+      "perhaps"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "According to standard definitions, the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "person only",
+      "voice only",
+      "tense and mood",
+      "number only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "Choose the: the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "لكن",
+      "إن",
+      "أن",
+      "ليس"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "Which of the following best describes: the adjective agrees with the noun it modifies in arabic.",
+    "options": [
+      "case",
+      "gender",
+      "all of above",
+      "number"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Choose the: 'الطعام' in arabic means food.",
+    "options": [
+      "water",
+      "food",
+      "drink",
+      "meal"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "Consider: the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "ون",
+      "ين",
+      "اء",
+      "ات"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "Which concept describes: 'الطعام' in arabic means food.",
+    "options": [
+      "water",
+      "drink",
+      "meal",
+      "food"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "'السلام عليكم' symbolizes the Islamic greeting in Arabic.",
+    "options": [
+      "hello",
+      "welcome",
+      "goodbye",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Choose the: 'السلام عليكم' is the islamic greeting in arabic.",
+    "options": [
+      "goodbye",
+      "hello",
+      "welcome",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Choose the: 'الطعام' in arabic means food.",
+    "options": [
+      "drink",
+      "food",
+      "meal",
+      "water"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "Choose the: the particle 'ال' in arabic indicates the definite article.",
+    "options": [
+      "preposition",
+      "pronoun",
+      "definite article",
+      "conjunction"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "Which concept describes: 'السلام عليكم' is the islamic greeting in arabic.",
+    "options": [
+      "goodbye",
+      "welcome",
+      "thank you",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "According to standard definitions, 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "office",
+      "school",
+      "library",
+      "desk"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "Diacritical marks in Arabic indicate vowels and special sounds.",
+    "options": [
+      "capitalization",
+      "vowels",
+      "stress",
+      "punctuation"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "The plural of 'البيت' (house) symbolizes 'بيوت'.",
+    "options": [
+      "البيوت",
+      "بيوت",
+      "بيتان",
+      "بيتات"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "Identify: 'أختي' means 'my sister' in arabic.",
+    "options": [
+      "your sister",
+      "her sister",
+      "my sister",
+      "his sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "What best explains: the particle 'ال' in arabic indicates the definite article.",
+    "options": [
+      "pronoun",
+      "definite article",
+      "preposition",
+      "conjunction"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "'الطعام' in Arabic means food.",
+    "options": [
+      "water",
+      "food",
+      "drink",
+      "meal"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "The best answer to 'the particle 'ال' in arabic indicates the definite article.' is:",
+    "options": [
+      "conjunction",
+      "pronoun",
+      "preposition",
+      "definite article"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "The letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "لكن",
+      "أن",
+      "ليس",
+      "إن"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "Choose the: the adjective agrees with the noun it modifies in arabic.",
+    "options": [
+      "all of above",
+      "number",
+      "gender",
+      "case"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Choose the: the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "number only",
+      "person only",
+      "voice only",
+      "tense and mood"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "The present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "قراءة",
+      "اقرا",
+      "يقرا",
+      "أقرأ"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "The particle 'ال' in Arabic indicates the definite article.",
+    "options": [
+      "definite article",
+      "conjunction",
+      "pronoun",
+      "preposition"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "Identify: the particle 'ال' in arabic indicates the definite article.",
+    "options": [
+      "definite article",
+      "conjunction",
+      "preposition",
+      "pronoun"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "The sound masculine plural ending is 'ون' in Arabic.",
+    "options": [
+      "ين",
+      "ات",
+      "اء",
+      "ون"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "The verb forms in Arabic are classified by tense and mood.",
+    "options": [
+      "voice only",
+      "number only",
+      "person only",
+      "tense and mood"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "What best explains: 'أختي' means 'my sister' in arabic.",
+    "options": [
+      "my sister",
+      "his sister",
+      "your sister",
+      "her sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "The past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبنا",
+      "كتبتم",
+      "كتبوا",
+      "كتبن"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "In the context of this subject, the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبن",
+      "كتبوا",
+      "كتبتم",
+      "كتبنا"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "Consider: the present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "قراءة",
+      "أقرأ",
+      "اقرا",
+      "يقرا"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "Choose the: the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "ون",
+      "ين",
+      "اء",
+      "ات"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "Identify: 'يوم' in arabic means day.",
+    "options": [
+      "week",
+      "month",
+      "day",
+      "year"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Identify: the adjective agrees with the noun it modifies in arabic.",
+    "options": [
+      "case",
+      "gender",
+      "number",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "In the context of this subject, 'أختي' means 'my sister' in arabic.",
+    "options": [
+      "his sister",
+      "your sister",
+      "her sister",
+      "my sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "In the context of this subject, 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "desk",
+      "school",
+      "library",
+      "office"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "The verb forms in Arabic are classified by tense and mood.",
+    "options": [
+      "tense and mood",
+      "person only",
+      "voice only",
+      "number only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "'أختي' means 'my smeanster' in Arabic.",
     "options": [
       "my sister",
       "his sister",
@@ -2340,287 +1730,17 @@
     "answer": "my sister"
   },
   {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "school",
-      "desk",
-      "library",
-      "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبنا",
-      "كتبتم",
-      "كتبوا",
-      "كتبن"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبتم",
-      "كتبوا",
-      "كتبنا",
-      "كتبن"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "'يوم' معناه:",
+    "question": "What best explains: 'يوم' in arabic means day.",
     "options": [
       "year",
-      "month",
-      "day",
-      "week"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الجملة",
-      "الموصوف",
-      "الحرف",
-      "الفعل"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "لكن",
-      "أن",
-      "إن",
-      "ليس"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "بيتان",
-      "بيتات",
-      "البيوت",
-      "بيوت"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ات",
-      "ين",
-      "ون",
-      "اء"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "الجمع السالم المذكر ينتهي:",
-    "options": [
-      "ات",
-      "ون",
-      "ين",
-      "اء"
-    ],
-    "answer": "ون"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
       "day",
       "week",
-      "year",
       "month"
     ],
     "answer": "day"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "إن",
-      "ليس",
-      "لكن",
-      "أن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الفعل",
-      "الموصوف",
-      "الجملة",
-      "الحرف"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "her sister",
-      "my sister",
-      "your sister",
-      "his sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبتم",
-      "كتبن",
-      "كتبنا",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبن",
-      "كتبنا",
-      "كتبتم",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "إن",
-      "لكن",
-      "أن",
-      "ليس"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "water",
-      "meal",
-      "drink",
-      "food"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "إن",
-      "أن",
-      "ليس",
-      "لكن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
-      "your sister",
-      "his sister",
-      "my sister",
-      "her sister"
-    ],
-    "answer": "my sister"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "meal",
-      "water",
-      "drink",
-      "food"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "drink",
-      "water",
-      "meal",
-      "food"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "month",
-      "day",
-      "year",
-      "week"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "library",
-      "desk",
-      "school",
-      "office"
-    ],
-    "answer": "library"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبتم",
-      "كتبن",
-      "كتبنا",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الفعل الماضي 'كتب' في الجمع:",
-    "options": [
-      "كتبنا",
-      "كتبن",
-      "كتبتم",
-      "كتبوا"
-    ],
-    "answer": "كتبوا"
-  },
-  {
-    "question": "الفعل 'قرأ' في المضارع:",
-    "options": [
-      "يقرا",
-      "أقرأ",
-      "اقرا",
-      "قراءة"
-    ],
-    "answer": "أقرأ"
-  },
-  {
-    "question": "'البيت' جمعه:",
-    "options": [
-      "البيوت",
-      "بيوت",
-      "بيتات",
-      "بيتان"
-    ],
-    "answer": "بيوت"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "إن",
-      "أن",
-      "لكن",
-      "ليس"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'البيت' جمعه:",
+    "question": "Which of the following best describes: the plural of 'البيت' (house) is 'بيوت'.",
     "options": [
       "بيتان",
       "البيوت",
@@ -2630,17 +1750,47 @@
     "answer": "بيوت"
   },
   {
-    "question": "الفعل 'قرأ' في المضارع:",
+    "question": "'المكتبة' in Arabic refers to a library.",
     "options": [
-      "قراءة",
-      "اقرا",
-      "أقرأ",
-      "يقرا"
+      "desk",
+      "school",
+      "library",
+      "office"
     ],
-    "answer": "أقرأ"
+    "answer": "library"
   },
   {
-    "question": "'يوم' معناه:",
+    "question": "Which of the following best describes: 'الطعام' in arabic means food.",
+    "options": [
+      "water",
+      "meal",
+      "food",
+      "drink"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "Choose the: 'يوم' in arabic means day.",
+    "options": [
+      "month",
+      "day",
+      "year",
+      "week"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Choose the: 'أختي' means 'my sister' in arabic.",
+    "options": [
+      "his sister",
+      "my sister",
+      "your sister",
+      "her sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "Choose the: 'يوم' in arabic means day.",
     "options": [
       "month",
       "year",
@@ -2650,117 +1800,57 @@
     "answer": "day"
   },
   {
-    "question": "'المكتبة' تعني:",
+    "question": "The best answer to 'the sound masculine plural ending is 'ون' in arabic.' is:",
     "options": [
-      "desk",
-      "school",
-      "library",
-      "office"
+      "ون",
+      "اء",
+      "ين",
+      "ات"
     ],
-    "answer": "library"
+    "answer": "ون"
   },
   {
-    "question": "'الطعام' معناه:",
+    "question": "Which of the following best describes: the particle 'ال' in arabic indicates the definite article.",
     "options": [
-      "water",
-      "food",
+      "conjunction",
+      "pronoun",
+      "preposition",
+      "definite article"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "'الطعام' in Arabic means food.",
+    "options": [
       "drink",
-      "meal"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "النعت يتبع:",
-    "options": [
-      "الموصوف",
-      "الحرف",
-      "الفعل",
-      "الجملة"
-    ],
-    "answer": "الموصوف"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "month",
-      "week",
-      "day",
-      "year"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'يوم' معناه:",
-    "options": [
-      "day",
-      "month",
-      "year",
-      "week"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "أن",
-      "إن",
-      "ليس",
-      "لكن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "water",
+      "food",
       "meal",
-      "drink",
-      "food"
+      "water"
     ],
     "answer": "food"
   },
   {
-    "question": "'المكتبة' تعني:",
+    "question": "Which of the following best describes: the particle 'ال' in arabic indicates the definite article.",
     "options": [
-      "library",
-      "office",
-      "school",
-      "desk"
+      "preposition",
+      "definite article",
+      "pronoun",
+      "conjunction"
     ],
-    "answer": "library"
+    "answer": "definite article"
   },
   {
-    "question": "الفعل 'قرأ' في المضارع:",
+    "question": "Choose the: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
     "options": [
-      "يقرا",
-      "أقرأ",
-      "قراءة",
-      "اقرا"
+      "كتبتم",
+      "كتبوا",
+      "كتبن",
+      "كتبنا"
     ],
-    "answer": "أقرأ"
+    "answer": "كتبوا"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
-    "options": [
-      "لكن",
-      "ليس",
-      "إن",
-      "أن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'الطعام' معناه:",
-    "options": [
-      "drink",
-      "food",
-      "water",
-      "meal"
-    ],
-    "answer": "food"
-  },
-  {
-    "question": "'الطعام' معناه:",
+    "question": "'الطعام' in Arabic means food.",
     "options": [
       "food",
       "meal",
@@ -2770,107 +1860,777 @@
     "answer": "food"
   },
   {
-    "question": "الجمع السالم المذكر ينتهي:",
+    "question": "Which concept describes: the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "number only",
+      "person only",
+      "tense and mood",
+      "voice only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "Select the statement that best completes: 'أختي' means 'my sister' in arabic.",
+    "options": [
+      "his sister",
+      "your sister",
+      "her sister",
+      "my sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "Select the statement that best completes: the sound masculine plural ending is 'ون' in arabic.",
     "options": [
       "ون",
-      "اء",
       "ات",
+      "اء",
       "ين"
     ],
     "answer": "ون"
   },
   {
-    "question": "'المكتبة' تعني:",
+    "question": "Which concept describes: 'لا' is used to express negation in arabic.",
     "options": [
-      "library",
-      "office",
-      "desk",
-      "school"
+      "negation",
+      "yes",
+      "perhaps",
+      "affirmation"
     ],
-    "answer": "library"
+    "answer": "negation"
   },
   {
-    "question": "'يوم' معناه:",
+    "question": "Which of the following best describes: 'أختي' means 'my sister' in arabic.",
     "options": [
-      "year",
-      "day",
-      "week",
-      "month"
+      "your sister",
+      "his sister",
+      "her sister",
+      "my sister"
     ],
-    "answer": "day"
+    "answer": "my sister"
   },
   {
-    "question": "'يوم' معناه:",
+    "question": "'المكتبة' in Arabic refers to a library.",
     "options": [
-      "day",
-      "week",
-      "year",
-      "month"
-    ],
-    "answer": "day"
-  },
-  {
-    "question": "'المكتبة' تعني:",
-    "options": [
-      "library",
       "school",
+      "library",
       "desk",
       "office"
     ],
     "answer": "library"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "In the context of this subject, the verb forms in arabic are classified by tense and mood.",
     "options": [
-      "أن",
-      "لكن",
-      "ليس",
-      "إن"
+      "number only",
+      "person only",
+      "tense and mood",
+      "voice only"
     ],
-    "answer": "إن"
+    "answer": "tense and mood"
   },
   {
-    "question": "الفعل 'قرأ' في المضارع:",
+    "question": "'السلام عليكم' is the Islamic greeting in Arabic.",
     "options": [
+      "welcome",
+      "hello",
+      "goodbye",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Identify: the particle 'ال' in arabic indicates the definite article.",
+    "options": [
+      "definite article",
+      "preposition",
+      "pronoun",
+      "conjunction"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "The verb forms in Arabic are classified by tense and mood.",
+    "options": [
+      "number only",
+      "voice only",
+      "person only",
+      "tense and mood"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "Diacritical marks in Arabic indicate vowels and special sounds.",
+    "options": [
+      "vowels",
+      "stress",
+      "punctuation",
+      "capitalization"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "Identify: the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "اء",
+      "ون",
+      "ات",
+      "ين"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "Choose the: the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "البيوت",
+      "بيتات",
+      "بيتان",
+      "بيوت"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "Consider: the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيتات",
+      "بيوت",
+      "البيوت",
+      "بيتان"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "The plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيتان",
+      "البيوت",
+      "بيوت",
+      "بيتات"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "Select the statement that best completes: the particle 'ال' in arabic indicates the definite article.",
+    "options": [
+      "preposition",
+      "pronoun",
+      "conjunction",
+      "definite article"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "The sound masculine plural ending is 'ون' in Arabic.",
+    "options": [
+      "ون",
+      "اء",
+      "ين",
+      "ات"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "Identify: the present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "قراءة",
       "اقرا",
+      "أقرأ",
+      "يقرا"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "Consider: the particle 'ال' in arabic indicates the definite article.",
+    "options": [
+      "conjunction",
+      "pronoun",
+      "preposition",
+      "definite article"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "The present tense of 'قرأ' (to read) means 'أقرأ'.",
+    "options": [
+      "أقرأ",
       "يقرا",
+      "قراءة",
+      "اقرا"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "According to standard definitions, 'السلام عليكم' is the islamic greeting in arabic.",
+    "options": [
+      "hello",
+      "thank you",
+      "welcome",
+      "goodbye"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Select the statement that best completes: the present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "يقرا",
+      "اقرا",
       "قراءة",
       "أقرأ"
     ],
     "answer": "أقرأ"
   },
   {
-    "question": "'الطعام' معناه:",
+    "question": "What best explains: the adjective agrees with the noun it modifies in arabic.",
     "options": [
-      "meal",
-      "drink",
+      "case",
+      "gender",
+      "number",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "According to standard definitions, diacritical marks in arabic indicate vowels and special sounds.",
+    "options": [
+      "vowels",
+      "stress",
+      "punctuation",
+      "capitalization"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "The plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيوت",
+      "البيوت",
+      "بيتان",
+      "بيتات"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "The adjective agrees with the noun it modifies in Arabic.",
+    "options": [
+      "gender",
+      "case",
+      "number",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Which concept describes: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبن",
+      "كتبنا",
+      "كتبتم",
+      "كتبوا"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "The best answer to 'the verb forms in arabic are classified by tense and mood.' is:",
+    "options": [
+      "person only",
+      "tense and mood",
+      "voice only",
+      "number only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "Select the statement that best completes: diacritical marks in arabic indicate vowels and special sounds.",
+    "options": [
+      "stress",
+      "punctuation",
+      "vowels",
+      "capitalization"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "Which concept describes: the adjective agrees with the noun it modifies in arabic.",
+    "options": [
+      "gender",
+      "case",
+      "number",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "The best answer to ''السلام عليكم' is the islamic greeting in arabic.' is:",
+    "options": [
+      "hello",
+      "goodbye",
+      "thank you",
+      "welcome"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "The adjective agrees with the noun it modifies in Arabic.",
+    "options": [
+      "number",
+      "gender",
+      "case",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Identify: 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "school",
+      "desk",
+      "office",
+      "library"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "What best explains: 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "office",
+      "library",
+      "desk",
+      "school"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "Which concept describes: 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "library",
+      "office",
+      "school",
+      "desk"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "Identify: 'يوم' in arabic means day.",
+    "options": [
+      "month",
+      "day",
+      "week",
+      "year"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "According to standard definitions, the present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "يقرا",
+      "اقرا",
+      "أقرأ",
+      "قراءة"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "Which of the following best describes: the adjective agrees with the noun it modifies in arabic.",
+    "options": [
+      "case",
+      "gender",
+      "all of above",
+      "number"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Consider: 'الطعام' in arabic means food.",
+    "options": [
       "water",
-      "food"
+      "meal",
+      "food",
+      "drink"
     ],
     "answer": "food"
   },
   {
-    "question": "النعت يتبع:",
+    "question": "Choose the: the particle 'ال' in arabic indicates the definite article.",
     "options": [
-      "الفعل",
-      "الحرف",
-      "الموصوف",
-      "الجملة"
+      "definite article",
+      "pronoun",
+      "preposition",
+      "conjunction"
     ],
-    "answer": "الموصوف"
+    "answer": "definite article"
   },
   {
-    "question": "'أختي' تعني:",
+    "question": "The adjective agrees with the noun it modifies in Arabic.",
     "options": [
+      "number",
+      "case",
+      "all of above",
+      "gender"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Which of the following best describes: diacritical marks in arabic indicate vowels and special sounds.",
+    "options": [
+      "vowels",
+      "punctuation",
+      "stress",
+      "capitalization"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "'المكتبة' in Arabic refers to a library.",
+    "options": [
+      "office",
+      "desk",
+      "school",
+      "library"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "Consider: 'لا' is used to express negation in arabic.",
+    "options": [
+      "negation",
+      "perhaps",
+      "affirmation",
+      "yes"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "Identify: 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "library",
+      "school",
+      "office",
+      "desk"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "'المكتبة' in Arabic refers to a library.",
+    "options": [
+      "school",
+      "desk",
+      "library",
+      "office"
+    ],
+    "answer": "library"
+  },
+  {
+    "question": "'لا' is used to express negation in Arabic.",
+    "options": [
+      "yes",
+      "perhaps",
+      "negation",
+      "affirmation"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "'أختي' means 'my sister' in Arabic.",
+    "options": [
+      "my sister",
       "his sister",
       "her sister",
+      "your sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "Consider: 'أختي' means 'my sister' in arabic.",
+    "options": [
+      "her sister",
+      "his sister",
       "my sister",
       "your sister"
     ],
     "answer": "my sister"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "Which concept describes: the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "إن",
+      "لكن",
+      "أن",
+      "ليس"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "According to standard definitions, the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيتان",
+      "بيوت",
+      "بيتات",
+      "البيوت"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "Choose the: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبنا",
+      "كتبوا",
+      "كتبتم",
+      "كتبن"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "According to standard definitions, 'أختي' means 'my sister' in arabic.",
+    "options": [
+      "your sister",
+      "his sister",
+      "her sister",
+      "my sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "Which of the following best describes: the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "voice only",
+      "person only",
+      "number only",
+      "tense and mood"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "Select the statement that best completes: the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيتان",
+      "البيوت",
+      "بيوت",
+      "بيتات"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "According to standard definitions, the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "ات",
+      "اء",
+      "ون",
+      "ين"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "'أختي' means 'my sister' in Arabic.",
+    "options": [
+      "your sister",
+      "his sister",
+      "my sister",
+      "her sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "Identify: 'السلام عليكم' is the islamic greeting in arabic.",
+    "options": [
+      "goodbye",
+      "hello",
+      "welcome",
+      "thank you"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "In the context of this subject, 'السلام عليكم' is the islamic greeting in arabic.",
+    "options": [
+      "welcome",
+      "thank you",
+      "hello",
+      "goodbye"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Identify: 'السلام عليكم' is the islamic greeting in arabic.",
+    "options": [
+      "goodbye",
+      "thank you",
+      "welcome",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "The past tense of 'كتب' (to write) in plural symbolizes 'كتبوا'.",
+    "options": [
+      "كتبوا",
+      "كتبن",
+      "كتبتم",
+      "كتبنا"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "What best explains: the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "tense and mood",
+      "number only",
+      "person only",
+      "voice only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "The present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "يقرا",
+      "اقرا",
+      "أقرأ",
+      "قراءة"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "According to standard definitions, 'يوم' in arabic means day.",
+    "options": [
+      "month",
+      "week",
+      "day",
+      "year"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Which concept describes: the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "ين",
+      "ات",
+      "ون",
+      "اء"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "Which of the following best describes: the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "لكن",
+      "إن",
+      "أن",
+      "ليس"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "In the context of this subject, the present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "يقرا",
+      "قراءة",
+      "اقرا",
+      "أقرأ"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "Identify: diacritical marks in arabic indicate vowels and special sounds.",
+    "options": [
+      "capitalization",
+      "stress",
+      "punctuation",
+      "vowels"
+    ],
+    "answer": "vowels"
+  },
+  {
+    "question": "Consider: the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "person only",
+      "tense and mood",
+      "voice only",
+      "number only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "The adjective agrees with the noun it modifies in Arabic.",
+    "options": [
+      "number",
+      "gender",
+      "case",
+      "all of above"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Which of the following best describes: the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "البيوت",
+      "بيتات",
+      "بيوت",
+      "بيتان"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "Consider: 'يوم' in arabic means day.",
+    "options": [
+      "year",
+      "month",
+      "day",
+      "week"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'يوم' in Arabic means day.",
+    "options": [
+      "year",
+      "week",
+      "day",
+      "month"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "What best explains: the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيتان",
+      "بيتات",
+      "بيوت",
+      "البيوت"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "Which concept describes: the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيوت",
+      "بيتات",
+      "البيوت",
+      "بيتان"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "The particle 'ال' in Arabic indicates the definite article.",
+    "options": [
+      "definite article",
+      "preposition",
+      "conjunction",
+      "pronoun"
+    ],
+    "answer": "definite article"
+  },
+  {
+    "question": "According to standard definitions, 'الطعام' in arabic means food.",
+    "options": [
+      "food",
+      "water",
+      "drink",
+      "meal"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "The letter 'إن' is used to negate the predicate nominative.",
     "options": [
       "إن",
       "أن",
@@ -2880,122 +2640,362 @@
     "answer": "إن"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "Which of the following best describes: 'أختي' means 'my sister' in arabic.",
     "options": [
-      "لكن",
-      "ليس",
-      "إن",
-      "أن"
-    ],
-    "answer": "إن"
-  },
-  {
-    "question": "'أختي' تعني:",
-    "options": [
+      "her sister",
       "my sister",
       "your sister",
-      "his sister",
-      "her sister"
+      "his sister"
     ],
     "answer": "my sister"
   },
   {
-    "question": "النعت يتبع:",
+    "question": "The sound masculine plural ending means 'ون' in Arabic.",
     "options": [
-      "الجملة",
-      "الموصوف",
-      "الفعل",
-      "الحرف"
+      "ات",
+      "ون",
+      "ين",
+      "اء"
     ],
-    "answer": "الموصوف"
+    "answer": "ون"
   },
   {
-    "question": "النعت يتبع:",
+    "question": "In the context of this subject, 'يوم' in arabic means day.",
     "options": [
-      "الموصوف",
-      "الحرف",
-      "الفعل",
-      "الجملة"
+      "day",
+      "week",
+      "month",
+      "year"
     ],
-    "answer": "الموصوف"
+    "answer": "day"
   },
   {
-    "question": "'المكتبة' تعني:",
+    "question": "Choose the: the verb forms in arabic are classified by tense and mood.",
     "options": [
+      "tense and mood",
+      "number only",
+      "person only",
+      "voice only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "The adjective agrees with the noun it modifies in Arabic.",
+    "options": [
+      "number",
+      "all of above",
+      "case",
+      "gender"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "Identify: the past tense of 'كتب' (to write) in plural is 'كتبوا'.",
+    "options": [
+      "كتبن",
+      "كتبتم",
+      "كتبنا",
+      "كتبوا"
+    ],
+    "answer": "كتبوا"
+  },
+  {
+    "question": "In the context of this subject, 'الطعام' in arabic means food.",
+    "options": [
+      "drink",
+      "food",
+      "meal",
+      "water"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "Identify: 'أختي' means 'my sister' in arabic.",
+    "options": [
+      "his sister",
+      "her sister",
+      "your sister",
+      "my sister"
+    ],
+    "answer": "my sister"
+  },
+  {
+    "question": "'يوم' in Arabic means day.",
+    "options": [
+      "day",
+      "month",
+      "week",
+      "year"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "Which of the following best describes: 'المكتبة' in arabic refers to a library.",
+    "options": [
+      "office",
       "school",
-      "desk",
       "library",
-      "office"
+      "desk"
     ],
     "answer": "library"
   },
   {
-    "question": "'البيت' جمعه:",
+    "question": "In the context of this subject, the plural of 'البيت' (house) is 'بيوت'.",
     "options": [
-      "بيوت",
       "بيتان",
-      "بيتات",
-      "البيوت"
+      "بيوت",
+      "البيوت",
+      "بيتات"
     ],
     "answer": "بيوت"
   },
   {
-    "question": "الفعل 'قرأ' في المضارع:",
+    "question": "The present tense of 'قرأ' (to read) symbolizes 'أقرأ'.",
     "options": [
-      "أقرأ",
       "يقرا",
+      "أقرأ",
       "اقرا",
       "قراءة"
     ],
     "answer": "أقرأ"
   },
   {
-    "question": "'أختي' تعني:",
+    "question": "Which of the following best describes: 'الطعام' in arabic means food.",
     "options": [
-      "your sister",
-      "her sister",
-      "my sister",
-      "his sister"
+      "meal",
+      "drink",
+      "food",
+      "water"
     ],
-    "answer": "my sister"
+    "answer": "food"
   },
   {
-    "question": "'المكتبة' تعني:",
+    "question": "The plural of 'البيت' (house) means 'بيوت'.",
     "options": [
-      "desk",
-      "office",
-      "school",
-      "library"
+      "بيتان",
+      "البيوت",
+      "بيوت",
+      "بيتات"
     ],
-    "answer": "library"
+    "answer": "بيوت"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "The verb forms in Arabic are classified by tense and mood.",
     "options": [
-      "ليس",
-      "لكن",
+      "voice only",
+      "tense and mood",
+      "person only",
+      "number only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "Which of the following best describes: the sound masculine plural ending is 'ون' in arabic.",
+    "options": [
+      "اء",
+      "ين",
+      "ون",
+      "ات"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "Which of the following best describes: the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
       "إن",
-      "أن"
+      "ليس",
+      "أن",
+      "لكن"
     ],
     "answer": "إن"
   },
   {
-    "question": "الفعل 'قرأ' في المضارع:",
+    "question": "The present tense of 'قرأ' (to read) represents 'أقرأ'.",
     "options": [
-      "قراءة",
-      "يقرا",
       "اقرا",
+      "يقرا",
+      "قراءة",
       "أقرأ"
     ],
     "answer": "أقرأ"
   },
   {
-    "question": "الحرف الذي ينصب المبتدأ:",
+    "question": "Which of the following best describes: 'يوم' in arabic means day.",
+    "options": [
+      "week",
+      "day",
+      "year",
+      "month"
+    ],
+    "answer": "day"
+  },
+  {
+    "question": "'لا' represents used to express negation in Arabic.",
+    "options": [
+      "yes",
+      "perhaps",
+      "affirmation",
+      "negation"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "Which of the following best describes: the verb forms in arabic are classified by tense and mood.",
+    "options": [
+      "tense and mood",
+      "number only",
+      "person only",
+      "voice only"
+    ],
+    "answer": "tense and mood"
+  },
+  {
+    "question": "According to standard definitions, the letter 'إن' is used to negate the predicate nominative.",
     "options": [
       "لكن",
-      "ليس",
+      "أن",
       "إن",
+      "ليس"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "Select the statement that best completes: 'الطعام' in arabic means food.",
+    "options": [
+      "food",
+      "meal",
+      "drink",
+      "water"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "Select the statement that best completes: the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "لكن",
+      "أن",
+      "ليس",
+      "إن"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "In the context of this subject, the letter 'إن' is used to negate the predicate nominative.",
+    "options": [
+      "لكن",
+      "إن",
+      "ليس",
       "أن"
+    ],
+    "answer": "إن"
+  },
+  {
+    "question": "The sound masculine plural ending is 'ون' in Arabic.",
+    "options": [
+      "اء",
+      "ين",
+      "ون",
+      "ات"
+    ],
+    "answer": "ون"
+  },
+  {
+    "question": "Select the statement that best completes: the adjective agrees with the noun it modifies in arabic.",
+    "options": [
+      "all of above",
+      "gender",
+      "number",
+      "case"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "'السلام عليكم' is the Islamic greeting in Arabic.",
+    "options": [
+      "thank you",
+      "goodbye",
+      "welcome",
+      "hello"
+    ],
+    "answer": "hello"
+  },
+  {
+    "question": "Choose the: the plural of 'البيت' (house) is 'بيوت'.",
+    "options": [
+      "بيتان",
+      "البيوت",
+      "بيتات",
+      "بيوت"
+    ],
+    "answer": "بيوت"
+  },
+  {
+    "question": "'الطعام' in Arabic means food.",
+    "options": [
+      "food",
+      "meal",
+      "drink",
+      "water"
+    ],
+    "answer": "food"
+  },
+  {
+    "question": "'لا' symbolizes used to express negation in Arabic.",
+    "options": [
+      "negation",
+      "yes",
+      "affirmation",
+      "perhaps"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "According to standard definitions, the adjective agrees with the noun it modifies in arabic.",
+    "options": [
+      "number",
+      "gender",
+      "all of above",
+      "case"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "The present tense of 'قرأ' (to read) is 'أقرأ'.",
+    "options": [
+      "قراءة",
+      "اقرا",
+      "يقرا",
+      "أقرأ"
+    ],
+    "answer": "أقرأ"
+  },
+  {
+    "question": "The adjective agrees with the noun it modifies in Arabic.",
+    "options": [
+      "number",
+      "all of above",
+      "case",
+      "gender"
+    ],
+    "answer": "all of above"
+  },
+  {
+    "question": "The best answer to ''لا' is used to express negation in arabic.' is:",
+    "options": [
+      "yes",
+      "negation",
+      "affirmation",
+      "perhaps"
+    ],
+    "answer": "negation"
+  },
+  {
+    "question": "The letter 'إن' symbolizes used to negate the predicate nominative.",
+    "options": [
+      "أن",
+      "ليس",
+      "لكن",
+      "إن"
     ],
     "answer": "إن"
   }

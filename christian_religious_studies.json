@@ -1,596 +1,66 @@
 [
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 191: What does scripture teach?",
     "options": [
-      "prophecy",
-      "judgment",
-      "ethics",
-      "law"
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 153: What does scripture teach?",
     "options": [
-      "law",
-      "good news",
-      "teaching",
-      "book"
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 285: What does scripture teach?",
     "options": [
-      "rebirth",
-      "initiation",
-      "all of above",
-      "washing"
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 63: What does scripture teach?",
     "options": [
-      "prayer",
-      "blessing",
-      "unearned favor",
-      "gift"
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 162: What does scripture teach?",
     "options": [
-      "prophet",
-      "teacher",
-      "Son of God",
-      "man"
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 121: What does scripture teach?",
     "options": [
-      "unearned favor",
-      "blessing",
-      "gift",
-      "prayer"
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
-    "options": [
-      "all of above",
-      "initiation",
-      "washing",
-      "rebirth"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "everyone",
-      "men only",
-      "poor",
-      "rich"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Leviticus",
-      "Genesis",
-      "Exodus",
-      "Numbers"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "judgment",
-      "ethics",
-      "law",
-      "prophecy"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "resurrection",
-      "birth",
-      "last supper",
-      "ascension"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Leviticus",
-      "Genesis",
-      "Exodus",
-      "Numbers"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "law",
-      "teaching",
-      "good news",
-      "book"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "both",
-      "faith only",
-      "neither",
-      "works"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "ethics",
-      "prophecy",
-      "law",
-      "judgment"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "both",
-      "faith only",
-      "neither",
-      "works"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "gift",
-      "unearned favor",
-      "blessing",
-      "prayer"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "neither",
-      "faith only",
-      "works",
-      "both"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "ascension",
-      "birth",
-      "resurrection",
-      "last supper"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "book",
-      "law",
-      "teaching",
-      "good news"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "ascension",
-      "resurrection",
-      "birth",
-      "last supper"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "prophecy",
-      "ethics",
-      "judgment",
-      "law"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "blessing",
-      "prayer",
-      "gift",
-      "unearned favor"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "law",
-      "prophecy",
-      "judgment",
-      "ethics"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Bible",
-      "Vedas",
-      "Torah",
-      "Quran"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "judgment",
-      "prophecy",
-      "law",
-      "ethics"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "birth",
-      "resurrection",
-      "last supper",
-      "ascension"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "birth",
-      "ascension",
-      "resurrection",
-      "last supper"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "poor",
-      "rich",
-      "everyone",
-      "men only"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "resurrection",
-      "ascension",
-      "last supper",
-      "birth"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "prophecy",
-      "ethics",
-      "judgment",
-      "law"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Quran",
-      "Vedas",
-      "Bible",
-      "Torah"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "law",
-      "book",
-      "good news",
-      "teaching"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "teacher",
-      "man",
-      "Son of God",
-      "prophet"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Bible",
-      "Torah",
-      "Vedas",
-      "Quran"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "washing",
-      "initiation",
-      "rebirth",
-      "all of above"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "law",
-      "ethics",
-      "prophecy",
-      "judgment"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "men only",
-      "rich",
-      "poor",
-      "everyone"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Bible",
-      "Quran",
-      "Vedas",
-      "Torah"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "last supper",
-      "resurrection",
-      "birth",
-      "ascension"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "washing",
-      "initiation",
-      "all of above",
-      "rebirth"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "all of above",
-      "washing",
-      "rebirth",
-      "initiation"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "everyone",
-      "rich",
-      "men only",
-      "poor"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "washing",
-      "initiation",
-      "all of above",
-      "rebirth"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "unearned favor",
-      "prayer",
-      "gift",
-      "blessing"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Genesis",
-      "Exodus",
-      "Numbers",
-      "Leviticus"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Leviticus",
-      "Numbers",
-      "Genesis",
-      "Exodus"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "man",
-      "teacher",
-      "prophet",
-      "Son of God"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "initiation",
-      "all of above",
-      "washing",
-      "rebirth"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "all of above",
-      "rebirth",
-      "washing",
-      "initiation"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Numbers",
-      "Leviticus",
-      "Genesis",
-      "Exodus"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Numbers",
-      "Genesis",
-      "Exodus",
-      "Leviticus"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "birth",
-      "resurrection",
-      "last supper",
-      "ascension"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "prayer",
-      "gift",
-      "blessing",
-      "unearned favor"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "poor",
-      "men only",
-      "everyone",
-      "rich"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Quran",
-      "Torah",
-      "Vedas",
-      "Bible"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "Son of God",
-      "teacher",
-      "man",
-      "prophet"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "resurrection",
-      "last supper",
-      "birth",
-      "ascension"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Quran",
-      "Vedas",
-      "Torah",
-      "Bible"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Communion commemorates",
+    "question": "Communion commemorates:",
     "options": [
       "birth",
       "resurrection",
@@ -600,637 +70,997 @@
     "answer": "last supper"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 60: What does scripture teach?",
     "options": [
-      "prophet",
-      "teacher",
-      "man",
-      "Son of God"
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 201: What does scripture teach?",
     "options": [
-      "Bible",
+      "wrong2",
+      "correct answer",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 291: What does scripture teach?",
+    "options": [
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 106: What does scripture teach?",
+    "options": [
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 249: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Trinity represents:",
+    "options": [
+      "humans",
+      "three gods",
+      "Father, Son, Holy Spirit",
+      "God only"
+    ],
+    "answer": "Father, Son, Holy Spirit"
+  },
+  {
+    "question": "Generated CRS question 22: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 75: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 217: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 211: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 136: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 154: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 252: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 124: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 205: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Christianity based on:",
+    "options": [
+      "Quran",
       "Torah",
       "Vedas",
-      "Quran"
+      "Bible"
     ],
     "answer": "Bible"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 32: What does scripture teach?",
     "options": [
-      "law",
-      "ethics",
-      "prophecy",
-      "judgment"
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 46: What does scripture teach?",
     "options": [
-      "law",
-      "book",
-      "good news",
-      "teaching"
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 186: What does scripture teach?",
     "options": [
-      "gift",
-      "prayer",
-      "blessing",
-      "unearned favor"
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 43: What does scripture teach?",
     "options": [
-      "Numbers",
-      "Leviticus",
-      "Genesis",
-      "Exodus"
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 170: What does scripture teach?",
     "options": [
-      "teaching",
-      "book",
-      "law",
-      "good news"
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Apostles were:",
     "options": [
-      "faith only",
-      "works",
-      "both",
-      "neither"
+      "disciples",
+      "twelve followers",
+      "early Christians",
+      "teachers"
     ],
-    "answer": "both"
+    "answer": "twelve followers"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 229: What does scripture teach?",
     "options": [
-      "law",
-      "ethics",
-      "prophecy",
-      "judgment"
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 276: What does scripture teach?",
     "options": [
-      "law",
-      "judgment",
-      "prophecy",
-      "ethics"
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 223: What does scripture teach?",
     "options": [
-      "both",
-      "works",
-      "neither",
-      "faith only"
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 213: What does scripture teach?",
     "options": [
-      "prophet",
-      "teacher",
-      "Son of God",
-      "man"
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 253: What does scripture teach?",
     "options": [
-      "teacher",
-      "man",
-      "prophet",
-      "Son of God"
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 230: What does scripture teach?",
     "options": [
-      "Torah",
-      "Bible",
-      "Quran",
-      "Vedas"
+      "correct answer",
+      "wrong2",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 107: What does scripture teach?",
     "options": [
-      "prophet",
-      "teacher",
-      "man",
-      "Son of God"
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 203: What does scripture teach?",
     "options": [
-      "Son of God",
-      "man",
-      "teacher",
-      "prophet"
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 54: What does scripture teach?",
     "options": [
-      "works",
-      "neither",
-      "faith only",
-      "both"
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 257: What does scripture teach?",
     "options": [
-      "Genesis",
-      "Leviticus",
-      "Numbers",
-      "Exodus"
+      "wrong",
+      "wrong3",
+      "correct answer",
+      "wrong2"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 281: What does scripture teach?",
     "options": [
-      "book",
-      "teaching",
-      "good news",
-      "law"
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 123: What does scripture teach?",
     "options": [
-      "all of above",
-      "initiation",
-      "rebirth",
-      "washing"
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 99: What does scripture teach?",
     "options": [
-      "man",
-      "prophet",
-      "Son of God",
-      "teacher"
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 296: What does scripture teach?",
     "options": [
-      "law",
-      "book",
-      "good news",
-      "teaching"
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Ten Commandments in:",
     "options": [
-      "everyone",
-      "men only",
-      "poor",
-      "rich"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "book",
-      "teaching",
-      "law",
-      "good news"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "law",
-      "book",
-      "teaching",
-      "good news"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "rebirth",
-      "washing",
-      "initiation",
-      "all of above"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "neither",
-      "both",
-      "works",
-      "faith only"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "faith only",
-      "both",
-      "neither",
-      "works"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "book",
-      "good news",
-      "teaching",
-      "law"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "unearned favor",
-      "gift",
-      "blessing",
-      "prayer"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Genesis",
       "Exodus",
       "Numbers",
-      "Leviticus"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "works",
-      "neither",
-      "both",
-      "faith only"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
       "Leviticus",
-      "Numbers",
-      "Genesis",
-      "Exodus"
+      "Genesis"
     ],
     "answer": "Exodus"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 90: What does scripture teach?",
     "options": [
-      "law",
-      "ethics",
-      "judgment",
-      "prophecy"
+      "wrong",
+      "correct answer",
+      "wrong3",
+      "wrong2"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Salvation through:",
     "options": [
-      "teaching",
-      "law",
-      "good news",
-      "book"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "prayer",
-      "unearned favor",
-      "blessing",
-      "gift"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "initiation",
-      "all of above",
-      "rebirth",
-      "washing"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Vedas",
-      "Torah",
-      "Quran",
-      "Bible"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "resurrection",
-      "ascension",
-      "last supper",
-      "birth"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "unearned favor",
-      "gift",
-      "prayer",
-      "blessing"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "rich",
-      "poor",
-      "men only",
-      "everyone"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Genesis",
-      "Leviticus",
-      "Numbers",
-      "Exodus"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "washing",
-      "initiation",
-      "all of above",
-      "rebirth"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Torah",
-      "Quran",
-      "Vedas",
-      "Bible"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "ethics",
-      "law",
-      "prophecy",
-      "judgment"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "works",
-      "both",
       "faith only",
-      "neither"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "judgment",
-      "ethics",
-      "prophecy",
-      "law"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "rebirth",
-      "initiation",
-      "washing",
-      "all of above"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "law",
-      "judgment",
-      "ethics",
-      "prophecy"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "teacher",
-      "man",
-      "prophet",
-      "Son of God"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "law",
-      "book",
-      "good news",
-      "teaching"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "teaching",
-      "book",
-      "law",
-      "good news"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "neither",
       "both",
-      "works",
-      "faith only"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "poor",
-      "men only",
-      "everyone",
-      "rich"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "rebirth",
-      "initiation",
-      "washing",
-      "all of above"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "prophet",
-      "teacher",
-      "man",
-      "Son of God"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "book",
-      "teaching",
-      "law",
-      "good news"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
       "neither",
-      "both",
-      "faith only",
       "works"
     ],
     "answer": "both"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 290: What does scripture teach?",
     "options": [
-      "teaching",
-      "book",
-      "law",
-      "good news"
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 259: What does scripture teach?",
     "options": [
-      "judgment",
-      "prophecy",
+      "wrong",
+      "correct answer",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 178: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 28: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 145: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 73: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 265: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 122: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 148: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 215: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 260: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 160: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 71: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 166: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 108: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 212: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 247: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 29: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 182: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 173: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 199: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 69: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 111: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 241: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong3",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 161: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 232: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong2",
+      "wrong",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 37: What does scripture teach?",
+    "options": [
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 95: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 24: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 144: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 62: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 279: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 238: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 65: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 254: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 68: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 233: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 244: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 180: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 175: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 268: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Resurrection celebrated:",
+    "options": [
+      "Advent",
+      "Pentecost",
+      "Easter",
+      "Christmas"
+    ],
+    "answer": "Easter"
+  },
+  {
+    "question": "Generated CRS question 64: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 155: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 92: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 151: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 25: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 91: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 49: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 48: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 193: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 129: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 67: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 284: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 269: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong3",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 216: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 219: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Sermon on Mount teaches:",
+    "options": [
       "ethics",
+      "prophecy",
+      "judgment",
       "law"
     ],
     "answer": "ethics"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 147: What does scripture teach?",
     "options": [
-      "man",
-      "prophet",
-      "Son of God",
-      "teacher"
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 209: What does scripture teach?",
     "options": [
-      "all of above",
-      "initiation",
-      "rebirth",
-      "washing"
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
-    "options": [
-      "Numbers",
-      "Leviticus",
-      "Genesis",
-      "Exodus"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Grace is",
+    "question": "Grace is:",
     "options": [
       "blessing",
       "unearned favor",
@@ -1240,1657 +1070,1027 @@
     "answer": "unearned favor"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 297: What does scripture teach?",
     "options": [
-      "last supper",
-      "ascension",
-      "resurrection",
-      "birth"
+      "correct answer",
+      "wrong2",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 94: What does scripture teach?",
     "options": [
-      "gift",
-      "prayer",
-      "blessing",
-      "unearned favor"
+      "correct answer",
+      "wrong2",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 222: What does scripture teach?",
     "options": [
-      "blessing",
-      "prayer",
-      "gift",
-      "unearned favor"
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 266: What does scripture teach?",
     "options": [
-      "initiation",
-      "washing",
-      "rebirth",
-      "all of above"
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Repentance means:",
     "options": [
-      "Quran",
-      "Vedas",
-      "Bible",
-      "Torah"
+      "turning toward God",
+      "sorrow",
+      "guilt",
+      "shame"
     ],
-    "answer": "Bible"
+    "answer": "turning toward God"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 287: What does scripture teach?",
     "options": [
-      "good news",
-      "book",
-      "teaching",
-      "law"
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 224: What does scripture teach?",
     "options": [
-      "Genesis",
-      "Exodus",
-      "Leviticus",
-      "Numbers"
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Crucifixion significance:",
     "options": [
-      "prophet",
-      "Son of God",
-      "man",
-      "teacher"
+      "salvation",
+      "death",
+      "all above",
+      "atonement"
     ],
-    "answer": "Son of God"
+    "answer": "all above"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 20: What does scripture teach?",
     "options": [
-      "Exodus",
-      "Genesis",
-      "Leviticus",
-      "Numbers"
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 74: What does scripture teach?",
     "options": [
-      "Quran",
-      "Torah",
-      "Bible",
-      "Vedas"
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 251: What does scripture teach?",
     "options": [
-      "neither",
-      "both",
-      "works",
-      "faith only"
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 102: What does scripture teach?",
     "options": [
-      "Vedas",
-      "Bible",
-      "Torah",
-      "Quran"
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 171: What does scripture teach?",
     "options": [
-      "resurrection",
-      "last supper",
-      "birth",
-      "ascension"
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 264: What does scripture teach?",
     "options": [
-      "Torah",
-      "Quran",
-      "Bible",
-      "Vedas"
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 208: What does scripture teach?",
     "options": [
-      "judgment",
-      "law",
-      "prophecy",
-      "ethics"
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 21: What does scripture teach?",
     "options": [
-      "poor",
-      "everyone",
-      "men only",
-      "rich"
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 33: What does scripture teach?",
     "options": [
-      "Son of God",
-      "teacher",
-      "prophet",
-      "man"
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 80: What does scripture teach?",
     "options": [
-      "law",
-      "ethics",
-      "prophecy",
-      "judgment"
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 138: What does scripture teach?",
     "options": [
-      "unearned favor",
-      "prayer",
-      "gift",
-      "blessing"
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 185: What does scripture teach?",
     "options": [
-      "men only",
-      "everyone",
-      "rich",
-      "poor"
+      "correct answer",
+      "wrong2",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 132: What does scripture teach?",
     "options": [
-      "washing",
-      "initiation",
-      "rebirth",
-      "all of above"
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 143: What does scripture teach?",
     "options": [
-      "teaching",
-      "book",
-      "law",
-      "good news"
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 142: What does scripture teach?",
     "options": [
-      "blessing",
-      "prayer",
-      "gift",
-      "unearned favor"
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 70: What does scripture teach?",
     "options": [
-      "washing",
-      "rebirth",
-      "all of above",
-      "initiation"
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 79: What does scripture teach?",
     "options": [
-      "gift",
-      "unearned favor",
-      "blessing",
-      "prayer"
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 139: What does scripture teach?",
     "options": [
-      "prophecy",
-      "law",
-      "judgment",
-      "ethics"
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 198: What does scripture teach?",
     "options": [
-      "Bible",
-      "Torah",
-      "Quran",
-      "Vedas"
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 280: What does scripture teach?",
     "options": [
-      "Vedas",
-      "Quran",
-      "Bible",
-      "Torah"
+      "correct answer",
+      "wrong2",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 206: What does scripture teach?",
     "options": [
-      "Exodus",
-      "Leviticus",
-      "Numbers",
-      "Genesis"
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 83: What does scripture teach?",
     "options": [
-      "teacher",
-      "man",
-      "Son of God",
-      "prophet"
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 235: What does scripture teach?",
     "options": [
-      "Numbers",
-      "Genesis",
-      "Leviticus",
-      "Exodus"
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 200: What does scripture teach?",
     "options": [
-      "washing",
-      "initiation",
-      "all of above",
-      "rebirth"
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 227: What does scripture teach?",
     "options": [
-      "unearned favor",
-      "prayer",
-      "gift",
-      "blessing"
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 101: What does scripture teach?",
     "options": [
-      "Quran",
-      "Bible",
-      "Vedas",
-      "Torah"
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 220: What does scripture teach?",
     "options": [
-      "resurrection",
-      "ascension",
-      "birth",
-      "last supper"
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 98: What does scripture teach?",
     "options": [
-      "blessing",
-      "unearned favor",
-      "prayer",
-      "gift"
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 115: What does scripture teach?",
     "options": [
-      "poor",
-      "everyone",
-      "rich",
-      "men only"
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 126: What does scripture teach?",
     "options": [
-      "ascension",
-      "birth",
-      "resurrection",
-      "last supper"
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 44: What does scripture teach?",
     "options": [
-      "Torah",
-      "Vedas",
-      "Quran",
-      "Bible"
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 36: What does scripture teach?",
     "options": [
-      "law",
-      "teaching",
-      "good news",
-      "book"
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 243: What does scripture teach?",
     "options": [
-      "rich",
-      "everyone",
-      "poor",
-      "men only"
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 255: What does scripture teach?",
     "options": [
-      "prophecy",
-      "law",
-      "judgment",
-      "ethics"
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 294: What does scripture teach?",
     "options": [
-      "gift",
-      "unearned favor",
-      "blessing",
-      "prayer"
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 278: What does scripture teach?",
     "options": [
-      "men only",
-      "rich",
-      "poor",
-      "everyone"
+      "wrong",
+      "wrong3",
+      "correct answer",
+      "wrong2"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 168: What does scripture teach?",
     "options": [
-      "both",
-      "faith only",
-      "neither",
-      "works"
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 57: What does scripture teach?",
     "options": [
-      "last supper",
-      "ascension",
-      "resurrection",
-      "birth"
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 282: What does scripture teach?",
     "options": [
-      "Son of God",
-      "teacher",
-      "prophet",
-      "man"
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 197: What does scripture teach?",
     "options": [
-      "Leviticus",
-      "Exodus",
-      "Numbers",
-      "Genesis"
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Ten Commandments given to:",
     "options": [
-      "prophecy",
-      "judgment",
-      "law",
-      "ethics"
+      "Joshua",
+      "Solomon",
+      "David",
+      "Moses"
     ],
-    "answer": "ethics"
+    "answer": "Moses"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 202: What does scripture teach?",
     "options": [
-      "neither",
-      "faith only",
-      "works",
-      "both"
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 47: What does scripture teach?",
     "options": [
-      "men only",
-      "everyone",
-      "rich",
-      "poor"
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 293: What does scripture teach?",
     "options": [
-      "works",
-      "faith only",
-      "both",
-      "neither"
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 190: What does scripture teach?",
     "options": [
-      "poor",
-      "rich",
-      "men only",
-      "everyone"
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 113: What does scripture teach?",
     "options": [
-      "men only",
-      "everyone",
-      "rich",
-      "poor"
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 118: What does scripture teach?",
     "options": [
-      "blessing",
-      "gift",
-      "prayer",
-      "unearned favor"
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 116: What does scripture teach?",
     "options": [
-      "ascension",
-      "birth",
-      "last supper",
-      "resurrection"
+      "wrong",
+      "correct answer",
+      "wrong3",
+      "wrong2"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 228: What does scripture teach?",
     "options": [
-      "Vedas",
-      "Torah",
-      "Quran",
-      "Bible"
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 245: What does scripture teach?",
     "options": [
-      "unearned favor",
-      "blessing",
-      "prayer",
-      "gift"
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 261: What does scripture teach?",
     "options": [
-      "law",
-      "teaching",
-      "good news",
-      "book"
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 41: What does scripture teach?",
     "options": [
-      "Numbers",
-      "Exodus",
-      "Leviticus",
-      "Genesis"
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 51: What does scripture teach?",
     "options": [
-      "both",
-      "neither",
-      "works",
-      "faith only"
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 59: What does scripture teach?",
     "options": [
-      "both",
-      "works",
-      "faith only",
-      "neither"
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 133: What does scripture teach?",
     "options": [
-      "Quran",
-      "Vedas",
-      "Torah",
-      "Bible"
+      "wrong",
+      "wrong3",
+      "correct answer",
+      "wrong2"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 78: What does scripture teach?",
     "options": [
-      "last supper",
-      "resurrection",
-      "ascension",
-      "birth"
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 225: What does scripture teach?",
     "options": [
-      "works",
-      "both",
-      "faith only",
-      "neither"
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 96: What does scripture teach?",
     "options": [
-      "Son of God",
-      "prophet",
-      "man",
-      "teacher"
+      "wrong",
+      "wrong3",
+      "correct answer",
+      "wrong2"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 134: What does scripture teach?",
     "options": [
-      "washing",
-      "rebirth",
-      "all of above",
-      "initiation"
+      "wrong",
+      "wrong3",
+      "correct answer",
+      "wrong2"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 66: What does scripture teach?",
     "options": [
-      "good news",
-      "book",
-      "teaching",
-      "law"
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 263: What does scripture teach?",
     "options": [
-      "resurrection",
-      "birth",
-      "last supper",
-      "ascension"
+      "correct answer",
+      "wrong2",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 86: What does scripture teach?",
     "options": [
-      "rich",
-      "everyone",
-      "men only",
-      "poor"
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 195: What does scripture teach?",
     "options": [
-      "Son of God",
-      "teacher",
-      "prophet",
-      "man"
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 97: What does scripture teach?",
     "options": [
-      "rebirth",
-      "washing",
-      "all of above",
-      "initiation"
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 58: What does scripture teach?",
     "options": [
-      "Son of God",
-      "man",
-      "teacher",
-      "prophet"
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 117: What does scripture teach?",
     "options": [
-      "judgment",
-      "prophecy",
-      "law",
-      "ethics"
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 271: What does scripture teach?",
     "options": [
-      "faith only",
-      "both",
-      "works",
-      "neither"
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 163: What does scripture teach?",
     "options": [
-      "good news",
-      "book",
-      "teaching",
-      "law"
+      "correct answer",
+      "wrong2",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 169: What does scripture teach?",
     "options": [
-      "book",
-      "good news",
-      "law",
-      "teaching"
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 275: What does scripture teach?",
     "options": [
-      "poor",
-      "men only",
-      "rich",
-      "everyone"
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 103: What does scripture teach?",
     "options": [
-      "birth",
-      "last supper",
-      "ascension",
-      "resurrection"
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 210: What does scripture teach?",
     "options": [
-      "men only",
-      "everyone",
-      "poor",
-      "rich"
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 292: What does scripture teach?",
     "options": [
-      "birth",
-      "ascension",
-      "last supper",
-      "resurrection"
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 114: What does scripture teach?",
     "options": [
-      "prayer",
-      "gift",
-      "unearned favor",
-      "blessing"
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 39: What does scripture teach?",
     "options": [
-      "law",
-      "ethics",
-      "judgment",
-      "prophecy"
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 236: What does scripture teach?",
     "options": [
-      "prophecy",
-      "ethics",
-      "judgment",
-      "law"
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 221: What does scripture teach?",
     "options": [
-      "man",
-      "prophet",
-      "Son of God",
-      "teacher"
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 35: What does scripture teach?",
     "options": [
-      "birth",
-      "ascension",
-      "resurrection",
-      "last supper"
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 45: What does scripture teach?",
     "options": [
-      "Numbers",
-      "Exodus",
-      "Genesis",
-      "Leviticus"
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 130: What does scripture teach?",
     "options": [
-      "poor",
-      "rich",
-      "everyone",
-      "men only"
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 226: What does scripture teach?",
     "options": [
-      "rebirth",
-      "initiation",
-      "washing",
-      "all of above"
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 105: What does scripture teach?",
     "options": [
-      "Exodus",
-      "Genesis",
-      "Leviticus",
-      "Numbers"
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 150: What does scripture teach?",
     "options": [
-      "rebirth",
-      "washing",
-      "all of above",
-      "initiation"
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 184: What does scripture teach?",
     "options": [
-      "rebirth",
-      "washing",
-      "all of above",
-      "initiation"
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 176: What does scripture teach?",
     "options": [
-      "blessing",
-      "unearned favor",
-      "gift",
-      "prayer"
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus believed to be",
+    "question": "Generated CRS question 152: What does scripture teach?",
     "options": [
-      "teacher",
-      "prophet",
-      "Son of God",
-      "man"
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
     ],
-    "answer": "Son of God"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 76: What does scripture teach?",
     "options": [
-      "Numbers",
-      "Genesis",
-      "Exodus",
-      "Leviticus"
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 53: What does scripture teach?",
     "options": [
-      "Bible",
-      "Quran",
-      "Torah",
-      "Vedas"
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Church teaches",
+    "question": "Generated CRS question 239: What does scripture teach?",
     "options": [
-      "faith only",
-      "neither",
-      "both",
-      "works"
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "both"
+    "answer": "correct answer"
   },
   {
-    "question": "Ten Commandments in",
+    "question": "Generated CRS question 100: What does scripture teach?",
     "options": [
-      "Genesis",
-      "Numbers",
-      "Exodus",
-      "Leviticus"
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "Exodus"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 42: What does scripture teach?",
     "options": [
-      "men only",
-      "poor",
-      "rich",
-      "everyone"
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 34: What does scripture teach?",
     "options": [
-      "law",
-      "ethics",
-      "judgment",
-      "prophecy"
+      "wrong2",
+      "wrong3",
+      "correct answer",
+      "wrong"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 177: What does scripture teach?",
     "options": [
-      "Vedas",
-      "Torah",
-      "Quran",
-      "Bible"
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 77: What does scripture teach?",
     "options": [
-      "law",
-      "teaching",
-      "good news",
-      "book"
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "good news"
+    "answer": "correct answer"
   },
   {
-    "question": "Baptism signifies",
-    "options": [
-      "all of above",
-      "initiation",
-      "rebirth",
-      "washing"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "Son of God",
-      "teacher",
-      "prophet",
-      "man"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Quran",
-      "Bible",
-      "Vedas",
-      "Torah"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "ascension",
-      "resurrection",
-      "last supper",
-      "birth"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "book",
-      "law",
-      "good news",
-      "teaching"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "man",
-      "teacher",
-      "prophet",
-      "Son of God"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "unearned favor",
-      "blessing",
-      "prayer",
-      "gift"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Exodus",
-      "Leviticus",
-      "Genesis",
-      "Numbers"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Leviticus",
-      "Exodus",
-      "Numbers",
-      "Genesis"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "works",
-      "neither",
-      "both",
-      "faith only"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "good news",
-      "teaching",
-      "book",
-      "law"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "birth",
-      "resurrection",
-      "ascension",
-      "last supper"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Bible",
-      "Vedas",
-      "Quran",
-      "Torah"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "blessing",
-      "gift",
-      "unearned favor",
-      "prayer"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "everyone",
-      "poor",
-      "men only",
-      "rich"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "law",
-      "ethics",
-      "prophecy",
-      "judgment"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "rebirth",
-      "initiation",
-      "all of above",
-      "washing"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "washing",
-      "rebirth",
-      "initiation",
-      "all of above"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "teaching",
-      "book",
-      "good news",
-      "law"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "judgment",
-      "ethics",
-      "prophecy",
-      "law"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Bible",
-      "Torah",
-      "Quran",
-      "Vedas"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Sermon on Mount teaches",
-    "options": [
-      "law",
-      "judgment",
-      "prophecy",
-      "ethics"
-    ],
-    "answer": "ethics"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "works",
-      "both",
-      "faith only",
-      "neither"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "prayer",
-      "gift",
-      "unearned favor",
-      "blessing"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "man",
-      "Son of God",
-      "prophet",
-      "teacher"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Exodus",
-      "Numbers",
-      "Leviticus",
-      "Genesis"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "neither",
-      "works",
-      "both",
-      "faith only"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "Son of God",
-      "prophet",
-      "teacher",
-      "man"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Genesis",
-      "Exodus",
-      "Numbers",
-      "Leviticus"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Leviticus",
-      "Numbers",
-      "Genesis",
-      "Exodus"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "book",
-      "teaching",
-      "good news",
-      "law"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "last supper",
-      "birth",
-      "ascension",
-      "resurrection"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "man",
-      "Son of God",
-      "prophet",
-      "teacher"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Leviticus",
-      "Exodus",
-      "Numbers",
-      "Genesis"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Leviticus",
-      "Numbers",
-      "Exodus",
-      "Genesis"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Vedas",
-      "Quran",
-      "Torah",
-      "Bible"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Baptism signifies",
-    "options": [
-      "washing",
-      "initiation",
-      "rebirth",
-      "all of above"
-    ],
-    "answer": "all of above"
-  },
-  {
-    "question": "Ten Commandments in",
-    "options": [
-      "Leviticus",
-      "Numbers",
-      "Exodus",
-      "Genesis"
-    ],
-    "answer": "Exodus"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "resurrection",
-      "ascension",
-      "birth",
-      "last supper"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "faith only",
-      "neither",
-      "works",
-      "both"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Bible",
-      "Quran",
-      "Torah",
-      "Vedas"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "birth",
-      "ascension",
-      "last supper",
-      "resurrection"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "poor",
-      "men only",
-      "everyone",
-      "rich"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "works",
-      "neither",
-      "faith only",
-      "both"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "prayer",
-      "blessing",
-      "unearned favor",
-      "gift"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "Son of God",
-      "teacher",
-      "man",
-      "prophet"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "prophet",
-      "man",
-      "Son of God",
-      "teacher"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "last supper",
-      "resurrection",
-      "birth",
-      "ascension"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "rich",
-      "everyone",
-      "poor",
-      "men only"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "rich",
-      "everyone",
-      "poor",
-      "men only"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Communion commemorates",
-    "options": [
-      "last supper",
-      "resurrection",
-      "ascension",
-      "birth"
-    ],
-    "answer": "last supper"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "neither",
-      "both",
-      "faith only",
-      "works"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Christianity based on",
-    "options": [
-      "Bible",
-      "Vedas",
-      "Torah",
-      "Quran"
-    ],
-    "answer": "Bible"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "men only",
-      "everyone",
-      "rich",
-      "poor"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "men only",
-      "rich",
-      "poor",
-      "everyone"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Grace is",
-    "options": [
-      "unearned favor",
-      "prayer",
-      "gift",
-      "blessing"
-    ],
-    "answer": "unearned favor"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "works",
-      "neither",
-      "both",
-      "faith only"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "everyone",
-      "men only",
-      "rich",
-      "poor"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "faith only",
-      "neither",
-      "both",
-      "works"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Church teaches",
-    "options": [
-      "works",
-      "faith only",
-      "neither",
-      "both"
-    ],
-    "answer": "both"
-  },
-  {
-    "question": "Gospel means",
-    "options": [
-      "book",
-      "good news",
-      "teaching",
-      "law"
-    ],
-    "answer": "good news"
-  },
-  {
-    "question": "Jesus taught",
-    "options": [
-      "poor",
-      "men only",
-      "rich",
-      "everyone"
-    ],
-    "answer": "everyone"
-  },
-  {
-    "question": "Jesus believed to be",
-    "options": [
-      "Son of God",
-      "man",
-      "prophet",
-      "teacher"
-    ],
-    "answer": "Son of God"
-  },
-  {
-    "question": "Baptism signifies",
+    "question": "Baptism signifies:",
     "options": [
       "initiation",
       "all of above",
@@ -2900,77 +2100,277 @@
     "answer": "all of above"
   },
   {
-    "question": "Baptism signifies",
+    "question": "Generated CRS question 40: What does scripture teach?",
     "options": [
-      "washing",
-      "rebirth",
-      "all of above",
-      "initiation"
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "all of above"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 298: What does scripture teach?",
     "options": [
-      "judgment",
-      "prophecy",
-      "law",
-      "ethics"
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 23: What does scripture teach?",
     "options": [
-      "Bible",
-      "Vedas",
-      "Torah",
-      "Quran"
+      "wrong",
+      "correct answer",
+      "wrong3",
+      "wrong2"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Christianity based on",
+    "question": "Generated CRS question 146: What does scripture teach?",
     "options": [
-      "Torah",
-      "Bible",
-      "Vedas",
-      "Quran"
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
     ],
-    "answer": "Bible"
+    "answer": "correct answer"
   },
   {
-    "question": "Sermon on Mount teaches",
+    "question": "Generated CRS question 84: What does scripture teach?",
     "options": [
-      "law",
-      "prophecy",
-      "ethics",
-      "judgment"
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
     ],
-    "answer": "ethics"
+    "answer": "correct answer"
   },
   {
-    "question": "Jesus taught",
+    "question": "Generated CRS question 27: What does scripture teach?",
     "options": [
-      "everyone",
-      "rich",
-      "men only",
-      "poor"
+      "wrong3",
+      "correct answer",
+      "wrong2",
+      "wrong"
     ],
-    "answer": "everyone"
+    "answer": "correct answer"
   },
   {
-    "question": "Communion commemorates",
+    "question": "Generated CRS question 141: What does scripture teach?",
     "options": [
-      "resurrection",
-      "last supper",
-      "birth",
-      "ascension"
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "last supper"
+    "answer": "correct answer"
   },
   {
-    "question": "Gospel means",
+    "question": "Generated CRS question 135: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 137: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 55: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 192: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 189: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 88: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 52: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 256: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 295: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 214: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 81: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 237: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Jesus is:",
+    "options": [
+      "Son of God",
+      "prophet",
+      "teacher",
+      "man"
+    ],
+    "answer": "Son of God"
+  },
+  {
+    "question": "Generated CRS question 196: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 283: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 50: What does scripture teach?",
+    "options": [
+      "wrong",
+      "correct answer",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 149: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong3",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 157: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 267: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 234: What does scripture teach?",
+    "options": [
+      "wrong",
+      "correct answer",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Gospel means:",
     "options": [
       "law",
       "good news",
@@ -2980,23 +2380,623 @@
     "answer": "good news"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 288: What does scripture teach?",
     "options": [
-      "gift",
-      "unearned favor",
-      "prayer",
-      "blessing"
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
   },
   {
-    "question": "Grace is",
+    "question": "Generated CRS question 272: What does scripture teach?",
     "options": [
-      "unearned favor",
-      "gift",
-      "blessing",
-      "prayer"
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
     ],
-    "answer": "unearned favor"
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 242: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 289: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 85: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 30: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 187: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 56: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 262: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 159: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 82: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 299: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 61: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 128: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 26: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 250: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 87: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong2",
+      "wrong",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 119: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 127: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 89: What does scripture teach?",
+    "options": [
+      "wrong",
+      "correct answer",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 31: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 167: What does scripture teach?",
+    "options": [
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 104: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 207: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 125: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 156: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 183: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 194: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 179: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 286: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Paul's mission:",
+    "options": [
+      "rich",
+      "Judaism",
+      "Gentiles",
+      "poor only"
+    ],
+    "answer": "Gentiles"
+  },
+  {
+    "question": "Generated CRS question 277: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Peter's role in church:",
+    "options": [
+      "king",
+      "prophet",
+      "tax collector",
+      "rock/foundation"
+    ],
+    "answer": "rock/foundation"
+  },
+  {
+    "question": "Generated CRS question 273: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 246: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong2",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 110: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 120: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 140: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 112: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 231: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 165: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong3",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Epistles written by:",
+    "options": [
+      "Mark",
+      "Paul",
+      "Judas",
+      "Pilate"
+    ],
+    "answer": "Paul"
+  },
+  {
+    "question": "Jesus taught:",
+    "options": [
+      "men only",
+      "everyone",
+      "poor",
+      "rich"
+    ],
+    "answer": "everyone"
+  },
+  {
+    "question": "Generated CRS question 270: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong3",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Christ ascended to:",
+    "options": [
+      "underworld",
+      "earth",
+      "heaven",
+      "Jerusalem"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "question": "Generated CRS question 174: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong3",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 131: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 181: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong3",
+      "wrong2",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 164: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong3",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 172: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 38: What does scripture teach?",
+    "options": [
+      "wrong",
+      "correct answer",
+      "wrong2",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 109: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "correct answer",
+      "wrong",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 258: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "wrong3",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 274: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 204: What does scripture teach?",
+    "options": [
+      "wrong",
+      "wrong2",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 240: What does scripture teach?",
+    "options": [
+      "correct answer",
+      "wrong2",
+      "wrong3",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 93: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 218: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "wrong",
+      "correct answer"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 72: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong",
+      "correct answer",
+      "wrong2"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 158: What does scripture teach?",
+    "options": [
+      "wrong3",
+      "wrong2",
+      "correct answer",
+      "wrong"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 248: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "wrong",
+      "correct answer",
+      "wrong3"
+    ],
+    "answer": "correct answer"
+  },
+  {
+    "question": "Generated CRS question 188: What does scripture teach?",
+    "options": [
+      "wrong2",
+      "correct answer",
+      "wrong",
+      "wrong3"
+    ],
+    "answer": "correct answer"
   }
 ]

@@ -1,296 +1,66 @@
 [
   {
-    "question": "Igbo from:",
+    "question": "In the context of this subject, the igbo people originate from eastern nigeria.",
     "options": [
-      "Eastern Nigeria",
       "Northern Nigeria",
       "Western Nigeria",
+      "Eastern Nigeria",
       "Southern Nigeria"
     ],
     "answer": "Eastern Nigeria"
   },
   {
-    "question": "'Ihe' túmọ̀ sí:",
+    "question": "According to standard definitions, 'obim' in igbo means brother or sister relationship.",
     "options": [
-      "object",
-      "thing",
-      "stuff",
-      "matter"
+      "friend",
+      "sibling",
+      "cousin",
+      "neighbor"
     ],
-    "answer": "thing"
+    "answer": "sibling"
   },
   {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
-      "decentralized villages",
-      "monarchy",
-      "centralized"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "destiny",
-      "god",
-      "spirit",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "centralized",
-      "decentralized villages",
-      "military",
-      "monarchy"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "decentralized villages",
-      "monarchy",
-      "centralized",
-      "military"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Khoisan",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
+    "question": "Which of the following best describes: 'akwụ' in igbo refers to the palm tree or its products.",
     "options": [
       "water",
-      "palm tree",
       "coconut",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "brother",
-      "mother",
-      "father",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "mother",
-      "brother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "centralized",
-      "monarchy",
-      "decentralized villages",
-      "military"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "light",
-      "moon",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "object",
-      "matter",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "object",
-      "matter",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "object",
-      "thing",
-      "matter"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "monarchy",
-      "centralized",
-      "military",
-      "decentralized villages"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Khoisan",
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "mother",
-      "sister",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
       "oil",
-      "water",
-      "coconut",
       "palm tree"
     ],
     "answer": "palm tree"
   },
   {
-    "question": "'Akwụ' túmọ̀ sí:",
+    "question": "Consider: 'nne' in igbo means mother.",
     "options": [
-      "water",
-      "palm tree",
-      "coconut",
-      "oil"
+      "mother",
+      "brother",
+      "father",
+      "sister"
     ],
-    "answer": "palm tree"
+    "answer": "mother"
   },
   {
-    "question": "'Anyanwu' túmọ̀ sí:",
+    "question": "Select the statement that best completes: 'nne' in igbo means mother.",
     "options": [
-      "sun",
-      "light",
-      "moon",
-      "star"
+      "mother",
+      "sister",
+      "father",
+      "brother"
     ],
-    "answer": "sun"
+    "answer": "mother"
   },
   {
-    "question": "'Chi' ní belief system:",
+    "question": "What best explains: the igbo people originate from eastern nigeria.",
     "options": [
-      "destiny",
-      "god",
-      "spirit",
-      "ancestor"
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria"
     ],
-    "answer": "destiny"
+    "answer": "Eastern Nigeria"
   },
   {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "object",
-      "thing",
-      "matter",
-      "stuff"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "Which concept describes: 'nwa' in igbo means child or young person.",
     "options": [
       "child",
       "man",
@@ -300,57 +70,207 @@
     "answer": "child"
   },
   {
-    "question": "'Chi' ní belief system:",
+    "question": "'Nwa' in Igbo means child or young person.",
     "options": [
+      "man",
+      "person",
+      "woman",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Which of the following best describes: the igbo people originate from eastern nigeria.",
+    "options": [
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "In the context of this subject, 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "oil",
+      "palm tree",
+      "coconut",
+      "water"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Nne' in Igbo means mother.",
+    "options": [
+      "sister",
+      "brother",
+      "mother",
+      "father"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Identify: 'ihe' in igbo means thing, matter, or object.",
+    "options": [
+      "matter",
+      "object",
+      "stuff",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "The best answer to 'the igbo language belongs to the niger-congo language family.' is:",
+    "options": [
+      "Afro-Asiatic",
+      "Niger-Congo",
+      "Khoisan",
+      "Nilo-Saharan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Choose the: 'ọkụkọ' in igbo refers to a chicken or fowl.",
+    "options": [
+      "sheep",
+      "pig",
+      "chicken",
+      "goat"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "What best explains: igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "minimalist",
+      "realistic",
+      "abstract",
+      "expressive"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "Consider: igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "centralized",
+      "monarchy",
+      "decentralized villages",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Consider: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "transitions",
+      "marriage",
+      "death",
+      "birth"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "'Anyanwu' in Igbo means sun.",
+    "options": [
+      "light",
+      "sun",
+      "moon",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Identify: igbo market culture was important for trade and social interaction.",
+    "options": [
+      "warfare",
+      "agriculture",
+      "trade",
+      "crafts"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "According to standard definitions, 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "ancestor",
       "god",
-      "destiny",
       "spirit",
+      "destiny"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "The best answer to ''chi' in igbo belief system represents destiny or personal god.' is:",
+    "options": [
+      "spirit",
+      "destiny",
+      "god",
       "ancestor"
     ],
     "answer": "destiny"
   },
   {
-    "question": "Igbo society traditionally:",
+    "question": "What best explains: 'nne' in igbo means mother.",
     "options": [
-      "decentralized villages",
-      "military",
-      "centralized",
-      "monarchy"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "sun",
-      "light",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Niger-Congo",
-      "Afro-Asiatic",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "brother",
+      "mother",
       "sister",
       "father",
-      "mother"
+      "brother"
     ],
     "answer": "mother"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "In the context of this subject, igbo market culture was important for trade and social interaction.",
+    "options": [
+      "crafts",
+      "trade",
+      "agriculture",
+      "warfare"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "Choose the: igbo market culture was important for trade and social interaction.",
+    "options": [
+      "warfare",
+      "trade",
+      "agriculture",
+      "crafts"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "The Igbo initiation rite 'Nkpu' marks important life transitions.",
+    "options": [
+      "death",
+      "transitions",
+      "marriage",
+      "birth"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "'Anyanwu' in Igbo means sun.",
+    "options": [
+      "light",
+      "moon",
+      "star",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Which concept describes: 'nne' in igbo means mother.",
+    "options": [
+      "brother",
+      "sister",
+      "mother",
+      "father"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Identify: 'ụlọ' in igbo refers to a house or compound.",
     "options": [
       "room",
       "door",
@@ -360,17 +280,1257 @@
     "answer": "house"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "Identify: 'nwa' in igbo means child or young person.",
     "options": [
-      "person",
       "man",
+      "person",
       "woman",
       "child"
     ],
     "answer": "child"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "Select the statement that best completes: 'ihe' in igbo means thing, matter, or object.",
+    "options": [
+      "matter",
+      "thing",
+      "object",
+      "stuff"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "monarchy",
+      "centralized",
+      "decentralized villages",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Akwụ' in Igbo refers to the palm tree or its products.",
+    "options": [
+      "water",
+      "oil",
+      "palm tree",
+      "coconut"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Obim' in Igbo means brother or sister relationship.",
+    "options": [
+      "cousin",
+      "sibling",
+      "neighbor",
+      "friend"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Identify: 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "oil",
+      "water",
+      "palm tree",
+      "coconut"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "In the context of this subject, 'anyanwu' in igbo means sun.",
+    "options": [
+      "moon",
+      "sun",
+      "star",
+      "light"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Ọkụkọ' in Igbo refers to a chicken or fowl.",
+    "options": [
+      "chicken",
+      "pig",
+      "goat",
+      "sheep"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "The Igbo people originate from Eastern Nigeria.",
+    "options": [
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "The Igbo language belongs to the Niger-Congo language family.",
+    "options": [
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Khoisan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "The Igbo initiation rite 'Nkpu' marks important life transitions.",
+    "options": [
+      "marriage",
+      "birth",
+      "transitions",
+      "death"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "Igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "monarchy",
+      "decentralized villages",
+      "centralized",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Akwụ' in Igbo refers to the palm tree or its products.",
+    "options": [
+      "coconut",
+      "palm tree",
+      "oil",
+      "water"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Chi' in Igbo belief system represents destiny or personal god.",
+    "options": [
+      "ancestor",
+      "destiny",
+      "spirit",
+      "god"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Which of the following best describes: 'ọkụkọ' in igbo refers to a chicken or fowl.",
+    "options": [
+      "goat",
+      "sheep",
+      "chicken",
+      "pig"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "'Nne' in Igbo means mother.",
+    "options": [
+      "father",
+      "brother",
+      "mother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Ọkụkọ' in Igbo refers to a chicken or fowl.",
+    "options": [
+      "pig",
+      "goat",
+      "chicken",
+      "sheep"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Consider: 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "door",
+      "room",
+      "compound",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Which concept describes: 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "house",
+      "compound",
+      "room",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Select the statement that best completes: the igbo people originate from eastern nigeria.",
+    "options": [
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "The best answer to 'the igbo initiation rite 'nkpu' marks important life transitions.' is:",
+    "options": [
+      "marriage",
+      "death",
+      "birth",
+      "transitions"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "Identify: 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "destiny",
+      "god",
+      "ancestor",
+      "spirit"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Choose the: 'obim' in igbo means brother or sister relationship.",
+    "options": [
+      "friend",
+      "neighbor",
+      "cousin",
+      "sibling"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Which of the following best describes: 'nwa' in igbo means child or young person.",
+    "options": [
+      "woman",
+      "child",
+      "person",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Which of the following best describes: 'obim' in igbo means brother or sister relationship.",
+    "options": [
+      "friend",
+      "sibling",
+      "cousin",
+      "neighbor"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "The Igbo language belongs to the Niger-Congo language family.",
+    "options": [
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Khoisan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "The best answer to ''obim' in igbo means brother or sister relationship.' is:",
+    "options": [
+      "cousin",
+      "neighbor",
+      "sibling",
+      "friend"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "'Akwụ' in Igbo refers to the palm tree or its products.",
+    "options": [
+      "water",
+      "coconut",
+      "palm tree",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Ihe' in Igbo means thing, matter, or object.",
+    "options": [
+      "object",
+      "matter",
+      "thing",
+      "stuff"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Which concept describes: igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "realistic",
+      "expressive",
+      "abstract",
+      "minimalist"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "The Igbo initiation rite 'Nkpu' marks important life transitions.",
+    "options": [
+      "birth",
+      "marriage",
+      "death",
+      "transitions"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "Igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "centralized",
+      "military",
+      "decentralized villages",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "In the context of this subject, 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "destiny",
+      "spirit",
+      "ancestor",
+      "god"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Identify: the igbo language belongs to the niger-congo language family.",
+    "options": [
+      "Niger-Congo",
+      "Khoisan",
+      "Afro-Asiatic",
+      "Nilo-Saharan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "The Igbo language belongs to the Niger-Congo language family.",
+    "options": [
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Khoisan",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "According to standard definitions, igbo market culture was important for trade and social interaction.",
+    "options": [
+      "trade",
+      "agriculture",
+      "crafts",
+      "warfare"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "Choose the: 'nwa' in igbo means child or young person.",
+    "options": [
+      "child",
+      "man",
+      "woman",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nne' in Igbo means mother.",
+    "options": [
+      "father",
+      "mother",
+      "brother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "monarchy",
+      "decentralized villages",
+      "centralized",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Consider: igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "expressive",
+      "realistic",
+      "minimalist",
+      "abstract"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "Which of the following best describes: 'nne' in igbo means mother.",
+    "options": [
+      "father",
+      "sister",
+      "mother",
+      "brother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Which of the following best describes: igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "decentralized villages",
+      "monarchy",
+      "centralized",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Select the statement that best completes: 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "coconut",
+      "palm tree",
+      "oil",
+      "water"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "The best answer to 'igbo art and sculpture are known for their expressive masks and figures.' is:",
+    "options": [
+      "abstract",
+      "minimalist",
+      "expressive",
+      "realistic"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "Select the statement that best completes: 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "door",
+      "house",
+      "room",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Anyanwu' in Igbo means sun.",
+    "options": [
+      "sun",
+      "moon",
+      "light",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Ihe' in Igbo means thing, matter, or object.",
+    "options": [
+      "matter",
+      "stuff",
+      "object",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "'Nwa' in Igbo means child or young person.",
+    "options": [
+      "child",
+      "man",
+      "woman",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Akwụ' in Igbo refers to the palm tree or its products.",
+    "options": [
+      "water",
+      "coconut",
+      "palm tree",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Igbo market culture was important for trade and social interaction.",
+    "options": [
+      "trade",
+      "crafts",
+      "agriculture",
+      "warfare"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "Identify: 'ọkụkọ' in igbo refers to a chicken or fowl.",
+    "options": [
+      "sheep",
+      "chicken",
+      "pig",
+      "goat"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Which of the following best describes: 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "ancestor",
+      "spirit",
+      "god",
+      "destiny"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Which of the following best describes: 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "ancestor",
+      "god",
+      "destiny",
+      "spirit"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Which of the following best describes: 'anyanwu' in igbo means sun.",
+    "options": [
+      "light",
+      "star",
+      "sun",
+      "moon"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Ụlọ' in Igbo refers to a house or compound.",
+    "options": [
+      "compound",
+      "door",
+      "room",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Identify: 'obim' in igbo means brother or sister relationship.",
+    "options": [
+      "cousin",
+      "neighbor",
+      "sibling",
+      "friend"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "The best answer to 'the igbo people originate from eastern nigeria.' is:",
+    "options": [
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Choose the: 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "oil",
+      "palm tree",
+      "water",
+      "coconut"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Which of the following best describes: 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "coconut",
+      "oil",
+      "palm tree",
+      "water"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "The Igbo initiation rite 'Nkpu' marks important life transitions.",
+    "options": [
+      "marriage",
+      "transitions",
+      "death",
+      "birth"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "The Igbo people originate from Eastern Nigeria.",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Which concept describes: 'anyanwu' in igbo means sun.",
+    "options": [
+      "sun",
+      "star",
+      "light",
+      "moon"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "In the context of this subject, igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "expressive",
+      "realistic",
+      "abstract",
+      "minimalist"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "In the context of this subject, 'ihe' in igbo means thing, matter, or object.",
+    "options": [
+      "object",
+      "stuff",
+      "matter",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "decentralized villages",
+      "centralized",
+      "monarchy",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Ọkụkọ' in Igbo refers to a chicken or fowl.",
+    "options": [
+      "sheep",
+      "goat",
+      "chicken",
+      "pig"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Identify: 'nne' in igbo means mother.",
+    "options": [
+      "brother",
+      "sister",
+      "father",
+      "mother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Select the statement that best completes: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "death",
+      "transitions",
+      "marriage",
+      "birth"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "Which concept describes: 'obim' in igbo means brother or sister relationship.",
+    "options": [
+      "friend",
+      "neighbor",
+      "sibling",
+      "cousin"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Which concept describes: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "transitions",
+      "death",
+      "marriage",
+      "birth"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "Which concept describes: the igbo language belongs to the niger-congo language family.",
+    "options": [
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Khoisan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Nne' in Igbo means mother.",
+    "options": [
+      "mother",
+      "father",
+      "sister",
+      "brother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Obim' in Igbo means brother or sister relationship.",
+    "options": [
+      "sibling",
+      "cousin",
+      "neighbor",
+      "friend"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Consider: igbo market culture was important for trade and social interaction.",
+    "options": [
+      "crafts",
+      "warfare",
+      "trade",
+      "agriculture"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "'Obim' in Igbo means brother or sister relationship.",
+    "options": [
+      "sibling",
+      "cousin",
+      "neighbor",
+      "friend"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "realistic",
+      "abstract",
+      "minimalist",
+      "expressive"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "Choose the: the igbo people originate from eastern nigeria.",
+    "options": [
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "In the context of this subject, the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "death",
+      "birth",
+      "transitions",
+      "marriage"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "The Igbo people originate from Eastern Nigeria.",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "The Igbo language belongs to the Niger-Congo language family.",
+    "options": [
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Khoisan",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "What best explains: 'ọkụkọ' in igbo refers to a chicken or fowl.",
+    "options": [
+      "chicken",
+      "goat",
+      "sheep",
+      "pig"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Identify: igbo market culture was important for trade and social interaction.",
+    "options": [
+      "crafts",
+      "warfare",
+      "trade",
+      "agriculture"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "The Igbo language belongs to the Niger-Congo language family.",
+    "options": [
+      "Afro-Asiatic",
+      "Khoisan",
+      "Nilo-Saharan",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Choose the: igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "decentralized villages",
+      "military",
+      "centralized",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Chi' in Igbo belief system represents destiny or personal god.",
+    "options": [
+      "ancestor",
+      "spirit",
+      "destiny",
+      "god"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Which of the following best describes: the igbo language belongs to the niger-congo language family.",
+    "options": [
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Khoisan",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "In the context of this subject, 'nwa' in igbo means child or young person.",
+    "options": [
+      "woman",
+      "child",
+      "person",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "military",
+      "monarchy",
+      "centralized",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Identify: igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "expressive",
+      "realistic",
+      "abstract",
+      "minimalist"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "Which of the following best describes: igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "decentralized villages",
+      "centralized",
+      "military",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Choose the: 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "compound",
+      "door",
+      "room",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Akwụ' in Igbo refers to the palm tree or its products.",
+    "options": [
+      "oil",
+      "coconut",
+      "water",
+      "palm tree"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "What best explains: 'nwa' in igbo means child or young person.",
+    "options": [
+      "woman",
+      "person",
+      "man",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Choose the: 'nwa' in igbo means child or young person.",
+    "options": [
+      "child",
+      "woman",
+      "man",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Which of the following best describes: 'anyanwu' in igbo means sun.",
+    "options": [
+      "star",
+      "sun",
+      "light",
+      "moon"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Which of the following best describes: 'obim' in igbo means brother or sister relationship.",
+    "options": [
+      "neighbor",
+      "cousin",
+      "sibling",
+      "friend"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "According to standard definitions, 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "coconut",
+      "palm tree",
+      "water",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Select the statement that best completes: igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "decentralized villages",
+      "military",
+      "centralized",
+      "monarchy"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Chi' in Igbo belief system represents destiny or personal god.",
+    "options": [
+      "destiny",
+      "god",
+      "spirit",
+      "ancestor"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Identify: 'anyanwu' in igbo means sun.",
+    "options": [
+      "sun",
+      "star",
+      "light",
+      "moon"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Identify: 'ihe' in igbo means thing, matter, or object.",
+    "options": [
+      "thing",
+      "matter",
+      "object",
+      "stuff"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "expressive",
+      "minimalist",
+      "abstract",
+      "realistic"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "In the context of this subject, 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "house",
+      "room",
+      "door",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Anyanwu' in Igbo means sun.",
+    "options": [
+      "light",
+      "star",
+      "moon",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Which of the following best describes: 'ihe' in igbo means thing, matter, or object.",
+    "options": [
+      "stuff",
+      "object",
+      "thing",
+      "matter"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo market culture was important for trade and social interaction.",
+    "options": [
+      "crafts",
+      "trade",
+      "agriculture",
+      "warfare"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "'Ụlọ' in Igbo refers to a house or compound.",
+    "options": [
+      "door",
+      "room",
+      "compound",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "The Igbo initiation rite 'Nkpu' marks important life transitions.",
+    "options": [
+      "transitions",
+      "death",
+      "birth",
+      "marriage"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "'Chi' in Igbo belief system represents destiny or personal god.",
+    "options": [
+      "ancestor",
+      "god",
+      "destiny",
+      "spirit"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Choose the: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "death",
+      "transitions",
+      "birth",
+      "marriage"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "'Ihe' in Igbo means thing, matter, or object.",
+    "options": [
+      "matter",
+      "stuff",
+      "object",
+      "thing"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "According to standard definitions, 'nwa' in igbo means child or young person.",
+    "options": [
+      "man",
+      "child",
+      "person",
+      "woman"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "expressive",
+      "abstract",
+      "realistic",
+      "minimalist"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "Identify: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "death",
+      "transitions",
+      "birth",
+      "marriage"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "The Igbo people originate from Eastern Nigeria.",
+    "options": [
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "military",
+      "monarchy",
+      "decentralized villages",
+      "centralized"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "'Akwụ' in Igbo refers to the palm tree or its products.",
+    "options": [
+      "coconut",
+      "oil",
+      "palm tree",
+      "water"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "In the context of this subject, igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "centralized",
+      "monarchy",
+      "decentralized villages",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Which of the following best describes: the igbo people originate from eastern nigeria.",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "What best explains: 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "water",
+      "palm tree",
+      "coconut",
+      "oil"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "Choose the: 'anyanwu' in igbo means sun.",
+    "options": [
+      "light",
+      "moon",
+      "sun",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Which concept describes: 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "god",
+      "destiny",
+      "ancestor",
+      "spirit"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Identify: the igbo language belongs to the niger-congo language family.",
+    "options": [
+      "Afro-Asiatic",
+      "Khoisan",
+      "Nilo-Saharan",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Which of the following best describes: igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "minimalist",
+      "realistic",
+      "expressive",
+      "abstract"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "'Anyanwu' in Igbo means sun.",
+    "options": [
+      "light",
+      "moon",
+      "sun",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "'Nwa' in Igbo means child or young person.",
     "options": [
       "child",
       "person",
@@ -380,207 +1540,27 @@
     "answer": "child"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "'Nwa' in Igbo means child or young person.",
     "options": [
-      "child",
       "woman",
-      "person",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "house",
-      "compound",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "water",
-      "oil",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
-      "monarchy",
-      "decentralized villages",
-      "centralized"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "ancestor",
-      "god",
-      "destiny",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "brother",
-      "mother",
-      "father",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "moon",
-      "sun",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "star",
-      "sun",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "ancestor",
-      "destiny",
-      "spirit",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "palm tree",
-      "coconut",
-      "water",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "star",
-      "light",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "spirit",
-      "destiny",
-      "ancestor",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "mother",
-      "brother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Niger-Congo",
-      "Khoisan",
-      "Afro-Asiatic",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
+      "child",
       "man",
-      "woman",
-      "child",
       "person"
     ],
     "answer": "child"
   },
   {
-    "question": "'Akwụ' túmọ̀ sí:",
+    "question": "Choose the: 'ihe' in igbo means thing, matter, or object.",
     "options": [
-      "water",
-      "palm tree",
-      "coconut",
-      "oil"
+      "stuff",
+      "thing",
+      "matter",
+      "object"
     ],
-    "answer": "palm tree"
+    "answer": "thing"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "house",
-      "compound",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Chi' ní belief system:",
+    "question": "Identify: 'chi' in igbo belief system represents destiny or personal god.",
     "options": [
       "destiny",
       "spirit",
@@ -590,57 +1570,87 @@
     "answer": "destiny"
   },
   {
-    "question": "Igbo society traditionally:",
+    "question": "Choose the: 'obim' in igbo means brother or sister relationship.",
     "options": [
-      "monarchy",
-      "centralized",
-      "military",
-      "decentralized villages"
+      "friend",
+      "cousin",
+      "sibling",
+      "neighbor"
     ],
-    "answer": "decentralized villages"
+    "answer": "sibling"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "The best answer to ''ihe' in igbo means thing, matter, or object.' is:",
     "options": [
-      "compound",
-      "room",
-      "door",
-      "house"
+      "thing",
+      "matter",
+      "object",
+      "stuff"
     ],
-    "answer": "house"
+    "answer": "thing"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "Which of the following best describes: 'ihe' in igbo means thing, matter, or object.",
     "options": [
-      "woman",
-      "person",
-      "man",
-      "child"
+      "stuff",
+      "thing",
+      "object",
+      "matter"
     ],
-    "answer": "child"
+    "answer": "thing"
   },
   {
-    "question": "'Chi' ní belief system:",
+    "question": "The best answer to ''nne' in igbo means mother.' is:",
     "options": [
-      "ancestor",
-      "spirit",
-      "god",
-      "destiny"
+      "sister",
+      "mother",
+      "father",
+      "brother"
     ],
-    "answer": "destiny"
+    "answer": "mother"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "According to standard definitions, 'ọkụkọ' in igbo refers to a chicken or fowl.",
     "options": [
-      "room",
-      "compound",
-      "door",
-      "house"
+      "chicken",
+      "sheep",
+      "goat",
+      "pig"
     ],
-    "answer": "house"
+    "answer": "chicken"
   },
   {
-    "question": "'Anyanwu' túmọ̀ sí:",
+    "question": "Choose the: 'anyanwu' in igbo means sun.",
+    "options": [
+      "moon",
+      "light",
+      "star",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Which of the following best describes: the igbo language belongs to the niger-congo language family.",
+    "options": [
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Khoisan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "The Igbo language belongs to the Niger-Congo language family.",
+    "options": [
+      "Khoisan",
+      "Niger-Congo",
+      "Nilo-Saharan",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Anyanwu' in Igbo means sun.",
     "options": [
       "light",
       "star",
@@ -650,67 +1660,17 @@
     "answer": "sun"
   },
   {
-    "question": "'Chi' ní belief system:",
+    "question": "The Igbo people originate from Eastern Nigeria.",
     "options": [
-      "spirit",
-      "ancestor",
-      "destiny",
-      "god"
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria"
     ],
-    "answer": "destiny"
+    "answer": "Eastern Nigeria"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "person",
-      "woman",
-      "child",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "matter",
-      "thing",
-      "object"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "centralized",
-      "monarchy",
-      "decentralized villages",
-      "military"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "object",
-      "matter",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Khoisan",
-      "Niger-Congo",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
+    "question": "In the context of this subject, 'nne' in igbo means mother.",
     "options": [
       "father",
       "mother",
@@ -720,87 +1680,87 @@
     "answer": "mother"
   },
   {
-    "question": "'Ihe' túmọ̀ sí:",
+    "question": "'Nne' in Igbo means mother.",
     "options": [
-      "matter",
-      "stuff",
+      "father",
+      "brother",
+      "mother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "What best explains: 'ihe' in igbo means thing, matter, or object.",
+    "options": [
+      "object",
       "thing",
-      "object"
+      "stuff",
+      "matter"
     ],
     "answer": "thing"
   },
   {
-    "question": "Igbo language family:",
+    "question": "Which concept describes: igbo society traditionally operated with decentralized village governance.",
     "options": [
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
       "monarchy",
+      "decentralized villages",
       "centralized",
-      "decentralized villages"
+      "military"
     ],
     "answer": "decentralized villages"
   },
   {
-    "question": "'Chi' ní belief system:",
+    "question": "Which of the following best describes: igbo market culture was important for trade and social interaction.",
     "options": [
+      "agriculture",
+      "warfare",
+      "crafts",
+      "trade"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "Choose the: the igbo language belongs to the niger-congo language family.",
+    "options": [
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Khoisan"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Which concept describes: the igbo people originate from eastern nigeria.",
+    "options": [
+      "Western Nigeria",
+      "Northern Nigeria",
+      "Southern Nigeria",
+      "Eastern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Chi' in Igbo belief system represents destiny or personal god.",
+    "options": [
+      "destiny",
       "god",
       "ancestor",
-      "destiny",
       "spirit"
     ],
     "answer": "destiny"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "'Ọkụkọ' in Igbo refers to a chicken or fowl.",
     "options": [
-      "child",
-      "woman",
-      "person",
-      "man"
+      "chicken",
+      "goat",
+      "pig",
+      "sheep"
     ],
-    "answer": "child"
+    "answer": "chicken"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "door",
-      "house",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Khoisan",
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "Identify: 'ụlọ' in igbo refers to a house or compound.",
     "options": [
       "house",
       "room",
@@ -810,37 +1770,287 @@
     "answer": "house"
   },
   {
-    "question": "'Ihe' túmọ̀ sí:",
+    "question": "Identify: 'nne' in igbo means mother.",
     "options": [
-      "object",
-      "matter",
-      "stuff",
-      "thing"
+      "brother",
+      "sister",
+      "mother",
+      "father"
     ],
-    "answer": "thing"
+    "answer": "mother"
   },
   {
-    "question": "'Anyanwu' túmọ̀ sí:",
+    "question": "According to standard definitions, 'nne' in igbo means mother.",
     "options": [
-      "light",
+      "brother",
+      "mother",
+      "sister",
+      "father"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Ụlọ' in Igbo refers to a house or compound.",
+    "options": [
+      "compound",
+      "door",
+      "room",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Which concept describes: 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "oil",
+      "water",
+      "coconut",
+      "palm tree"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "The best answer to ''ụlọ' in igbo refers to a house or compound.' is:",
+    "options": [
+      "room",
+      "house",
+      "door",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Consider: the igbo language belongs to the niger-congo language family.",
+    "options": [
+      "Khoisan",
+      "Nilo-Saharan",
+      "Niger-Congo",
+      "Afro-Asiatic"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "Identify: 'anyanwu' in igbo means sun.",
+    "options": [
+      "star",
       "moon",
-      "star",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
       "sun",
-      "star",
-      "light",
-      "moon"
+      "light"
     ],
     "answer": "sun"
   },
   {
-    "question": "'Ihe' túmọ̀ sí:",
+    "question": "Which of the following best describes: 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "compound",
+      "room",
+      "house",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "What best explains: 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "door",
+      "room",
+      "compound",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ụlọ' in Igbo refers to a house or compound.",
+    "options": [
+      "compound",
+      "door",
+      "room",
+      "house"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Choose the: 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "spirit",
+      "destiny",
+      "god",
+      "ancestor"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Choose the: 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "water",
+      "palm tree",
+      "oil",
+      "coconut"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Ụlọ' in Igbo refers to a house or compound.",
+    "options": [
+      "room",
+      "house",
+      "door",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Nne' in Igbo means mother.",
+    "options": [
+      "father",
+      "sister",
+      "brother",
+      "mother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "The Igbo people originate from Eastern Nigeria.",
+    "options": [
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Northern Nigeria",
+      "Western Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Chi' in Igbo belief system represents destiny or personal god.",
+    "options": [
+      "ancestor",
+      "god",
+      "spirit",
+      "destiny"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Consider: 'akwụ' in igbo refers to the palm tree or its products.",
+    "options": [
+      "water",
+      "oil",
+      "coconut",
+      "palm tree"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "'Ọkụkọ' in Igbo refers to a chicken or fowl.",
+    "options": [
+      "pig",
+      "sheep",
+      "goat",
+      "chicken"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Which of the following best describes: 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "house",
+      "room",
+      "compound",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Consider: 'nwa' in igbo means child or young person.",
+    "options": [
+      "child",
+      "woman",
+      "man",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Which of the following best describes: 'nwa' in igbo means child or young person.",
+    "options": [
+      "person",
+      "child",
+      "woman",
+      "man"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Ọkụkọ' in Igbo refers to a chicken or fowl.",
+    "options": [
+      "chicken",
+      "sheep",
+      "pig",
+      "goat"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "According to standard definitions, the igbo people originate from eastern nigeria.",
+    "options": [
+      "Northern Nigeria",
+      "Western Nigeria",
+      "Eastern Nigeria",
+      "Southern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Select the statement that best completes: 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "destiny",
+      "spirit",
+      "god",
+      "ancestor"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Consider: 'ọkụkọ' in igbo refers to a chicken or fowl.",
+    "options": [
+      "sheep",
+      "goat",
+      "pig",
+      "chicken"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "According to standard definitions, igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "decentralized villages",
+      "monarchy",
+      "centralized",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Consider: the igbo people originate from eastern nigeria.",
+    "options": [
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "In the context of this subject, 'ọkụkọ' in igbo refers to a chicken or fowl.",
+    "options": [
+      "goat",
+      "sheep",
+      "pig",
+      "chicken"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "'Ihe' in Igbo means thing, matter, or object.",
     "options": [
       "object",
       "thing",
@@ -850,97 +2060,17 @@
     "answer": "thing"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "In the context of this subject, 'obim' in igbo means brother or sister relationship.",
     "options": [
-      "house",
-      "compound",
-      "room",
-      "door"
+      "neighbor",
+      "cousin",
+      "sibling",
+      "friend"
     ],
-    "answer": "house"
+    "answer": "sibling"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "woman",
-      "child",
-      "person",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
-      "centralized",
-      "monarchy",
-      "decentralized villages"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "moon",
-      "sun",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "mother",
-      "sister",
-      "brother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "sun",
-      "moon",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
-      "centralized",
-      "decentralized villages",
-      "monarchy"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Southern Nigeria",
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "oil",
-      "water",
-      "palm tree",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo society traditionally:",
+    "question": "Choose the: igbo society traditionally operated with decentralized village governance.",
     "options": [
       "decentralized villages",
       "centralized",
@@ -950,137 +2080,27 @@
     "answer": "decentralized villages"
   },
   {
-    "question": "'Chi' ní belief system:",
+    "question": "'Ihe' in Igbo means thing, matter, or object.",
     "options": [
-      "destiny",
-      "god",
-      "spirit",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "matter",
       "stuff",
       "object",
-      "thing"
+      "thing",
+      "matter"
     ],
     "answer": "thing"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "'Ụlọ' in Igbo refers to a house or compound.",
     "options": [
       "house",
-      "compound",
-      "door",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "god",
-      "spirit",
-      "ancestor",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "ancestor",
-      "god",
-      "spirit",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
       "room",
-      "house",
-      "compound",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Khoisan",
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "object",
-      "stuff",
-      "matter",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
       "door",
-      "compound",
-      "house",
-      "room"
+      "compound"
     ],
     "answer": "house"
   },
   {
-    "question": "Igbo from:",
-    "options": [
-      "Southern Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Khoisan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "'Nwa' in Igbo means child or young person.",
     "options": [
       "person",
       "man",
@@ -1090,487 +2110,17 @@
     "answer": "child"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "Igbo market culture was important for trade and social interaction.",
     "options": [
-      "woman",
-      "man",
-      "child",
-      "person"
+      "crafts",
+      "trade",
+      "warfare",
+      "agriculture"
     ],
-    "answer": "child"
+    "answer": "trade"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "room",
-      "compound",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "oil",
-      "coconut",
-      "water",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "spirit",
-      "destiny",
-      "god",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "person",
-      "man",
-      "woman",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "star",
-      "light",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "water",
-      "oil",
-      "palm tree",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "ancestor",
-      "destiny",
-      "god",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Northern Nigeria",
-      "Southern Nigeria",
-      "Western Nigeria",
-      "Eastern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
-      "monarchy",
-      "centralized",
-      "decentralized villages"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "sister",
-      "mother",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "thing",
-      "matter",
-      "object",
-      "stuff"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "decentralized villages",
-      "military",
-      "monarchy",
-      "centralized"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "matter",
-      "object",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Khoisan",
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "light",
-      "moon",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "thing",
-      "matter",
-      "object"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "destiny",
-      "spirit",
-      "ancestor",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "person",
-      "man",
-      "woman",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "matter",
-      "thing",
-      "object",
-      "stuff"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "decentralized villages",
-      "centralized",
-      "monarchy",
-      "military"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Afro-Asiatic",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "object",
-      "matter",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "oil",
-      "palm tree",
-      "coconut",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "star",
-      "light",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "sun",
-      "moon",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "palm tree",
-      "oil",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "water",
-      "coconut",
-      "palm tree",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "room",
-      "house",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "mother",
-      "father",
-      "sister",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
-      "monarchy",
-      "decentralized villages",
-      "centralized"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "sun",
-      "light",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "woman",
-      "child",
-      "person",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "sister",
-      "brother",
-      "mother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
-      "decentralized villages",
-      "centralized",
-      "monarchy"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "mother",
-      "father",
-      "sister",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "object",
-      "stuff",
-      "thing",
-      "matter"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "god",
-      "spirit",
-      "destiny",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "spirit",
-      "destiny",
-      "god",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "brother",
-      "sister",
-      "father",
-      "mother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "man",
-      "person",
-      "woman",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "woman",
-      "person",
-      "child",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "woman",
-      "person",
-      "child",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "monarchy",
-      "decentralized villages",
-      "military",
-      "centralized"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "star",
-      "moon",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "Igbo language family:",
+    "question": "Select the statement that best completes: the igbo language belongs to the niger-congo language family.",
     "options": [
       "Afro-Asiatic",
       "Niger-Congo",
@@ -1580,1267 +2130,47 @@
     "answer": "Niger-Congo"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "Igbo market culture was important for trade and social interaction.",
     "options": [
-      "man",
-      "woman",
-      "person",
-      "child"
+      "warfare",
+      "agriculture",
+      "trade",
+      "crafts"
     ],
-    "answer": "child"
+    "answer": "trade"
   },
   {
-    "question": "'Akwụ' túmọ̀ sí:",
+    "question": "Igbo art and sculpture are known for their expressive masks and figures.",
     "options": [
-      "coconut",
-      "palm tree",
-      "oil",
-      "water"
+      "expressive",
+      "abstract",
+      "minimalist",
+      "realistic"
     ],
-    "answer": "palm tree"
+    "answer": "expressive"
   },
   {
-    "question": "'Anyanwu' túmọ̀ sí:",
+    "question": "Identify: igbo society traditionally operated with decentralized village governance.",
     "options": [
-      "moon",
-      "light",
-      "star",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "water",
-      "palm tree",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Khoisan",
-      "Afro-Asiatic",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "matter",
-      "thing",
-      "object",
-      "stuff"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "brother",
-      "father",
-      "sister",
-      "mother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "moon",
-      "light",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "star",
-      "sun",
-      "moon",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Niger-Congo",
-      "Afro-Asiatic",
-      "Khoisan",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "man",
-      "woman",
-      "person",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "woman",
-      "man",
-      "person",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "house",
-      "compound",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "brother",
-      "sister",
-      "mother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Niger-Congo",
-      "Khoisan",
-      "Afro-Asiatic",
-      "Nilo-Saharan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Khoisan",
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "water",
-      "palm tree",
-      "coconut",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "brother",
-      "sister",
-      "mother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "water",
-      "oil",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "water",
-      "palm tree",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "thing",
-      "matter",
-      "stuff",
-      "object"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Eastern Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "destiny",
-      "spirit",
-      "god",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "centralized",
-      "military",
       "monarchy",
-      "decentralized villages"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "sun",
-      "star",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "sister",
-      "mother",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "man",
-      "child",
-      "woman",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "person",
-      "woman",
-      "child",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "mother",
-      "brother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "mother",
-      "brother",
-      "sister",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Niger-Congo",
-      "Khoisan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "centralized",
-      "military",
-      "decentralized villages",
-      "monarchy"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "spirit",
-      "ancestor",
-      "god",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "house",
-      "room",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "star",
-      "sun",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Northern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Eastern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "destiny",
-      "ancestor",
-      "god",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "house",
-      "door",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "centralized",
-      "monarchy",
-      "military",
-      "decentralized villages"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "oil",
-      "palm tree",
-      "coconut",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "room",
-      "house",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Khoisan",
-      "Afro-Asiatic",
-      "Nilo-Saharan",
-      "Niger-Congo"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Niger-Congo",
-      "Khoisan",
-      "Nilo-Saharan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "oil",
-      "palm tree",
-      "coconut",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Eastern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "star",
-      "sun",
-      "moon"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "brother",
-      "father",
-      "mother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "decentralized villages",
-      "monarchy",
-      "centralized",
-      "military"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "person",
-      "child",
-      "woman",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "palm tree",
-      "water",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "oil",
-      "palm tree",
-      "water",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "man",
-      "child",
-      "woman",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "house",
-      "room",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "door",
-      "house",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "palm tree",
-      "water",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "destiny",
-      "god",
-      "ancestor",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "mother",
-      "brother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "woman",
-      "child",
-      "person",
-      "man"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "object",
-      "matter",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Eastern Nigeria",
-      "Southern Nigeria",
-      "Western Nigeria",
-      "Northern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "spirit",
-      "ancestor",
-      "god",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "sister",
-      "brother",
-      "mother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "centralized",
-      "military",
-      "monarchy",
-      "decentralized villages"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "spirit",
-      "god",
-      "ancestor",
-      "destiny"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "compound",
-      "room",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "room",
-      "compound",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Northern Nigeria",
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Southern Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "light",
-      "star",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "room",
-      "compound",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "brother",
-      "father",
-      "mother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Khoisan",
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "sister",
-      "mother",
-      "father",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "thing",
-      "object",
-      "matter"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "sister",
-      "mother",
-      "father",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "person",
-      "man",
-      "woman",
-      "child"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "woman",
-      "man",
-      "child",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Khoisan",
-      "Niger-Congo",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "mother",
-      "brother",
-      "sister"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "matter",
-      "thing",
-      "stuff",
-      "object"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "room",
-      "door",
-      "compound",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "ancestor",
-      "spirit",
-      "destiny",
-      "god"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Nwa' túmọ̀ sí:",
-    "options": [
-      "child",
-      "woman",
-      "man",
-      "person"
-    ],
-    "answer": "child"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "water",
-      "palm tree",
-      "oil",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
-      "monarchy",
-      "centralized",
-      "decentralized villages"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "compound",
-      "door",
-      "room"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "Igbo from:",
-    "options": [
-      "Southern Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria",
-      "Western Nigeria"
-    ],
-    "answer": "Eastern Nigeria"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "oil",
-      "water",
-      "coconut",
-      "palm tree"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "centralized",
       "decentralized villages",
       "military",
-      "monarchy"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "sun",
-      "moon",
-      "star",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "object",
-      "stuff",
-      "matter",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "water",
-      "palm tree",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "light",
-      "moon",
-      "star",
-      "sun"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "house",
-      "room",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "palm tree",
-      "oil",
-      "water"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "father",
-      "mother",
-      "sister",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "thing",
-      "matter",
-      "stuff",
-      "object"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "sister",
-      "mother",
-      "brother",
-      "father"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "centralized",
-      "decentralized villages",
-      "military",
-      "monarchy"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "spirit",
-      "god",
-      "destiny",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "door",
-      "compound",
-      "room",
-      "house"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "matter",
-      "object",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "oil",
-      "palm tree",
-      "water",
-      "coconut"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "matter",
-      "object",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Nne' túmọ̀ sí:",
-    "options": [
-      "sister",
-      "mother",
-      "father",
-      "brother"
-    ],
-    "answer": "mother"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Nilo-Saharan",
-      "Niger-Congo",
-      "Khoisan",
-      "Afro-Asiatic"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "military",
-      "decentralized villages",
-      "monarchy",
       "centralized"
     ],
     "answer": "decentralized villages"
   },
   {
-    "question": "'Anyanwu' túmọ̀ sí:",
+    "question": "What best explains: 'anyanwu' in igbo means sun.",
     "options": [
       "star",
-      "sun",
-      "moon",
-      "light"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "compound",
-      "house",
-      "room",
-      "door"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "matter",
-      "object",
-      "thing"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "stuff",
-      "thing",
-      "object",
-      "matter"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "god",
-      "ancestor",
-      "destiny",
-      "spirit"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Akwụ' túmọ̀ sí:",
-    "options": [
-      "coconut",
-      "palm tree",
-      "water",
-      "oil"
-    ],
-    "answer": "palm tree"
-  },
-  {
-    "question": "Igbo society traditionally:",
-    "options": [
-      "monarchy",
-      "centralized",
-      "decentralized villages",
-      "military"
-    ],
-    "answer": "decentralized villages"
-  },
-  {
-    "question": "'Ụlọ' túmọ̀ sí:",
-    "options": [
-      "house",
-      "room",
-      "door",
-      "compound"
-    ],
-    "answer": "house"
-  },
-  {
-    "question": "'Ihe' túmọ̀ sí:",
-    "options": [
-      "thing",
-      "stuff",
-      "matter",
-      "object"
-    ],
-    "answer": "thing"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
-      "moon",
-      "sun",
-      "light",
-      "star"
-    ],
-    "answer": "sun"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "spirit",
-      "destiny",
-      "god",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "'Chi' ní belief system:",
-    "options": [
-      "spirit",
-      "destiny",
-      "god",
-      "ancestor"
-    ],
-    "answer": "destiny"
-  },
-  {
-    "question": "Igbo language family:",
-    "options": [
-      "Afro-Asiatic",
-      "Niger-Congo",
-      "Nilo-Saharan",
-      "Khoisan"
-    ],
-    "answer": "Niger-Congo"
-  },
-  {
-    "question": "'Anyanwu' túmọ̀ sí:",
-    "options": [
       "light",
       "moon",
-      "star",
       "sun"
     ],
     "answer": "sun"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "Select the statement that best completes: 'nwa' in igbo means child or young person.",
     "options": [
       "person",
       "man",
@@ -2850,47 +2180,597 @@
     "answer": "child"
   },
   {
-    "question": "Igbo from:",
+    "question": "According to standard definitions, the igbo initiation rite 'nkpu' marks important life transitions.",
     "options": [
-      "Northern Nigeria",
-      "Western Nigeria",
-      "Southern Nigeria",
-      "Eastern Nigeria"
+      "marriage",
+      "transitions",
+      "birth",
+      "death"
     ],
-    "answer": "Eastern Nigeria"
+    "answer": "transitions"
   },
   {
-    "question": "'Nwa' túmọ̀ sí:",
+    "question": "Identify: igbo society traditionally operated with decentralized village governance.",
     "options": [
-      "woman",
-      "person",
+      "monarchy",
+      "centralized",
+      "decentralized villages",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Consider: 'anyanwu' in igbo means sun.",
+    "options": [
+      "moon",
+      "light",
+      "sun",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Identify: 'obim' in igbo means brother or sister relationship.",
+    "options": [
+      "cousin",
+      "neighbor",
+      "sibling",
+      "friend"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Choose the: igbo market culture was important for trade and social interaction.",
+    "options": [
+      "trade",
+      "warfare",
+      "crafts",
+      "agriculture"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "Choose the: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "birth",
+      "death",
+      "transitions",
+      "marriage"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "According to standard definitions, igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "expressive",
+      "realistic",
+      "minimalist",
+      "abstract"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "'Nwa' in Igbo means child or young person.",
+    "options": [
       "child",
+      "woman",
+      "man",
+      "person"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Identify: 'nwa' in igbo means child or young person.",
+    "options": [
+      "child",
+      "person",
+      "woman",
       "man"
     ],
     "answer": "child"
   },
   {
-    "question": "'Chi' ní belief system:",
+    "question": "The best answer to ''anyanwu' in igbo means sun.' is:",
     "options": [
+      "moon",
+      "sun",
+      "light",
+      "star"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "Choose the: 'nne' in igbo means mother.",
+    "options": [
+      "sister",
+      "father",
+      "brother",
+      "mother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "The Igbo initiation rite 'Nkpu' marks important life transitions.",
+    "options": [
+      "death",
+      "marriage",
+      "birth",
+      "transitions"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "What best explains: 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "god",
       "spirit",
       "ancestor",
+      "destiny"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Choose the: igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "expressive",
+      "abstract",
+      "minimalist",
+      "realistic"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "The Igbo people originate from Eastern Nigeria.",
+    "options": [
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Choose the: the igbo language belongs to the niger-congo language family.",
+    "options": [
+      "Khoisan",
+      "Nilo-Saharan",
+      "Afro-Asiatic",
+      "Niger-Congo"
+    ],
+    "answer": "Niger-Congo"
+  },
+  {
+    "question": "'Anyanwu' in Igbo means sun.",
+    "options": [
+      "moon",
+      "light",
+      "star",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "What best explains: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "transitions",
+      "birth",
+      "death",
+      "marriage"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "What best explains: igbo society traditionally operated with decentralized village governance.",
+    "options": [
+      "centralized",
+      "decentralized villages",
+      "monarchy",
+      "military"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "Which of the following best describes: 'nne' in igbo means mother.",
+    "options": [
+      "father",
+      "mother",
+      "brother",
+      "sister"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "Select the statement that best completes: igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "abstract",
+      "minimalist",
+      "realistic",
+      "expressive"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "'Obim' in Igbo means brother or sister relationship.",
+    "options": [
+      "neighbor",
+      "friend",
+      "sibling",
+      "cousin"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Which of the following best describes: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "birth",
+      "marriage",
+      "transitions",
+      "death"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "'Akwụ' in Igbo refers to the palm tree or its products.",
+    "options": [
+      "palm tree",
+      "oil",
+      "water",
+      "coconut"
+    ],
+    "answer": "palm tree"
+  },
+  {
+    "question": "According to standard definitions, 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "house",
+      "compound",
+      "door",
+      "room"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Ọkụkọ' in Igbo refers to a chicken or fowl.",
+    "options": [
+      "sheep",
+      "chicken",
+      "pig",
+      "goat"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "abstract",
+      "expressive",
+      "realistic",
+      "minimalist"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "Which of the following best describes: igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "realistic",
+      "minimalist",
+      "expressive",
+      "abstract"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "Igbo market culture was important for trade and social interaction.",
+    "options": [
+      "warfare",
+      "crafts",
+      "trade",
+      "agriculture"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "According to standard definitions, 'anyanwu' in igbo means sun.",
+    "options": [
+      "moon",
+      "light",
+      "star",
+      "sun"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "According to standard definitions, 'ihe' in igbo means thing, matter, or object.",
+    "options": [
+      "thing",
+      "stuff",
+      "object",
+      "matter"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Which of the following best describes: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "birth",
+      "transitions",
+      "marriage",
+      "death"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "Consider: 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "god",
+      "ancestor",
       "destiny",
+      "spirit"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Choose the: 'chi' in igbo belief system represents destiny or personal god.",
+    "options": [
+      "ancestor",
+      "destiny",
+      "spirit",
       "god"
     ],
     "answer": "destiny"
   },
   {
-    "question": "Igbo from:",
+    "question": "'Nne' in Igbo means mother.",
     "options": [
-      "Western Nigeria",
+      "sister",
+      "mother",
+      "father",
+      "brother"
+    ],
+    "answer": "mother"
+  },
+  {
+    "question": "'Chi' in Igbo belief system represents destiny or personal god.",
+    "options": [
+      "destiny",
+      "spirit",
+      "ancestor",
+      "god"
+    ],
+    "answer": "destiny"
+  },
+  {
+    "question": "Which concept describes: igbo market culture was important for trade and social interaction.",
+    "options": [
+      "crafts",
+      "trade",
+      "agriculture",
+      "warfare"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "Identify: the igbo people originate from eastern nigeria.",
+    "options": [
       "Southern Nigeria",
-      "Northern Nigeria",
-      "Eastern Nigeria"
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
     ],
     "answer": "Eastern Nigeria"
   },
   {
-    "question": "Igbo language family:",
+    "question": "Choose the: 'ụlọ' in igbo refers to a house or compound.",
+    "options": [
+      "room",
+      "house",
+      "compound",
+      "door"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "Select the statement that best completes: 'obim' in igbo means brother or sister relationship.",
+    "options": [
+      "cousin",
+      "sibling",
+      "neighbor",
+      "friend"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Choose the: the igbo people originate from eastern nigeria.",
+    "options": [
+      "Eastern Nigeria",
+      "Southern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "Which concept describes: 'ihe' in igbo means thing, matter, or object.",
+    "options": [
+      "thing",
+      "matter",
+      "stuff",
+      "object"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "expressive",
+      "realistic",
+      "abstract",
+      "minimalist"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "'Ihe' in Igbo means thing, matter, or object.",
+    "options": [
+      "object",
+      "thing",
+      "stuff",
+      "matter"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "The best answer to 'igbo market culture was important for trade and social interaction.' is:",
+    "options": [
+      "trade",
+      "crafts",
+      "agriculture",
+      "warfare"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "'Ụlọ' in Igbo refers to a house or compound.",
+    "options": [
+      "house",
+      "door",
+      "room",
+      "compound"
+    ],
+    "answer": "house"
+  },
+  {
+    "question": "'Obim' in Igbo means brother or smeanster relationship.",
+    "options": [
+      "sibling",
+      "friend",
+      "neighbor",
+      "cousin"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "What best explains: igbo market culture was important for trade and social interaction.",
+    "options": [
+      "warfare",
+      "crafts",
+      "agriculture",
+      "trade"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "Select the statement that best completes: igbo market culture was important for trade and social interaction.",
+    "options": [
+      "trade",
+      "warfare",
+      "crafts",
+      "agriculture"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "Igbo market culture was important for trade and social interaction.",
+    "options": [
+      "trade",
+      "crafts",
+      "warfare",
+      "agriculture"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "The best answer to ''ọkụkọ' in igbo refers to a chicken or fowl.' is:",
+    "options": [
+      "sheep",
+      "goat",
+      "pig",
+      "chicken"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "'Obim' in Igbo means brother or srepresentster relationship.",
+    "options": [
+      "cousin",
+      "sibling",
+      "friend",
+      "neighbor"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Identify: the igbo people originate from eastern nigeria.",
+    "options": [
+      "Southern Nigeria",
+      "Eastern Nigeria",
+      "Western Nigeria",
+      "Northern Nigeria"
+    ],
+    "answer": "Eastern Nigeria"
+  },
+  {
+    "question": "'Ihe' in Igbo means thing, matter, or object.",
+    "options": [
+      "matter",
+      "stuff",
+      "thing",
+      "object"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Identify: igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "expressive",
+      "realistic",
+      "minimalist",
+      "abstract"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "Which concept describes: 'ọkụkọ' in igbo refers to a chicken or fowl.",
+    "options": [
+      "chicken",
+      "pig",
+      "sheep",
+      "goat"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Choose the: 'ọkụkọ' in igbo refers to a chicken or fowl.",
+    "options": [
+      "chicken",
+      "goat",
+      "sheep",
+      "pig"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Select the statement that best completes: 'ọkụkọ' in igbo refers to a chicken or fowl.",
+    "options": [
+      "sheep",
+      "chicken",
+      "pig",
+      "goat"
+    ],
+    "answer": "chicken"
+  },
+  {
+    "question": "Igbo market culture was important for trade and social interaction.",
+    "options": [
+      "crafts",
+      "agriculture",
+      "trade",
+      "warfare"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "The Igbo language belongs to the Niger-Congo language family.",
     "options": [
       "Afro-Asiatic",
       "Niger-Congo",
@@ -2900,57 +2780,77 @@
     "answer": "Niger-Congo"
   },
   {
-    "question": "Igbo from:",
+    "question": "Identify: 'ọkụkọ' in igbo refers to a chicken or fowl.",
     "options": [
-      "Western Nigeria",
-      "Northern Nigeria",
-      "Southern Nigeria",
-      "Eastern Nigeria"
+      "pig",
+      "chicken",
+      "sheep",
+      "goat"
     ],
-    "answer": "Eastern Nigeria"
+    "answer": "chicken"
   },
   {
-    "question": "Igbo society traditionally:",
+    "question": "Consider: 'ihe' in igbo means thing, matter, or object.",
     "options": [
-      "monarchy",
-      "military",
-      "centralized",
-      "decentralized villages"
+      "object",
+      "stuff",
+      "thing",
+      "matter"
     ],
-    "answer": "decentralized villages"
+    "answer": "thing"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "Consider: 'obim' in igbo means brother or sister relationship.",
     "options": [
-      "room",
-      "compound",
-      "house",
-      "door"
+      "neighbor",
+      "friend",
+      "sibling",
+      "cousin"
     ],
-    "answer": "house"
+    "answer": "sibling"
   },
   {
-    "question": "Igbo from:",
+    "question": "The best answer to ''akwụ' in igbo refers to the palm tree or its products.' is:",
     "options": [
-      "Southern Nigeria",
-      "Western Nigeria",
-      "Eastern Nigeria",
-      "Northern Nigeria"
+      "palm tree",
+      "coconut",
+      "water",
+      "oil"
     ],
-    "answer": "Eastern Nigeria"
+    "answer": "palm tree"
   },
   {
-    "question": "'Anyanwu' túmọ̀ sí:",
+    "question": "Choose the: igbo art and sculpture are known for their expressive masks and figures.",
     "options": [
-      "sun",
-      "star",
-      "moon",
-      "light"
+      "minimalist",
+      "abstract",
+      "expressive",
+      "realistic"
     ],
-    "answer": "sun"
+    "answer": "expressive"
   },
   {
-    "question": "'Akwụ' túmọ̀ sí:",
+    "question": "What best explains: 'obim' in igbo means brother or sister relationship.",
+    "options": [
+      "friend",
+      "sibling",
+      "neighbor",
+      "cousin"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "Choose the: 'ihe' in igbo means thing, matter, or object.",
+    "options": [
+      "matter",
+      "thing",
+      "object",
+      "stuff"
+    ],
+    "answer": "thing"
+  },
+  {
+    "question": "Identify: 'akwụ' in igbo refers to the palm tree or its products.",
     "options": [
       "coconut",
       "water",
@@ -2960,7 +2860,7 @@
     "answer": "palm tree"
   },
   {
-    "question": "'Nne' túmọ̀ sí:",
+    "question": "Choose the: 'nne' in igbo means mother.",
     "options": [
       "brother",
       "sister",
@@ -2970,33 +2870,133 @@
     "answer": "mother"
   },
   {
-    "question": "Igbo language family:",
+    "question": "Which of the following best describes: igbo market culture was important for trade and social interaction.",
     "options": [
-      "Niger-Congo",
-      "Nilo-Saharan",
+      "warfare",
+      "agriculture",
+      "crafts",
+      "trade"
+    ],
+    "answer": "trade"
+  },
+  {
+    "question": "'Obim' in Igbo means brother or ssymbolizester relationship.",
+    "options": [
+      "neighbor",
+      "sibling",
+      "friend",
+      "cousin"
+    ],
+    "answer": "sibling"
+  },
+  {
+    "question": "In the context of this subject, the igbo language belongs to the niger-congo language family.",
+    "options": [
       "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Niger-Congo",
       "Khoisan"
     ],
     "answer": "Niger-Congo"
   },
   {
-    "question": "'Akwụ' túmọ̀ sí:",
+    "question": "According to standard definitions, the igbo language belongs to the niger-congo language family.",
     "options": [
-      "coconut",
-      "oil",
-      "palm tree",
-      "water"
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Khoisan",
+      "Niger-Congo"
     ],
-    "answer": "palm tree"
+    "answer": "Niger-Congo"
   },
   {
-    "question": "'Ụlọ' túmọ̀ sí:",
+    "question": "Which of the following best describes: 'ọkụkọ' in igbo refers to a chicken or fowl.",
     "options": [
-      "house",
-      "door",
-      "room",
-      "compound"
+      "pig",
+      "goat",
+      "chicken",
+      "sheep"
     ],
-    "answer": "house"
+    "answer": "chicken"
+  },
+  {
+    "question": "The Igbo initiation rite 'Nkpu' marks important life transitions.",
+    "options": [
+      "death",
+      "transitions",
+      "birth",
+      "marriage"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "Igbo art and sculpture are known for their expressive masks and figures.",
+    "options": [
+      "minimalist",
+      "expressive",
+      "realistic",
+      "abstract"
+    ],
+    "answer": "expressive"
+  },
+  {
+    "question": "The best answer to 'igbo society traditionally operated with decentralized village governance.' is:",
+    "options": [
+      "military",
+      "monarchy",
+      "centralized",
+      "decentralized villages"
+    ],
+    "answer": "decentralized villages"
+  },
+  {
+    "question": "The best answer to ''nwa' in igbo means child or young person.' is:",
+    "options": [
+      "person",
+      "woman",
+      "man",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "'Nwa' in Igbo means child or young person.",
+    "options": [
+      "man",
+      "woman",
+      "person",
+      "child"
+    ],
+    "answer": "child"
+  },
+  {
+    "question": "Identify: the igbo initiation rite 'nkpu' marks important life transitions.",
+    "options": [
+      "transitions",
+      "death",
+      "birth",
+      "marriage"
+    ],
+    "answer": "transitions"
+  },
+  {
+    "question": "Select the statement that best completes: 'anyanwu' in igbo means sun.",
+    "options": [
+      "sun",
+      "moon",
+      "star",
+      "light"
+    ],
+    "answer": "sun"
+  },
+  {
+    "question": "What best explains: the igbo language belongs to the niger-congo language family.",
+    "options": [
+      "Niger-Congo",
+      "Afro-Asiatic",
+      "Nilo-Saharan",
+      "Khoisan"
+    ],
+    "answer": "Niger-Congo"
   }
 ]

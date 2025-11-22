@@ -1,306 +1,36 @@
 [
   {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
+    "question": "Heat transfer through a medium occurs by convection.",
     "options": [
-      "20W",
-      "10W",
-      "40W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "8 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "3s",
-      "2s",
-      "4s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Newton",
-      "Erg",
-      "Dyne",
-      "Joule"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "4Ω",
-      "6Ω",
-      "3Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "20W",
-      "80W",
-      "40W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "3Ω",
-      "2Ω",
-      "4Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "None",
       "Radiation",
+      "Conduction",
       "Convection",
-      "Conduction"
+      "None"
     ],
     "answer": "Convection"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "The best answer to 'reflection occurs when light bounces off a surface.' is:",
     "options": [
-      "10 m/s",
-      "20 m/s",
-      "15 m/s",
-      "25 m/s"
+      "light disappears",
+      "light bounces off",
+      "light bends",
+      "light passes through"
     ],
-    "answer": "20 m/s"
+    "answer": "light bounces off"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "4s",
-      "1s",
-      "2s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "None",
-      "Convection",
-      "Radiation",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "8400 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "80W",
-      "20W",
-      "40W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
+    "question": "Frequency = speed/wavelength = 10/2 = 5 Hz.",
     "options": [
       "5 Hz",
-      "20 Hz",
       "2 Hz",
+      "20 Hz",
       "10 Hz"
     ],
     "answer": "5 Hz"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "1s",
-      "3s",
-      "4s",
-      "2s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "80W",
-      "10W",
-      "40W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.5",
-      "1.33",
-      "2.0",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "6 m/s²",
-      "4 m/s²",
-      "8 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "6Ω",
-      "4Ω",
-      "3Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Dyne",
-      "Joule",
-      "Newton",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "10 m/s",
-      "25 m/s",
-      "15 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "1000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "40W",
-      "20W",
-      "10W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Joule",
-      "Newton",
-      "Erg",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Joule",
-      "Dyne",
-      "Erg",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Convection",
-      "None",
-      "Radiation",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "5 m/s²",
-      "8 m/s²",
-      "6 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "The best answer to 'time to fall 20m at g=10 m/s² is 2 seconds.' is:",
     "options": [
       "4s",
       "1s",
@@ -310,197 +40,27 @@
     "answer": "2s"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "Identify: the si unit of force is the newton.",
     "options": [
-      "1s",
-      "4s",
-      "3s",
-      "2s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "2Ω",
-      "6Ω",
-      "4Ω",
-      "3Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Dyne",
-      "Newton",
       "Erg",
-      "Joule"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "2Ω",
-      "4Ω",
-      "6Ω",
-      "3Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "4Ω",
-      "6Ω",
-      "3Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "25 m/s",
-      "10 m/s",
-      "20 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "4 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
       "Joule",
       "Newton",
-      "Erg",
       "Dyne"
     ],
     "answer": "Newton"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "Choose the: sound travels faster in solids than in air.",
     "options": [
-      "25 m/s",
-      "15 m/s",
-      "20 m/s",
-      "10 m/s"
+      "faster in solids",
+      "same in all media",
+      "sound doesn't travel in solids",
+      "slower in solids"
     ],
-    "answer": "20 m/s"
+    "answer": "faster in solids"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "1s",
-      "2s",
-      "4s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "80W",
-      "10W",
-      "40W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "80W",
-      "10W",
-      "40W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Joule",
-      "Erg",
-      "Dyne",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.33",
-      "1.0",
-      "1.5",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "20 m/s",
-      "10 m/s",
-      "25 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "10 Hz",
-      "20 Hz",
-      "5 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Dyne",
-      "Joule",
-      "Erg",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.33",
-      "1.0",
-      "2.0",
-      "1.5"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Erg",
-      "Newton",
-      "Joule",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Specific heat capacity of water",
+    "question": "Specific heat capacity of water symbolizes 4200 J/(kg·K).",
     "options": [
       "1000 J/(kg·K)",
       "8400 J/(kg·K)",
@@ -510,157 +70,47 @@
     "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "SI unit of force",
+    "question": "In the context of this subject, frequency = speed/wavelength = 10/2 = 5 hz.",
     "options": [
-      "Erg",
-      "Joule",
-      "Newton",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "5 Hz",
       "20 Hz",
       "10 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "2.0",
-      "1.33",
-      "1.5",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
-      "5 Hz",
-      "10 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "3s",
-      "1s",
-      "2s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "5 Hz",
-      "20 Hz",
       "2 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "2s",
-      "4s",
-      "1s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "40W",
-      "10W",
-      "20W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "2.0",
-      "1.33",
-      "1.5",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.5",
-      "1.33",
-      "1.0",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "80W",
-      "20W",
-      "40W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "25 m/s",
-      "15 m/s",
-      "20 m/s",
-      "10 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "2 Hz",
-      "10 Hz",
-      "20 Hz",
       "5 Hz"
     ],
     "answer": "5 Hz"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "Specific heat capacity of water is 4200 J/(kg·K).",
     "options": [
+      "8400 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "1s",
       "4s",
       "3s",
-      "1s",
       "2s"
     ],
     "answer": "2s"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "Choose the: frequency = speed/wavelength = 10/2 = 5 hz.",
+    "options": [
+      "20 Hz",
+      "10 Hz",
+      "2 Hz",
+      "5 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Time to fall 20m at g=10 m/s² is 2 seconds.",
     "options": [
       "1s",
       "4s",
@@ -670,417 +120,47 @@
     "answer": "2s"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "Identify: time to fall 20m at g=10 m/s² is 2 seconds.",
     "options": [
-      "Conduction",
-      "None",
-      "Convection",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "4 m/s²",
-      "5 m/s²",
-      "8 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "40W",
-      "10W",
-      "80W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "5 Hz",
-      "20 Hz",
-      "2 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "4Ω",
-      "3Ω",
-      "6Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "20 m/s",
-      "10 m/s",
-      "15 m/s",
-      "25 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.33",
-      "1.5",
-      "1.0",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "2Ω",
-      "6Ω",
-      "4Ω",
-      "3Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "6 m/s²",
-      "8 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "3Ω",
-      "2Ω",
-      "4Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "2 Hz",
-      "20 Hz",
-      "5 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "20 m/s",
-      "10 m/s",
-      "15 m/s",
-      "25 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Radiation",
-      "Convection",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "2.0",
-      "1.5",
-      "1.0",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.5",
-      "1.0",
-      "2.0",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Dyne",
-      "Joule",
-      "Newton",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "None",
-      "Convection",
-      "Conduction",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "None",
-      "Conduction",
-      "Convection",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "2000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "3Ω",
-      "2Ω",
-      "6Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
+      "1s",
       "3s",
       "2s",
-      "1s",
       "4s"
     ],
     "answer": "2s"
   },
   {
-    "question": "Resistance if V = 12V, I = 3A",
+    "question": "Time to fall 20m at g=10 m/s² symbolizes 2 seconds.",
     "options": [
-      "3Ω",
-      "6Ω",
-      "2Ω",
-      "4Ω"
+      "4s",
+      "2s",
+      "3s",
+      "1s"
     ],
-    "answer": "4Ω"
+    "answer": "2s"
   },
   {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
+    "question": "Choose the: frequency = speed/wavelength = 10/2 = 5 hz.",
     "options": [
-      "5 Hz",
       "10 Hz",
+      "20 Hz",
       "2 Hz",
-      "20 Hz"
+      "5 Hz"
     ],
     "answer": "5 Hz"
   },
   {
-    "question": "Refractive index of water",
+    "question": "Sound travels faster in solids than in air.",
     "options": [
-      "2.0",
-      "1.5",
-      "1.33",
-      "1.0"
+      "slower in solids",
+      "faster in solids",
+      "same in all media",
+      "sound doesn't travel in solids"
     ],
-    "answer": "1.33"
+    "answer": "faster in solids"
   },
   {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Convection",
-      "Conduction",
-      "None",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Joule",
-      "Newton",
-      "Erg",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "15 m/s",
-      "20 m/s",
-      "25 m/s",
-      "10 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "6 m/s²",
-      "8 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.33",
-      "1.5",
-      "2.0",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "2000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "2Ω",
-      "3Ω",
-      "6Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "15 m/s",
-      "10 m/s",
-      "25 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "4Ω",
-      "3Ω",
-      "2Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "10 m/s",
-      "20 m/s",
-      "25 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "15 m/s",
-      "10 m/s",
-      "20 m/s",
-      "25 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Conduction",
-      "Radiation",
-      "None",
-      "Convection"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "2 Hz",
-      "5 Hz",
-      "10 Hz",
-      "20 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "3Ω",
-      "2Ω",
-      "6Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
+    "question": "Consider: heat transfer through a medium occurs by convection.",
     "options": [
       "Conduction",
       "None",
@@ -1090,837 +170,217 @@
     "answer": "Convection"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "Density is mass divided by volume.",
     "options": [
-      "Conduction",
-      "None",
-      "Convection",
-      "Radiation"
+      "mass - volume",
+      "volume / mass",
+      "mass / volume",
+      "volume × mass"
     ],
-    "answer": "Convection"
+    "answer": "mass / volume"
   },
   {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
+    "question": "Frequency = speed/wavelength = 10/2 = 5 Hz.",
     "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "6 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
       "10 Hz",
-      "5 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "4200 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "3Ω",
-      "4Ω",
-      "2Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "3s",
-      "1s",
-      "4s",
-      "2s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "6 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.0",
-      "1.33",
-      "1.5",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "6Ω",
-      "3Ω",
-      "2Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "6Ω",
-      "4Ω",
-      "3Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "2s",
-      "1s",
-      "4s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "8400 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Conduction",
-      "None",
-      "Convection",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "40W",
-      "10W",
-      "20W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Erg",
-      "Newton",
-      "Joule",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "2.0",
-      "1.5",
-      "1.33",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "40W",
-      "20W",
-      "80W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
       "2 Hz",
-      "20 Hz",
       "5 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "20 m/s",
-      "25 m/s",
-      "10 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.5",
-      "1.0",
-      "1.33",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "10W",
-      "40W",
-      "20W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "3s",
-      "1s",
-      "2s",
-      "4s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "4Ω",
-      "6Ω",
-      "2Ω",
-      "3Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "10 m/s",
-      "20 m/s",
-      "25 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Conduction",
-      "Radiation",
-      "Convection",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "2Ω",
-      "4Ω",
-      "6Ω",
-      "3Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "None",
-      "Convection",
-      "Radiation",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "5 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Joule",
-      "Dyne",
-      "Newton",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "25 m/s",
-      "10 m/s",
-      "20 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "3s",
-      "4s",
-      "2s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "4Ω",
-      "3Ω",
-      "2Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "4Ω",
-      "2Ω",
-      "3Ω",
-      "6Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "5 m/s²",
-      "8 m/s²",
-      "6 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "80W",
-      "10W",
-      "40W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "10W",
-      "40W",
-      "80W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Conduction",
-      "Convection",
-      "None",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "5 Hz",
-      "20 Hz",
-      "2 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
-      "5 Hz",
-      "10 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "10W",
-      "80W",
-      "40W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "15 m/s",
-      "20 m/s",
-      "25 m/s",
-      "10 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "None",
-      "Radiation",
-      "Convection",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "5 Hz",
-      "2 Hz",
-      "10 Hz",
       "20 Hz"
     ],
     "answer": "5 Hz"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "Reflection occurs when light bounces off a surface.",
     "options": [
-      "4s",
-      "1s",
-      "3s",
-      "2s"
+      "light passes through",
+      "light disappears",
+      "light bends",
+      "light bounces off"
     ],
-    "answer": "2s"
+    "answer": "light bounces off"
   },
   {
-    "question": "Specific heat capacity of water",
+    "question": "In the context of this subject, density is mass divided by volume.",
     "options": [
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
+      "volume × mass",
+      "volume / mass",
+      "mass / volume",
+      "mass - volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Which of the following best describes: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "4 m/s²",
+      "8 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Consider: sound travels faster in solids than in air.",
+    "options": [
+      "same in all media",
+      "slower in solids",
+      "faster in solids",
+      "sound doesn't travel in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Which concept describes: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects accelerate",
+      "maintain uniform motion",
+      "objects decelerate",
+      "objects stop"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Density means mass divided by volume.",
+    "options": [
+      "mass - volume",
+      "volume × mass",
+      "mass / volume",
+      "volume / mass"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Choose the: reflection occurs when light bounces off a surface.",
+    "options": [
+      "light passes through",
+      "light bounces off",
+      "light disappears",
+      "light bends"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Which of the following best describes: power dissipated: p = i²r = 2² × 5 = 20w.",
+    "options": [
+      "40W",
+      "80W",
+      "10W",
+      "20W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Which concept describes: reflection occurs when light bounces off a surface.",
+    "options": [
+      "light bends",
+      "light bounces off",
+      "light passes through",
+      "light disappears"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Identify: the si unit of force is the newton.",
+    "options": [
+      "Newton",
+      "Dyne",
+      "Joule",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "In the context of this subject, specific heat capacity of water is 4200 j/(kg·k).",
+    "options": [
       "4200 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
-      "10 Hz",
-      "2 Hz",
-      "5 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Convection",
-      "Radiation",
-      "Conduction",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
+      "1000 J/(kg·K)",
       "2000 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
       "8400 J/(kg·K)"
     ],
     "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Specific heat capacity of water",
+    "question": "Choose the: heat transfer through a medium occurs by convection.",
     "options": [
-      "8400 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "4200 J/(kg·K)"
+      "Convection",
+      "None",
+      "Radiation",
+      "Conduction"
     ],
-    "answer": "4200 J/(kg·K)"
+    "answer": "Convection"
   },
   {
-    "question": "Refractive index of water",
+    "question": "Time to fall 20m at g=10 m/s² is 2 seconds.",
     "options": [
-      "1.33",
-      "2.0",
-      "1.0",
-      "1.5"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "6 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Erg",
-      "Dyne",
-      "Newton",
-      "Joule"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "2s",
       "1s",
+      "2s",
       "4s",
       "3s"
     ],
     "answer": "2s"
   },
   {
-    "question": "SI unit of force",
-    "options": [
-      "Joule",
-      "Erg",
-      "Dyne",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "1000 J/(kg·K)",
-      "8400 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "25 m/s",
-      "20 m/s",
-      "10 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Erg",
-      "Newton",
-      "Dyne",
-      "Joule"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "10W",
-      "20W",
-      "80W",
-      "40W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "20 m/s",
-      "25 m/s",
-      "10 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Erg",
-      "Newton",
-      "Dyne",
-      "Joule"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
-      "10 Hz",
-      "5 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
-      "2 Hz",
-      "5 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.0",
-      "2.0",
-      "1.33",
-      "1.5"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "3s",
-      "2s",
-      "4s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "5 m/s²",
-      "6 m/s²",
-      "4 m/s²",
-      "8 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "40W",
-      "10W",
-      "20W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "15 m/s",
-      "25 m/s",
-      "10 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Refractive index of water",
+    "question": "What best explains: the refractive index of water is 1.33.",
     "options": [
       "2.0",
-      "1.0",
       "1.5",
+      "1.0",
       "1.33"
     ],
     "answer": "1.33"
   },
   {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
+    "question": "Choose the: kinetic energy increases with the square of velocity.",
     "options": [
-      "10W",
-      "20W",
-      "80W",
-      "40W"
+      "inversely with velocity",
+      "linearly with velocity",
+      "not with velocity",
+      "with square of velocity"
     ],
-    "answer": "20W"
+    "answer": "with square of velocity"
   },
   {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
+    "question": "According to standard definitions, time to fall 20m at g=10 m/s² is 2 seconds.",
     "options": [
-      "80W",
-      "20W",
-      "40W",
-      "10W"
+      "4s",
+      "2s",
+      "1s",
+      "3s"
     ],
-    "answer": "20W"
+    "answer": "2s"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "Heat transfer through a medium occurs by convection.",
     "options": [
-      "10 m/s",
-      "20 m/s",
-      "25 m/s",
-      "15 m/s"
+      "Convection",
+      "Radiation",
+      "None",
+      "Conduction"
     ],
-    "answer": "20 m/s"
+    "answer": "Convection"
   },
   {
-    "question": "Specific heat capacity of water",
+    "question": "Which of the following best describes: kinetic energy increases with the square of velocity.",
     "options": [
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "8400 J/(kg·K)"
+      "with square of velocity",
+      "inversely with velocity",
+      "linearly with velocity",
+      "not with velocity"
     ],
-    "answer": "4200 J/(kg·K)"
+    "answer": "with square of velocity"
   },
   {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
+    "question": "Which of the following best describes: the si unit of force is the newton.",
     "options": [
-      "5 m/s²",
-      "4 m/s²",
-      "6 m/s²",
-      "8 m/s²"
+      "Erg",
+      "Dyne",
+      "Newton",
+      "Joule"
     ],
-    "answer": "6 m/s²"
+    "answer": "Newton"
   },
   {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "3Ω",
-      "6Ω",
-      "2Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.0",
-      "1.33",
-      "1.5",
-      "2.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "Which of the following best describes: speed calculated as distance/time: 100m/5s = 20 m/s.",
     "options": [
       "25 m/s",
       "20 m/s",
@@ -1930,377 +390,37 @@
     "answer": "20 m/s"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "Identify: specific heat capacity of water is 4200 j/(kg·k).",
     "options": [
-      "Conduction",
-      "Radiation",
-      "Convection",
-      "None"
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)"
     ],
-    "answer": "Convection"
+    "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "The refractive index of water is 1.33.",
     "options": [
-      "4s",
-      "2s",
-      "1s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "2.0",
       "1.5",
+      "2.0",
       "1.33",
       "1.0"
     ],
     "answer": "1.33"
   },
   {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
+    "question": "The best answer to 'resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.' is:",
     "options": [
-      "8 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "10 Hz",
-      "20 Hz",
-      "2 Hz",
-      "5 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "1s",
-      "3s",
-      "4s",
-      "2s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.5",
-      "1.0",
-      "2.0",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "40W",
-      "20W",
-      "10W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "None",
-      "Convection",
-      "Conduction",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Erg",
-      "Joule",
-      "Dyne",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "3Ω",
-      "2Ω",
-      "6Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "20W",
-      "40W",
-      "10W",
-      "80W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Newton",
-      "Joule",
-      "Dyne",
-      "Erg"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "6 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "8 m/s²",
-      "4 m/s²",
-      "6 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.33",
-      "2.0",
-      "1.0",
-      "1.5"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "None",
-      "Conduction",
-      "Convection",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
-      "5 Hz",
-      "10 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "6 m/s²",
-      "8 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "3s",
-      "4s",
-      "1s",
-      "2s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "6Ω",
       "4Ω",
       "3Ω",
-      "2Ω"
+      "2Ω",
+      "6Ω"
     ],
     "answer": "4Ω"
   },
   {
-    "question": "Refractive index of water",
-    "options": [
-      "1.5",
-      "2.0",
-      "1.33",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "1000 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
-      "2 Hz",
-      "5 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "2s",
-      "4s",
-      "1s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.0",
-      "2.0",
-      "1.5",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
-      "2 Hz",
-      "10 Hz",
-      "5 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "5 Hz",
-      "20 Hz",
-      "2 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "80W",
-      "20W",
-      "10W",
-      "40W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "4 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "answer": "6 m/s²"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "3s",
-      "2s",
-      "4s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "8400 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "1000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "15 m/s",
-      "10 m/s",
-      "25 m/s",
-      "20 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "20 Hz",
-      "5 Hz",
-      "2 Hz",
-      "10 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Convection",
-      "Conduction",
-      "Radiation",
-      "None"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "80W",
-      "10W",
-      "40W",
-      "20W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "1000 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "8400 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "Specific heat capacity of water",
+    "question": "Choose the: specific heat capacity of water is 4200 j/(kg·k).",
     "options": [
       "1000 J/(kg·K)",
       "8400 J/(kg·K)",
@@ -2310,77 +430,87 @@
     "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "Speed calculated as distance/time: 100m/5s = 20 m/s.",
     "options": [
-      "2s",
-      "3s",
-      "1s",
-      "4s"
+      "10 m/s",
+      "25 m/s",
+      "15 m/s",
+      "20 m/s"
     ],
-    "answer": "2s"
+    "answer": "20 m/s"
   },
   {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
-    "options": [
-      "5 Hz",
-      "20 Hz",
-      "10 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "3s",
-      "2s",
-      "4s",
-      "1s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "SI unit of force",
+    "question": "The SI unit of force is the Newton.",
     "options": [
       "Erg",
-      "Newton",
+      "Dyne",
       "Joule",
-      "Dyne"
+      "Newton"
     ],
     "answer": "Newton"
   },
   {
-    "question": "Refractive index of water",
-    "options": [
-      "1.5",
-      "2.0",
-      "1.33",
-      "1.0"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
+    "question": "Acceleration from 0 to 30 m/s in 5s is 6 m/s².",
     "options": [
       "5 m/s²",
-      "8 m/s²",
+      "6 m/s²",
       "4 m/s²",
-      "6 m/s²"
+      "8 m/s²"
     ],
     "answer": "6 m/s²"
   },
   {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
+    "question": "Which of the following best describes: frequency = speed/wavelength = 10/2 = 5 hz.",
     "options": [
-      "5 m/s²",
-      "8 m/s²",
-      "4 m/s²",
-      "6 m/s²"
+      "2 Hz",
+      "5 Hz",
+      "20 Hz",
+      "10 Hz"
     ],
-    "answer": "6 m/s²"
+    "answer": "5 Hz"
   },
   {
-    "question": "Resistance if V = 12V, I = 3A",
+    "question": "Which of the following best describes: reflection occurs when light bounces off a surface.",
+    "options": [
+      "light bends",
+      "light bounces off",
+      "light disappears",
+      "light passes through"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Which of the following best describes: density is mass divided by volume.",
+    "options": [
+      "mass / volume",
+      "volume × mass",
+      "volume / mass",
+      "mass - volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Ressymbolizestance calculated from Ohm's law: R = V/I = 12/3 = 4Ω.",
+    "options": [
+      "2Ω",
+      "6Ω",
+      "3Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Sound travels faster in solids than in air.",
+    "options": [
+      "faster in solids",
+      "slower in solids",
+      "sound doesn't travel in solids",
+      "same in all media"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "According to standard definitions, resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
     "options": [
       "4Ω",
       "6Ω",
@@ -2390,37 +520,7 @@
     "answer": "4Ω"
   },
   {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
-    "options": [
-      "80W",
-      "20W",
-      "40W",
-      "10W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "3Ω",
-      "2Ω",
-      "6Ω",
-      "4Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Conduction",
-      "Convection",
-      "None",
-      "Radiation"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "SI unit of force",
+    "question": "The SI unit of force is the Newton.",
     "options": [
       "Newton",
       "Dyne",
@@ -2430,47 +530,107 @@
     "answer": "Newton"
   },
   {
-    "question": "Specific heat capacity of water",
+    "question": "Which of the following best describes: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
     "options": [
-      "1000 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "8400 J/(kg·K)"
+      "6 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "8 m/s²"
     ],
-    "answer": "4200 J/(kg·K)"
+    "answer": "6 m/s²"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "Frequency = speed/wavelength = 10/2 = 5 Hz.",
     "options": [
-      "20 m/s",
-      "10 m/s",
-      "25 m/s",
-      "15 m/s"
+      "2 Hz",
+      "20 Hz",
+      "10 Hz",
+      "5 Hz"
     ],
-    "answer": "20 m/s"
+    "answer": "5 Hz"
   },
   {
-    "question": "Refractive index of water",
+    "question": "Identify: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
     "options": [
-      "2.0",
+      "8 m/s²",
+      "6 m/s²",
+      "5 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "In the context of this subject, the refractive index of water is 1.33.",
+    "options": [
       "1.33",
       "1.0",
+      "2.0",
       "1.5"
     ],
     "answer": "1.33"
   },
   {
-    "question": "Refractive index of water",
+    "question": "Acceleration from 0 to 30 m/s in 5s means 6 m/s².",
     "options": [
-      "1.5",
-      "2.0",
-      "1.33",
-      "1.0"
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "8 m/s²"
     ],
-    "answer": "1.33"
+    "answer": "6 m/s²"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "Frequency = speed/wavelength = 10/2 = 5 Hz.",
+    "options": [
+      "2 Hz",
+      "10 Hz",
+      "5 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "The best answer to 'the si unit of force is the newton.' is:",
+    "options": [
+      "Newton",
+      "Dyne",
+      "Erg",
+      "Joule"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Sound travels faster in solids than in air.",
+    "options": [
+      "same in all media",
+      "sound doesn't travel in solids",
+      "faster in solids",
+      "slower in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Sound travels faster in solids than in air.",
+    "options": [
+      "slower in solids",
+      "same in all media",
+      "sound doesn't travel in solids",
+      "faster in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "The best answer to 'newton's first law states objects maintain uniform motion unless acted upon by force.' is:",
+    "options": [
+      "objects accelerate",
+      "maintain uniform motion",
+      "objects decelerate",
+      "objects stop"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "In the context of this subject, heat transfer through a medium occurs by convection.",
     "options": [
       "Conduction",
       "Radiation",
@@ -2480,67 +640,847 @@
     "answer": "Convection"
   },
   {
-    "question": "Specific heat capacity of water",
+    "question": "What best explains: frequency = speed/wavelength = 10/2 = 5 hz.",
+    "options": [
+      "10 Hz",
+      "2 Hz",
+      "5 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Choose the: time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "3s",
+      "4s",
+      "1s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Choose the: kinetic energy increases with the square of velocity.",
+    "options": [
+      "inversely with velocity",
+      "not with velocity",
+      "linearly with velocity",
+      "with square of velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Which concept describes: time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "1s",
+      "3s",
+      "4s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "What best explains: kinetic energy increases with the square of velocity.",
+    "options": [
+      "with square of velocity",
+      "linearly with velocity",
+      "inversely with velocity",
+      "not with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Select the statement that best completes: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "8 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "6 m/s²",
+      "8 m/s²",
+      "4 m/s²",
+      "5 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Which of the following best describes: the refractive index of water is 1.33.",
+    "options": [
+      "1.33",
+      "1.0",
+      "2.0",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Power dsymbolizessipated: P = I²R = 2² × 5 = 20W.",
+    "options": [
+      "10W",
+      "20W",
+      "80W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Acceleration from 0 to 30 m/s in 5s symbolizes 6 m/s².",
+    "options": [
+      "5 m/s²",
+      "4 m/s²",
+      "6 m/s²",
+      "8 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "What best explains: speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "20 m/s",
+      "25 m/s",
+      "15 m/s",
+      "10 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Reflection occurs when light bounces off a surface.",
+    "options": [
+      "light disappears",
+      "light bends",
+      "light bounces off",
+      "light passes through"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Kinetic energy increases with the square of velocity.",
+    "options": [
+      "linearly with velocity",
+      "not with velocity",
+      "with square of velocity",
+      "inversely with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Identify: the refractive index of water is 1.33.",
+    "options": [
+      "1.5",
+      "1.0",
+      "1.33",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Consider: kinetic energy increases with the square of velocity.",
+    "options": [
+      "with square of velocity",
+      "not with velocity",
+      "linearly with velocity",
+      "inversely with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Choose the: the refractive index of water is 1.33.",
+    "options": [
+      "1.5",
+      "1.0",
+      "2.0",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects stop",
+      "maintain uniform motion",
+      "objects decelerate",
+      "objects accelerate"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Choose the: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "4 m/s²",
+      "5 m/s²",
+      "8 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Which concept describes: density is mass divided by volume.",
+    "options": [
+      "mass - volume",
+      "mass / volume",
+      "volume / mass",
+      "volume × mass"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "What best explains: heat transfer through a medium occurs by convection.",
+    "options": [
+      "Radiation",
+      "Convection",
+      "Conduction",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Sound travels faster in solids than in air.",
+    "options": [
+      "sound doesn't travel in solids",
+      "faster in solids",
+      "slower in solids",
+      "same in all media"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Consider: power dissipated: p = i²r = 2² × 5 = 20w.",
+    "options": [
+      "40W",
+      "10W",
+      "20W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Which concept describes: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "5 m/s²",
+      "8 m/s²",
+      "4 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Speed calculated as dsymbolizestance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "20 m/s",
+      "15 m/s",
+      "10 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Choose the: the refractive index of water is 1.33.",
+    "options": [
+      "2.0",
+      "1.33",
+      "1.0",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "According to standard definitions, heat transfer through a medium occurs by convection.",
+    "options": [
+      "Radiation",
+      "None",
+      "Convection",
+      "Conduction"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Identify: sound travels faster in solids than in air.",
+    "options": [
+      "sound doesn't travel in solids",
+      "same in all media",
+      "faster in solids",
+      "slower in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Which concept describes: sound travels faster in solids than in air.",
+    "options": [
+      "same in all media",
+      "slower in solids",
+      "sound doesn't travel in solids",
+      "faster in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Kinetic energy increases with the square of velocity.",
+    "options": [
+      "with square of velocity",
+      "inversely with velocity",
+      "not with velocity",
+      "linearly with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "According to standard definitions, acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "6 m/s²",
+      "5 m/s²",
+      "8 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Select the statement that best completes: density is mass divided by volume.",
+    "options": [
+      "volume / mass",
+      "mass - volume",
+      "mass / volume",
+      "volume × mass"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "What best explains: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects decelerate",
+      "objects stop",
+      "maintain uniform motion",
+      "objects accelerate"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Resrepresentstance calculated from Ohm's law: R = V/I = 12/3 = 4Ω.",
+    "options": [
+      "6Ω",
+      "2Ω",
+      "3Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "In the context of this subject, resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
+    "options": [
+      "2Ω",
+      "4Ω",
+      "3Ω",
+      "6Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "According to standard definitions, speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "10 m/s",
+      "15 m/s",
+      "20 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Frequency = speed/wavelength = 10/2 = 5 Hz.",
+    "options": [
+      "10 Hz",
+      "20 Hz",
+      "2 Hz",
+      "5 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Which concept describes: power dissipated: p = i²r = 2² × 5 = 20w.",
+    "options": [
+      "40W",
+      "10W",
+      "80W",
+      "20W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Which of the following best describes: time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "3s",
+      "4s",
+      "1s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Specific heat capacity of water means 4200 J/(kg·K).",
     "options": [
       "8400 J/(kg·K)",
       "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Identify: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects stop",
+      "objects accelerate",
+      "maintain uniform motion",
+      "objects decelerate"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Select the statement that best completes: reflection occurs when light bounces off a surface.",
+    "options": [
+      "light disappears",
+      "light passes through",
+      "light bounces off",
+      "light bends"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Density is mass divided by volume.",
+    "options": [
+      "volume / mass",
+      "mass / volume",
+      "mass - volume",
+      "volume × mass"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "According to standard definitions, specific heat capacity of water is 4200 j/(kg·k).",
+    "options": [
       "2000 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)",
       "4200 J/(kg·K)"
     ],
     "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "According to standard definitions, sound travels faster in solids than in air.",
     "options": [
-      "None",
-      "Conduction",
-      "Convection",
-      "Radiation"
+      "sound doesn't travel in solids",
+      "slower in solids",
+      "same in all media",
+      "faster in solids"
     ],
-    "answer": "Convection"
+    "answer": "faster in solids"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "Choose the: the si unit of force is the newton.",
     "options": [
-      "4s",
-      "3s",
+      "Newton",
+      "Joule",
+      "Dyne",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Time to fall 20m at g=10 m/s² represents 2 seconds.",
+    "options": [
       "2s",
+      "3s",
+      "1s",
+      "4s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "The best answer to 'sound travels faster in solids than in air.' is:",
+    "options": [
+      "same in all media",
+      "faster in solids",
+      "sound doesn't travel in solids",
+      "slower in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Select the statement that best completes: speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "25 m/s",
+      "15 m/s",
+      "10 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Identify: the refractive index of water is 1.33.",
+    "options": [
+      "1.0",
+      "1.33",
+      "2.0",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "The refractive index of water symbolizes 1.33.",
+    "options": [
+      "2.0",
+      "1.0",
+      "1.5",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Which concept describes: frequency = speed/wavelength = 10/2 = 5 hz.",
+    "options": [
+      "2 Hz",
+      "20 Hz",
+      "10 Hz",
+      "5 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Consider: specific heat capacity of water is 4200 j/(kg·k).",
+    "options": [
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Reflection occurs when light bounces off a surface.",
+    "options": [
+      "light disappears",
+      "light bounces off",
+      "light bends",
+      "light passes through"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects stop",
+      "objects decelerate",
+      "maintain uniform motion",
+      "objects accelerate"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "In the context of this subject, kinetic energy increases with the square of velocity.",
+    "options": [
+      "linearly with velocity",
+      "inversely with velocity",
+      "not with velocity",
+      "with square of velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Which concept describes: kinetic energy increases with the square of velocity.",
+    "options": [
+      "with square of velocity",
+      "not with velocity",
+      "inversely with velocity",
+      "linearly with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Choose the: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects stop",
+      "objects accelerate",
+      "objects decelerate",
+      "maintain uniform motion"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "What best explains: density is mass divided by volume.",
+    "options": [
+      "mass - volume",
+      "volume / mass",
+      "volume × mass",
+      "mass / volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Which of the following best describes: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
+    "options": [
+      "3Ω",
+      "2Ω",
+      "4Ω",
+      "6Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "The refractive index of water means 1.33.",
+    "options": [
+      "1.5",
+      "2.0",
+      "1.0",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Consider: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects decelerate",
+      "objects accelerate",
+      "objects stop",
+      "maintain uniform motion"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Identify: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "8 m/s²",
+      "5 m/s²",
+      "4 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Identify: density is mass divided by volume.",
+    "options": [
+      "mass - volume",
+      "volume × mass",
+      "volume / mass",
+      "mass / volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "The SI unit of force is the Newton.",
+    "options": [
+      "Dyne",
+      "Joule",
+      "Newton",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Reflection occurs when light bounces off a surface.",
+    "options": [
+      "light bends",
+      "light disappears",
+      "light bounces off",
+      "light passes through"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Select the statement that best completes: the refractive index of water is 1.33.",
+    "options": [
+      "1.5",
+      "1.0",
+      "2.0",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Time to fall 20m at g=10 m/s² means 2 seconds.",
+    "options": [
+      "2s",
+      "3s",
+      "4s",
       "1s"
     ],
     "answer": "2s"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "Which of the following best describes: the refractive index of water is 1.33.",
     "options": [
-      "2s",
-      "4s",
-      "1s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Drop from 20m height, time taken? (g=10)",
-    "options": [
-      "2s",
-      "1s",
-      "4s",
-      "3s"
-    ],
-    "answer": "2s"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "1.33",
       "1.0",
+      "1.33",
       "1.5",
       "2.0"
     ],
     "answer": "1.33"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "The best answer to 'specific heat capacity of water is 4200 j/(kg·k).' is:",
+    "options": [
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Choose the: density is mass divided by volume.",
+    "options": [
+      "volume / mass",
+      "mass / volume",
+      "mass - volume",
+      "volume × mass"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Specific heat capacity of water is 4200 J/(kg·K).",
+    "options": [
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "What best explains: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
+    "options": [
+      "4Ω",
+      "2Ω",
+      "6Ω",
+      "3Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Which of the following best describes: frequency = speed/wavelength = 10/2 = 5 hz.",
+    "options": [
+      "5 Hz",
+      "20 Hz",
+      "10 Hz",
+      "2 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "In the context of this subject, newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects stop",
+      "maintain uniform motion",
+      "objects decelerate",
+      "objects accelerate"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Which concept describes: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
+    "options": [
+      "3Ω",
+      "6Ω",
+      "2Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Choose the: the si unit of force is the newton.",
+    "options": [
+      "Dyne",
+      "Erg",
+      "Newton",
+      "Joule"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Select the statement that best completes: specific heat capacity of water is 4200 j/(kg·k).",
+    "options": [
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "15 m/s",
+      "25 m/s",
+      "10 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Sound travels faster in solids than in air.",
+    "options": [
+      "same in all media",
+      "faster in solids",
+      "slower in solids",
+      "sound doesn't travel in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Identify: speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "10 m/s",
+      "25 m/s",
+      "20 m/s",
+      "15 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Which concept describes: the refractive index of water is 1.33.",
+    "options": [
+      "1.33",
+      "1.5",
+      "2.0",
+      "1.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "In the context of this subject, power dissipated: p = i²r = 2² × 5 = 20w.",
+    "options": [
+      "80W",
+      "40W",
+      "20W",
+      "10W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "The SI unit of force represents the Newton.",
+    "options": [
+      "Dyne",
+      "Erg",
+      "Newton",
+      "Joule"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Choose the: time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "3s",
+      "1s",
+      "4s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "In the context of this subject, speed calculated as distance/time: 100m/5s = 20 m/s.",
     "options": [
       "20 m/s",
       "25 m/s",
@@ -2550,17 +1490,267 @@
     "answer": "20 m/s"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "Which concept describes: specific heat capacity of water is 4200 j/(kg·k).",
     "options": [
-      "Radiation",
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Density represents mass divided by volume.",
+    "options": [
+      "mass - volume",
+      "volume / mass",
+      "mass / volume",
+      "volume × mass"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "maintain uniform motion",
+      "objects decelerate",
+      "objects accelerate",
+      "objects stop"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Choose the: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
+    "options": [
+      "3Ω",
+      "2Ω",
+      "6Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Which of the following best describes: speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "25 m/s",
+      "10 m/s",
+      "15 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Choose the: density is mass divided by volume.",
+    "options": [
+      "volume / mass",
+      "mass / volume",
+      "mass - volume",
+      "volume × mass"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Power dissipated: P = I²R = 2² × 5 = 20W.",
+    "options": [
+      "80W",
+      "20W",
+      "40W",
+      "10W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "What best explains: power dissipated: p = i²r = 2² × 5 = 20w.",
+    "options": [
+      "40W",
+      "10W",
+      "80W",
+      "20W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Consider: frequency = speed/wavelength = 10/2 = 5 hz.",
+    "options": [
+      "20 Hz",
+      "2 Hz",
+      "10 Hz",
+      "5 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Sound travels faster in solids than in air.",
+    "options": [
+      "same in all media",
+      "sound doesn't travel in solids",
+      "slower in solids",
+      "faster in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "6 m/s²",
+      "5 m/s²",
+      "8 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Select the statement that best completes: frequency = speed/wavelength = 10/2 = 5 hz.",
+    "options": [
+      "2 Hz",
+      "10 Hz",
+      "5 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Identify: frequency = speed/wavelength = 10/2 = 5 hz.",
+    "options": [
+      "2 Hz",
+      "5 Hz",
+      "10 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Resistance calculated from Ohm's law: R = V/I = 12/3 = 4Ω.",
+    "options": [
+      "3Ω",
+      "4Ω",
+      "6Ω",
+      "2Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "According to standard definitions, the si unit of force is the newton.",
+    "options": [
+      "Erg",
+      "Dyne",
+      "Joule",
+      "Newton"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Heat transfer through a medium occurs by convection.",
+    "options": [
+      "Conduction",
       "Convection",
+      "Radiation",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Resmeanstance calculated from Ohm's law: R = V/I = 12/3 = 4Ω.",
+    "options": [
+      "3Ω",
+      "2Ω",
+      "4Ω",
+      "6Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Identify: speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "20 m/s",
+      "10 m/s",
+      "15 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Density is mass divided by volume.",
+    "options": [
+      "volume × mass",
+      "volume / mass",
+      "mass - volume",
+      "mass / volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "In the context of this subject, reflection occurs when light bounces off a surface.",
+    "options": [
+      "light bounces off",
+      "light disappears",
+      "light bends",
+      "light passes through"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Heat transfer through a medium occurs by convection.",
+    "options": [
       "None",
+      "Convection",
+      "Radiation",
       "Conduction"
     ],
     "answer": "Convection"
   },
   {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
+    "question": "Identify: frequency = speed/wavelength = 10/2 = 5 hz.",
+    "options": [
+      "20 Hz",
+      "10 Hz",
+      "5 Hz",
+      "2 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "The SI unit of force is the Newton.",
+    "options": [
+      "Dyne",
+      "Newton",
+      "Joule",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "What best explains: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "6 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "8 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Identify: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
+    "options": [
+      "3Ω",
+      "2Ω",
+      "6Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Choose the: speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "15 m/s",
+      "20 m/s",
+      "10 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Choose the: power dissipated: p = i²r = 2² × 5 = 20w.",
     "options": [
       "10W",
       "20W",
@@ -2570,37 +1760,417 @@
     "answer": "20W"
   },
   {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
+    "question": "Select the statement that best completes: sound travels faster in solids than in air.",
     "options": [
-      "10 Hz",
+      "faster in solids",
+      "sound doesn't travel in solids",
+      "slower in solids",
+      "same in all media"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Heat transfer through a medium occurs by convection.",
+    "options": [
+      "None",
+      "Conduction",
+      "Convection",
+      "Radiation"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Which concept describes: heat transfer through a medium occurs by convection.",
+    "options": [
+      "Radiation",
+      "None",
+      "Convection",
+      "Conduction"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Identify: specific heat capacity of water is 4200 j/(kg·k).",
+    "options": [
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "1000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Acceleration from 0 to 30 m/s in 5s represents 6 m/s².",
+    "options": [
+      "6 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "8 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "In the context of this subject, acceleration from 0 to 30 m/s in 5s is 6 m/s².",
+    "options": [
+      "8 m/s²",
+      "6 m/s²",
+      "5 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Consider: time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "1s",
+      "3s",
+      "4s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Reflection occurs when light bounces off a surface.",
+    "options": [
+      "light disappears",
+      "light bends",
+      "light bounces off",
+      "light passes through"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Identify: reflection occurs when light bounces off a surface.",
+    "options": [
+      "light passes through",
+      "light bends",
+      "light bounces off",
+      "light disappears"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "The SI unit of force symbolizes the Newton.",
+    "options": [
+      "Dyne",
+      "Erg",
+      "Newton",
+      "Joule"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Kinetic energy increases with the square of velocity.",
+    "options": [
+      "inversely with velocity",
+      "not with velocity",
+      "with square of velocity",
+      "linearly with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Choose the: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "maintain uniform motion",
+      "objects decelerate",
+      "objects stop",
+      "objects accelerate"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Which of the following best describes: time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "1s",
+      "3s",
+      "4s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Density is mass divided by volume.",
+    "options": [
+      "volume × mass",
+      "volume / mass",
+      "mass - volume",
+      "mass / volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Reflection occurs when light bounces off a surface.",
+    "options": [
+      "light passes through",
+      "light bounces off",
+      "light disappears",
+      "light bends"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "The best answer to 'frequency = speed/wavelength = 10/2 = 5 hz.' is:",
+    "options": [
       "5 Hz",
+      "10 Hz",
       "2 Hz",
       "20 Hz"
     ],
     "answer": "5 Hz"
   },
   {
-    "question": "SI unit of force",
+    "question": "The best answer to 'power dissipated: p = i²r = 2² × 5 = 20w.' is:",
+    "options": [
+      "20W",
+      "40W",
+      "10W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "According to standard definitions, newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects decelerate",
+      "objects stop",
+      "objects accelerate",
+      "maintain uniform motion"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Select the statement that best completes: power dissipated: p = i²r = 2² × 5 = 20w.",
+    "options": [
+      "20W",
+      "40W",
+      "80W",
+      "10W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Which of the following best describes: heat transfer through a medium occurs by convection.",
+    "options": [
+      "None",
+      "Convection",
+      "Radiation",
+      "Conduction"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Consider: speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "25 m/s",
+      "15 m/s",
+      "20 m/s",
+      "10 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Choose the: specific heat capacity of water is 4200 j/(kg·k).",
+    "options": [
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "1000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "What best explains: sound travels faster in solids than in air.",
+    "options": [
+      "same in all media",
+      "sound doesn't travel in solids",
+      "faster in solids",
+      "slower in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Which of the following best describes: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
+    "options": [
+      "2Ω",
+      "6Ω",
+      "4Ω",
+      "3Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Which of the following best describes: density is mass divided by volume.",
+    "options": [
+      "volume × mass",
+      "volume / mass",
+      "mass - volume",
+      "mass / volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "What best explains: reflection occurs when light bounces off a surface.",
+    "options": [
+      "light bounces off",
+      "light disappears",
+      "light passes through",
+      "light bends"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "The refractive index of water is 1.33.",
+    "options": [
+      "1.33",
+      "2.0",
+      "1.0",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Select the statement that best completes: heat transfer through a medium occurs by convection.",
+    "options": [
+      "None",
+      "Radiation",
+      "Conduction",
+      "Convection"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "In the context of this subject, the si unit of force is the newton.",
     "options": [
       "Newton",
       "Erg",
-      "Dyne",
-      "Joule"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Dyne",
-      "Erg",
       "Joule",
-      "Newton"
+      "Dyne"
     ],
     "answer": "Newton"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "The refractive index of water is 1.33.",
+    "options": [
+      "1.5",
+      "1.33",
+      "1.0",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Density symbolizes mass divided by volume.",
+    "options": [
+      "volume / mass",
+      "mass / volume",
+      "volume × mass",
+      "mass - volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "According to standard definitions, frequency = speed/wavelength = 10/2 = 5 hz.",
+    "options": [
+      "5 Hz",
+      "2 Hz",
+      "20 Hz",
+      "10 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "Which concept describes: speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "10 m/s",
+      "15 m/s",
+      "20 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Select the statement that best completes: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "maintain uniform motion",
+      "objects accelerate",
+      "objects stop",
+      "objects decelerate"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "The best answer to 'speed calculated as distance/time: 100m/5s = 20 m/s.' is:",
+    "options": [
+      "20 m/s",
+      "15 m/s",
+      "10 m/s",
+      "25 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Kinetic energy increases with the square of velocity.",
+    "options": [
+      "not with velocity",
+      "with square of velocity",
+      "inversely with velocity",
+      "linearly with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Identify: reflection occurs when light bounces off a surface.",
+    "options": [
+      "light bends",
+      "light disappears",
+      "light passes through",
+      "light bounces off"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "According to standard definitions, kinetic energy increases with the square of velocity.",
+    "options": [
+      "not with velocity",
+      "inversely with velocity",
+      "linearly with velocity",
+      "with square of velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "The refractive index of water is 1.33.",
+    "options": [
+      "1.0",
+      "1.33",
+      "1.5",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "In the context of this subject, time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "3s",
+      "2s",
+      "4s",
+      "1s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Identify: kinetic energy increases with the square of velocity.",
+    "options": [
+      "with square of velocity",
+      "inversely with velocity",
+      "not with velocity",
+      "linearly with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "The best answer to 'heat transfer through a medium occurs by convection.' is:",
     "options": [
       "Conduction",
       "Radiation",
@@ -2610,17 +2180,97 @@
     "answer": "Convection"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "Consider: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
     "options": [
-      "Radiation",
+      "4 m/s²",
+      "8 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Heat transfer through a medium occurs by convection.",
+    "options": [
       "None",
       "Convection",
+      "Radiation",
       "Conduction"
     ],
     "answer": "Convection"
   },
   {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
+    "question": "Resistance calculated from Ohm's law: R = V/I = 12/3 = 4Ω.",
+    "options": [
+      "3Ω",
+      "2Ω",
+      "6Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Which of the following best describes: specific heat capacity of water is 4200 j/(kg·k).",
+    "options": [
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "2000 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Power dissipated: P = I²R = 2² × 5 = 20W.",
+    "options": [
+      "40W",
+      "10W",
+      "20W",
+      "80W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Identify: sound travels faster in solids than in air.",
+    "options": [
+      "faster in solids",
+      "slower in solids",
+      "sound doesn't travel in solids",
+      "same in all media"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "The best answer to 'density is mass divided by volume.' is:",
+    "options": [
+      "mass / volume",
+      "volume × mass",
+      "volume / mass",
+      "mass - volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Which of the following best describes: sound travels faster in solids than in air.",
+    "options": [
+      "slower in solids",
+      "same in all media",
+      "sound doesn't travel in solids",
+      "faster in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Select the statement that best completes: time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "3s",
+      "1s",
+      "4s",
+      "2s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "According to standard definitions, power dissipated: p = i²r = 2² × 5 = 20w.",
     "options": [
       "10W",
       "40W",
@@ -2630,97 +2280,97 @@
     "answer": "20W"
   },
   {
-    "question": "SI unit of force",
+    "question": "Power dmeanssipated: P = I²R = 2² × 5 = 20W.",
     "options": [
-      "Joule",
-      "Erg",
-      "Newton",
-      "Dyne"
+      "40W",
+      "10W",
+      "20W",
+      "80W"
     ],
-    "answer": "Newton"
+    "answer": "20W"
   },
   {
-    "question": "Refractive index of water",
+    "question": "Kinetic energy increases with the square of velocity.",
     "options": [
-      "2.0",
-      "1.33",
-      "1.5",
-      "1.0"
+      "not with velocity",
+      "linearly with velocity",
+      "inversely with velocity",
+      "with square of velocity"
     ],
-    "answer": "1.33"
+    "answer": "with square of velocity"
   },
   {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
+    "question": "Identify: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
     "options": [
-      "5 Hz",
-      "10 Hz",
-      "20 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Heat transfer requiring a medium",
-    "options": [
-      "Radiation",
-      "Convection",
-      "None",
-      "Conduction"
-    ],
-    "answer": "Convection"
-  },
-  {
-    "question": "Speed if distance = 100m, time = 5s",
-    "options": [
-      "25 m/s",
-      "10 m/s",
-      "20 m/s",
-      "15 m/s"
-    ],
-    "answer": "20 m/s"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Joule",
-      "Dyne",
-      "Erg",
-      "Newton"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Refractive index of water",
-    "options": [
-      "2.0",
-      "1.0",
-      "1.5",
-      "1.33"
-    ],
-    "answer": "1.33"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Newton",
-      "Joule",
-      "Erg",
-      "Dyne"
-    ],
-    "answer": "Newton"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "4Ω",
-      "6Ω",
+      "3Ω",
       "2Ω",
-      "3Ω"
+      "4Ω",
+      "6Ω"
     ],
     "answer": "4Ω"
   },
   {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
+    "question": "Speed calculated as drepresentstance/time: 100m/5s = 20 m/s.",
+    "options": [
+      "25 m/s",
+      "15 m/s",
+      "10 m/s",
+      "20 m/s"
+    ],
+    "answer": "20 m/s"
+  },
+  {
+    "question": "Identify: density is mass divided by volume.",
+    "options": [
+      "mass - volume",
+      "volume × mass",
+      "mass / volume",
+      "volume / mass"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Heat transfer through a medium occurs by convection.",
+    "options": [
+      "Convection",
+      "Radiation",
+      "Conduction",
+      "None"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "maintain uniform motion",
+      "objects accelerate",
+      "objects decelerate",
+      "objects stop"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Which of the following best describes: kinetic energy increases with the square of velocity.",
+    "options": [
+      "with square of velocity",
+      "inversely with velocity",
+      "not with velocity",
+      "linearly with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Identify: heat transfer through a medium occurs by convection.",
+    "options": [
+      "Convection",
+      "None",
+      "Conduction",
+      "Radiation"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Choose the: acceleration from 0 to 30 m/s in 5s is 6 m/s².",
     "options": [
       "6 m/s²",
       "8 m/s²",
@@ -2730,47 +2380,237 @@
     "answer": "6 m/s²"
   },
   {
-    "question": "Resistance if V = 12V, I = 3A",
+    "question": "Consider: reflection occurs when light bounces off a surface.",
     "options": [
+      "light bends",
+      "light passes through",
+      "light bounces off",
+      "light disappears"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Consider: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
+    "options": [
+      "2Ω",
       "3Ω",
       "6Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Select the statement that best completes: the si unit of force is the newton.",
+    "options": [
+      "Dyne",
+      "Erg",
+      "Newton",
+      "Joule"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Which of the following best describes: heat transfer through a medium occurs by convection.",
+    "options": [
+      "None",
+      "Radiation",
+      "Conduction",
+      "Convection"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Which of the following best describes: sound travels faster in solids than in air.",
+    "options": [
+      "slower in solids",
+      "same in all media",
+      "faster in solids",
+      "sound doesn't travel in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Consider: the refractive index of water is 1.33.",
+    "options": [
+      "1.5",
+      "1.0",
+      "1.33",
+      "2.0"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Resistance calculated from Ohm's law: R = V/I = 12/3 = 4Ω.",
+    "options": [
+      "6Ω",
       "4Ω",
+      "3Ω",
       "2Ω"
     ],
     "answer": "4Ω"
   },
   {
-    "question": "Refractive index of water",
+    "question": "Choose the: sound travels faster in solids than in air.",
     "options": [
-      "1.5",
-      "1.33",
-      "2.0",
-      "1.0"
+      "faster in solids",
+      "sound doesn't travel in solids",
+      "same in all media",
+      "slower in solids"
     ],
-    "answer": "1.33"
+    "answer": "faster in solids"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "Consider: density is mass divided by volume.",
     "options": [
-      "20 m/s",
-      "25 m/s",
-      "15 m/s",
-      "10 m/s"
+      "volume × mass",
+      "mass - volume",
+      "mass / volume",
+      "volume / mass"
     ],
-    "answer": "20 m/s"
+    "answer": "mass / volume"
   },
   {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
+    "question": "Identify: power dissipated: p = i²r = 2² × 5 = 20w.",
     "options": [
-      "5 Hz",
+      "80W",
+      "10W",
+      "40W",
+      "20W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "According to standard definitions, density is mass divided by volume.",
+    "options": [
+      "volume / mass",
+      "mass / volume",
+      "volume × mass",
+      "mass - volume"
+    ],
+    "answer": "mass / volume"
+  },
+  {
+    "question": "Newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects stop",
+      "maintain uniform motion",
+      "objects decelerate",
+      "objects accelerate"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Which of the following best describes: power dissipated: p = i²r = 2² × 5 = 20w.",
+    "options": [
+      "20W",
+      "80W",
+      "10W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Which of the following best describes: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects accelerate",
+      "maintain uniform motion",
+      "objects decelerate",
+      "objects stop"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Choose the: reflection occurs when light bounces off a surface.",
+    "options": [
+      "light bends",
+      "light passes through",
+      "light disappears",
+      "light bounces off"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Resistance calculated from Ohm's law: R = V/I = 12/3 = 4Ω.",
+    "options": [
+      "4Ω",
+      "6Ω",
+      "2Ω",
+      "3Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "Which of the following best describes: specific heat capacity of water is 4200 j/(kg·k).",
+    "options": [
+      "8400 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Frequency = speed/wavelength = 10/2 = 5 Hz.",
+    "options": [
       "2 Hz",
       "10 Hz",
+      "5 Hz",
       "20 Hz"
     ],
     "answer": "5 Hz"
   },
   {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
+    "question": "Specific heat capacity of water is 4200 J/(kg·K).",
+    "options": [
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Power dissipated: P = I²R = 2² × 5 = 20W.",
+    "options": [
+      "20W",
+      "80W",
+      "10W",
+      "40W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Specific heat capacity of water represents 4200 J/(kg·K).",
+    "options": [
+      "2000 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "Consider: the si unit of force is the newton.",
+    "options": [
+      "Joule",
+      "Newton",
+      "Dyne",
+      "Erg"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "Identify: heat transfer through a medium occurs by convection.",
+    "options": [
+      "Conduction",
+      "None",
+      "Radiation",
+      "Convection"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "question": "Choose the: power dissipated: p = i²r = 2² × 5 = 20w.",
     "options": [
       "20W",
       "10W",
@@ -2780,177 +2620,267 @@
     "answer": "20W"
   },
   {
-    "question": "SI unit of force",
+    "question": "The best answer to 'the refractive index of water is 1.33.' is:",
     "options": [
-      "Dyne",
-      "Erg",
+      "2.0",
+      "1.33",
+      "1.0",
+      "1.5"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "The best answer to 'kinetic energy increases with the square of velocity.' is:",
+    "options": [
+      "with square of velocity",
+      "not with velocity",
+      "linearly with velocity",
+      "inversely with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects decelerate",
+      "objects accelerate",
+      "maintain uniform motion",
+      "objects stop"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Identify: time to fall 20m at g=10 m/s² is 2 seconds.",
+    "options": [
+      "2s",
+      "3s",
+      "4s",
+      "1s"
+    ],
+    "answer": "2s"
+  },
+  {
+    "question": "Newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects stop",
+      "objects decelerate",
+      "maintain uniform motion",
+      "objects accelerate"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "The SI unit of force means the Newton.",
+    "options": [
       "Joule",
-      "Newton"
+      "Erg",
+      "Newton",
+      "Dyne"
     ],
     "answer": "Newton"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "Choose the: heat transfer through a medium occurs by convection.",
     "options": [
-      "20 m/s",
-      "15 m/s",
-      "25 m/s",
-      "10 m/s"
+      "Radiation",
+      "None",
+      "Conduction",
+      "Convection"
     ],
-    "answer": "20 m/s"
+    "answer": "Convection"
   },
   {
-    "question": "Resistance if V = 12V, I = 3A",
+    "question": "Acceleration from 0 to 30 m/s in 5s is 6 m/s².",
     "options": [
-      "3Ω",
-      "4Ω",
-      "6Ω",
-      "2Ω"
-    ],
-    "answer": "4Ω"
-  },
-  {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
-    "options": [
-      "6 m/s²",
       "4 m/s²",
+      "6 m/s²",
       "5 m/s²",
       "8 m/s²"
     ],
     "answer": "6 m/s²"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "Time to fall 20m at g=10 m/s² is 2 seconds.",
     "options": [
-      "None",
-      "Convection",
-      "Radiation",
-      "Conduction"
+      "1s",
+      "4s",
+      "3s",
+      "2s"
     ],
-    "answer": "Convection"
+    "answer": "2s"
   },
   {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
+    "question": "Select the statement that best completes: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
     "options": [
-      "10 Hz",
-      "20 Hz",
-      "5 Hz",
-      "2 Hz"
-    ],
-    "answer": "5 Hz"
-  },
-  {
-    "question": "Resistance if V = 12V, I = 3A",
-    "options": [
-      "6Ω",
-      "3Ω",
+      "4Ω",
       "2Ω",
-      "4Ω"
+      "6Ω",
+      "3Ω"
     ],
     "answer": "4Ω"
   },
   {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
+    "question": "What best explains: the si unit of force is the newton.",
     "options": [
-      "80W",
-      "20W",
-      "10W",
-      "40W"
-    ],
-    "answer": "20W"
-  },
-  {
-    "question": "Specific heat capacity of water",
-    "options": [
-      "8400 J/(kg·K)",
-      "4200 J/(kg·K)",
-      "2000 J/(kg·K)",
-      "1000 J/(kg·K)"
-    ],
-    "answer": "4200 J/(kg·K)"
-  },
-  {
-    "question": "SI unit of force",
-    "options": [
-      "Joule",
       "Erg",
       "Dyne",
+      "Joule",
       "Newton"
     ],
     "answer": "Newton"
   },
   {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
+    "question": "Which concept describes: the si unit of force is the newton.",
     "options": [
-      "5 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "4 m/s²"
+      "Dyne",
+      "Joule",
+      "Newton",
+      "Erg"
     ],
-    "answer": "6 m/s²"
+    "answer": "Newton"
   },
   {
-    "question": "Heat transfer requiring a medium",
+    "question": "Newton's first law states objects maintain uniform motion unless acted upon by force.",
     "options": [
-      "Radiation",
-      "Convection",
-      "None",
-      "Conduction"
+      "objects accelerate",
+      "objects decelerate",
+      "maintain uniform motion",
+      "objects stop"
     ],
-    "answer": "Convection"
+    "answer": "maintain uniform motion"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "What best explains: time to fall 20m at g=10 m/s² is 2 seconds.",
     "options": [
-      "3s",
-      "4s",
       "2s",
-      "1s"
+      "1s",
+      "3s",
+      "4s"
     ],
     "answer": "2s"
   },
   {
-    "question": "SI unit of force",
+    "question": "Choose the: resistance calculated from ohm's law: r = v/i = 12/3 = 4ω.",
     "options": [
-      "Erg",
-      "Newton",
+      "2Ω",
+      "6Ω",
+      "3Ω",
+      "4Ω"
+    ],
+    "answer": "4Ω"
+  },
+  {
+    "question": "What best explains: specific heat capacity of water is 4200 j/(kg·k).",
+    "options": [
+      "1000 J/(kg·K)",
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "8400 J/(kg·K)"
+    ],
+    "answer": "4200 J/(kg·K)"
+  },
+  {
+    "question": "The refractive index of water represents 1.33.",
+    "options": [
+      "2.0",
+      "1.0",
+      "1.5",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Identify: kinetic energy increases with the square of velocity.",
+    "options": [
+      "inversely with velocity",
+      "linearly with velocity",
+      "with square of velocity",
+      "not with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "According to standard definitions, the refractive index of water is 1.33.",
+    "options": [
+      "2.0",
+      "1.5",
+      "1.0",
+      "1.33"
+    ],
+    "answer": "1.33"
+  },
+  {
+    "question": "Which of the following best describes: the si unit of force is the newton.",
+    "options": [
       "Dyne",
+      "Newton",
+      "Erg",
       "Joule"
     ],
     "answer": "Newton"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "Kinetic energy increases with the square of velocity.",
     "options": [
-      "10 m/s",
-      "25 m/s",
+      "inversely with velocity",
+      "with square of velocity",
+      "linearly with velocity",
+      "not with velocity"
+    ],
+    "answer": "with square of velocity"
+  },
+  {
+    "question": "Speed calculated as distance/time: 100m/5s = 20 m/s.",
+    "options": [
       "20 m/s",
-      "15 m/s"
+      "25 m/s",
+      "15 m/s",
+      "10 m/s"
     ],
     "answer": "20 m/s"
   },
   {
-    "question": "Frequency: wavelength 2m, speed 10 m/s",
+    "question": "Select the statement that best completes: kinetic energy increases with the square of velocity.",
     "options": [
-      "20 Hz",
-      "5 Hz",
-      "10 Hz",
-      "2 Hz"
+      "linearly with velocity",
+      "not with velocity",
+      "inversely with velocity",
+      "with square of velocity"
     ],
-    "answer": "5 Hz"
+    "answer": "with square of velocity"
   },
   {
-    "question": "Drop from 20m height, time taken? (g=10)",
+    "question": "Kinetic energy increases with the square of velocity.",
     "options": [
-      "2s",
-      "4s",
-      "1s",
-      "3s"
+      "with square of velocity",
+      "inversely with velocity",
+      "not with velocity",
+      "linearly with velocity"
     ],
-    "answer": "2s"
+    "answer": "with square of velocity"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "In the context of this subject, sound travels faster in solids than in air.",
+    "options": [
+      "sound doesn't travel in solids",
+      "same in all media",
+      "faster in solids",
+      "slower in solids"
+    ],
+    "answer": "faster in solids"
+  },
+  {
+    "question": "Which of the following best describes: reflection occurs when light bounces off a surface.",
+    "options": [
+      "light passes through",
+      "light bounces off",
+      "light disappears",
+      "light bends"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Speed calculated as distance/time: 100m/5s = 20 m/s.",
     "options": [
       "25 m/s",
       "10 m/s",
@@ -2960,37 +2890,57 @@
     "answer": "20 m/s"
   },
   {
-    "question": "Power: P = I²R, if I = 2A, R = 5Ω",
+    "question": "Power dissipated: P = I²R = 2² × 5 = 20W.",
     "options": [
-      "80W",
-      "20W",
+      "40W",
       "10W",
-      "40W"
+      "20W",
+      "80W"
     ],
     "answer": "20W"
   },
   {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
+    "question": "Choose the: speed calculated as distance/time: 100m/5s = 20 m/s.",
     "options": [
-      "6 m/s²",
-      "8 m/s²",
-      "5 m/s²",
-      "4 m/s²"
+      "10 m/s",
+      "25 m/s",
+      "15 m/s",
+      "20 m/s"
     ],
-    "answer": "6 m/s²"
+    "answer": "20 m/s"
   },
   {
-    "question": "Acceleration from 0 to 30 m/s in 5s",
+    "question": "Specific heat capacity of water is 4200 J/(kg·K).",
     "options": [
-      "8 m/s²",
-      "6 m/s²",
-      "5 m/s²",
-      "4 m/s²"
+      "2000 J/(kg·K)",
+      "4200 J/(kg·K)",
+      "1000 J/(kg·K)",
+      "8400 J/(kg·K)"
     ],
-    "answer": "6 m/s²"
+    "answer": "4200 J/(kg·K)"
   },
   {
-    "question": "Speed if distance = 100m, time = 5s",
+    "question": "Reflection occurs when light bounces off a surface.",
+    "options": [
+      "light passes through",
+      "light bends",
+      "light bounces off",
+      "light disappears"
+    ],
+    "answer": "light bounces off"
+  },
+  {
+    "question": "Identify: power dissipated: p = i²r = 2² × 5 = 20w.",
+    "options": [
+      "40W",
+      "20W",
+      "80W",
+      "10W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Speed calculated as dmeanstance/time: 100m/5s = 20 m/s.",
     "options": [
       "15 m/s",
       "10 m/s",
@@ -2998,5 +2948,55 @@
       "20 m/s"
     ],
     "answer": "20 m/s"
+  },
+  {
+    "question": "The best answer to 'acceleration from 0 to 30 m/s in 5s is 6 m/s².' is:",
+    "options": [
+      "5 m/s²",
+      "8 m/s²",
+      "6 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "6 m/s²"
+  },
+  {
+    "question": "Which of the following best describes: newton's first law states objects maintain uniform motion unless acted upon by force.",
+    "options": [
+      "objects decelerate",
+      "objects accelerate",
+      "objects stop",
+      "maintain uniform motion"
+    ],
+    "answer": "maintain uniform motion"
+  },
+  {
+    "question": "Power drepresentssipated: P = I²R = 2² × 5 = 20W.",
+    "options": [
+      "80W",
+      "40W",
+      "20W",
+      "10W"
+    ],
+    "answer": "20W"
+  },
+  {
+    "question": "Frequency = speed/wavelength = 10/2 = 5 Hz.",
+    "options": [
+      "10 Hz",
+      "2 Hz",
+      "5 Hz",
+      "20 Hz"
+    ],
+    "answer": "5 Hz"
+  },
+  {
+    "question": "According to standard definitions, reflection occurs when light bounces off a surface.",
+    "options": [
+      "light bounces off",
+      "light bends",
+      "light disappears",
+      "light passes through"
+    ],
+    "answer": "light bounces off"
   }
 ]
