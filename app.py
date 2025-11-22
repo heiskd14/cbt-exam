@@ -110,6 +110,7 @@ def select_subjects():
             num_questions = 60 if subj == "Use of English" else 40
             subject_questions[subj] = random.sample(qs, min(num_questions, len(qs)))
             subject_answers[subj] = [None] * len(subject_questions[subj])
+            print(f"Loaded {num_questions} questions for {subj} from {len(qs)} available")
     
     session['subject_questions'] = subject_questions
     session['subject_answers'] = subject_answers

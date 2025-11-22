@@ -1,3602 +1,3002 @@
 [
   {
-    "id": 1,
-    "question": "In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
-    ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 2,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
-    ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 3,
-    "question": "Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
-    ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 4,
-    "question": "In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
-    ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 5,
-    "question": "The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": "7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 6,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
-    ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 7,
-    "question": "Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
-    ],
-    "answer": "4",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 8,
-    "question": "Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
-    ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 9,
-    "question": "Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 10,
-    "question": "How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 11,
-    "question": "In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 12,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 13,
-    "question": "Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 14,
-    "question": "In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 15,
-    "question": "The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 16,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 17,
-    "question": "Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 18,
-    "question": "Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 19,
-    "question": "Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 20,
-    "question": "How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 21,
-    "question": "In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 22,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 23,
-    "question": "Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 24,
-    "question": "In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 25,
-    "question": "The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 26,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 27,
-    "question": "Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 28,
-    "question": "Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 29,
-    "question": "Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 30,
-    "question": "How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 31,
-    "question": "In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 32,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "Which statement about what type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 33,
-    "question": "Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 34,
-    "question": "In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 35,
-    "question": "The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 36,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 37,
-    "question": "Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 38,
-    "question": "Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 39,
-    "question": "Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 40,
-    "question": "How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 41,
-    "question": "Analyzing deeper implications of..., we find that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 42,
-    "question": "An examination of... reveals that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 43,
-    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 44,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 45,
-    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 46,
-    "question": "Advanced students should recognize that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 47,
-    "question": "Complex application of... demonstrates that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "Which statement about photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 48,
-    "question": "Complex application of... demonstrates that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 49,
-    "question": "Which of the following BEST explains... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 50,
-    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 51,
-    "question": "Analyzing deeper implications of..., we find that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about the basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 52,
-    "question": "Complex application of... demonstrates that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 53,
-    "question": "Critically analyzing..., one can conclude that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 54,
-    "question": "Critically analyzing..., one can conclude that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 55,
-    "question": "Which of the following BEST explains... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 56,
-    "question": "Which of the following BEST explains... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 57,
-    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 58,
-    "question": "In the context of..., which statement is MOST accurate? The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 59,
-    "question": "Which of the following BEST explains... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 60,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 61,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about how many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 62,
-    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "Which statement about how many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 63,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 64,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 65,
-    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "In context, The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 66,
-    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 67,
-    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 68,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 69,
-    "question": "In the context of..., which statement is MOST accurate? Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 70,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about the basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 71,
-    "question": "Which of the following BEST explains... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 72,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 73,
-    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 74,
-    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 75,
-    "question": "The sophisticated understanding of... requires knowledge of... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 76,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 77,
-    "question": "In the context of..., which statement is MOST accurate? Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 78,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "In context, The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 79,
-    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 80,
-    "question": "Complex application of... demonstrates that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 81,
-    "question": "In the context of..., which statement is MOST accurate? How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 82,
-    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 83,
-    "question": "An examination of... reveals that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about the basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 84,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "In context, How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 85,
-    "question": "Distinguishing between... and..., which is correct? In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 86,
-    "question": "In the context of..., which statement is MOST accurate? Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 87,
-    "question": "Distinguishing between... and..., which is correct? In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 88,
-    "question": "Complex application of... demonstrates that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 89,
-    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 90,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 91,
-    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 92,
-    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 93,
-    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 94,
-    "question": "In the context of..., which statement is MOST accurate? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 95,
-    "question": "Which of the following BEST explains... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 96,
-    "question": "Analyzing deeper implications of..., we find that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 97,
-    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 98,
-    "question": "The sophisticated understanding of... requires knowledge of... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 99,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 100,
-    "question": "Advanced students should recognize that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 101,
-    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 102,
-    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 103,
-    "question": "Analyzing deeper implications of..., we find that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 104,
-    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about how many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 105,
-    "question": "In the context of..., which statement is MOST accurate? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 106,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "In context, The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 107,
-    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 108,
-    "question": "Critically analyzing..., one can conclude that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 109,
-    "question": "Critically analyzing..., one can conclude that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 110,
-    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 111,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 112,
-    "question": "Analyzing deeper implications of..., we find that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 113,
-    "question": "Complex application of... demonstrates that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about the basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 114,
-    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 115,
-    "question": "Advanced students should recognize that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 116,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 117,
-    "question": "Which of the following BEST explains... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "In context, How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 118,
-    "question": "Which of the following BEST explains... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 119,
-    "question": "In the context of..., which statement is MOST accurate? The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 120,
-    "question": "The sophisticated understanding of... requires knowledge of... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about the basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 121,
-    "question": "An examination of... reveals that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 122,
-    "question": "Advanced students should recognize that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 123,
-    "question": "Which of the following BEST explains... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 124,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 125,
-    "question": "An examination of... reveals that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 126,
-    "question": "An examination of... reveals that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 127,
-    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 128,
-    "question": "An examination of... reveals that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 129,
-    "question": "In the context of..., which statement is MOST accurate? Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "Which statement about what type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 130,
-    "question": "Critically analyzing..., one can conclude that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 131,
-    "question": "Critically analyzing..., one can conclude that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 132,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 133,
-    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 134,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 135,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 136,
-    "question": "An examination of... reveals that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 137,
-    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 138,
-    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 139,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 140,
-    "question": "An examination of... reveals that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 141,
-    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 142,
-    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "Which statement about what type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 143,
-    "question": "Analyzing deeper implications of..., we find that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 144,
-    "question": "The sophisticated understanding of... requires knowledge of... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 145,
-    "question": "Critically analyzing..., one can conclude that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 146,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "Which statement about photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 147,
-    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 148,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 149,
-    "question": "Which of the following BEST explains... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 150,
-    "question": "Analyzing deeper implications of..., we find that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 151,
-    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 152,
-    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 153,
-    "question": "Advanced students should recognize that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 154,
-    "question": "In the context of..., which statement is MOST accurate? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 155,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 156,
-    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 157,
-    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 158,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 159,
-    "question": "Distinguishing between... and..., which is correct? Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 160,
-    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 161,
-    "question": "The sophisticated understanding of... requires knowledge of... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 162,
-    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 163,
-    "question": "Analyzing deeper implications of..., we find that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 164,
-    "question": "In the context of..., which statement is MOST accurate? Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 165,
-    "question": "Which of the following BEST explains... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 166,
-    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 167,
-    "question": "Critically analyzing..., one can conclude that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 168,
-    "question": "An examination of... reveals that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 169,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 170,
-    "question": "Critically analyzing..., one can conclude that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "In context, How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 171,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "In context, How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 172,
-    "question": "An examination of... reveals that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 173,
-    "question": "Distinguishing between... and..., which is correct? How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 174,
-    "question": "Complex application of... demonstrates that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 175,
-    "question": "The sophisticated understanding of... requires knowledge of... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 176,
-    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 177,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 178,
-    "question": "Distinguishing between... and..., which is correct? Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 179,
-    "question": "An examination of... reveals that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 180,
-    "question": "The sophisticated understanding of... requires knowledge of... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 181,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 182,
-    "question": "Analyzing deeper implications of..., we find that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 183,
-    "question": "Which of the following BEST explains... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 184,
-    "question": "Which of the following BEST explains... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about what type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 185,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 186,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 187,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 188,
-    "question": "In the context of..., which statement is MOST accurate? Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about the basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 189,
-    "question": "An examination of... reveals that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 190,
-    "question": "Critically analyzing..., one can conclude that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 191,
-    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 192,
-    "question": "Distinguishing between... and..., which is correct? Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 193,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about the basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 194,
-    "question": "The sophisticated understanding of... requires knowledge of... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 195,
-    "question": "The sophisticated understanding of... requires knowledge of... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 196,
-    "question": "Distinguishing between... and..., which is correct? Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 197,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 198,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 199,
-    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 200,
-    "question": "An examination of... reveals that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 201,
-    "question": "Complex application of... demonstrates that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 202,
-    "question": "Complex application of... demonstrates that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 203,
-    "question": "Analyzing deeper implications of..., we find that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 204,
-    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 205,
-    "question": "The sophisticated understanding of... requires knowledge of... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 206,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 207,
-    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "In context, What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 208,
-    "question": "An examination of... reveals that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 209,
-    "question": "Advanced students should recognize that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 210,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 211,
-    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 212,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 213,
-    "question": "Analyzing deeper implications of..., we find that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 214,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about what is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "mitochondrion"
   },
   {
-    "id": 215,
-    "question": "Critically analyzing..., one can conclude that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 216,
-    "question": "Distinguishing between... and..., which is correct? In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 217,
-    "question": "Critically analyzing..., one can conclude that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 218,
-    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 219,
-    "question": "Complex application of... demonstrates that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 220,
-    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 221,
-    "question": "The sophisticated understanding of... requires knowledge of... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 222,
-    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 223,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 224,
-    "question": "Critically analyzing..., one can conclude that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 225,
-    "question": "Critically analyzing..., one can conclude that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 226,
-    "question": "Analyzing deeper implications of..., we find that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 227,
-    "question": "Which of the following BEST explains... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 228,
-    "question": "Which of the following BEST explains... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 229,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 230,
-    "question": "In the context of..., which statement is MOST accurate? In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "Which statement about what type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 231,
-    "question": "The sophisticated understanding of... requires knowledge of... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 232,
-    "question": "Which of the following BEST explains... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 233,
-    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 234,
-    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 235,
-    "question": "The sophisticated understanding of... requires knowledge of... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 236,
-    "question": "Critically analyzing..., one can conclude that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 237,
-    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 238,
-    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 239,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 240,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 241,
-    "question": "Which of the following BEST explains... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 242,
-    "question": "In the context of..., which statement is MOST accurate? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 243,
-    "question": "Distinguishing between... and..., which is correct? Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 244,
-    "question": "The sophisticated understanding of... requires knowledge of... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 245,
-    "question": "The sophisticated understanding of... requires knowledge of... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 246,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 247,
-    "question": "Distinguishing between... and..., which is correct? Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "Which statement about hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 248,
-    "question": "Which of the following BEST explains... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 249,
-    "question": "Critically analyzing..., one can conclude that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 250,
-    "question": "Critically analyzing..., one can conclude that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 251,
-    "question": "An examination of... reveals that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 252,
-    "question": "An examination of... reveals that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "Which statement about how many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 253,
-    "question": "Analyzing deeper implications of..., we find that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 254,
-    "question": "Which of the following BEST explains... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 255,
-    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 256,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 257,
-    "question": "Distinguishing between... and..., which is correct? The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 258,
-    "question": "Critically analyzing..., one can conclude that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 259,
-    "question": "Which of the following BEST explains... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 260,
-    "question": "Analyzing deeper implications of..., we find that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "Which statement about the process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 261,
-    "question": "An examination of... reveals that... In an ecosystem, which trophic level has the most energy?",
-    "options": [
-      "Primary consumers",
-      "Producers",
-      "Secondary consumers",
-      "Decomposers"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Producers",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 262,
-    "question": "Which of the following BEST explains... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 263,
-    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 264,
-    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 265,
-    "question": "In the context of..., which statement is MOST accurate? Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 266,
-    "question": "An examination of... reveals that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 267,
-    "question": "Analyzing deeper implications of..., we find that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 268,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to The basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "cell"
   },
   {
-    "id": 269,
-    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 270,
-    "question": "Critically analyzing..., one can conclude that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "In context, The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 271,
-    "question": "Advanced students should recognize that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 272,
-    "question": "In the context of..., which statement is MOST accurate? In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 273,
-    "question": "Advanced students should recognize that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 274,
-    "question": "Advanced students should recognize that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 275,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "photosynthesis"
   },
   {
-    "id": 276,
-    "question": "Which of the following BEST explains... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "protease"
   },
   {
-    "id": 277,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "Which statement about what type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 278,
-    "question": "Analyzing deeper implications of..., we find that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "Which statement about how many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 279,
-    "question": "In the context of..., which statement is MOST accurate? Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "In context, The part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "nucleus"
   },
   {
-    "id": 280,
-    "question": "Advanced students should recognize that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "Which statement about dna stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 281,
-    "question": "Complex application of... demonstrates that... How many classification levels exist in binomial nomenclature?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "7",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 282,
-    "question": "Distinguishing between... and..., which is correct? Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "deoxyribonucleic acid"
   },
   {
-    "id": 283,
-    "question": "Advanced students should recognize that... Which type of immunity is conferred by vaccination?",
-    "options": [
-      "Natural immunity",
-      "Acquired immunity",
-      "Innate immunity",
-      "Non-specific immunity"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Acquired immunity",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 284,
-    "question": "Complex application of... demonstrates that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, How many chromosomes do humans have?",
+    "Options": [
+      "23",
+      "46",
+      "48",
+      "44"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "46"
   },
   {
-    "id": 285,
-    "question": "Complex application of... demonstrates that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 286,
-    "question": "Which of the following BEST explains... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+    "Question": "Which statement about hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "4",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 287,
-    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to What type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "white cells"
   },
   {
-    "id": 288,
-    "question": "Analyzing deeper implications of..., we find that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 289,
-    "question": "In a dihybrid cross AaBb × AaBb, what proportion of offspring show recessive phenotype for both traits?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "15/16"
+    "Question": "In context, Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "1/16",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 290,
-    "question": "Critically analyzing..., one can conclude that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
+    "Question": "According to Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
     ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
+    "Answer": "chloroplast"
   },
   {
-    "id": 291,
-    "question": "Analyzing deeper implications of..., we find that... Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
     ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 292,
-    "question": "In the light-dependent reactions, which molecule is the final electron acceptor?",
-    "options": [
-      "NADP⁺",
-      "ATP",
-      "Water",
-      "Glucose"
-    ],
-    "answer": "NADP⁺",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 293,
-    "question": "Complex application of... demonstrates that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
-    ],
-    "answer": "4",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 294,
-    "question": "Distinguishing between... and..., which is correct? In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
-    ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 295,
-    "question": "The sophisticated understanding of... requires knowledge of... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
-    ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 296,
-    "question": "Critically analyzing..., one can conclude that... In eukaryotic cells, ATP synthase is located in which organelle?",
-    "options": [
-      "Chloroplast",
-      "Inner mitochondrial membrane",
-      "Rough ER",
-      "Golgi apparatus"
-    ],
-    "answer": "Inner mitochondrial membrane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 297,
-    "question": "Complex application of... demonstrates that... Spermatogenesis produces how many functional sperm from one diploid cell?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "8"
-    ],
-    "answer": "4",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 298,
-    "question": "Advanced students should recognize that... Blood glucose is regulated by which two hormones?",
-    "options": [
-      "Insulin and glucagon",
-      "Insulin and epinephrine",
-      "Glucagon and cortisol",
-      "Thyroxine and insulin"
-    ],
-    "answer": "Insulin and glucagon",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 299,
-    "question": "Complex application of... demonstrates that... The enzyme that digests proteins in the stomach is?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": "7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 300,
-    "question": "Distinguishing between... and..., which is correct? Which evidence for evolution is provided by the existence of vestigial organs?",
-    "options": [
-      "Homologous structures",
-      "Analogous structures",
-      "Vestigial structures",
-      "Ontogenetic evidence"
-    ],
-    "answer": "Vestigial structures",
-    "difficulty": "very_hard"
+    "Question": "According to Hemoglobin carries?",
+    "Options": [
+      "nutrients",
+      "oxygen",
+      "waste",
+      "hormones"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "Which statement about what type of blood cells fight infections?",
+    "Options": [
+      "red cells",
+      "white cells",
+      "platelets",
+      "plasma"
+    ],
+    "Answer": "white cells"
+  },
+  {
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
+    ],
+    "Answer": "deoxyribonucleic acid"
+  },
+  {
+    "Question": "According to DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
+    ],
+    "Answer": "deoxyribonucleic acid"
+  },
+  {
+    "Question": "In context, The enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
+    ],
+    "Answer": "protease"
+  },
+  {
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
+    ],
+    "Answer": "nucleus"
+  },
+  {
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
+    ],
+    "Answer": "nucleus"
+  },
+  {
+    "Question": "According to What is the powerhouse of the cell?",
+    "Options": [
+      "nucleus",
+      "chloroplast",
+      "mitochondrion",
+      "ribosome"
+    ],
+    "Answer": "mitochondrion"
+  },
+  {
+    "Question": "In context, Photosynthesis occurs in which organelle?",
+    "Options": [
+      "mitochondrion",
+      "chloroplast",
+      "nucleus",
+      "ribosome"
+    ],
+    "Answer": "chloroplast"
+  },
+  {
+    "Question": "In context, The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
+    ],
+    "Answer": "photosynthesis"
+  },
+  {
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
+    ],
+    "Answer": "deoxyribonucleic acid"
+  },
+  {
+    "Question": "In context, DNA stands for?",
+    "Options": [
+      "deoxyribonucleic acid",
+      "deoxyribose nucleotide",
+      "diribonucleic acid",
+      "deoxyribose acid"
+    ],
+    "Answer": "deoxyribonucleic acid"
+  },
+  {
+    "Question": "In context, The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
+    ],
+    "Answer": "photosynthesis"
+  },
+  {
+    "Question": "Which statement about the part of the cell that controls activities is?",
+    "Options": [
+      "mitochondrion",
+      "cytoplasm",
+      "nucleus",
+      "ribosome"
+    ],
+    "Answer": "nucleus"
+  },
+  {
+    "Question": "According to The process by which plants make food is?",
+    "Options": [
+      "respiration",
+      "photosynthesis",
+      "fermentation",
+      "digestion"
+    ],
+    "Answer": "photosynthesis"
+  },
+  {
+    "Question": "Which statement about the basic unit of life is?",
+    "Options": [
+      "tissue",
+      "organ",
+      "cell",
+      "organism"
+    ],
+    "Answer": "cell"
+  },
+  {
+    "Question": "Which statement about the enzyme that digests proteins is?",
+    "Options": [
+      "lipase",
+      "protease",
+      "amylase",
+      "maltase"
+    ],
+    "Answer": "protease"
   }
 ]

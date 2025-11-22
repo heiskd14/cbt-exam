@@ -1,3602 +1,3002 @@
 [
   {
-    "id": 1,
-    "question": "If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
-    ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 2,
-    "question": "Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 3,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 4,
-    "question": "If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 5,
-    "question": "Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 6,
-    "question": "Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "What is the value of log₁₀(100)?",
+    "Options": [
+      "1",
+      "2",
+      "10",
+      "100"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 7,
-    "question": "In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 8,
-    "question": "Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 9,
-    "question": "Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 10,
-    "question": "If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 11,
-    "question": "If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 12,
-    "question": "Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 13,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "In context, sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 14,
-    "question": "If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "Which statement about if a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 15,
-    "question": "Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 16,
-    "question": "Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 17,
-    "question": "In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 18,
-    "question": "Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 19,
-    "question": "Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 20,
-    "question": "If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "2",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 21,
-    "question": "If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+      "-1",
+      "undefined"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 22,
-    "question": "Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "According to What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 23,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "In context, If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 24,
-    "question": "If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 25,
-    "question": "Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "In context, sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "2",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 26,
-    "question": "Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+      "-1",
+      "undefined"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 27,
-    "question": "In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 28,
-    "question": "Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "In context, sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 29,
-    "question": "Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about what is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 30,
-    "question": "If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 31,
-    "question": "If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 32,
-    "question": "Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 33,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "In context, If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 34,
-    "question": "If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 35,
-    "question": "Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "In context, What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 36,
-    "question": "Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "According to Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 37,
-    "question": "In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 38,
-    "question": "Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 39,
-    "question": "Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 40,
-    "question": "If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
+    "Question": "In context, What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 41,
-    "question": "The sophisticated understanding of... requires knowledge of... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 42,
-    "question": "Which of the following BEST explains... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 43,
-    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 44,
-    "question": "An examination of... reveals that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 45,
-    "question": "Analyzing deeper implications of..., we find that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 46,
-    "question": "The sophisticated understanding of... requires knowledge of... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 47,
-    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 48,
-    "question": "In the context of..., which statement is MOST accurate? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 49,
-    "question": "The sophisticated understanding of... requires knowledge of... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 50,
-    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 51,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 52,
-    "question": "An examination of... reveals that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 53,
-    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "In context, What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 54,
-    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 55,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 56,
-    "question": "Complex application of... demonstrates that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 57,
-    "question": "The sophisticated understanding of... requires knowledge of... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 58,
-    "question": "Analyzing deeper implications of..., we find that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 59,
-    "question": "Distinguishing between... and..., which is correct? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 60,
-    "question": "Distinguishing between... and..., which is correct? Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 61,
-    "question": "In the context of..., which statement is MOST accurate? Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "Which statement about what is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 62,
-    "question": "Analyzing deeper implications of..., we find that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
+    "Question": "According to What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 63,
-    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 64,
-    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 65,
-    "question": "Which of the following BEST explains... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 66,
-    "question": "In the context of..., which statement is MOST accurate? Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "Which statement about sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 67,
-    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 68,
-    "question": "In the context of..., which statement is MOST accurate? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 69,
-    "question": "Which of the following BEST explains... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 70,
-    "question": "Advanced students should recognize that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 71,
-    "question": "Advanced students should recognize that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
+    ],
+    "Answer": "14π"
+  },
+  {
+    "Question": "According to Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
+    ],
+    "Answer": "y = 6"
+  },
+  {
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 72,
-    "question": "The sophisticated understanding of... requires knowledge of... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 73,
-    "question": "Advanced students should recognize that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 74,
-    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 75,
-    "question": "Which of the following BEST explains... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "According to The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 76,
-    "question": "An examination of... reveals that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 77,
-    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 78,
-    "question": "Critically analyzing..., one can conclude that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 79,
-    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "Which statement about what is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 80,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about if a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 81,
-    "question": "Distinguishing between... and..., which is correct? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 82,
-    "question": "In the context of..., which statement is MOST accurate? Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 83,
-    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 84,
-    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 85,
-    "question": "The sophisticated understanding of... requires knowledge of... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about what is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 86,
-    "question": "Which of the following BEST explains... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "According to The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 87,
-    "question": "An examination of... reveals that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 88,
-    "question": "Distinguishing between... and..., which is correct? Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 89,
-    "question": "In the context of..., which statement is MOST accurate? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 90,
-    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 91,
-    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 92,
-    "question": "Advanced students should recognize that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 93,
-    "question": "The sophisticated understanding of... requires knowledge of... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 94,
-    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about what is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 95,
-    "question": "Which of the following BEST explains... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "According to Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 96,
-    "question": "Which of the following BEST explains... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 97,
-    "question": "Which of the following BEST explains... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 98,
-    "question": "Which of the following BEST explains... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "Which statement about solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 99,
-    "question": "The sophisticated understanding of... requires knowledge of... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, What is the value of log₁₀(100)?",
+    "Options": [
+      "1",
+      "2",
+      "10",
+      "100"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 100,
-    "question": "An examination of... reveals that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 101,
-    "question": "The sophisticated understanding of... requires knowledge of... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 102,
-    "question": "The sophisticated understanding of... requires knowledge of... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 103,
-    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 104,
-    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 105,
-    "question": "Critically analyzing..., one can conclude that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "In context, What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 106,
-    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 107,
-    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 108,
-    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 109,
-    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 110,
-    "question": "Distinguishing between... and..., which is correct? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 111,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 112,
-    "question": "An examination of... reveals that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 113,
-    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 114,
-    "question": "In the context of..., which statement is MOST accurate? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 115,
-    "question": "An examination of... reveals that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about if a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 116,
-    "question": "Which of the following BEST explains... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 117,
-    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 118,
-    "question": "Which of the following BEST explains... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 119,
-    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 120,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 121,
-    "question": "Distinguishing between... and..., which is correct? Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "In context, What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
-    ],
-    "answer": "2",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 122,
-    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+      "10",
+      "100"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 123,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 124,
-    "question": "In the context of..., which statement is MOST accurate? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 125,
-    "question": "Analyzing deeper implications of..., we find that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 126,
-    "question": "Complex application of... demonstrates that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 127,
-    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 128,
-    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, What is the value of log₁₀(100)?",
+    "Options": [
+      "1",
+      "2",
+      "10",
+      "100"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 129,
-    "question": "In the context of..., which statement is MOST accurate? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 130,
-    "question": "Advanced students should recognize that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "Which statement about sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 131,
-    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 132,
-    "question": "Advanced students should recognize that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 133,
-    "question": "Complex application of... demonstrates that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "Which statement about sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 134,
-    "question": "Analyzing deeper implications of..., we find that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 135,
-    "question": "Critically analyzing..., one can conclude that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 136,
-    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 137,
-    "question": "Complex application of... demonstrates that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 138,
-    "question": "Complex application of... demonstrates that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 139,
-    "question": "In the context of..., which statement is MOST accurate? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 140,
-    "question": "Critically analyzing..., one can conclude that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 141,
-    "question": "Advanced students should recognize that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 142,
-    "question": "An examination of... reveals that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 143,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "According to What is the value of log₁₀(100)?",
+    "Options": [
+      "1",
+      "2",
+      "10",
+      "100"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 144,
-    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "In context, If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 145,
-    "question": "Complex application of... demonstrates that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 146,
-    "question": "Advanced students should recognize that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 147,
-    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 148,
-    "question": "Advanced students should recognize that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 149,
-    "question": "Complex application of... demonstrates that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 150,
-    "question": "Analyzing deeper implications of..., we find that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 151,
-    "question": "Which of the following BEST explains... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 152,
-    "question": "Complex application of... demonstrates that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about if a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 153,
-    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "Which statement about what is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
-    ],
-    "answer": "2",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 154,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+      "10",
+      "100"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 155,
-    "question": "Advanced students should recognize that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 156,
-    "question": "Analyzing deeper implications of..., we find that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 157,
-    "question": "Advanced students should recognize that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 158,
-    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 159,
-    "question": "An examination of... reveals that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 160,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "According to The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 161,
-    "question": "Advanced students should recognize that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 162,
-    "question": "The sophisticated understanding of... requires knowledge of... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 163,
-    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "Which statement about if a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 164,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 165,
-    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 166,
-    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 167,
-    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 168,
-    "question": "Which of the following BEST explains... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 169,
-    "question": "Analyzing deeper implications of..., we find that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "According to If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 170,
-    "question": "Which of the following BEST explains... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 171,
-    "question": "Which of the following BEST explains... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 172,
-    "question": "Advanced students should recognize that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 173,
-    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 174,
-    "question": "Analyzing deeper implications of..., we find that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 175,
-    "question": "Distinguishing between... and..., which is correct? Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "Which statement about sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "2",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 176,
-    "question": "Analyzing deeper implications of..., we find that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+      "-1",
+      "undefined"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 177,
-    "question": "Advanced students should recognize that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "In context, What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 178,
-    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 179,
-    "question": "Critically analyzing..., one can conclude that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 180,
-    "question": "Critically analyzing..., one can conclude that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "Which statement about sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 181,
-    "question": "Complex application of... demonstrates that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 182,
-    "question": "Advanced students should recognize that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "In context, What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 183,
-    "question": "In the context of..., which statement is MOST accurate? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 184,
-    "question": "Complex application of... demonstrates that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 185,
-    "question": "Critically analyzing..., one can conclude that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 186,
-    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 187,
-    "question": "Complex application of... demonstrates that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "In context, What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 188,
-    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 189,
-    "question": "Which of the following BEST explains... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "According to If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 190,
-    "question": "In the context of..., which statement is MOST accurate? If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 191,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 192,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "According to Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 193,
-    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 194,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 195,
-    "question": "Complex application of... demonstrates that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "In context, sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 196,
-    "question": "Distinguishing between... and..., which is correct? Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 197,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 198,
-    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 199,
-    "question": "Critically analyzing..., one can conclude that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "According to Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 200,
-    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 201,
-    "question": "Complex application of... demonstrates that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 202,
-    "question": "The sophisticated understanding of... requires knowledge of... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 203,
-    "question": "Distinguishing between... and..., which is correct? Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 204,
-    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 205,
-    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 206,
-    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 207,
-    "question": "Which of the following BEST explains... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 208,
-    "question": "Advanced students should recognize that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 209,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 210,
-    "question": "The sophisticated understanding of... requires knowledge of... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 211,
-    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
+    ],
+    "Answer": "54"
+  },
+  {
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 212,
-    "question": "An examination of... reveals that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 213,
-    "question": "In the context of..., which statement is MOST accurate? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 214,
-    "question": "The sophisticated understanding of... requires knowledge of... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 215,
-    "question": "Analyzing deeper implications of..., we find that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "Which statement about sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 216,
-    "question": "In the context of..., which statement is MOST accurate? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 217,
-    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 218,
-    "question": "In the context of..., which statement is MOST accurate? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 219,
-    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 220,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 221,
-    "question": "Distinguishing between... and..., which is correct? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 222,
-    "question": "Critically analyzing..., one can conclude that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 223,
-    "question": "Analyzing deeper implications of..., we find that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 224,
-    "question": "Analyzing deeper implications of..., we find that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 225,
-    "question": "Which of the following BEST explains... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 226,
-    "question": "Analyzing deeper implications of..., we find that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 227,
-    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 228,
-    "question": "The sophisticated understanding of... requires knowledge of... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 229,
-    "question": "Distinguishing between... and..., which is correct? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 230,
-    "question": "Analyzing deeper implications of..., we find that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 231,
-    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "According to What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 232,
-    "question": "Advanced students should recognize that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 233,
-    "question": "Complex application of... demonstrates that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "According to In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 234,
-    "question": "An examination of... reveals that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 235,
-    "question": "Complex application of... demonstrates that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 236,
-    "question": "Distinguishing between... and..., which is correct? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 237,
-    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 238,
-    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "According to The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 239,
-    "question": "Analyzing deeper implications of..., we find that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 240,
-    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 241,
-    "question": "Which of the following BEST explains... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 242,
-    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "Which statement about what is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 243,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "In context, sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 244,
-    "question": "Analyzing deeper implications of..., we find that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 245,
-    "question": "An examination of... reveals that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 246,
-    "question": "In the context of..., which statement is MOST accurate? If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 247,
-    "question": "Distinguishing between... and..., which is correct? Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
+    "Question": "In context, sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 248,
-    "question": "An examination of... reveals that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 249,
-    "question": "Which of the following BEST explains... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "According to The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 250,
-    "question": "Advanced students should recognize that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 251,
-    "question": "Which of the following BEST explains... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 252,
-    "question": "An examination of... reveals that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 253,
-    "question": "Which of the following BEST explains... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "According to In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 254,
-    "question": "Analyzing deeper implications of..., we find that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "Answer": "30"
+  },
+  {
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 255,
-    "question": "Distinguishing between... and..., which is correct? If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "Which statement about if a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 256,
-    "question": "Critically analyzing..., one can conclude that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 257,
-    "question": "An examination of... reveals that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about if a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 258,
-    "question": "An examination of... reveals that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
+    "Question": "According to What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 259,
-    "question": "Analyzing deeper implications of..., we find that... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 260,
-    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 261,
-    "question": "An examination of... reveals that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "According to What is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 262,
-    "question": "The sophisticated understanding of... requires knowledge of... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "Which statement about sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 263,
-    "question": "In the context of..., which statement is MOST accurate? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 264,
-    "question": "Analyzing deeper implications of..., we find that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 265,
-    "question": "Distinguishing between... and..., which is correct? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 266,
-    "question": "An examination of... reveals that... Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 267,
-    "question": "Distinguishing between... and..., which is correct? In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 268,
-    "question": "In the context of..., which statement is MOST accurate? Solve sin(2x) + cos(x) = 0 for 0 ≤ x < 2π",
-    "options": [
-      "x = 0, π/2, π",
-      "x = π/6, 5π/6",
-      "x = 0, π/2, π, 3π/2",
-      "x = π/3, 2π/3"
+    "Question": "Which statement about solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "x = 0, π/2, π, 3π/2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 269,
-    "question": "Which of the following BEST explains... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 270,
-    "question": "The sophisticated understanding of... requires knowledge of... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 271,
-    "question": "Distinguishing between... and..., which is correct? If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
+    "Question": "According to What is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 272,
-    "question": "In the context of..., which statement is MOST accurate? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 273,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about what is the circumference of a circle with radius 7?",
+    "Options": [
+      "14π",
+      "49π",
+      "28π",
+      "7π"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "14π"
   },
   {
-    "id": 274,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 275,
-    "question": "In the context of..., which statement is MOST accurate? Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 276,
-    "question": "In the context of..., which statement is MOST accurate? Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 277,
-    "question": "An examination of... reveals that... If p and q are prime numbers satisfying 3p + 5q = 41, find p + q",
-    "options": [
-      "p=2, q=3",
-      "p=3, q=5",
-      "p=5, q=2",
-      "p=7, q=1"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "p=2, q=3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 278,
-    "question": "An examination of... reveals that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 279,
-    "question": "The sophisticated understanding of... requires knowledge of... If A = [[2, 1], [1, 2]] and det(A - λI) = 0, find the eigenvalues",
-    "options": [
-      "λ = 1, 3",
-      "λ = 0, 4",
-      "λ = 2, 3",
-      "λ = 1, 2"
+    "Question": "In context, sin(90°) equals?",
+    "Options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
     ],
-    "answer": "λ = 1, 3",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 280,
-    "question": "Advanced students should recognize that... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about if x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 281,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "In context, Solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 282,
-    "question": "Critically analyzing..., one can conclude that... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to If a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 283,
-    "question": "Critically analyzing..., one can conclude that... If f(x) = 2x + 3 and g(x) = x², find (f ∘ g)⁻¹(11)",
-    "options": [
+    "Question": "Which statement about what is the value of log₁₀(100)?",
+    "Options": [
       "1",
       "2",
-      "3",
-      "4"
+      "10",
+      "100"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "2"
   },
   {
-    "id": 284,
-    "question": "The sophisticated understanding of... requires knowledge of... Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about the sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 285,
-    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about the derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 286,
-    "question": "Which of the following BEST explains... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "Answer": "30"
+  },
+  {
+    "Question": "Which statement about sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 287,
-    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "Which statement about what is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 288,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "According to If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 289,
-    "question": "An examination of... reveals that... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "Which statement about in a geometric sequence, a₁ = 2 and r = 3. what is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 290,
-    "question": "Analyzing deeper implications of..., we find that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "In context, The derivative of 3x⁴ + 2x² is?",
+    "Options": [
+      "12x³ + 4x",
+      "12x³ + 4x + c",
+      "3x³ + 2x",
+      "x³ + x"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "12x³ + 4x"
   },
   {
-    "id": 291,
-    "question": "Critically analyzing..., one can conclude that... Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "According to If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
+    ],
+    "Answer": "-2, -3"
+  },
+  {
+    "Question": "According to The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 292,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "According to The sum of interior angles of a pentagon is?",
+    "Options": [
+      "540°",
+      "720°",
+      "360°",
+      "900°"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "540°"
   },
   {
-    "id": 293,
-    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
+      "-1",
+      "undefined"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "1"
   },
   {
-    "id": 294,
-    "question": "In the context of..., which statement is MOST accurate? Solve the system: x² + y² = 25 and x + y = 7",
-    "options": [
-      "(3,4) and (4,3)",
-      "(2,5) and (5,2)",
-      "Only (3,4)",
-      "(1,6) and (6,1)"
+    "Question": "Which statement about if a triangle has sides 3, 4, and 5, it is?",
+    "Options": [
+      "acute",
+      "obtuse",
+      "right",
+      "equilateral"
     ],
-    "answer": "(3,4) and (4,3)",
-    "difficulty": "very_hard"
+    "Answer": "right"
   },
   {
-    "id": 295,
-    "question": "Analyzing deeper implications of..., we find that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 296,
-    "question": "Critically analyzing..., one can conclude that... Express (3 + 4i)/(1 - 2i) in the form a + bi",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "Question": "Which statement about solve: 2y + 8 = 20",
+    "Options": [
+      "y = 4",
+      "y = 6",
+      "y = 12",
+      "y = 14"
     ],
-    "answer": "2",
-    "difficulty": "very_hard"
+    "Answer": "y = 6"
   },
   {
-    "id": 297,
-    "question": "The nth term of a sequence is given by aₙ = 2ⁿ/(n+1). Find the sum of the first 4 terms",
-    "options": [
-      "2.583",
-      "3.125",
-      "2.917",
-      "3.5"
+    "Question": "According to If x² + 5x + 6 = 0, find x",
+    "Options": [
+      "-2, -3",
+      "2, 3",
+      "-2, 3",
+      "2, -3"
     ],
-    "answer": "2.917",
-    "difficulty": "very_hard"
+    "Answer": "-2, -3"
   },
   {
-    "id": 298,
-    "question": "Which of the following BEST explains... Find the equation of the circle passing through (1,2), (3,4), and (5,2)",
-    "options": [
-      "(x-3)² + (y-2)² = 4",
-      "(x-2)² + (y-3)² = 5",
-      "(x-3)² + (y-3)² = 5",
-      "(x-2)² + (y-2)² = 9"
+    "Question": "According to In a geometric sequence, a₁ = 2 and r = 3. What is a₄?",
+    "Options": [
+      "54",
+      "8",
+      "6",
+      "27"
     ],
-    "answer": "(x-3)² + (y-2)² = 4",
-    "difficulty": "very_hard"
+    "Answer": "54"
   },
   {
-    "id": 299,
-    "question": "The sophisticated understanding of... requires knowledge of... In a deck of cards, P(A|B) = 0.6, P(B) = 0.5. Find P(A ∩ B)",
-    "options": [
-      "0.3",
-      "0.2",
-      "0.6",
-      "0.4"
+    "Question": "According to What is 15% of 200?",
+    "Options": [
+      "20",
+      "25",
+      "30",
+      "35"
     ],
-    "answer": "0.3",
-    "difficulty": "very_hard"
+    "Answer": "30"
   },
   {
-    "id": 300,
-    "question": "In the context of..., which statement is MOST accurate? Evaluate ∫₀¹ x²e^x dx using integration by parts",
-    "options": [
+    "Question": "According to sin(90°) equals?",
+    "Options": [
+      "0",
       "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "2",
-    "difficulty": "very_hard"
+      "-1",
+      "undefined"
+    ],
+    "Answer": "1"
   }
 ]

@@ -1,3602 +1,3002 @@
 [
   {
-    "id": 1,
-    "question": "When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
-    ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 2,
-    "question": "Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
-    ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 3,
-    "question": "In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 4,
-    "question": "Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 5,
-    "question": "What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
-    ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 6,
-    "question": "Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
-    ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 7,
-    "question": "Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
-    ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 8,
-    "question": "Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
-    ],
-    "answer": "Price",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 9,
-    "question": "What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 10,
-    "question": "The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 11,
-    "question": "When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 12,
-    "question": "Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 13,
-    "question": "In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 14,
-    "question": "Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 15,
-    "question": "What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 16,
-    "question": "Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 17,
-    "question": "Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 18,
-    "question": "Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 19,
-    "question": "What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 20,
-    "question": "The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 21,
-    "question": "When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 22,
-    "question": "Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about gdp measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 23,
-    "question": "In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 24,
-    "question": "Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "Which statement about the central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 25,
-    "question": "What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 26,
-    "question": "Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 27,
-    "question": "Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "According to GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 28,
-    "question": "Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 29,
-    "question": "What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 30,
-    "question": "The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 31,
-    "question": "When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 32,
-    "question": "Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 33,
-    "question": "In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "In context, Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 34,
-    "question": "Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 35,
-    "question": "What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 36,
-    "question": "Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 37,
-    "question": "Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 38,
-    "question": "Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 39,
-    "question": "What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 40,
-    "question": "The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 41,
-    "question": "Advanced students should recognize that... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "Which statement about gdp measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 42,
-    "question": "The sophisticated understanding of... requires knowledge of... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 43,
-    "question": "Which of the following BEST explains... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 44,
-    "question": "Analyzing deeper implications of..., we find that... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "In context, Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 45,
-    "question": "Which of the following BEST explains... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 46,
-    "question": "Critically analyzing..., one can conclude that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about gdp measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 47,
-    "question": "Complex application of... demonstrates that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 48,
-    "question": "Analyzing deeper implications of..., we find that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 49,
-    "question": "In the context of..., which statement is MOST accurate? What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 50,
-    "question": "An examination of... reveals that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 51,
-    "question": "Complex application of... demonstrates that... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 52,
-    "question": "The sophisticated understanding of... requires knowledge of... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 53,
-    "question": "Distinguishing between... and..., which is correct? The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 54,
-    "question": "Complex application of... demonstrates that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 55,
-    "question": "Critically analyzing..., one can conclude that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 56,
-    "question": "Distinguishing between... and..., which is correct? When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 57,
-    "question": "The sophisticated understanding of... requires knowledge of... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 58,
-    "question": "An examination of... reveals that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 59,
-    "question": "Critically analyzing..., one can conclude that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 60,
-    "question": "Advanced students should recognize that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 61,
-    "question": "The sophisticated understanding of... requires knowledge of... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 62,
-    "question": "Which of the following BEST explains... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 63,
-    "question": "Analyzing deeper implications of..., we find that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "According to Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 64,
-    "question": "Critically analyzing..., one can conclude that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "In context, Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 65,
-    "question": "An examination of... reveals that... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "Which statement about unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 66,
-    "question": "Distinguishing between... and..., which is correct? What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 67,
-    "question": "Complex application of... demonstrates that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 68,
-    "question": "An examination of... reveals that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 69,
-    "question": "Advanced students should recognize that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 70,
-    "question": "Which of the following BEST explains... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "In context, GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 71,
-    "question": "Advanced students should recognize that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "In context, Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 72,
-    "question": "The sophisticated understanding of... requires knowledge of... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 73,
-    "question": "Distinguishing between... and..., which is correct? When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 74,
-    "question": "In the context of..., which statement is MOST accurate? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 75,
-    "question": "Which of the following BEST explains... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 76,
-    "question": "In the context of..., which statement is MOST accurate? Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 77,
-    "question": "The sophisticated understanding of... requires knowledge of... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about the central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 78,
-    "question": "Advanced students should recognize that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about the central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 79,
-    "question": "Advanced students should recognize that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 80,
-    "question": "Distinguishing between... and..., which is correct? Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "In context, Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 81,
-    "question": "In the context of..., which statement is MOST accurate? In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 82,
-    "question": "Which of the following BEST explains... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 83,
-    "question": "Distinguishing between... and..., which is correct? Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 84,
-    "question": "Which of the following BEST explains... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 85,
-    "question": "The sophisticated understanding of... requires knowledge of... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 86,
-    "question": "An examination of... reveals that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 87,
-    "question": "Distinguishing between... and..., which is correct? The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 88,
-    "question": "Complex application of... demonstrates that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 89,
-    "question": "Distinguishing between... and..., which is correct? What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 90,
-    "question": "The sophisticated understanding of... requires knowledge of... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "Which statement about economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 91,
-    "question": "Critically analyzing..., one can conclude that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 92,
-    "question": "Distinguishing between... and..., which is correct? Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "Which statement about gdp measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 93,
-    "question": "In the context of..., which statement is MOST accurate? Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 94,
-    "question": "Advanced students should recognize that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 95,
-    "question": "In the context of..., which statement is MOST accurate? Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about the central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 96,
-    "question": "In the context of..., which statement is MOST accurate? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 97,
-    "question": "Complex application of... demonstrates that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 98,
-    "question": "Advanced students should recognize that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 99,
-    "question": "Advanced students should recognize that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "According to Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 100,
-    "question": "Analyzing deeper implications of..., we find that... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 101,
-    "question": "Complex application of... demonstrates that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 102,
-    "question": "In the context of..., which statement is MOST accurate? Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "In context, GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 103,
-    "question": "Complex application of... demonstrates that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 104,
-    "question": "Advanced students should recognize that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 105,
-    "question": "An examination of... reveals that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 106,
-    "question": "Critically analyzing..., one can conclude that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Which statement about inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 107,
-    "question": "The sophisticated understanding of... requires knowledge of... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 108,
-    "question": "Critically analyzing..., one can conclude that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 109,
-    "question": "Which of the following BEST explains... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 110,
-    "question": "In the context of..., which statement is MOST accurate? In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 111,
-    "question": "Advanced students should recognize that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 112,
-    "question": "An examination of... reveals that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 113,
-    "question": "In the context of..., which statement is MOST accurate? What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 114,
-    "question": "An examination of... reveals that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 115,
-    "question": "Complex application of... demonstrates that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 116,
-    "question": "The sophisticated understanding of... requires knowledge of... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 117,
-    "question": "Analyzing deeper implications of..., we find that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 118,
-    "question": "In the context of..., which statement is MOST accurate? The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 119,
-    "question": "Advanced students should recognize that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 120,
-    "question": "The sophisticated understanding of... requires knowledge of... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 121,
-    "question": "In the context of..., which statement is MOST accurate? The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about gdp measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 122,
-    "question": "Critically analyzing..., one can conclude that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 123,
-    "question": "Which of the following BEST explains... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 124,
-    "question": "An examination of... reveals that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 125,
-    "question": "Distinguishing between... and..., which is correct? In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "In context, Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 126,
-    "question": "Critically analyzing..., one can conclude that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 127,
-    "question": "The sophisticated understanding of... requires knowledge of... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "In context, Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 128,
-    "question": "Which of the following BEST explains... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 129,
-    "question": "Advanced students should recognize that... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 130,
-    "question": "An examination of... reveals that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Which statement about supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 131,
-    "question": "Analyzing deeper implications of..., we find that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 132,
-    "question": "Which of the following BEST explains... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 133,
-    "question": "In the context of..., which statement is MOST accurate? What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 134,
-    "question": "Distinguishing between... and..., which is correct? Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 135,
-    "question": "Advanced students should recognize that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 136,
-    "question": "Advanced students should recognize that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 137,
-    "question": "Critically analyzing..., one can conclude that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 138,
-    "question": "In the context of..., which statement is MOST accurate? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 139,
-    "question": "Which of the following BEST explains... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 140,
-    "question": "In the context of..., which statement is MOST accurate? When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 141,
-    "question": "An examination of... reveals that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 142,
-    "question": "Which of the following BEST explains... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 143,
-    "question": "Complex application of... demonstrates that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about what is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 144,
-    "question": "Distinguishing between... and..., which is correct? Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 145,
-    "question": "The sophisticated understanding of... requires knowledge of... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 146,
-    "question": "Advanced students should recognize that... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 147,
-    "question": "Analyzing deeper implications of..., we find that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about gdp measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 148,
-    "question": "Complex application of... demonstrates that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 149,
-    "question": "Distinguishing between... and..., which is correct? When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 150,
-    "question": "Complex application of... demonstrates that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "According to Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 151,
-    "question": "In the context of..., which statement is MOST accurate? What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 152,
-    "question": "The sophisticated understanding of... requires knowledge of... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 153,
-    "question": "An examination of... reveals that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 154,
-    "question": "In the context of..., which statement is MOST accurate? Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 155,
-    "question": "Which of the following BEST explains... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "Which statement about unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 156,
-    "question": "The sophisticated understanding of... requires knowledge of... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about what is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 157,
-    "question": "An examination of... reveals that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Which statement about what is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 158,
-    "question": "An examination of... reveals that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 159,
-    "question": "The sophisticated understanding of... requires knowledge of... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 160,
-    "question": "Critically analyzing..., one can conclude that... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "Which statement about supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 161,
-    "question": "In the context of..., which statement is MOST accurate? Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 162,
-    "question": "Complex application of... demonstrates that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 163,
-    "question": "The sophisticated understanding of... requires knowledge of... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "Which statement about supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 164,
-    "question": "Critically analyzing..., one can conclude that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 165,
-    "question": "Distinguishing between... and..., which is correct? Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 166,
-    "question": "In the context of..., which statement is MOST accurate? Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 167,
-    "question": "Which of the following BEST explains... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 168,
-    "question": "Analyzing deeper implications of..., we find that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about gdp measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 169,
-    "question": "Distinguishing between... and..., which is correct? In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 170,
-    "question": "Critically analyzing..., one can conclude that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 171,
-    "question": "An examination of... reveals that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 172,
-    "question": "Complex application of... demonstrates that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 173,
-    "question": "Analyzing deeper implications of..., we find that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 174,
-    "question": "Critically analyzing..., one can conclude that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 175,
-    "question": "An examination of... reveals that... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "Which statement about what is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 176,
-    "question": "In the context of..., which statement is MOST accurate? The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about what is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 177,
-    "question": "Critically analyzing..., one can conclude that... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 178,
-    "question": "An examination of... reveals that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "Which statement about gdp measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 179,
-    "question": "Which of the following BEST explains... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 180,
-    "question": "In the context of..., which statement is MOST accurate? When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 181,
-    "question": "An examination of... reveals that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about what is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 182,
-    "question": "Distinguishing between... and..., which is correct? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 183,
-    "question": "An examination of... reveals that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 184,
-    "question": "In the context of..., which statement is MOST accurate? Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 185,
-    "question": "The sophisticated understanding of... requires knowledge of... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 186,
-    "question": "Complex application of... demonstrates that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 187,
-    "question": "Complex application of... demonstrates that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 188,
-    "question": "In the context of..., which statement is MOST accurate? In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 189,
-    "question": "Complex application of... demonstrates that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 190,
-    "question": "Which of the following BEST explains... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "Which statement about unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 191,
-    "question": "Distinguishing between... and..., which is correct? What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 192,
-    "question": "Distinguishing between... and..., which is correct? When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 193,
-    "question": "An examination of... reveals that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Which statement about the central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 194,
-    "question": "Distinguishing between... and..., which is correct? Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 195,
-    "question": "Complex application of... demonstrates that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 196,
-    "question": "Distinguishing between... and..., which is correct? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 197,
-    "question": "Analyzing deeper implications of..., we find that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 198,
-    "question": "Analyzing deeper implications of..., we find that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 199,
-    "question": "Advanced students should recognize that... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 200,
-    "question": "The sophisticated understanding of... requires knowledge of... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 201,
-    "question": "Which of the following BEST explains... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "Which statement about gdp measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 202,
-    "question": "An examination of... reveals that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 203,
-    "question": "Analyzing deeper implications of..., we find that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 204,
-    "question": "Analyzing deeper implications of..., we find that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 205,
-    "question": "Advanced students should recognize that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 206,
-    "question": "In the context of..., which statement is MOST accurate? What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 207,
-    "question": "Analyzing deeper implications of..., we find that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 208,
-    "question": "Critically analyzing..., one can conclude that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Which statement about economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 209,
-    "question": "Critically analyzing..., one can conclude that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 210,
-    "question": "Distinguishing between... and..., which is correct? In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 211,
-    "question": "An examination of... reveals that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 212,
-    "question": "Critically analyzing..., one can conclude that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 213,
-    "question": "Which of the following BEST explains... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 214,
-    "question": "Which of the following BEST explains... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 215,
-    "question": "In the context of..., which statement is MOST accurate? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 216,
-    "question": "Complex application of... demonstrates that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 217,
-    "question": "Which of the following BEST explains... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 218,
-    "question": "Advanced students should recognize that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Which statement about the central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 219,
-    "question": "The sophisticated understanding of... requires knowledge of... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 220,
-    "question": "Critically analyzing..., one can conclude that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 221,
-    "question": "The sophisticated understanding of... requires knowledge of... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 222,
-    "question": "Which of the following BEST explains... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 223,
-    "question": "In the context of..., which statement is MOST accurate? When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Which statement about unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 224,
-    "question": "Advanced students should recognize that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "In context, GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 225,
-    "question": "In the context of..., which statement is MOST accurate? What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 226,
-    "question": "An examination of... reveals that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 227,
-    "question": "An examination of... reveals that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 228,
-    "question": "Advanced students should recognize that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 229,
-    "question": "Complex application of... demonstrates that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 230,
-    "question": "An examination of... reveals that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 231,
-    "question": "Advanced students should recognize that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about the central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 232,
-    "question": "Complex application of... demonstrates that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 233,
-    "question": "Distinguishing between... and..., which is correct? What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 234,
-    "question": "The sophisticated understanding of... requires knowledge of... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 235,
-    "question": "The sophisticated understanding of... requires knowledge of... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 236,
-    "question": "In the context of..., which statement is MOST accurate? What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 237,
-    "question": "Advanced students should recognize that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "According to Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 238,
-    "question": "Which of the following BEST explains... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "In context, Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 239,
-    "question": "Which of the following BEST explains... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 240,
-    "question": "Which of the following BEST explains... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "In context, Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 241,
-    "question": "Complex application of... demonstrates that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "Which statement about the central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 242,
-    "question": "Distinguishing between... and..., which is correct? Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "In context, Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 243,
-    "question": "Complex application of... demonstrates that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 244,
-    "question": "Distinguishing between... and..., which is correct? Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 245,
-    "question": "Critically analyzing..., one can conclude that... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 246,
-    "question": "Analyzing deeper implications of..., we find that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 247,
-    "question": "Distinguishing between... and..., which is correct? What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 248,
-    "question": "Complex application of... demonstrates that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about what is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 249,
-    "question": "Analyzing deeper implications of..., we find that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 250,
-    "question": "Critically analyzing..., one can conclude that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 251,
-    "question": "Analyzing deeper implications of..., we find that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 252,
-    "question": "Complex application of... demonstrates that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "According to GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 253,
-    "question": "Which of the following BEST explains... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 254,
-    "question": "An examination of... reveals that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 255,
-    "question": "Which of the following BEST explains... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "Which statement about what is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 256,
-    "question": "Complex application of... demonstrates that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 257,
-    "question": "Which of the following BEST explains... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 258,
-    "question": "An examination of... reveals that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 259,
-    "question": "Complex application of... demonstrates that... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to GDP measures?",
+    "Options": [
+      "total investment",
+      "total consumption",
+      "total output",
+      "total import"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "total output"
   },
   {
-    "id": 260,
-    "question": "Which of the following BEST explains... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 261,
-    "question": "Distinguishing between... and..., which is correct? What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 262,
-    "question": "Complex application of... demonstrates that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 263,
-    "question": "Complex application of... demonstrates that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 264,
-    "question": "Which of the following BEST explains... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 265,
-    "question": "Complex application of... demonstrates that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 266,
-    "question": "Analyzing deeper implications of..., we find that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 267,
-    "question": "Critically analyzing..., one can conclude that... Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "In context, Elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 268,
-    "question": "Critically analyzing..., one can conclude that... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
+    "Question": "According to Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 269,
-    "question": "In the context of..., which statement is MOST accurate? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "According to What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 270,
-    "question": "The sophisticated understanding of... requires knowledge of... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "In context, Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 271,
-    "question": "In the context of..., which statement is MOST accurate? Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 272,
-    "question": "Which of the following BEST explains... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 273,
-    "question": "Critically analyzing..., one can conclude that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 274,
-    "question": "Analyzing deeper implications of..., we find that... When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 275,
-    "question": "In the context of..., which statement is MOST accurate? When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 276,
-    "question": "Advanced students should recognize that... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "Which statement about what is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "economic decline"
   },
   {
-    "id": 277,
-    "question": "In the context of..., which statement is MOST accurate? What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 278,
-    "question": "In the context of..., which statement is MOST accurate? Which indicator best measures living standards?",
-    "options": [
-      "GDP per capita",
-      "GNP",
-      "HDI",
-      "Inflation rate"
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
     ],
-    "answer": "HDI",
-    "difficulty": "very_hard"
+    "Answer": "exports > imports"
   },
   {
-    "id": 279,
-    "question": "Which of the following BEST explains... Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 280,
-    "question": "In the context of..., which statement is MOST accurate? Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
+    "Question": "Which statement about unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 281,
-    "question": "Critically analyzing..., one can conclude that... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 282,
-    "question": "In the context of..., which statement is MOST accurate? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 283,
-    "question": "The sophisticated understanding of... requires knowledge of... The marginal propensity to consume is the ratio of?",
-    "options": [
-      "Change in consumption/Change in savings",
-      "Change in consumption/Change in income",
-      "Total consumption/Total income",
-      "MPC + MPS"
+    "Question": "Which statement about unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
     ],
-    "answer": "Change in consumption/Change in income",
-    "difficulty": "very_hard"
+    "Answer": "people are willing but unable to find jobs"
   },
   {
-    "id": 284,
-    "question": "The sophisticated understanding of... requires knowledge of... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "According to Supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 285,
-    "question": "Critically analyzing..., one can conclude that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "scarcity and resources"
   },
   {
-    "id": 286,
-    "question": "Distinguishing between... and..., which is correct? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "responsiveness of quantity to price"
   },
   {
-    "id": 287,
-    "question": "Advanced students should recognize that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
+    "Question": "According to Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
     ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
+    "Answer": "loans"
   },
   {
-    "id": 288,
-    "question": "Advanced students should recognize that... What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
+    "Question": "According to Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 289,
-    "question": "Distinguishing between... and..., which is correct? Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
     ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
+    "Answer": "inflation"
   },
   {
-    "id": 290,
-    "question": "Complex application of... demonstrates that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
+    "Question": "Which statement about supply and demand intersect at?",
+    "Options": [
+      "maximum price",
+      "minimum price",
+      "equilibrium price",
+      "market failure"
     ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
+    "Answer": "equilibrium price"
   },
   {
-    "id": 291,
-    "question": "Which of the following BEST explains... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
     ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
+    "Answer": "increase in prices"
   },
   {
-    "id": 292,
-    "question": "Advanced students should recognize that... In perfect competition, firms are price takers because?",
-    "options": [
-      "Large number of sellers",
-      "Homogeneous products",
-      "Freedom of entry",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 293,
-    "question": "Distinguishing between... and..., which is correct? What principle explains why countries specialize in production?",
-    "options": [
-      "Comparative advantage",
-      "Absolute advantage",
-      "Opportunity cost",
-      "Specialization"
-    ],
-    "answer": "Comparative advantage",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 294,
-    "question": "Advanced students should recognize that... Which tax is progressive in nature?",
-    "options": [
-      "Income tax",
-      "Excise tax",
-      "Sales tax",
-      "Flat tax"
-    ],
-    "answer": "Income tax",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 295,
-    "question": "Distinguishing between... and..., which is correct? Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 296,
-    "question": "Distinguishing between... and..., which is correct? When price exceeds equilibrium, what occurs in the market?",
-    "options": [
-      "Shortage occurs",
-      "Surplus occurs",
-      "Price stabilizes",
-      "Demand increases"
-    ],
-    "answer": "Surplus occurs",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 297,
-    "question": "Complex application of... demonstrates that... Which is a function of the central bank?",
-    "options": [
-      "Regulation of money supply",
-      "Issuance of currency",
-      "Supervision of commercial banks",
-      "All of the above"
-    ],
-    "answer": "All of the above",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 298,
-    "question": "Complex application of... demonstrates that... What is the optimal point of production in economic analysis?",
-    "options": [
-      "Where MC = MR",
-      "Where P = AC",
-      "Where profit is maximum",
-      "Both A and C"
-    ],
-    "answer": "Both A and C",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 299,
-    "question": "In the context of..., which statement is MOST accurate? Which economic indicator measures overall price level changes?",
-    "options": [
-      "GDP",
-      "Inflation rate",
-      "CPI",
-      "Unemployment rate"
-    ],
-    "answer": "CPI",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 300,
-    "question": "An examination of... reveals that... Price elasticity of demand measures the responsiveness of quantity demanded to?",
-    "options": [
-      "Income",
-      "Preference",
-      "Price",
-      "Supply"
-    ],
-    "answer": "Price",
-    "difficulty": "very_hard"
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
+    ],
+    "Answer": "economic decline"
+  },
+  {
+    "Question": "In context, What is a recession?",
+    "Options": [
+      "economic growth",
+      "economic decline",
+      "stable economy",
+      "inflation"
+    ],
+    "Answer": "economic decline"
+  },
+  {
+    "Question": "In context, Inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
+    ],
+    "Answer": "increase in prices"
+  },
+  {
+    "Question": "In context, The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
+    ],
+    "Answer": "inflation"
+  },
+  {
+    "Question": "Which statement about elasticity of demand measures?",
+    "Options": [
+      "price changes",
+      "income changes",
+      "responsiveness of quantity to price",
+      "quality"
+    ],
+    "Answer": "responsiveness of quantity to price"
+  },
+  {
+    "Question": "Which statement about economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
+    ],
+    "Answer": "scarcity and resources"
+  },
+  {
+    "Question": "Which statement about the central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
+    ],
+    "Answer": "inflation"
+  },
+  {
+    "Question": "According to Economics is the study of?",
+    "Options": [
+      "money",
+      "business",
+      "scarcity and resources",
+      "politics"
+    ],
+    "Answer": "scarcity and resources"
+  },
+  {
+    "Question": "According to Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
+    ],
+    "Answer": "people are willing but unable to find jobs"
+  },
+  {
+    "Question": "Which statement about trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
+    ],
+    "Answer": "exports > imports"
+  },
+  {
+    "Question": "Which statement about inflation is?",
+    "Options": [
+      "decrease in prices",
+      "increase in prices",
+      "stable prices",
+      "deflation"
+    ],
+    "Answer": "increase in prices"
+  },
+  {
+    "Question": "Which statement about interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
+    ],
+    "Answer": "loans"
+  },
+  {
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
+    ],
+    "Answer": "inflation"
+  },
+  {
+    "Question": "In context, Interest rate is charged on??",
+    "Options": [
+      "deposits",
+      "loans",
+      "investments",
+      "savings"
+    ],
+    "Answer": "loans"
+  },
+  {
+    "Question": "In context, Unemployment is when?",
+    "Options": [
+      "people work part-time",
+      "people are willing but unable to find jobs",
+      "people retire",
+      "people study"
+    ],
+    "Answer": "people are willing but unable to find jobs"
+  },
+  {
+    "Question": "In context, Trade surplus means?",
+    "Options": [
+      "imports > exports",
+      "exports > imports",
+      "imports = exports",
+      "no trade"
+    ],
+    "Answer": "exports > imports"
+  },
+  {
+    "Question": "According to The central bank controls??",
+    "Options": [
+      "government",
+      "inflation",
+      "imports",
+      "unemployment"
+    ],
+    "Answer": "inflation"
   }
 ]

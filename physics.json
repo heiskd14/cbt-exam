@@ -1,3602 +1,3002 @@
 [
   {
-    "id": 1,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
-    ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 2,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
-    ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 3,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
-    ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 4,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
-    ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 5,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
-    ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 6,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
-    ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 7,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
-    ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 8,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
-    ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 9,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 10,
-    "question": "An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 11,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 12,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 13,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 14,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 15,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "An ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 16,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 17,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 18,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 19,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 20,
-    "question": "An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 21,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "According to What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 22,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about what is the si unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 23,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 24,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 25,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 26,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 27,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, An ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 28,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 29,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 30,
-    "question": "An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 31,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 32,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 33,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 34,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 35,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 36,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 37,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 38,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 39,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 40,
-    "question": "An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 41,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "Which statement about what does newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 42,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 43,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 44,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 45,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about the angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 46,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "According to What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 47,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 48,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 49,
-    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 50,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 51,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 52,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "According to What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 53,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 54,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 55,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 56,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about the angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 57,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "In context, What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 58,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "In context, What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 59,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 60,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 61,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "According to The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 62,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 63,
-    "question": "Distinguishing between... and..., which is correct? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 64,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "According to The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 65,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "According to What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 66,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about the frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 67,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 68,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 69,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 70,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 71,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 72,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "In context, What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 73,
-    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "In context, The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 74,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about what is the si unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 75,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "According to The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 76,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 77,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 78,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 79,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 80,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 81,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about what is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 82,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "Which statement about what is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 83,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 84,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "In context, The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 85,
-    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 86,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 87,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 88,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "In context, The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 89,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 90,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 91,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "According to What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 92,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 93,
-    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 94,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 95,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about what does newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 96,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "According to What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 97,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 98,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about what does newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 99,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 100,
-    "question": "An examination of... reveals that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 101,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 102,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 103,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 104,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 105,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "In context, What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 106,
-    "question": "Critically analyzing..., one can conclude that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 107,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 108,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 109,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 110,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 111,
-    "question": "The sophisticated understanding of... requires knowledge of... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 112,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "According to The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 113,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "According to The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 114,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "According to What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 115,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 116,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "In context, The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 117,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 118,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 119,
-    "question": "Advanced students should recognize that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 120,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 121,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "Which statement about the angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 122,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 123,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 124,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 125,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 126,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 127,
-    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 128,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "In context, The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 129,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 130,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 131,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 132,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 133,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to An ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 134,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 135,
-    "question": "Analyzing deeper implications of..., we find that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 136,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "Which statement about the frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 137,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about the angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 138,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 139,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about the angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 140,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "In context, The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 141,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 142,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 143,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 144,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "Which statement about what does newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 145,
-    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 146,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "Which statement about what is the si unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 147,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 148,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about what is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 149,
-    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 150,
-    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 151,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 152,
-    "question": "Advanced students should recognize that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 153,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 154,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 155,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "According to An ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 156,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 157,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 158,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "In context, What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 159,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "Which statement about the frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 160,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "According to The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 161,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 162,
-    "question": "Distinguishing between... and..., which is correct? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 163,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 164,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 165,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 166,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 167,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 168,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 169,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about the frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 170,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 171,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 172,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 173,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 174,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 175,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 176,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "According to What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 177,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "Which statement about what is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 178,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 179,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "In context, What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 180,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 181,
-    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 182,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 183,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 184,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 185,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 186,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about what does newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 187,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "According to What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 188,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 189,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about what is the si unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 190,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 191,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 192,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about what does newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 193,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 194,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 195,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 196,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 197,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "In context, What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 198,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 199,
-    "question": "An examination of... reveals that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 200,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "In context, What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 201,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 202,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 203,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 204,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 205,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 206,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "Which statement about the angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 207,
-    "question": "Advanced students should recognize that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 208,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 209,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 210,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 211,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "Which statement about what is the si unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 212,
-    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 213,
-    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to An ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 214,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 215,
-    "question": "Distinguishing between... and..., which is correct? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 216,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 217,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 218,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 219,
-    "question": "In the context of..., which statement is MOST accurate? An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 220,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 221,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 222,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 223,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 224,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "In context, The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 225,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 226,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 227,
-    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about what is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 228,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 229,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about the angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 230,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 231,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 232,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "Which statement about what is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 233,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "Which statement about what does newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 234,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 235,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 236,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 237,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "In context, An ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 238,
-    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about the frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 239,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 240,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 241,
-    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 242,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 243,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 244,
-    "question": "Which of the following BEST explains... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 245,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 246,
-    "question": "Advanced students should recognize that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "According to The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 247,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 248,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 249,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "According to The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 250,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 251,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 252,
-    "question": "An examination of... reveals that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "Which statement about the frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 253,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "According to The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 254,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 255,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "According to The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 256,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 257,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 258,
-    "question": "An examination of... reveals that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 259,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 260,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 261,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 262,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 263,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, An ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "resistance"
   },
   {
-    "id": 264,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 265,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "Which statement about the frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 266,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 267,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about the frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 268,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 269,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
+    "Question": "According to What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 270,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "Which statement about the angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 271,
-    "question": "Complex application of... demonstrates that... An object moving at 0.8c has rest mass 10kg. Calculate its relativistic mass",
-    "options": [
-      "16.67 kg",
-      "20 kg",
-      "25 kg",
-      "22.5 kg"
+    "Question": "In context, The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "25 kg",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 272,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "Which statement about what is the si unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 273,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 274,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 275,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "In context, The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 276,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, The angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 277,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
+    "Question": "In context, The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
     ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Answer": "wavelength"
   },
   {
-    "id": 278,
-    "question": "A transverse wave has frequency 50Hz and wavelength 0.4m. Calculate wave velocity",
-    "options": [
-      "20 m/s",
-      "12.5 m/s",
-      "50 m/s",
-      "200 m/s"
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "20 m/s",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 279,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "In context, What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 280,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 281,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 282,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "In context, What does Newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Object stays at rest unless acted upon"
   },
   {
-    "id": 283,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "Newton"
   },
   {
-    "id": 284,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 285,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
+    "Question": "Which statement about the speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
     ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
+    "Answer": "3 × 10⁸ m/s"
   },
   {
-    "id": 286,
-    "question": "A current-carrying conductor in magnetic field B experiences force F. If current doubled and B tripled, force becomes",
-    "options": [
-      "Multiplied by 6",
-      "Multiplied by 3",
-      "Doubled",
-      "Remains same"
+    "Question": "According to Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
     ],
-    "answer": "Multiplied by 6",
-    "difficulty": "very_hard"
+    "Answer": "displacement/time"
   },
   {
-    "id": 287,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
+    "Question": "Which statement about the angle of incidence equals the angle of?",
+    "Options": [
+      "refraction",
+      "reflection",
+      "diffraction",
+      "absorption"
     ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
+    "Answer": "reflection"
   },
   {
-    "id": 288,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "According to What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "-273.15°C"
   },
   {
-    "id": 289,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "According to Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 290,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
     ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
+    "Answer": "force/area"
   },
   {
-    "id": 291,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
+    "Question": "According to What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
     ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
+    "Answer": "½mv²"
   },
   {
-    "id": 292,
-    "question": "An electron transitions from n=4 to n=1 in hydrogen. Calculate the frequency of emitted photon",
-    "options": [
-      "3.3 × 10¹⁵ Hz",
-      "2.5 × 10¹⁵ Hz",
-      "4.1 × 10¹⁵ Hz",
-      "1.8 × 10¹⁵ Hz"
-    ],
-    "answer": "3.3 × 10¹⁵ Hz",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 293,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
-    ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 294,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
-    ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 295,
-    "question": "A particle undergoes SHM with equation x = 5cos(πt/2). Calculate maximum acceleration",
-    "options": [
-      "12.34 m/s²",
-      "7.85 m/s²",
-      "24.67 m/s²",
-      "15.5 m/s²"
-    ],
-    "answer": "24.67 m/s²",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 296,
-    "question": "In photoelectric effect, if stopping potential is 2.5V for incident frequency 6×10¹⁴Hz, find work function",
-    "options": [
-      "2.44 eV",
-      "1.23 eV",
-      "3.5 eV",
-      "2.0 eV"
-    ],
-    "answer": "2.44 eV",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 297,
-    "question": "Two objects collide elastically. Initial velocities: v₁=10 m/s, v₂=0. Masses equal. Find final velocities",
-    "options": [
-      "5 m/s, 5 m/s",
-      "0 m/s, 10 m/s",
-      "10 m/s, 0 m/s",
-      "7 m/s, 3 m/s"
-    ],
-    "answer": "0 m/s, 10 m/s",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 298,
-    "question": "In a Carnot engine operating between 500K and 300K, if heat absorbed is 5000J, calculate work output",
-    "options": [
-      "2000 J",
-      "3000 J",
-      "1500 J",
-      "2500 J"
-    ],
-    "answer": "2000 J",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 299,
-    "question": "A concave lens with focal length -20cm forms an image at 30cm from lens. Calculate object distance",
-    "options": [
-      "-60 cm",
-      "60 cm",
-      "-45 cm",
-      "45 cm"
-    ],
-    "answer": "-60 cm",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 300,
-    "question": "Three capacitors of 2µF, 3µF, 6µF connected in series. Calculate equivalent capacitance",
-    "options": [
-      "1 µF",
-      "0.86 µF",
-      "11 µF",
-      "0.5 µF"
-    ],
-    "answer": "0.86 µF",
-    "difficulty": "very_hard"
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
+    ],
+    "Answer": "force/area"
+  },
+  {
+    "Question": "In context, What is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
+    ],
+    "Answer": "-273.15°C"
+  },
+  {
+    "Question": "Which statement about what is the si unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
+    ],
+    "Answer": "Newton"
+  },
+  {
+    "Question": "Which statement about what is the temperature at absolute zero?",
+    "Options": [
+      "0°C",
+      "0°F",
+      "-273.15°C",
+      "100°C"
+    ],
+    "Answer": "-273.15°C"
+  },
+  {
+    "Question": "In context, The speed of light in vacuum is?",
+    "Options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁷ m/s",
+      "3 × 10⁸ m/s",
+      "3 × 10⁹ m/s"
+    ],
+    "Answer": "3 × 10⁸ m/s"
+  },
+  {
+    "Question": "In context, Velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
+    ],
+    "Answer": "displacement/time"
+  },
+  {
+    "Question": "According to An ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
+    ],
+    "Answer": "resistance"
+  },
+  {
+    "Question": "Which statement about what does newton's first law state?",
+    "Options": [
+      "F = ma",
+      "Action equals reaction",
+      "Object stays at rest unless acted upon",
+      "Energy is conserved"
+    ],
+    "Answer": "Object stays at rest unless acted upon"
+  },
+  {
+    "Question": "In context, What is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
+    ],
+    "Answer": "½mv²"
+  },
+  {
+    "Question": "According to The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
+    ],
+    "Answer": "wavelength"
+  },
+  {
+    "Question": "According to What is the SI unit of force?",
+    "Options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
+    ],
+    "Answer": "Newton"
+  },
+  {
+    "Question": "Which statement about an ohm is the unit of?",
+    "Options": [
+      "current",
+      "resistance",
+      "voltage",
+      "power"
+    ],
+    "Answer": "resistance"
+  },
+  {
+    "Question": "According to The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
+    ],
+    "Answer": "wavelength"
+  },
+  {
+    "Question": "Which statement about what is the formula for kinetic energy?",
+    "Options": [
+      "mgh",
+      "½mv²",
+      "Fd",
+      "qV"
+    ],
+    "Answer": "½mv²"
+  },
+  {
+    "Question": "Which statement about velocity is?",
+    "Options": [
+      "speed",
+      "distance/time",
+      "displacement/time",
+      "acceleration"
+    ],
+    "Answer": "displacement/time"
+  },
+  {
+    "Question": "In context, Pressure is defined as?",
+    "Options": [
+      "force × area",
+      "force/area",
+      "mass × area",
+      "volume/area"
+    ],
+    "Answer": "force/area"
+  },
+  {
+    "Question": "According to The frequency of a wave is inversely proportional to?",
+    "Options": [
+      "amplitude",
+      "speed",
+      "wavelength",
+      "intensity"
+    ],
+    "Answer": "wavelength"
   }
 ]

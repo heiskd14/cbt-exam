@@ -1,3602 +1,3002 @@
 [
   {
-    "id": 1,
-    "question": "An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 2,
-    "question": "In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 3,
-    "question": "Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 4,
-    "question": "Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
+    "Question": "The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 5,
-    "question": "Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 6,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 7,
-    "question": "Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 8,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 9,
-    "question": "ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 10,
-    "question": "A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 11,
-    "question": "An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 12,
-    "question": "In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 13,
-    "question": "Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 14,
-    "question": "Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "According to The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "Which statement about h₂o₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 15,
-    "question": "Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 16,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 17,
-    "question": "Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 18,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 19,
-    "question": "ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 20,
-    "question": "A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 21,
-    "question": "An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 22,
-    "question": "In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 23,
-    "question": "Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 24,
-    "question": "Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
-      "4",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 25,
-    "question": "Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
+    "Question": "According to Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 26,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 27,
-    "question": "Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
     ],
-    "answer": "+7",
-    "difficulty": "very_hard"
+    "Answer": "hydrogen peroxide"
   },
   {
-    "id": 28,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 29,
-    "question": "ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 30,
-    "question": "A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 31,
-    "question": "An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 32,
-    "question": "In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 33,
-    "question": "Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 34,
-    "question": "Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
-      "4",
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 35,
-    "question": "Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 36,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 37,
-    "question": "Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 38,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 39,
-    "question": "ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 40,
-    "question": "A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 41,
-    "question": "In the context of..., which statement is MOST accurate? Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
-      "4",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "According to Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "According to What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "According to The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about the ph of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 42,
-    "question": "In the context of..., which statement is MOST accurate? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 43,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 44,
-    "question": "In the context of..., which statement is MOST accurate? An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 45,
-    "question": "In the context of..., which statement is MOST accurate? ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 46,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 47,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 48,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 49,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 50,
-    "question": "In the context of..., which statement is MOST accurate? Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 51,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 52,
-    "question": "In the context of..., which statement is MOST accurate? Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 53,
-    "question": "Distinguishing between... and..., which is correct? An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 54,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 55,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 56,
-    "question": "Critically analyzing..., one can conclude that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 57,
-    "question": "Analyzing deeper implications of..., we find that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 58,
-    "question": "An examination of... reveals that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 59,
-    "question": "Complex application of... demonstrates that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 60,
-    "question": "Analyzing deeper implications of..., we find that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 61,
-    "question": "In the context of..., which statement is MOST accurate? A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 62,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 63,
-    "question": "Distinguishing between... and..., which is correct? Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 64,
-    "question": "Analyzing deeper implications of..., we find that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 65,
-    "question": "In the context of..., which statement is MOST accurate? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 66,
-    "question": "The sophisticated understanding of... requires knowledge of... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 67,
-    "question": "Which of the following BEST explains... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 68,
-    "question": "Advanced students should recognize that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "Which statement about the atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "According to What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "Which statement about the atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "According to The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "In context, The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 69,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "hydrogen peroxide"
   },
   {
-    "id": 70,
-    "question": "Complex application of... demonstrates that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 71,
-    "question": "The sophisticated understanding of... requires knowledge of... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 72,
-    "question": "Advanced students should recognize that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 73,
-    "question": "The sophisticated understanding of... requires knowledge of... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 74,
-    "question": "Critically analyzing..., one can conclude that... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 75,
-    "question": "Which of the following BEST explains... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 76,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 77,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 78,
-    "question": "Analyzing deeper implications of..., we find that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 79,
-    "question": "An examination of... reveals that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
-      "4",
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 80,
-    "question": "Critically analyzing..., one can conclude that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
+    "Question": "Which statement about the atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "In context, The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 81,
-    "question": "Which of the following BEST explains... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
+    "Question": "According to What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 82,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
+    "Question": "Which statement about what is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 83,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 84,
-    "question": "The sophisticated understanding of... requires knowledge of... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 85,
-    "question": "Analyzing deeper implications of..., we find that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
-      "4",
+    "Question": "Which statement about the ph of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 86,
-    "question": "Complex application of... demonstrates that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
     ],
-    "answer": "+7",
-    "difficulty": "very_hard"
+    "Answer": "hydrogen peroxide"
   },
   {
-    "id": 87,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 88,
-    "question": "Analyzing deeper implications of..., we find that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 89,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 90,
-    "question": "Distinguishing between... and..., which is correct? In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 91,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 92,
-    "question": "Critically analyzing..., one can conclude that... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 93,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 94,
-    "question": "Distinguishing between... and..., which is correct? In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 95,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 96,
-    "question": "In the context of..., which statement is MOST accurate? ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 97,
-    "question": "Critically analyzing..., one can conclude that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 98,
-    "question": "The sophisticated understanding of... requires knowledge of... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 99,
-    "question": "An examination of... reveals that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 100,
-    "question": "Analyzing deeper implications of..., we find that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 101,
-    "question": "Critically analyzing..., one can conclude that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 102,
-    "question": "Advanced students should recognize that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "In context, The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "In context, The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 103,
-    "question": "Complex application of... demonstrates that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 104,
-    "question": "The sophisticated understanding of... requires knowledge of... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 105,
-    "question": "Distinguishing between... and..., which is correct? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 106,
-    "question": "An examination of... reveals that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 107,
-    "question": "In the context of..., which statement is MOST accurate? Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
-      "4",
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 108,
-    "question": "Analyzing deeper implications of..., we find that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 109,
-    "question": "Distinguishing between... and..., which is correct? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
+    "Question": "Which statement about what is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 110,
-    "question": "Which of the following BEST explains... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
+    "Question": "In context, The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
     ],
-    "answer": "+7",
-    "difficulty": "very_hard"
+    "Answer": "Ca(OH)₂"
   },
   {
-    "id": 111,
-    "question": "In the context of..., which statement is MOST accurate? ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
+    "Question": "According to The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
     ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
+    "Answer": "Group 18"
   },
   {
-    "id": 112,
-    "question": "Analyzing deeper implications of..., we find that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
+    "Question": "According to What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 113,
-    "question": "An examination of... reveals that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 114,
-    "question": "An examination of... reveals that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
-      "4",
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 115,
-    "question": "Complex application of... demonstrates that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "+7",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 116,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
+    "Question": "According to Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 117,
-    "question": "An examination of... reveals that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "F",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 118,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
+    "Question": "In context, The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
     ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
+    "Answer": "Group 18"
   },
   {
-    "id": 119,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 120,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 121,
-    "question": "Analyzing deeper implications of..., we find that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "Which statement about h₂o₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "hydrogen peroxide"
   },
   {
-    "id": 122,
-    "question": "Complex application of... demonstrates that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
     ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 123,
-    "question": "Advanced students should recognize that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 124,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 125,
-    "question": "An examination of... reveals that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 126,
-    "question": "An examination of... reveals that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "Which statement about which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 127,
-    "question": "Which of the following BEST explains... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "According to What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 128,
-    "question": "Analyzing deeper implications of..., we find that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 129,
-    "question": "An examination of... reveals that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 130,
-    "question": "In the context of..., which statement is MOST accurate? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
     ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
+    "Answer": "hydrogen peroxide"
   },
   {
-    "id": 131,
-    "question": "Analyzing deeper implications of..., we find that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
+    "Question": "According to What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 132,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "Which statement about which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 133,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
+    "Question": "According to The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
     ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
+    "Answer": "Ca(OH)₂"
   },
   {
-    "id": 134,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 135,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 136,
-    "question": "Advanced students should recognize that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 137,
-    "question": "Advanced students should recognize that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 138,
-    "question": "An examination of... reveals that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 139,
-    "question": "Distinguishing between... and..., which is correct? ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 140,
-    "question": "An examination of... reveals that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 141,
-    "question": "Advanced students should recognize that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 142,
-    "question": "The sophisticated understanding of... requires knowledge of... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 143,
-    "question": "In the context of..., which statement is MOST accurate? Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 144,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 145,
-    "question": "Critically analyzing..., one can conclude that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 146,
-    "question": "Distinguishing between... and..., which is correct? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 147,
-    "question": "Critically analyzing..., one can conclude that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 148,
-    "question": "The sophisticated understanding of... requires knowledge of... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 149,
-    "question": "An examination of... reveals that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 150,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 151,
-    "question": "Complex application of... demonstrates that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 152,
-    "question": "Advanced students should recognize that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 153,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 154,
-    "question": "Distinguishing between... and..., which is correct? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 155,
-    "question": "Distinguishing between... and..., which is correct? Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "Which statement about what is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "Which statement about the atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "In context, The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "According to What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "Which statement about the ph of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 156,
-    "question": "Analyzing deeper implications of..., we find that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 157,
-    "question": "The sophisticated understanding of... requires knowledge of... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 158,
-    "question": "Advanced students should recognize that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "According to Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "In context, H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "Which statement about h₂o₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 159,
-    "question": "Analyzing deeper implications of..., we find that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
     ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
+    "Answer": "hydrogen peroxide"
   },
   {
-    "id": 160,
-    "question": "Critically analyzing..., one can conclude that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
+    "Question": "In context, Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "Which statement about what is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "In context, H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "Which statement about the ph of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 161,
-    "question": "Complex application of... demonstrates that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
+    "Question": "Which statement about which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
     ],
-    "answer": "F",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 162,
-    "question": "In the context of..., which statement is MOST accurate? In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 163,
-    "question": "In the context of..., which statement is MOST accurate? Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 164,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 165,
-    "question": "The sophisticated understanding of... requires knowledge of... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 166,
-    "question": "Critically analyzing..., one can conclude that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 167,
-    "question": "An examination of... reveals that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 168,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 169,
-    "question": "Complex application of... demonstrates that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 170,
-    "question": "Complex application of... demonstrates that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 171,
-    "question": "Critically analyzing..., one can conclude that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 172,
-    "question": "Distinguishing between... and..., which is correct? In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 173,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 174,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 175,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 176,
-    "question": "An examination of... reveals that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
-      "4",
+    "Question": "In context, The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 177,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
+    "Question": "In context, Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 178,
-    "question": "An examination of... reveals that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
-      "4",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 179,
-    "question": "Advanced students should recognize that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 180,
-    "question": "Advanced students should recognize that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 181,
-    "question": "An examination of... reveals that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 182,
-    "question": "Analyzing deeper implications of..., we find that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 183,
-    "question": "Which of the following BEST explains... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 184,
-    "question": "In the context of..., which statement is MOST accurate? In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 185,
-    "question": "Analyzing deeper implications of..., we find that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 186,
-    "question": "Complex application of... demonstrates that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 187,
-    "question": "Analyzing deeper implications of..., we find that... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 188,
-    "question": "In the context of..., which statement is MOST accurate? Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 189,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 190,
-    "question": "Advanced students should recognize that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 191,
-    "question": "Analyzing deeper implications of..., we find that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 192,
-    "question": "Advanced students should recognize that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
-      "4",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 193,
-    "question": "Complex application of... demonstrates that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "Which statement about what is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 194,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "According to Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 195,
-    "question": "Analyzing deeper implications of..., we find that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "F",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 196,
-    "question": "Which of the following BEST explains... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
     ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
+    "Answer": "Ca(OH)₂"
   },
   {
-    "id": 197,
-    "question": "Distinguishing between... and..., which is correct? An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 198,
-    "question": "Complex application of... demonstrates that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 199,
-    "question": "Complex application of... demonstrates that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
-      "4",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "According to The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "In context, Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "Which statement about what is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "According to Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "According to What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "According to Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "Which statement about the ph of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 200,
-    "question": "An examination of... reveals that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 201,
-    "question": "Analyzing deeper implications of..., we find that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 202,
-    "question": "In the context of..., which statement is MOST accurate? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
     ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
+    "Answer": "hydrogen peroxide"
   },
   {
-    "id": 203,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 204,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 205,
-    "question": "Advanced students should recognize that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "According to What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about the atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "Which statement about the atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 206,
-    "question": "In the context of..., which statement is MOST accurate? Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 207,
-    "question": "An examination of... reveals that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 208,
-    "question": "Distinguishing between... and..., which is correct? A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 209,
-    "question": "Complex application of... demonstrates that... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 210,
-    "question": "Which of the following BEST explains... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 211,
-    "question": "Distinguishing between... and..., which is correct? A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 212,
-    "question": "Distinguishing between... and..., which is correct? Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 213,
-    "question": "Critically analyzing..., one can conclude that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 214,
-    "question": "Critically analyzing..., one can conclude that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 215,
-    "question": "Analyzing deeper implications of..., we find that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 216,
-    "question": "Analyzing deeper implications of..., we find that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 217,
-    "question": "Analyzing deeper implications of..., we find that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 218,
-    "question": "Complex application of... demonstrates that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 219,
-    "question": "In the context of..., which statement is MOST accurate? In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 220,
-    "question": "Complex application of... demonstrates that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 221,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 222,
-    "question": "Complex application of... demonstrates that... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 223,
-    "question": "In the context of..., which statement is MOST accurate? Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 224,
-    "question": "Analyzing deeper implications of..., we find that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 225,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 226,
-    "question": "Distinguishing between... and..., which is correct? ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 227,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 228,
-    "question": "Critically analyzing..., one can conclude that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 229,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 230,
-    "question": "An examination of... reveals that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 231,
-    "question": "Critically analyzing..., one can conclude that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 232,
-    "question": "In the context of..., which statement is MOST accurate? Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 233,
-    "question": "Analyzing deeper implications of..., we find that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 234,
-    "question": "Critically analyzing..., one can conclude that... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 235,
-    "question": "Advanced students should recognize that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 236,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 237,
-    "question": "Which of the following BEST explains... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 238,
-    "question": "Complex application of... demonstrates that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 239,
-    "question": "Analyzing deeper implications of..., we find that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "According to Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "According to The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "In context, The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 240,
-    "question": "Distinguishing between... and..., which is correct? An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "Which statement about what is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 241,
-    "question": "Analyzing deeper implications of..., we find that... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
+    "Question": "Which statement about what is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 242,
-    "question": "The sophisticated understanding of... requires knowledge of... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
     ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 243,
-    "question": "Analyzing deeper implications of..., we find that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "In context, The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "According to The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "Which statement about which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "According to H₂O₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "According to Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about the atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "Which statement about what is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "Which statement about what is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about h₂o₂ is commonly called?",
+    "Options": [
+      "hydrogen hydroxide",
+      "hydrogen peroxide",
+      "water peroxide",
+      "oxidane"
+    ],
+    "Answer": "hydrogen peroxide"
+  },
+  {
+    "Question": "In context, The noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "In context, The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
+    "Answer": "NaCl"
+  },
+  {
+    "Question": "Which statement about the ph of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 244,
-    "question": "Advanced students should recognize that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "Ca(OH)₂"
   },
   {
-    "id": 245,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 246,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 247,
-    "question": "Critically analyzing..., one can conclude that... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
-    ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 248,
-    "question": "An examination of... reveals that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
       "2",
-      "4",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "Which statement about the formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "According to What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 249,
-    "question": "Complex application of... demonstrates that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 250,
-    "question": "Which of the following BEST explains... In the molecule PCl₅, which atoms bear the positive charge?",
-    "options": [
-      "P and Cl",
-      "Only P",
-      "Only Cl",
-      "Neither"
+    "Question": "According to What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "Only P",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 251,
-    "question": "Complex application of... demonstrates that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "F",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 252,
-    "question": "Complex application of... demonstrates that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 253,
-    "question": "Distinguishing between... and..., which is correct? ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 254,
-    "question": "Advanced students should recognize that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 255,
-    "question": "Critically analyzing..., one can conclude that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
-      "4",
+    "Question": "Which statement about the ph of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 256,
-    "question": "An examination of... reveals that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 257,
-    "question": "Analyzing deeper implications of..., we find that... Calculate pH of 0.001 M HCl solution",
-    "options": [
-      "3",
-      "2",
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
       "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "In context, The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "According to Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "According to What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "Answer": "4"
+  },
+  {
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "Answer": "6"
+  },
+  {
+    "Question": "Which statement about which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "Answer": "oxygen"
+  },
+  {
+    "Question": "Which statement about the noble gases are found in?",
+    "Options": [
+      "Group 16",
+      "Group 17",
+      "Group 18",
+      "Group 1"
+    ],
+    "Answer": "Group 18"
+  },
+  {
+    "Question": "According to The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
+    ],
+    "Answer": "Ca(OH)₂"
+  },
+  {
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
+    ],
+    "Answer": "fluorine"
+  },
+  {
+    "Question": "According to What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
+    ],
+    "Answer": "speeds up reaction"
+  },
+  {
+    "Question": "According to The pH of a neutral solution is?",
+    "Options": [
+      "0",
+      "7",
+      "14",
       "1"
     ],
-    "answer": "3",
-    "difficulty": "very_hard"
+    "Answer": "7"
   },
   {
-    "id": 258,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "Which statement about what is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 259,
-    "question": "Analyzing deeper implications of..., we find that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
+    "Question": "According to What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "F",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 260,
-    "question": "Which of the following BEST explains... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
+    "Question": "In context, What is the valency of carbon?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": "F",
-    "difficulty": "very_hard"
+    "Answer": "4"
   },
   {
-    "id": 261,
-    "question": "Distinguishing between... and..., which is correct? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
     ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
+    "Answer": "6"
   },
   {
-    "id": 262,
-    "question": "Which of the following BEST explains... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
     ],
-    "answer": "+7",
-    "difficulty": "very_hard"
+    "Answer": "6"
   },
   {
-    "id": 263,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "Which statement about which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 264,
-    "question": "In the context of..., which statement is MOST accurate? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
+    "Question": "According to Which gas is essential for combustion?",
+    "Options": [
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "hydrogen"
     ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
+    "Answer": "oxygen"
   },
   {
-    "id": 265,
-    "question": "Advanced students should recognize that... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
+    "Question": "According to The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
     ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
+    "Answer": "6"
   },
   {
-    "id": 266,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 267,
-    "question": "In the context of..., which statement is MOST accurate? ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
+    "Question": "In context, The atomic number of carbon is?",
+    "Options": [
+      "4",
+      "6",
+      "8",
+      "12"
     ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
+    "Answer": "6"
   },
   {
-    "id": 268,
-    "question": "Which of the following BEST explains... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
+    "Question": "In context, What is the chemical formula for table salt?",
+    "Options": [
+      "KCl",
+      "NaCl",
+      "CaCl₂",
+      "MgCl₂"
     ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
+    "Answer": "NaCl"
   },
   {
-    "id": 269,
-    "question": "Critically analyzing..., one can conclude that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
+    "Question": "In context, Which element has the highest electronegativity?",
+    "Options": [
+      "oxygen",
+      "chlorine",
+      "fluorine",
+      "nitrogen"
     ],
-    "answer": "Br",
-    "difficulty": "very_hard"
+    "Answer": "fluorine"
   },
   {
-    "id": 270,
-    "question": "Complex application of... demonstrates that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
+    "Question": "According to The formula for calcium hydroxide is?",
+    "Options": [
+      "Ca(OH)",
+      "Ca(OH)₂",
+      "CaOH",
+      "Ca₂OH"
     ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
+    "Answer": "Ca(OH)₂"
   },
   {
-    "id": 271,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
+    "Question": "According to What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   },
   {
-    "id": 272,
-    "question": "Advanced students should recognize that... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
+    "Question": "In context, What is a catalyst?",
+    "Options": [
+      "a reactant",
+      "speeds up reaction",
+      "slows down reaction",
+      "product"
     ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 273,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 274,
-    "question": "An examination of... reveals that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 275,
-    "question": "Which of the following BEST explains... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 276,
-    "question": "Distinguishing between... and..., which is correct? Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 277,
-    "question": "The sophisticated understanding of... requires knowledge of... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 278,
-    "question": "Distinguishing between... and..., which is correct? Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 279,
-    "question": "Distinguishing between... and..., which is correct? Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 280,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 281,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 282,
-    "question": "Distinguishing between... and..., which is correct? Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 283,
-    "question": "Complex application of... demonstrates that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 284,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 285,
-    "question": "Distinguishing between... and..., which is correct? ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 286,
-    "question": "Which of the following BEST explains... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 287,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 288,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 289,
-    "question": "For the reaction N₂O₄ ⇌ 2NO₂, Kc = 4.6 × 10⁻³. Calculate equilibrium concentration",
-    "options": [
-      "0.021 M",
-      "0.045 M",
-      "0.032 M",
-      "0.068 M"
-    ],
-    "answer": "0.045 M",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 290,
-    "question": "Critically analyzing..., one can conclude that... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 291,
-    "question": "Which of the following BEST explains... Identify the product of addition of HBr to but-2-ene (Markovnikov's rule)",
-    "options": [
-      "1-bromopropane",
-      "2-bromobutane",
-      "1-bromobutane",
-      "2-bromopropane"
-    ],
-    "answer": "2-bromobutane",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 292,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 293,
-    "question": "Complex application of... demonstrates that... ΔH°f for CO₂(g) = -393.5 kJ/mol. What is ΔH for 2C + 2O₂ → 2CO₂?",
-    "options": [
-      "-787 kJ",
-      "-393.5 kJ",
-      "-1180.5 kJ",
-      "-600 kJ"
-    ],
-    "answer": "-787 kJ",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 294,
-    "question": "Critically analyzing..., one can conclude that... Which element has the highest electronegativity?",
-    "options": [
-      "Cl",
-      "F",
-      "N",
-      "O"
-    ],
-    "answer": "F",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 295,
-    "question": "Which of the following BEST explains... An element has electronic configuration [Ar]3d¹⁰4s²4p⁵. Identify the element",
-    "options": [
-      "Br",
-      "Kr",
-      "Ga",
-      "Se"
-    ],
-    "answer": "Br",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 296,
-    "question": "The sophisticated understanding of... requires knowledge of... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 297,
-    "question": "2FeCl₃ + 3H₂S → 2FeCl₂ + S↓ + 6HCl. How many grams of S produced from 100g FeCl₃?",
-    "options": [
-      "18.8 g",
-      "28.2 g",
-      "15.3 g",
-      "21.5 g"
-    ],
-    "answer": "18.8 g",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 298,
-    "question": "Distinguishing between... and..., which is correct? A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 299,
-    "question": "Which of the following BEST explains... Oxidation state of Mn in MnO₄⁻ is?",
-    "options": [
-      "+5",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "answer": "+7",
-    "difficulty": "very_hard"
-  },
-  {
-    "id": 300,
-    "question": "Critically analyzing..., one can conclude that... A reaction has rate law: rate = k[A]²[B]. What is the overall order?",
-    "options": [
-      "1st order",
-      "2nd order",
-      "3rd order",
-      "Zeroth order"
-    ],
-    "answer": "3rd order",
-    "difficulty": "very_hard"
+    "Answer": "speeds up reaction"
   }
 ]
