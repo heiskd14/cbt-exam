@@ -1,26 +1,76 @@
 [
   {
-    "question": "Which gas is essential for respiration?",
+    "question": "What is the chemical formula for salt?",
     "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Helium"
+      "KCl",
+      "NaCl",
+      "CaCl2",
+      "MgCl2"
     ],
-    "answer": "Oxygen"
+    "answer": "NaCl"
   },
   {
-    "question": "Which of the following is an element?",
+    "question": "Which gas do plants absorb from the atmosphere?",
     "options": [
-      "Water",
-      "Salt",
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the atomic number of Oxygen?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Which element has the symbol Fe?",
+    "options": [
+      "Fluorine",
+      "Iodine",
       "Iron",
-      "Soil"
+      "Francium"
     ],
     "answer": "Iron"
   },
   {
-    "question": "What type of bond exists between H and O in water?",
+    "question": "What is the pH of pure water at 25\u00b0C?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Which of these is a noble gas?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Neon",
+      "Fluorine"
+    ],
+    "answer": "Neon"
+  },
+  {
+    "question": "What is the atomic mass of Carbon?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "Which type of bond connects atoms in water?",
     "options": [
       "Ionic",
       "Covalent",
@@ -30,7 +80,197 @@
     "answer": "Covalent"
   },
   {
-    "question": "What is the atomic number of Carbon?",
+    "question": "What does HCl represent?",
+    "options": [
+      "Hydro chlorine",
+      "Hydrogen chloride",
+      "Heat chloride",
+      "Half chlorine"
+    ],
+    "answer": "Hydrogen chloride"
+  },
+  {
+    "question": "Which element is a halogen?",
+    "options": [
+      "Helium",
+      "Sodium",
+      "Chlorine",
+      "Potassium"
+    ],
+    "answer": "Chlorine"
+  },
+  {
+    "question": "What is the formula for sulfuric acid?",
+    "options": [
+      "H2SO3",
+      "H2SO4",
+      "H3SO4",
+      "HSO4"
+    ],
+    "answer": "H2SO4"
+  },
+  {
+    "question": "In the periodic table, how many periods are there?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is oxidation?",
+    "options": [
+      "Loss of electrons",
+      "Gain of electrons",
+      "Loss of protons",
+      "Gain of neutrons"
+    ],
+    "answer": "Loss of electrons"
+  },
+  {
+    "question": "Which is an example of a metalloid?",
+    "options": [
+      "Silicon",
+      "Sodium",
+      "Sulfur",
+      "Nitrogen"
+    ],
+    "answer": "Silicon"
+  },
+  {
+    "question": "What is the valency of Carbon?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Which metal is the most reactive?",
+    "options": [
+      "Silver",
+      "Sodium",
+      "Copper",
+      "Gold"
+    ],
+    "answer": "Sodium"
+  },
+  {
+    "question": "What does the term 'titration' refer to?",
+    "options": [
+      "Heating",
+      "Cooling",
+      "Volume measurement by gradual addition",
+      "Color change"
+    ],
+    "answer": "Volume measurement by gradual addition"
+  },
+  {
+    "question": "Which gas is produced when magnesium burns?",
+    "options": [
+      "Magnesium oxide",
+      "Magnesium nitride",
+      "Magnesium hydroxide",
+      "Magnesium chloride"
+    ],
+    "answer": "Magnesium oxide"
+  },
+  {
+    "question": "What is the electron configuration of Helium?",
+    "options": [
+      "1s\u00b9",
+      "1s\u00b2",
+      "1s\u00b2 2s\u00b9",
+      "2s\u00b2"
+    ],
+    "answer": "1s\u00b2"
+  },
+  {
+    "question": "Which of these is an exothermic reaction?",
+    "options": [
+      "Melting ice",
+      "Cooking an egg",
+      "Burning fuel",
+      "Boiling water"
+    ],
+    "answer": "Burning fuel"
+  },
+  {
+    "question": "What is the formula for ammonia?",
+    "options": [
+      "NH3",
+      "N2H4",
+      "NH2",
+      "NH4"
+    ],
+    "answer": "NH3"
+  },
+  {
+    "question": "Which element is liquid at room temperature?",
+    "options": [
+      "Gallium",
+      "Mercury",
+      "Cesium",
+      "Bromine"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the atomic number of Hydrogen?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "In an ionic compound, what is the positive ion called?",
+    "options": [
+      "Anion",
+      "Cation",
+      "Molecule",
+      "Radical"
+    ],
+    "answer": "Cation"
+  },
+  {
+    "question": "What is molarity?",
+    "options": [
+      "Mass per volume",
+      "Moles per liter",
+      "Grams per liter",
+      "Moles per gram"
+    ],
+    "answer": "Moles per liter"
+  },
+  {
+    "question": "Which acid is found in vinegar?",
+    "options": [
+      "Citric acid",
+      "Acetic acid",
+      "Malic acid",
+      "Tartaric acid"
+    ],
+    "answer": "Acetic acid"
+  },
+  {
+    "question": "What is the chemical formula for rust?",
+    "options": [
+      "Fe2O3",
+      "FeO",
+      "Fe3O4",
+      "FeCl3"
+    ],
+    "answer": "Fe2O3"
+  },
+  {
+    "question": "How many electrons does Carbon have?",
     "options": [
       "4",
       "6",
@@ -40,363 +280,223 @@
     "answer": "6"
   },
   {
-    "question": "What type of bond exists between H and O in water?",
+    "question": "Which polymer is used to make plastic bags?",
     "options": [
-      "Ionic",
-      "Covalent",
-      "Metallic",
-      "Hydrogen"
+      "PET",
+      "PVC",
+      "LDPE",
+      "Polystyrene"
     ],
-    "answer": "Covalent"
+    "answer": "LDPE"
   },
   {
-    "question": "What is the atomic number of Carbon?",
+    "question": "What is the name of the process where a solid turns directly into a gas?",
     "options": [
-      "4",
-      "6",
-      "8",
-      "12"
+      "Condensation",
+      "Evaporation",
+      "Sublimation",
+      "Deposition"
     ],
-    "answer": "6"
+    "answer": "Sublimation"
   },
   {
-    "question": "What is the chemical formula for table salt?",
+    "question": "Which of these ions has a negative charge?",
     "options": [
-      "NaCl",
-      "KCl",
-      "CaCl2",
-      "MgCl2"
+      "Na+",
+      "K+",
+      "Cl-",
+      "Ca\u00b2\u207a"
     ],
-    "answer": "NaCl"
+    "answer": "Cl-"
   },
   {
-    "question": "Which of the following is an element?",
+    "question": "What is the formula for calcium carbonate?",
     "options": [
-      "Water",
-      "Salt",
-      "Iron",
-      "Soil"
+      "CaCO2",
+      "CaCO3",
+      "Ca2CO3",
+      "CaC2O3"
     ],
-    "answer": "Iron"
+    "answer": "CaCO3"
   },
   {
-    "question": "Which of the following is an element?",
+    "question": "Which element has the highest electronegativity?",
     "options": [
-      "Water",
-      "Salt",
-      "Iron",
-      "Soil"
+      "Oxygen",
+      "Fluorine",
+      "Nitrogen",
+      "Chlorine"
     ],
-    "answer": "Iron"
+    "answer": "Fluorine"
   },
   {
-    "question": "Which of the following is an element?",
+    "question": "What is the oxidation state of oxygen in most compounds?",
     "options": [
-      "Water",
-      "Salt",
-      "Iron",
-      "Soil"
+      "-1",
+      "-2",
+      "0",
+      "+2"
     ],
-    "answer": "Iron"
+    "answer": "-2"
   },
   {
-    "question": "What type of bond exists between H and O in water?",
+    "question": "Which type of radiation has the highest penetrating power?",
     "options": [
-      "Ionic",
-      "Covalent",
-      "Metallic",
-      "Hydrogen"
+      "Alpha",
+      "Beta",
+      "Gamma",
+      "X-rays"
     ],
-    "answer": "Covalent"
+    "answer": "Gamma"
   },
   {
-    "question": "Which of the following is an element?",
+    "question": "What is the formula for glucose?",
     "options": [
-      "Water",
-      "Salt",
-      "Iron",
-      "Soil"
+      "C5H10O5",
+      "C6H12O6",
+      "C7H14O7",
+      "C4H8O4"
     ],
-    "answer": "Iron"
+    "answer": "C6H12O6"
   },
   {
-    "question": "What is the atomic number of Carbon?",
+    "question": "Which ion is responsible for acidity?",
     "options": [
-      "4",
-      "6",
-      "8",
-      "12"
+      "OH-",
+      "H+",
+      "Cl-",
+      "Na+"
     ],
-    "answer": "6"
+    "answer": "H+"
   },
   {
-    "question": "Which gas is essential for respiration?",
+    "question": "What is the relative atomic mass of Nitrogen?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "20"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "Which gas is used in fire extinguishers?",
     "options": [
       "Nitrogen",
       "Oxygen",
       "Carbon dioxide",
-      "Helium"
+      "Argon"
     ],
-    "answer": "Oxygen"
+    "answer": "Carbon dioxide"
   },
   {
-    "question": "What is the chemical formula for table salt?",
+    "question": "What is the atomic number of Chlorine?",
     "options": [
-      "NaCl",
-      "KCl",
-      "CaCl2",
-      "MgCl2"
+      "15",
+      "17",
+      "19",
+      "21"
     ],
-    "answer": "NaCl"
+    "answer": "17"
   },
   {
-    "question": "What type of bond exists between H and O in water?",
+    "question": "Which of these is a strong acid?",
     "options": [
-      "Ionic",
-      "Covalent",
-      "Metallic",
-      "Hydrogen"
+      "Acetic acid",
+      "Formic acid",
+      "Sulfuric acid",
+      "Phosphoric acid"
     ],
-    "answer": "Covalent"
+    "answer": "Sulfuric acid"
   },
   {
-    "question": "What is the chemical formula for table salt?",
+    "question": "What is the formula for methane?",
     "options": [
-      "NaCl",
-      "KCl",
-      "CaCl2",
-      "MgCl2"
+      "CH2",
+      "CH3",
+      "CH4",
+      "C2H6"
     ],
-    "answer": "NaCl"
+    "answer": "CH4"
   },
   {
-    "question": "What is the atomic number of Carbon?",
+    "question": "Which element is used in LED lights?",
     "options": [
-      "4",
-      "6",
-      "8",
-      "12"
+      "Gallium",
+      "Aluminum",
+      "Silicon",
+      "Phosphorus"
     ],
-    "answer": "6"
+    "answer": "Gallium"
   },
   {
-    "question": "Which of the following is an element?",
+    "question": "What is the pH of a strong acid?",
     "options": [
-      "Water",
-      "Salt",
-      "Iron",
-      "Soil"
+      "7",
+      "Above 7",
+      "Below 7",
+      "14"
     ],
-    "answer": "Iron"
+    "answer": "Below 7"
   },
   {
-    "question": "What is the atomic number of Carbon?",
+    "question": "Which process describes the movement of gas particles",
     "options": [
-      "4",
-      "6",
-      "8",
-      "12"
+      "Diffusion",
+      "Osmosis",
+      "Convection",
+      "Conduction"
     ],
-    "answer": "6"
+    "answer": "Diffusion"
   },
   {
-    "question": "What is the atomic number of Carbon?",
+    "question": "What is the atomic mass of Sulfur?",
     "options": [
-      "4",
-      "6",
-      "8",
-      "12"
+      "30",
+      "32",
+      "34",
+      "36"
     ],
-    "answer": "6"
+    "answer": "32"
   },
   {
-    "question": "Which gas is essential for respiration?",
+    "question": "Which compound is table sugar?",
     "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Helium"
+      "Glucose",
+      "Fructose",
+      "Sucrose",
+      "Lactose"
     ],
-    "answer": "Oxygen"
+    "answer": "Sucrose"
   },
   {
-    "question": "Which gas is essential for respiration?",
+    "question": "What is the charge on an electron?",
     "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Helium"
+      "+1",
+      "-1",
+      "0",
+      "+2"
     ],
-    "answer": "Oxygen"
+    "answer": "-1"
   },
   {
-    "question": "Which gas is essential for respiration?",
+    "question": "Which metal is a liquid at room temperature?",
     "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Helium"
+      "Gallium",
+      "Mercury",
+      "Cesium",
+      "Lead"
     ],
-    "answer": "Oxygen"
+    "answer": "Mercury"
   },
   {
-    "question": "What is the chemical formula for table salt?",
+    "question": "What is the atomic number of Sodium?",
     "options": [
-      "NaCl",
-      "KCl",
-      "CaCl2",
-      "MgCl2"
+      "9",
+      "11",
+      "13",
+      "15"
     ],
-    "answer": "NaCl"
-  },
-  {
-    "question": "What is the chemical formula for table salt?",
-    "options": [
-      "NaCl",
-      "KCl",
-      "CaCl2",
-      "MgCl2"
-    ],
-    "answer": "NaCl"
-  },
-  {
-    "question": "What type of bond exists between H and O in water?",
-    "options": [
-      "Ionic",
-      "Covalent",
-      "Metallic",
-      "Hydrogen"
-    ],
-    "answer": "Covalent"
-  },
-  {
-    "question": "What type of bond exists between H and O in water?",
-    "options": [
-      "Ionic",
-      "Covalent",
-      "Metallic",
-      "Hydrogen"
-    ],
-    "answer": "Covalent"
-  },
-  {
-    "question": "What type of bond exists between H and O in water?",
-    "options": [
-      "Ionic",
-      "Covalent",
-      "Metallic",
-      "Hydrogen"
-    ],
-    "answer": "Covalent"
-  },
-  {
-    "question": "What is the chemical formula for table salt?",
-    "options": [
-      "NaCl",
-      "KCl",
-      "CaCl2",
-      "MgCl2"
-    ],
-    "answer": "NaCl"
-  },
-  {
-    "question": "Which gas is essential for respiration?",
-    "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Helium"
-    ],
-    "answer": "Oxygen"
-  },
-  {
-    "question": "Which of the following is an element?",
-    "options": [
-      "Water",
-      "Salt",
-      "Iron",
-      "Soil"
-    ],
-    "answer": "Iron"
-  },
-  {
-    "question": "What type of bond exists between H and O in water?",
-    "options": [
-      "Ionic",
-      "Covalent",
-      "Metallic",
-      "Hydrogen"
-    ],
-    "answer": "Covalent"
-  },
-  {
-    "question": "Which gas is essential for respiration?",
-    "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Helium"
-    ],
-    "answer": "Oxygen"
-  },
-  {
-    "question": "Which gas is essential for respiration?",
-    "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Helium"
-    ],
-    "answer": "Oxygen"
-  },
-  {
-    "question": "What is the atomic number of Carbon?",
-    "options": [
-      "4",
-      "6",
-      "8",
-      "12"
-    ],
-    "answer": "6"
-  },
-  {
-    "question": "What is the atomic number of Carbon?",
-    "options": [
-      "4",
-      "6",
-      "8",
-      "12"
-    ],
-    "answer": "6"
-  },
-  {
-    "question": "What is the chemical formula for table salt?",
-    "options": [
-      "NaCl",
-      "KCl",
-      "CaCl2",
-      "MgCl2"
-    ],
-    "answer": "NaCl"
-  },
-  {
-    "question": "What is the chemical formula for table salt?",
-    "options": [
-      "NaCl",
-      "KCl",
-      "CaCl2",
-      "MgCl2"
-    ],
-    "answer": "NaCl"
-  },
-  {
-    "question": "Which of the following is an element?",
-    "options": [
-      "Water",
-      "Salt",
-      "Iron",
-      "Soil"
-    ],
-    "answer": "Iron"
+    "answer": "11"
   }
 ]

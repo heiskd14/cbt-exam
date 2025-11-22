@@ -1,402 +1,512 @@
 [
   {
-    "question": "What is 20% of 150?",
+    "question": "Simplify: 2x + 3x - x",
+    "options": [
+      "5x",
+      "4x",
+      "3x",
+      "6x"
+    ],
+    "answer": "4x"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": [
+      "30",
+      "20",
+      "40",
+      "25"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Solve: 2x + 5 = 15",
+    "options": [
+      "5",
+      "10",
+      "7",
+      "8"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is the area of a circle with radius 5cm?",
+    "options": [
+      "78.5 cm\u00b2",
+      "31.4 cm\u00b2",
+      "15.7 cm\u00b2",
+      "25 cm\u00b2"
+    ],
+    "answer": "78.5 cm\u00b2"
+  },
+  {
+    "question": "Calculate: 3\u00b2 + 4\u00b2 =",
+    "options": [
+      "25",
+      "12",
+      "7",
+      "49"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "What is \u221a144?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "If 5x = 40, what is x?",
+    "options": [
+      "8",
+      "10",
+      "35",
+      "45"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is 25% of 80?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "Simplify: (2\u00b3) \u00d7 (2\u00b2)",
+    "options": [
+      "2\u2075",
+      "2\u2076",
+      "2\u2078",
+      "2\u2079"
+    ],
+    "answer": "2\u2075"
+  },
+  {
+    "question": "What is the sum of angles in a triangle?",
+    "options": [
+      "180\u00b0",
+      "90\u00b0",
+      "360\u00b0",
+      "270\u00b0"
+    ],
+    "answer": "180\u00b0"
+  },
+  {
+    "question": "Calculate: 10 - (-5)",
+    "options": [
+      "5",
+      "15",
+      "-5",
+      "0"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "What is 50% of 250?",
+    "options": [
+      "100",
+      "125",
+      "150",
+      "175"
+    ],
+    "answer": "125"
+  },
+  {
+    "question": "Solve: x/2 = 10",
+    "options": [
+      "5",
+      "20",
+      "30",
+      "15"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "What is the perimeter of a square with side 6cm?",
+    "options": [
+      "24 cm",
+      "36 cm\u00b2",
+      "12 cm",
+      "18 cm"
+    ],
+    "answer": "24 cm"
+  },
+  {
+    "question": "Calculate: 12 \u00f7 (1/2)",
+    "options": [
+      "6",
+      "24",
+      "12",
+      "4"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "What is 3/4 as a decimal?",
+    "options": [
+      "0.25",
+      "0.75",
+      "0.50",
+      "0.33"
+    ],
+    "answer": "0.75"
+  },
+  {
+    "question": "If y = 2x + 3 and x = 4, what is y?",
+    "options": [
+      "8",
+      "11",
+      "15",
+      "7"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "What is the mode of: 2, 3, 3, 5, 7, 3, 8?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "7"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 5 \u00d7 6 - 10 =",
     "options": [
       "20",
       "30",
       "40",
       "50"
     ],
-    "answer": "30"
+    "answer": "20"
   },
   {
-    "question": "What is 15 + 27?",
+    "question": "What is 2\u2075?",
     "options": [
-      "40",
-      "42",
-      "41",
-      "43"
+      "10",
+      "25",
+      "32",
+      "16"
     ],
-    "answer": "42"
+    "answer": "32"
   },
   {
-    "question": "What is 20% of 150?",
+    "question": "Solve: 3(x - 2) = 9",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is the median of: 1, 2, 3, 4, 5?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "2.5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Calculate: 100 - 25 + 15 =",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is 1/2 + 1/4?",
+    "options": [
+      "1/6",
+      "3/4",
+      "1/2",
+      "2/4"
+    ],
+    "answer": "3/4"
+  },
+  {
+    "question": "If a = 5 and b = 3, what is a\u00b2 + b\u00b2?",
+    "options": [
+      "34",
+      "25",
+      "64",
+      "15"
+    ],
+    "answer": "34"
+  },
+  {
+    "question": "What is the LCM of 12 and 18?",
+    "options": [
+      "36",
+      "24",
+      "18",
+      "6"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "Solve: 2x - 3 = 7",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 0.5 \u00d7 20?",
+    "options": [
+      "10",
+      "25",
+      "5",
+      "15"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Calculate: 7\u00b2 - 5\u00b2 =",
+    "options": [
+      "24",
+      "49",
+      "25",
+      "74"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "What is the GCD of 24 and 36?",
+    "options": [
+      "6",
+      "12",
+      "8",
+      "4"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "If x + y = 10 and x = 6, what is y?",
+    "options": [
+      "4",
+      "16",
+      "6",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What is 20% of 50?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Calculate: 8 \u00d7 9 \u00f7 2 =",
+    "options": [
+      "36",
+      "72",
+      "18",
+      "9"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "What is the circumference of a circle with diameter 10cm?",
+    "options": [
+      "31.4 cm",
+      "15.7 cm",
+      "62.8 cm",
+      "78.5 cm"
+    ],
+    "answer": "31.4 cm"
+  },
+  {
+    "question": "Solve: x/5 + 2 = 4",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "What is 3/5 as a percentage?",
+    "options": [
+      "30%",
+      "50%",
+      "60%",
+      "35%"
+    ],
+    "answer": "60%"
+  },
+  {
+    "question": "Calculate: 15 - 3 \u00d7 2 =",
+    "options": [
+      "9",
+      "24",
+      "12",
+      "6"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "What is the sum: 1 + 2 + 3 + ... + 10?",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "answer": "55"
+  },
+  {
+    "question": "If 4x = 12, what is 2x?",
+    "options": [
+      "3",
+      "6",
+      "12",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is (2 + 3) \u00d7 (4 - 1)?",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "12"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Calculate: 10\u00b2 \u00f7 5 =",
     "options": [
       "20",
-      "30",
-      "40",
-      "50"
+      "50",
+      "100",
+      "25"
     ],
-    "answer": "30"
+    "answer": "20"
   },
   {
-    "question": "What is the area of a square with side 5cm?",
+    "question": "What is 1/3 + 1/6?",
     "options": [
-      "10 cm\u00b2",
-      "20 cm\u00b2",
-      "25 cm\u00b2",
-      "30 cm\u00b2"
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/9"
     ],
-    "answer": "25 cm\u00b2"
+    "answer": "1/2"
   },
   {
-    "question": "What is 15 + 27?",
+    "question": "Solve: 2(x + 3) = 14",
     "options": [
-      "40",
-      "42",
-      "41",
-      "43"
-    ],
-    "answer": "42"
-  },
-  {
-    "question": "What is the area of a square with side 5cm?",
-    "options": [
-      "10 cm\u00b2",
-      "20 cm\u00b2",
-      "25 cm\u00b2",
-      "30 cm\u00b2"
-    ],
-    "answer": "25 cm\u00b2"
-  },
-  {
-    "question": "If x + 5 = 12, what is x?",
-    "options": [
+      "2",
+      "4",
       "6",
-      "7",
-      "8",
-      "9"
+      "8"
     ],
-    "answer": "7"
+    "answer": "4"
   },
   {
-    "question": "If a = 3 and b = 4, what is a\u00b2 + b\u00b2?",
+    "question": "What is the average of 10, 20, 30?",
     "options": [
-      "24",
-      "25",
-      "26",
-      "27"
-    ],
-    "answer": "25"
-  },
-  {
-    "question": "If a = 3 and b = 4, what is a\u00b2 + b\u00b2?",
-    "options": [
-      "24",
-      "25",
-      "26",
-      "27"
-    ],
-    "answer": "25"
-  },
-  {
-    "question": "If x + 5 = 12, what is x?",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "answer": "7"
-  },
-  {
-    "question": "What is the area of a square with side 5cm?",
-    "options": [
-      "10 cm\u00b2",
-      "20 cm\u00b2",
-      "25 cm\u00b2",
-      "30 cm\u00b2"
-    ],
-    "answer": "25 cm\u00b2"
-  },
-  {
-    "question": "What is the area of a square with side 5cm?",
-    "options": [
-      "10 cm\u00b2",
-      "20 cm\u00b2",
-      "25 cm\u00b2",
-      "30 cm\u00b2"
-    ],
-    "answer": "25 cm\u00b2"
-  },
-  {
-    "question": "If a = 3 and b = 4, what is a\u00b2 + b\u00b2?",
-    "options": [
-      "24",
-      "25",
-      "26",
-      "27"
-    ],
-    "answer": "25"
-  },
-  {
-    "question": "If a = 3 and b = 4, what is a\u00b2 + b\u00b2?",
-    "options": [
-      "24",
-      "25",
-      "26",
-      "27"
-    ],
-    "answer": "25"
-  },
-  {
-    "question": "What is the area of a square with side 5cm?",
-    "options": [
-      "10 cm\u00b2",
-      "20 cm\u00b2",
-      "25 cm\u00b2",
-      "30 cm\u00b2"
-    ],
-    "answer": "25 cm\u00b2"
-  },
-  {
-    "question": "What is 15 + 27?",
-    "options": [
-      "40",
-      "42",
-      "41",
-      "43"
-    ],
-    "answer": "42"
-  },
-  {
-    "question": "What is 20% of 150?",
-    "options": [
+      "15",
       "20",
-      "30",
-      "40",
-      "50"
-    ],
-    "answer": "30"
-  },
-  {
-    "question": "What is 15 + 27?",
-    "options": [
-      "40",
-      "42",
-      "41",
-      "43"
-    ],
-    "answer": "42"
-  },
-  {
-    "question": "What is 15 + 27?",
-    "options": [
-      "40",
-      "42",
-      "41",
-      "43"
-    ],
-    "answer": "42"
-  },
-  {
-    "question": "What is the area of a square with side 5cm?",
-    "options": [
-      "10 cm\u00b2",
-      "20 cm\u00b2",
-      "25 cm\u00b2",
-      "30 cm\u00b2"
-    ],
-    "answer": "25 cm\u00b2"
-  },
-  {
-    "question": "If a = 3 and b = 4, what is a\u00b2 + b\u00b2?",
-    "options": [
-      "24",
       "25",
-      "26",
-      "27"
+      "30"
     ],
-    "answer": "25"
+    "answer": "20"
   },
   {
-    "question": "If x + 5 = 12, what is x?",
+    "question": "Calculate: 9 \u00d7 8 - 12 =",
     "options": [
-      "6",
-      "7",
-      "8",
-      "9"
+      "60",
+      "72",
+      "84",
+      "96"
     ],
-    "answer": "7"
+    "answer": "60"
   },
   {
-    "question": "What is 20% of 150?",
+    "question": "What is 5\u00b3?",
     "options": [
-      "20",
-      "30",
-      "40",
-      "50"
-    ],
-    "answer": "30"
-  },
-  {
-    "question": "If x + 5 = 12, what is x?",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "answer": "7"
-  },
-  {
-    "question": "What is 15 + 27?",
-    "options": [
-      "40",
-      "42",
-      "41",
-      "43"
-    ],
-    "answer": "42"
-  },
-  {
-    "question": "What is the area of a square with side 5cm?",
-    "options": [
-      "10 cm\u00b2",
-      "20 cm\u00b2",
-      "25 cm\u00b2",
-      "30 cm\u00b2"
-    ],
-    "answer": "25 cm\u00b2"
-  },
-  {
-    "question": "If x + 5 = 12, what is x?",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "answer": "7"
-  },
-  {
-    "question": "If x + 5 = 12, what is x?",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "answer": "7"
-  },
-  {
-    "question": "What is 20% of 150?",
-    "options": [
-      "20",
-      "30",
-      "40",
-      "50"
-    ],
-    "answer": "30"
-  },
-  {
-    "question": "If a = 3 and b = 4, what is a\u00b2 + b\u00b2?",
-    "options": [
-      "24",
+      "15",
       "25",
-      "26",
-      "27"
+      "125",
+      "75"
     ],
-    "answer": "25"
+    "answer": "125"
   },
   {
-    "question": "What is 15 + 27?",
+    "question": "If a = 2, b = 3, c = 4, what is a \u00d7 b + c?",
     "options": [
-      "40",
-      "42",
-      "41",
-      "43"
+      "10",
+      "9",
+      "11",
+      "8"
     ],
-    "answer": "42"
+    "answer": "10"
   },
   {
-    "question": "If a = 3 and b = 4, what is a\u00b2 + b\u00b2?",
+    "question": "What is 80% of 25?",
     "options": [
-      "24",
+      "15",
+      "20",
       "25",
-      "26",
-      "27"
+      "30"
     ],
-    "answer": "25"
+    "answer": "20"
   },
   {
-    "question": "What is 20% of 150?",
+    "question": "Calculate: 18 \u00f7 3 + 4 =",
     "options": [
-      "20",
-      "30",
-      "40",
-      "50"
-    ],
-    "answer": "30"
-  },
-  {
-    "question": "What is the area of a square with side 5cm?",
-    "options": [
-      "10 cm\u00b2",
-      "20 cm\u00b2",
-      "25 cm\u00b2",
-      "30 cm\u00b2"
-    ],
-    "answer": "25 cm\u00b2"
-  },
-  {
-    "question": "What is 15 + 27?",
-    "options": [
-      "40",
-      "42",
-      "41",
-      "43"
-    ],
-    "answer": "42"
-  },
-  {
-    "question": "If a = 3 and b = 4, what is a\u00b2 + b\u00b2?",
-    "options": [
-      "24",
-      "25",
-      "26",
-      "27"
-    ],
-    "answer": "25"
-  },
-  {
-    "question": "What is 20% of 150?",
-    "options": [
-      "20",
-      "30",
-      "40",
-      "50"
-    ],
-    "answer": "30"
-  },
-  {
-    "question": "If x + 5 = 12, what is x?",
-    "options": [
+      "10",
       "6",
-      "7",
       "8",
-      "9"
+      "12"
     ],
-    "answer": "7"
+    "answer": "10"
   },
   {
-    "question": "What is 20% of 150?",
+    "question": "What is the square root of 169?",
     "options": [
-      "20",
-      "30",
-      "40",
-      "50"
+      "12",
+      "13",
+      "14",
+      "15"
     ],
-    "answer": "30"
+    "answer": "13"
   },
   {
-    "question": "If x + 5 = 12, what is x?",
+    "question": "Solve: 4x - 2 = 10",
     "options": [
-      "6",
-      "7",
-      "8",
-      "9"
+      "2",
+      "3",
+      "4",
+      "5"
     ],
-    "answer": "7"
+    "answer": "3"
   }
 ]
