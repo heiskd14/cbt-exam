@@ -5,6 +5,7 @@ import random
 import time
 import os
 from datetime import datetime
+import sqlite3
 
 app = Flask(__name__)
 app.secret_key = 'jamb-cbt-secret-key-2025'
@@ -13,20 +14,46 @@ app.config['SESSION_FILE_DIR'] = '/tmp/flask_session'
 app.config['SESSION_PERMANENT'] = False
 Session(app)
 
+DB_PATH = 'exam_results.db'
+
+def init_db():
+    """Initialize the database with required tables"""
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    
+    c.execute('''CREATE TABLE IF NOT EXISTS students
+                 (id INTEGER PRIMARY KEY AUTOINCREMENT,
+                  name TEXT NOT NULL,
+                  regno TEXT NOT NULL UNIQUE)''')
+    
+    c.execute('''CREATE TABLE IF NOT EXISTS exam_attempts
+                 (id INTEGER PRIMARY KEY AUTOINCREMENT,
+                  student_id INTEGER NOT NULL,
+                  exam_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                  total_score REAL,
+                  total_questions INTEGER,
+                  percentage REAL,
+                  FOREIGN KEY(student_id) REFERENCES students(id))''')
+    
+    c.execute('''CREATE TABLE IF NOT EXISTS subject_scores
+                 (id INTEGER PRIMARY KEY AUTOINCREMENT,
+                  attempt_id INTEGER NOT NULL,
+                  subject TEXT,
+                  score INTEGER,
+                  total INTEGER,
+                  FOREIGN KEY(attempt_id) REFERENCES exam_attempts(id))''')
+    
+    conn.commit()
+    conn.close()
+
+def get_db():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    return conn
+
 def load_questions(filename):
     with open(filename, "r", encoding="utf-8") as f:
         return json.load(f)
-
-def save_scores(record):
-    file = "scores.json"
-    if os.path.exists(file):
-        with open(file, "r", encoding="utf-8") as f:
-            data = json.load(f)
-    else:
-        data = []
-    data.append(record)
-    with open(file, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4)
 
 def float_safe(val):
     try:
@@ -71,7 +98,6 @@ def select_subjects():
     
     selected_subjects = request.form.getlist('subjects')
     
-    # Make Use of English compulsory
     if "Use of English" not in selected_subjects:
         selected_subjects.append("Use of English")
     
@@ -106,7 +132,6 @@ def select_subjects():
         file = subject_files.get(subj)
         if file and os.path.exists(file):
             qs = load_questions(file)
-            # 60 questions for Use of English, 40 for others
             num_questions = 60 if subj == "Use of English" else 40
             subject_questions[subj] = random.sample(qs, min(num_questions, len(qs)))
             subject_answers[subj] = [None] * len(subject_questions[subj])
@@ -173,13 +198,14 @@ def navigate():
     action = request.form.get('action')
     current_subject = session['current_subject']
     current_question = session['current_question']
+    subjects = list(session['subject_questions'].keys())
     
-    if action == 'prev' and current_question > 0:
-        session['current_question'] = current_question - 1
-    elif action == 'next':
-        total = len(session['subject_questions'][current_subject])
-        if current_question < total - 1:
+    if action == 'next':
+        if current_question < len(session['subject_questions'][current_subject]) - 1:
             session['current_question'] = current_question + 1
+    elif action == 'prev':
+        if current_question > 0:
+            session['current_question'] = current_question - 1
     elif action == 'goto':
         question_num = int(request.form.get('question_num'))
         session['current_question'] = question_num
@@ -188,13 +214,11 @@ def navigate():
         session['current_subject'] = new_subject
         session['current_question'] = 0
     elif action == 'prev_subject':
-        subjects = list(session['subject_questions'].keys())
         current_idx = subjects.index(current_subject)
         if current_idx > 0:
             session['current_subject'] = subjects[current_idx - 1]
             session['current_question'] = 0
     elif action == 'next_subject':
-        subjects = list(session['subject_questions'].keys())
         current_idx = subjects.index(current_subject)
         if current_idx < len(subjects) - 1:
             session['current_subject'] = subjects[current_idx + 1]
@@ -208,12 +232,23 @@ def submit():
     if 'student_info' not in session:
         return redirect(url_for('index'))
     
+    init_db()
+    conn = get_db()
+    c = conn.cursor()
+    
+    name = session['student_info']['name']
+    regno = session['student_info']['regno']
+    
+    c.execute('INSERT OR IGNORE INTO students (name, regno) VALUES (?, ?)', (name, regno))
+    c.execute('SELECT id FROM students WHERE regno = ?', (regno,))
+    student_id = c.fetchone()[0]
+    
     results = []
-    record = {
-        "name": session['student_info']['name'],
-        "regno": session['student_info']['regno'],
-        "subjects": {}
-    }
+    total_score = 0
+    total_questions = 0
+    
+    c.execute('INSERT INTO exam_attempts (student_id) VALUES (?)', (student_id,))
+    attempt_id = c.lastrowid
     
     for subj in session['subject_questions']:
         qs = session['subject_questions'][subj]
@@ -231,11 +266,22 @@ def submit():
                     if str(selected).strip() == str(correct).strip():
                         score += 1
         
+        c.execute('INSERT INTO subject_scores (attempt_id, subject, score, total) VALUES (?, ?, ?, ?)',
+                 (attempt_id, subj, score, len(qs)))
+        
+        total_score += score
+        total_questions += len(qs)
+        
         percent = (score / len(qs) * 100) if qs else 0
         results.append((subj, score, len(qs), percent))
-        record["subjects"][subj] = {"score": score, "total": len(qs)}
     
-    save_scores(record)
+    percentage = (total_score / total_questions * 100) if total_questions > 0 else 0
+    c.execute('UPDATE exam_attempts SET total_score = ?, total_questions = ?, percentage = ? WHERE id = ?',
+             (total_score, total_questions, percentage, attempt_id))
+    
+    conn.commit()
+    conn.close()
+    
     session['results'] = results
     session['submitted'] = True
     
@@ -296,6 +342,31 @@ def correction():
                          current_subject_idx=current_subject_idx,
                          questions=questions_with_answers)
 
+@app.route('/my_results')
+def my_results():
+    if 'student_info' not in session:
+        return redirect(url_for('index'))
+    
+    init_db()
+    conn = get_db()
+    c = conn.cursor()
+    
+    regno = session['student_info']['regno']
+    c.execute('SELECT id FROM students WHERE regno = ?', (regno,))
+    student = c.fetchone()
+    
+    if not student:
+        conn.close()
+        return render_template('my_results.html', attempts=[], student_info=session['student_info'])
+    
+    c.execute('''SELECT id, exam_date, total_score, total_questions, percentage 
+                FROM exam_attempts WHERE student_id = ? ORDER BY exam_date DESC''', (student['id'],))
+    attempts = c.fetchall()
+    
+    conn.close()
+    
+    return render_template('my_results.html', attempts=attempts, student_info=session['student_info'])
+
 @app.route('/time_check')
 def time_check():
     if 'start_time' not in session:
@@ -307,4 +378,5 @@ def time_check():
     return jsonify({'remaining': remaining})
 
 if __name__ == '__main__':
+    init_db()
     app.run(host='0.0.0.0', port=5000, debug=True)
